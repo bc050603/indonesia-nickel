@@ -1400,7 +1400,7 @@
       "detail": "Nickel Industries运营资料将安琪的生产起点明确到2022年1月。四条RKEF随后继续爬坡，产品主线为NPI。",
       "kind": "投产",
       "source_url": "https://nickelindustries.com/operations/",
-      "source_title": "Operations",
+      "source_title": "Nickel Industries：印尼冶炼项目、权益及2025年生产情况",
       "project_id": "NPI005"
     },
     {
@@ -1508,7 +1508,7 @@
       "detail": "嘉曼项目法人于2022年3月24日成立，为后续RKEF及高冰镍设施建设建立主体；公司设立不代表厂房或产线已投产。",
       "kind": "股权",
       "source_url": "https://file.finance.sina.com.cn/211.154.219.97%3A9494/MRGG/CNSESH_STOCK/2026/2026-8/2026-08-15/12495705.PDF",
-      "source_title": "伟明2026半年报，既有E05",
+      "source_title": "伟明环保2026年半年度报告",
       "project_id": "P09"
     },
     {
@@ -2282,7 +2282,7 @@
       "detail": "项目首条线在2024年第四季度进入调试，标志建设转入热态运行阶段；调试产物与合格高冰镍商业生产仍需分开。",
       "kind": "投产",
       "source_url": "https://file.finance.sina.com.cn/211.154.219.97%3A9494/MRGG/CNSESH_STOCK/2026/2026-8/2026-08-15/12495705.PDF",
-      "source_title": "伟明2026半年报，既有E05",
+      "source_title": "伟明环保2026年半年度报告",
       "project_id": "P09"
     },
     {
@@ -2714,7 +2714,7 @@
       "detail": "POSCO季度披露显示，妮可在2025年第一季度末仍无销售收入。财务节点可用于限定商业化进度，但不能据此判断设备是否已经完成试车或产出样品。",
       "kind": "经营",
       "source_url": "https://www.sec.gov/Archives/edgar/data/889132/000119312525131929/d906391d6k.htm",
-      "source_title": "I20",
+      "source_title": "POSCO Holdings 2025年第一季度经营报告",
       "project_id": "NPI004"
     },
     {
@@ -2795,7 +2795,7 @@
       "detail": "项目披露具名高冰镍产品里程碑，表明工艺链已产出目标产品；该节点不代表全部规划产线同步达产。",
       "kind": "投产",
       "source_url": "https://file.finance.sina.com.cn/211.154.219.97%3A9494/MRGG/CNSESH_STOCK/2026/2026-8/2026-08-15/12495705.PDF",
-      "source_title": "伟明2026半年报，既有E05",
+      "source_title": "伟明环保2026年半年度报告",
       "project_id": "P09"
     },
     {
@@ -2903,7 +2903,7 @@
       "detail": "嘉曼取得商业运营相关许可，属于合规经营节点；许可日期晚于产品产出，不能反写为首产日期。",
       "kind": "经营",
       "source_url": "https://file.finance.sina.com.cn/211.154.219.97%3A9494/MRGG/CNSESH_STOCK/2026/2026-8/2026-08-15/12495705.PDF",
-      "source_title": "伟明2026半年报，既有E05",
+      "source_title": "伟明环保2026年半年度报告",
       "project_id": "P09"
     },
     {
@@ -3092,7 +3092,7 @@
       "detail": "伟明2026年半年报仍将嘉曼美列为筹建项目，较新规划能力为每年5万镍吨。该数值是设计目标，不应与已运行的嘉曼项目合并。",
       "kind": "资料披露",
       "source_url": "https://file.finance.sina.com.cn/211.154.219.97%3A9494/MRGG/CNSESH_STOCK/2026/2026-8/2026-08-15/12495705.PDF",
-      "source_title": "伟明2026半年报，既有E05",
+      "source_title": "伟明环保2026年半年度报告",
       "project_id": "P29"
     },
     {
@@ -3353,7 +3353,7 @@
       "detail": "第三条生产线于2026年6月试产，反映项目按分线节奏扩充；不能把总规划能力提前套到首线调试阶段。",
       "kind": "扩产",
       "source_url": "https://file.finance.sina.com.cn/211.154.219.97%3A9494/MRGG/CNSESH_STOCK/2026/2026-8/2026-08-15/12495705.PDF",
-      "source_title": "伟明2026半年报，既有E05",
+      "source_title": "伟明环保2026年半年度报告",
       "project_id": "P09"
     },
     {
@@ -3508,6 +3508,33 @@
       "source_url": "https://www.cnnbrasil.com.br/infra/bndes-aprova-r-100-milhoes-para-projeto-da-brazilian-nickel-no-piaui/",
       "source_title": "CNN采访公司Piauí融资进度",
       "project_id": "MHP043"
+    },
+    {
+      "date": "2025-04-29",
+      "label": "股东大会资料列示华硕子公司",
+      "detail": "华友2024年度股东大会资料单独列示PT Huashuo Nickel Indonesia，持股100%，并与华兴分别记录。这是公司身份的披露日期。",
+      "kind": "资料披露",
+      "source_url": "https://www.huayou.com/Public/Uploads/uploadfile2/files/20250429/MeetingMaterialsfor2024AnnualGeneralMeeting.pdf",
+      "source_title": "华友2024年度股东大会会议资料",
+      "project_id": "P27"
+    },
+    {
+      "date": "2021-08",
+      "label": "旭日设立",
+      "detail": "Sunny本厂供应链尽责报告将公司设立时间列为2021年8月。",
+      "kind": "成立",
+      "project_id": "NPI020",
+      "source_title": "Sunny 2025/26供应链尽责管理报告",
+      "source_url": "https://www.walsin.com/wp-content/uploads/2026/03/供應鏈盡責管理報告Supply-Chain-Due-Diligence-Report-1.pdf"
+    },
+    {
+      "date": "2022-01",
+      "label": "旭日开始建设",
+      "detail": "Sunny在纬达贝园区启动冶炼项目建设，随后配置四套RKEF设备。",
+      "kind": "建设",
+      "project_id": "NPI020",
+      "source_title": "Sunny 2025/26供应链尽责管理报告",
+      "source_url": "https://www.walsin.com/wp-content/uploads/2026/03/供應鏈盡責管理報告Supply-Chain-Due-Diligence-Report-1.pdf"
     }
   ],
   "sources": [
@@ -4379,7 +4406,8 @@
       "titles": [
         "ITNY就业中心：Sebuku Ferroalloy Perkasa招聘",
         "ITNY就业中心：SFP招聘",
-        "ITNY就业中心：SFP招聘与项目主体"
+        "ITNY就业中心：SFP招聘与项目主体",
+        "ITNY就业中心：SFP招聘，2025年7月"
       ],
       "dates": [
         "2025-07-21（索引日期）"
@@ -4678,7 +4706,8 @@
       "title": "森松ALTA2024：HPAL与POX模块化设备",
       "titles": [
         "森松ALTA2024：HPAL与POX模块化设备",
-        "森松ALTA 2024模块化HPAL演示"
+        "森松ALTA 2024模块化HPAL演示",
+        "Morimatsu ALTA 2024设备演示"
       ],
       "dates": [
         "2024"
@@ -5707,9 +5736,8 @@
     },
     {
       "url": "https://file.finance.sina.com.cn/211.154.219.97%3A9494/MRGG/CNSESH_STOCK/2026/2026-8/2026-08-15/12495705.PDF",
-      "title": "伟明2026半年报，既有E05",
+      "title": "伟明环保2026年半年度报告",
       "titles": [
-        "伟明2026半年报，既有E05",
         "伟明环保2026年半年度报告"
       ],
       "dates": [
@@ -6695,7 +6723,8 @@
       "url": "https://ima-api.org/wp-content/uploads/2026/03/IMA-Daily-News-Update-Wednesday-March-04-2026.pdf",
       "title": "印尼矿业协会新闻汇编转引APNI",
       "titles": [
-        "印尼矿业协会新闻汇编转引APNI"
+        "印尼矿业协会新闻汇编转引APNI",
+        "IMA 2026年3月4日新闻汇编：APNI关于两条线运行的说法"
       ],
       "dates": [
         "2026-03-04"
@@ -6716,6 +6745,10 @@
         {
           "type": "npi-parent",
           "id": "shengtun-mining"
+        },
+        {
+          "type": "project",
+          "id": "NPI055"
         }
       ],
       "id": "UC0111"
@@ -6823,7 +6856,8 @@
       "title": "IMIP’s LSI profile",
       "titles": [
         "IMIP’s LSI profile",
-        "IMIP LSI公司介绍"
+        "IMIP LSI公司介绍",
+        "IMIP：LSI项目介绍（无署期）"
       ],
       "dates": [
         "无署期；2026-09-17检索"
@@ -6903,7 +6937,8 @@
       "title": "IMIP Klaster Edisi 12",
       "titles": [
         "IMIP Klaster Edisi 12",
-        "IMIP Klaster第12期"
+        "IMIP Klaster第12期",
+        "IMIP《Klaster》第12期，2022年1月，第6页"
       ],
       "dates": [
         "2022-01（封面；网页路径2024仅上传年月）"
@@ -7119,7 +7154,8 @@
       "url": "https://bc050603.github.io/indonesia-nickel/library/npi-note-huayou.html",
       "title": "V19已核华友—华新链条章节（含用户数据边界）",
       "titles": [
-        "V19已核华友—华新链条章节（含用户数据边界）"
+        "V19已核华友—华新链条章节（含用户数据边界）",
+        "华科与友山的跨厂加工关系：用户确认及企业资料整理"
       ],
       "dates": [
         "2026-09"
@@ -7144,6 +7180,10 @@
         {
           "type": "npi-dossier",
           "id": "huayou-hongkong"
+        },
+        {
+          "type": "project",
+          "id": "NPI008"
         }
       ],
       "id": "UC0126"
@@ -7841,7 +7881,9 @@
       "url": "https://links.sgx.com/1.0.0/corporate-announcements/8BRZJ6SZF2FCM4NU/610583_SRN%20-%20Clarification%20on%20Edge%20article.pdf",
       "title": "Silkroad Nickel SGX澄清公告",
       "titles": [
-        "Silkroad Nickel SGX澄清公告"
+        "Silkroad Nickel SGX澄清公告",
+        "Silkroad 2020年澄清",
+        "Silkroad 2020年5月13日澄清"
       ],
       "dates": [
         "2020-05"
@@ -7858,6 +7900,10 @@
         {
           "type": "project",
           "id": "NPI061"
+        },
+        {
+          "type": "project",
+          "id": "NPI063"
         }
       ],
       "id": "UC0144"
@@ -8012,7 +8058,8 @@
       "url": "https://links.sgx.com/FileOpen/Silkroad%20Nickel%20Annual%20Report%20FY2021.ashx?App=Announcement&FileID=712145",
       "title": "Silkroad Nickel FY2021 Annual Report",
       "titles": [
-        "Silkroad Nickel FY2021 Annual Report"
+        "Silkroad Nickel FY2021 Annual Report",
+        "Silkroad FY2021年报"
       ],
       "dates": [
         "2022（FY2021）"
@@ -9905,9 +9952,9 @@
     },
     {
       "url": "https://nickelindustries.com/operations/",
-      "title": "Operations",
+      "title": "Nickel Industries：印尼冶炼项目、权益及2025年生产情况",
       "titles": [
-        "Operations",
+        "Nickel Industries：印尼冶炼项目、权益及2025年生产情况",
         "Nickel Industries Operations"
       ],
       "dates": [
@@ -10473,7 +10520,8 @@
       "title": "印尼经济统筹部长2025年第16号PSN清单",
       "titles": [
         "印尼经济统筹部长2025年第16号PSN清单",
-        "印尼2025年第16号国家战略项目清单"
+        "印尼2025年第16号国家战略项目清单",
+        "2025年第16号PSN清单"
       ],
       "dates": [
         "2025"
@@ -11064,7 +11112,8 @@
       "url": "https://sherritt.com/sherritt-reports-second-quarter-2026-results/",
       "title": "Sherritt2026Q2业绩",
       "titles": [
-        "Sherritt2026Q2业绩"
+        "Sherritt2026Q2业绩",
+        "Sherritt 2026第二季度业绩"
       ],
       "dates": [
         "2026-Q2"
@@ -11414,7 +11463,8 @@
       "url": "https://static.cninfo.com.cn/finalpage/2024-05-09/1220021382.PDF",
       "title": "中伟股份投资者关系活动记录",
       "titles": [
-        "中伟股份投资者关系活动记录"
+        "中伟股份投资者关系活动记录",
+        "中伟2024年5月9日投资者关系活动记录"
       ],
       "dates": [
         "2024-05-09"
@@ -11957,9 +12007,9 @@
     },
     {
       "url": "https://stockmc.xueqiu.com/202606/603568_20260616_7HPT.pdf",
-      "title": "Weiming rating report",
+      "title": "伟明环保信用评级报告（2026年6月）",
       "titles": [
-        "Weiming rating report"
+        "伟明环保信用评级报告（2026年6月）"
       ],
       "dates": [],
       "notes": [
@@ -12704,7 +12754,8 @@
       "url": "https://www.600711.com/uploads/pdfs/177492497780028.pdf",
       "title": "盛屯2025年报官网原件",
       "titles": [
-        "盛屯2025年报官网原件"
+        "盛屯2025年报官网原件",
+        "盛屯矿业2025年报"
       ],
       "dates": [
         "2026-03"
@@ -13247,7 +13298,8 @@
       "title": "FINI负责人确认Huadi已停产",
       "titles": [
         "FINI负责人确认Huadi已停产",
-        "FINI负责人确认Huadi停产"
+        "FINI负责人确认Huadi停产",
+        "FINI主席关于华迪停产的说明，2026年5月7日"
       ],
       "dates": [
         "2026-05-07"
@@ -13662,7 +13714,8 @@
       "url": "https://www.central-omega.com/operation/smelter/overview",
       "title": "Central Omega冶炼业务官网",
       "titles": [
-        "Central Omega冶炼业务官网"
+        "Central Omega冶炼业务官网",
+        "Central Omega：冶炼业务介绍"
       ],
       "dates": [],
       "notes": [
@@ -14628,7 +14681,8 @@
       "url": "https://www.first-quantum.com/operations/ravensthorpe/",
       "title": "First Quantum Ravensthorpe运营页",
       "titles": [
-        "First Quantum Ravensthorpe运营页"
+        "First Quantum Ravensthorpe运营页",
+        "Ravensthorpe项目页"
       ],
       "dates": [],
       "notes": [
@@ -14997,7 +15051,8 @@
       "titles": [
         "Harum2026H1",
         "Harum Energy 1H 2026 Summary and Highlights",
-        "Harum Energy 1H2026 Summary and Highlights"
+        "Harum Energy 1H2026 Summary and Highlights",
+        "Harum Energy 2026上半年经营说明"
       ],
       "dates": [
         "2026",
@@ -15532,7 +15587,8 @@
       "url": "https://www.huayou.com/Public/Uploads/uploadfile2/files/20250429/MeetingMaterialsfor2024AnnualGeneralMeeting.pdf",
       "title": "华友钴业2024年度股东会材料",
       "titles": [
-        "华友钴业2024年度股东会材料"
+        "华友钴业2024年度股东会材料",
+        "华友2024年度股东大会会议资料"
       ],
       "dates": [],
       "notes": [],
@@ -15540,6 +15596,10 @@
         {
           "type": "project",
           "id": "RF003"
+        },
+        {
+          "type": "project",
+          "id": "P27"
         }
       ],
       "id": "UC0433"
@@ -17093,9 +17153,9 @@
     },
     {
       "url": "https://www.sec.gov/Archives/edgar/data/889132/000119312525131929/d906391d6k.htm",
-      "title": "I20",
+      "title": "POSCO Holdings 2025年第一季度经营报告",
       "titles": [
-        "I20",
+        "POSCO Holdings 2025年第一季度经营报告",
         "仍无销售：原始披露"
       ],
       "dates": [],
@@ -18158,7 +18218,8 @@
       "title": "Wood Mackenzie原始资产研究摘要",
       "titles": [
         "Wood Mackenzie原始资产研究摘要",
-        "Wood Mackenzie Century Metalindo资产摘要"
+        "Wood Mackenzie Century Metalindo资产摘要",
+        "Wood Mackenzie：Century镍厂资产摘要"
       ],
       "dates": [
         "2025-12-12"
@@ -18314,7 +18375,8 @@
       "titles": [
         "Zhenshi announcement",
         "振石2026-05-08项目公告",
-        "振石：印尼寒锐高冰镍项目点火"
+        "振石：印尼寒锐高冰镍项目点火",
+        "振石：寒锐项目2026年4月10日点火"
       ],
       "dates": [],
       "notes": [
@@ -18814,6 +18876,9 @@
           "type": "project",
           "id": "NPI038"
         }
+      ],
+      "titles": [
+        "Nickel Industries：Hengjaya Mine沿革"
       ]
     },
     {
@@ -18827,6 +18892,9 @@
           "type": "project",
           "id": "NPI038"
         }
+      ],
+      "titles": [
+        "Nickel Industries：Hengjaya Nickel Project Produces First NPI（2019-02-01）"
       ]
     },
     {
@@ -18840,6 +18908,9 @@
           "type": "project",
           "id": "NPI038"
         }
+      ],
+      "titles": [
+        "Nickel Industries：March 2019 Quarterly Activities Report"
       ]
     },
     {
@@ -18853,6 +18924,9 @@
           "type": "project",
           "id": "MHP041"
         }
+      ],
+      "titles": [
+        "Nornickel 2014 audited consolidated financial statements"
       ]
     },
     {
@@ -18866,6 +18940,9 @@
           "type": "project",
           "id": "NPI033"
         }
+      ],
+      "titles": [
+        "IMIP：2024年10月员工访问，回顾IRNC自2018年的工作经历"
       ]
     },
     {
@@ -18879,6 +18956,9 @@
           "type": "project",
           "id": "NPI051"
         }
+      ],
+      "titles": [
+        "振石：2022年3月首批建设人员及物资出运"
       ]
     },
     {
@@ -18892,6 +18972,9 @@
           "type": "project",
           "id": "NPI051"
         }
+      ],
+      "titles": [
+        "振石集团发展历程：硕石首条生产线投产"
       ]
     },
     {
@@ -18905,6 +18988,9 @@
           "type": "project",
           "id": "NPI051"
         }
+      ],
+      "titles": [
+        "振石集团原稿转载：中国铁合金网，硕石项目全面达产，2024年12月18日"
       ]
     },
     {
@@ -18918,6 +19004,9 @@
           "type": "project",
           "id": "NPI058"
         }
+      ],
+      "titles": [
+        "ANTAM 2019 Annual Report"
       ]
     },
     {
@@ -18930,7 +19019,211 @@
         {
           "type": "project",
           "id": "NPI068"
+        },
+        {
+          "type": "project",
+          "id": "NPI004"
+        },
+        {
+          "type": "project",
+          "id": "NPI007"
+        },
+        {
+          "type": "project",
+          "id": "NPI010"
+        },
+        {
+          "type": "project",
+          "id": "NPI013"
+        },
+        {
+          "type": "project",
+          "id": "NPI016"
+        },
+        {
+          "type": "project",
+          "id": "NPI019"
+        },
+        {
+          "type": "project",
+          "id": "NPI022"
+        },
+        {
+          "type": "project",
+          "id": "NPI029"
+        },
+        {
+          "type": "project",
+          "id": "NPI032"
+        },
+        {
+          "type": "project",
+          "id": "NPI035"
+        },
+        {
+          "type": "project",
+          "id": "NPI042"
+        },
+        {
+          "type": "project",
+          "id": "NPI046"
+        },
+        {
+          "type": "project",
+          "id": "NPI049"
+        },
+        {
+          "type": "project",
+          "id": "NPI054"
+        },
+        {
+          "type": "project",
+          "id": "NPI057"
+        },
+        {
+          "type": "project",
+          "id": "NPI060"
+        },
+        {
+          "type": "project",
+          "id": "NPI067"
+        },
+        {
+          "type": "project",
+          "id": "NPI071"
+        },
+        {
+          "type": "project",
+          "id": "NPI074"
+        },
+        {
+          "type": "project",
+          "id": "NPI005"
+        },
+        {
+          "type": "project",
+          "id": "NPI008"
+        },
+        {
+          "type": "project",
+          "id": "NPI011"
+        },
+        {
+          "type": "project",
+          "id": "NPI014"
+        },
+        {
+          "type": "project",
+          "id": "NPI017"
+        },
+        {
+          "type": "project",
+          "id": "NPI020"
+        },
+        {
+          "type": "project",
+          "id": "NPI023"
+        },
+        {
+          "type": "project",
+          "id": "NPI030"
+        },
+        {
+          "type": "project",
+          "id": "NPI033"
+        },
+        {
+          "type": "project",
+          "id": "NPI036"
+        },
+        {
+          "type": "project",
+          "id": "NPI043"
+        },
+        {
+          "type": "project",
+          "id": "NPI047"
+        },
+        {
+          "type": "project",
+          "id": "NPI051"
+        },
+        {
+          "type": "project",
+          "id": "NPI055"
+        },
+        {
+          "type": "project",
+          "id": "NPI075"
+        },
+        {
+          "type": "project",
+          "id": "NPI006"
+        },
+        {
+          "type": "project",
+          "id": "NPI009"
+        },
+        {
+          "type": "project",
+          "id": "NPI012"
+        },
+        {
+          "type": "project",
+          "id": "NPI015"
+        },
+        {
+          "type": "project",
+          "id": "NPI018"
+        },
+        {
+          "type": "project",
+          "id": "NPI021"
+        },
+        {
+          "type": "project",
+          "id": "NPI024"
+        },
+        {
+          "type": "project",
+          "id": "NPI034"
+        },
+        {
+          "type": "project",
+          "id": "NPI037"
+        },
+        {
+          "type": "project",
+          "id": "NPI041"
+        },
+        {
+          "type": "project",
+          "id": "NPI044"
+        },
+        {
+          "type": "project",
+          "id": "NPI048"
+        },
+        {
+          "type": "project",
+          "id": "NPI062"
+        },
+        {
+          "type": "project",
+          "id": "NPI065"
+        },
+        {
+          "type": "project",
+          "id": "NPI073"
         }
+      ],
+      "titles": [
+        "用户提供的全品种逐票数据：本轮NPI核查版",
+        "NPI出口交易样本",
+        "镍铁逐票核查表",
+        "NPI贸易记录",
+        "现有全品种逐票数据：现有资料中NPI核查版",
+        "用户NPI逐票核查表"
       ]
     },
     {
@@ -18943,7 +19236,55 @@
         {
           "type": "project",
           "id": "P49"
+        },
+        {
+          "type": "project",
+          "id": "NPI011"
+        },
+        {
+          "type": "project",
+          "id": "NPI020"
+        },
+        {
+          "type": "project",
+          "id": "NPI030"
+        },
+        {
+          "type": "project",
+          "id": "NPI036"
+        },
+        {
+          "type": "project",
+          "id": "P05"
+        },
+        {
+          "type": "project",
+          "id": "NPI012"
+        },
+        {
+          "type": "project",
+          "id": "NPI021"
+        },
+        {
+          "type": "project",
+          "id": "NPI024"
+        },
+        {
+          "type": "project",
+          "id": "NPI028"
+        },
+        {
+          "type": "project",
+          "id": "NPI034"
+        },
+        {
+          "type": "project",
+          "id": "NPI044"
         }
+      ],
+      "titles": [
+        "用户提供的冰镍出口与供销记录",
+        "冰镍出口与供销资料"
       ]
     },
     {
@@ -18956,6 +19297,516 @@
         {
           "type": "project",
           "id": "MHP000"
+        },
+        {
+          "type": "project",
+          "id": "MHP006"
+        },
+        {
+          "type": "project",
+          "id": "MHP009"
+        },
+        {
+          "type": "project",
+          "id": "MHP013"
+        },
+        {
+          "type": "project",
+          "id": "MHP016"
+        }
+      ],
+      "titles": [
+        "用户提供的MHP项目及逐票核查资料",
+        "MHP逐票核查表"
+      ]
+    },
+    {
+      "id": "UC0582",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-04-29/1225231679.PDF",
+      "title": "华友2026年4月29日检修公告",
+      "titles": [
+        "华友2026年4月29日检修公告"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "MHP008"
+        }
+      ]
+    },
+    {
+      "id": "UC0583",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-08-19/1225480594.PDF#page=10",
+      "title": "华友2026年半年报，第10页",
+      "titles": [
+        "华友2026年半年报，第10页"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "MHP008"
+        }
+      ]
+    },
+    {
+      "id": "UC0584",
+      "url": "https://cri.org/wp-content/uploads/2024/05/CRI-Nickel-Unearthed.pdf#page=129",
+      "title": "CRI《Nickel Unearthed》附录4，2024年1月；列示2023年在运冶炼厂",
+      "titles": [
+        "CRI《Nickel Unearthed》附录4，2024年1月；列示2023年在运冶炼厂"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "NPI019"
+        },
+        {
+          "type": "project",
+          "id": "NPI017"
+        },
+        {
+          "type": "project",
+          "id": "NPI015"
+        },
+        {
+          "type": "project",
+          "id": "NPI018"
+        }
+      ]
+    },
+    {
+      "id": "UC0585",
+      "url": "library/operator-confirmations.html#imip-supply",
+      "title": "用户确认：IMIP镍铁供应园区青山不锈钢厂",
+      "titles": [
+        "用户确认：IMIP镍铁供应园区青山不锈钢厂",
+        "用户原表及2026年9月18日运营状态确认",
+        "2026年9月18日用户确认：IMIP镍铁供青山不锈钢厂"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "NPI038"
+        },
+        {
+          "type": "project",
+          "id": "NPI054"
+        },
+        {
+          "type": "project",
+          "id": "NPI039"
+        },
+        {
+          "type": "project",
+          "id": "NPI037"
+        }
+      ]
+    },
+    {
+      "id": "UC0586",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-07-30/1225446751.PDF",
+      "title": "盛屯矿业2026年半年报",
+      "titles": [
+        "盛屯矿业2026年半年报"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "NPI054"
+        },
+        {
+          "type": "project",
+          "id": "P30"
+        }
+      ]
+    },
+    {
+      "id": "UC0587",
+      "url": "library/lsi-wanxiang-export-review.csv",
+      "title": "LSI与万向出口复核：原始明细摘录及产品分列（2026年9月18日）",
+      "titles": [
+        "LSI与万向出口复核：原始明细摘录及产品分列（2026年9月18日）"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "NPI054"
+        },
+        {
+          "type": "project",
+          "id": "NPI037"
+        }
+      ]
+    },
+    {
+      "id": "UC0588",
+      "url": "https://www.wa.gov.au/media/159135/download?inline=",
+      "title": "西澳政府2026年2月镍钴项目清单",
+      "titles": [
+        "西澳政府2026年2月镍钴项目清单"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "MHP041"
+        },
+        {
+          "type": "project",
+          "id": "MHP040"
+        }
+      ]
+    },
+    {
+      "id": "UC0589",
+      "url": "https://www.wa.gov.au/organisation/department-of-mines-petroleum-and-exploration/bulong-tailings-storage-facility-project",
+      "title": "西澳政府Bulong尾矿设施修复",
+      "titles": [
+        "西澳政府Bulong尾矿设施修复"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "MHP041"
+        }
+      ]
+    },
+    {
+      "id": "UC0590",
+      "url": "https://sherritt.com/sherritt-provides-update-on-operations-at-its-refinery/",
+      "title": "Sherritt精炼厂运营更新",
+      "titles": [
+        "Sherritt精炼厂运营更新"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "MHP044"
+        }
+      ]
+    },
+    {
+      "id": "UC0591",
+      "url": "https://gunbusternickelindustry.com/en_us/2026/08/10/press-release-workforce-optimization-as-an-effort-to-maintain-the-companys-operational-continuity/",
+      "title": "GNI官方声明，2026年8月10日",
+      "titles": [
+        "GNI官方声明，2026年8月10日"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "NPI043"
+        }
+      ]
+    },
+    {
+      "id": "UC0592",
+      "url": "https://www.maritim.go.id/uploads/magazine/20240605105345-2024-06-05magazine105253.pdf#page=144",
+      "title": "印尼海事与投资统筹部2023工作报告，表54及56",
+      "titles": [
+        "印尼海事与投资统筹部2023工作报告，表54及56"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "NPI061"
+        },
+        {
+          "type": "project",
+          "id": "NPI059"
+        }
+      ]
+    },
+    {
+      "id": "UC0593",
+      "url": "https://www.minergynews.com/read/2026/01/02/11444/lowongan-kerja-pertambangan-smelter-raw-material-and-finish-product-foreman-pt-sebuku-ferroalloy-perkasa.html",
+      "title": "SFP原料与成品岗位招聘，2026年1月",
+      "titles": [
+        "SFP原料与成品岗位招聘，2026年1月"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "NPI068"
+        }
+      ]
+    },
+    {
+      "id": "UC0594",
+      "url": "https://news.smm.cn/news/102260585",
+      "title": "SMM 2023年永誉走访",
+      "titles": [
+        "SMM 2023年永誉走访"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "P30"
+        }
+      ]
+    },
+    {
+      "id": "UC0595",
+      "url": "https://everde.global/everde-hpal-project/",
+      "title": "EVerde HPAL项目页",
+      "titles": [
+        "EVerde HPAL项目页"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "MHP025"
+        }
+      ]
+    },
+    {
+      "id": "UC0596",
+      "url": "https://crystalsea.sg/blog/home/",
+      "title": "Excellen项目网站：发展阶段及在建说明",
+      "titles": [
+        "Excellen项目网站：发展阶段及在建说明"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "MHP032"
+        }
+      ]
+    },
+    {
+      "id": "UC0597",
+      "url": "https://www.nbd.ltd/trader/info/NBDDIY349800047",
+      "title": "NBD：LSI贸易活动",
+      "titles": [
+        "NBD：LSI贸易活动"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "NPI037"
+        }
+      ]
+    },
+    {
+      "id": "UC0598",
+      "url": "https://indopremier.com/xdir/news/LAPORAN%20KEUANGAN/2025/q4/DKFT_Q4_2025.pdf",
+      "title": "Central Omega 2025财务报表（第103页附近）",
+      "titles": [
+        "Central Omega 2025财务报表（第103页附近）"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "NPI056"
+        }
+      ]
+    },
+    {
+      "id": "UC0599",
+      "url": "https://luwuraya.indeksmedia.id/2026/08/22/kompor-570-karyawan-bms-luwu-terancam-padam/",
+      "title": "Indeks Media：BMS现场经理说明，2026年8月22日",
+      "titles": [
+        "Indeks Media：BMS现场经理说明，2026年8月22日"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "NPI062"
+        }
+      ]
+    },
+    {
+      "id": "UC0600",
+      "url": "https://suaraluwu.id/karyawan-pt-bms-luwu-dirumahkan-operasional-pabrik-1-dihentikan-sementara/",
+      "title": "Suara Luwu：一号厂临时停运，2026年8月26日",
+      "titles": [
+        "Suara Luwu：一号厂临时停运，2026年8月26日"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "NPI062"
+        }
+      ]
+    },
+    {
+      "id": "UC0601",
+      "url": "https://web.pln.co.id/cms/media/siaran-pers/2023/02/terus-dukung-hilirisasi-industri-pln-tambah-layanan-ke-smelter-di-sulsel-170-mva/",
+      "title": "PLN：Unity供电扩容，2023年2月4日",
+      "titles": [
+        "PLN：Unity供电扩容，2023年2月4日"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "NPI065"
+        }
+      ]
+    },
+    {
+      "id": "UC0602",
+      "url": "https://eudl.eu/doi/10.4108/eai.4-11-2022.2328389",
+      "title": "CMMI生产研究：2021年样本，2023年发表",
+      "titles": [
+        "CMMI生产研究：2021年样本，2023年发表"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "NPI073"
+        }
+      ]
+    },
+    {
+      "id": "UC0603",
+      "url": "https://www.esdm.go.id/id/media-center/news-archives/investasi-dan-keberlangsungan-operasi-fasilitas-pemurnian-pasca-peraturan-pemerintah-nomor-1-tahun-2017",
+      "title": "ESDM 2017年冶炼运营监测",
+      "titles": [
+        "ESDM 2017年冶炼运营监测"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "MHP009"
+        }
+      ]
+    },
+    {
+      "id": "UC0604",
+      "url": "https://mric.jogmec.go.jp/wp-content/uploads/2024/02/mrseminar2024_0227_03.pdf",
+      "title": "JOGMEC发布的2024年印尼政府演示资料",
+      "titles": [
+        "JOGMEC发布的2024年印尼政府演示资料"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "MHP009"
+        }
+      ]
+    },
+    {
+      "id": "UC0605",
+      "url": "https://m.mysteel.com/a/26072015/AE2FFE2BA7739E12_abc.html",
+      "title": "Mysteel：TMI明确中文简称海湾项目，2026年7月20日",
+      "titles": [
+        "Mysteel：TMI明确中文简称海湾项目，2026年7月20日"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "MHP029"
+        }
+      ]
+    },
+    {
+      "id": "UC0606",
+      "url": "https://links.sgx.com/FileOpen/3081331.ashx?App=Announcement&FileID=894021",
+      "title": "Nickel Industries：TMI投资公告，2026年6月24日",
+      "titles": [
+        "Nickel Industries：TMI投资公告，2026年6月24日"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "MHP029"
+        }
+      ]
+    },
+    {
+      "id": "UC0607",
+      "url": "https://www.lw.com/en/people/hui-yan-chew",
+      "title": "Latham & Watkins项目交易记录：Ceria Kobalt Indotama",
+      "titles": [
+        "Latham & Watkins项目交易记录：Ceria Kobalt Indotama"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "MHP033"
+        }
+      ]
+    },
+    {
+      "id": "UC0608",
+      "url": "https://journal.jogmec.go.jp/metal/info-reports/info-reports_00839.html",
+      "title": "JOGMEC：Ceria项目资料",
+      "titles": [
+        "JOGMEC：Ceria项目资料"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "MHP033"
+        }
+      ]
+    },
+    {
+      "id": "UC0609",
+      "url": "https://www.first-quantum.com/news/first-quantum-minerals-announces-2025-preliminary-production-and-2026-2028-guidance/",
+      "title": "First Quantum：2026—2028年指引",
+      "titles": [
+        "First Quantum：2026—2028年指引"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "MHP036"
         }
       ]
     }

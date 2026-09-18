@@ -2100,7 +2100,7 @@
       "lines_verified": 4,
       "lines_note": "用户原表RKEF产线数：4。公开资料支持上述已核产线数；该数不代表2026年每条均在运行。",
       "capacity_verified": 55000,
-      "capacity_basis": "Harum官网明确55,000含镍吨/年NPI能力；NPI与低冰镍共享上游，不能再加Walhsu终产品能力当新增镍供应。",
+      "capacity_basis": "Sunny 2025/26供应链尽责报告明确年产5.5万镍金属吨；NPI与低冰镍共用上游设备。",
       "capacity_note": "用户原表：55,000镍吨/年。已核数字仅按capacity_basis所列产品与时点使用，不能自动计入纯NPI产能总和。",
       "status": "最新本厂尽责报告确认NPI/低冰镍生产体系",
       "status_date": "2026-02",
@@ -2112,6 +2112,8 @@
       "offtake": "新增逐票补证：2023-01-06至2026-08-27，157条商业NPI/FeNi，609,032.77实物吨。主要买方：GUANGXI ZHONGWEI NEW ENERGY TECHNOLOGY CO LTD 11.7%；TRAFIGURA INVESTMENT CHINA CO LTD 11.4%；IXM SHANGHAI CORPORATE MANAGEMENT CO LTD 10.3%。比例仅为本样本实物吨；买方身份与最终用料厂分别核查，出口不等于自产。 原公开资料说明：华新体系渠道；给Walhsu的中间品衔接有集团分工支持，精确料权和全部比例未知。",
       "matte_link": "本厂低冰镍与Walhsu高冰镍分工；英文报告把矿热电炉写作converter的翻译歧义不能当四座高冰镍转炉证据。",
       "history": [
+        "2021-08设立",
+        "2022-01开工",
         "2022年底试产",
         "2023年初商业生产",
         "2024年华新提高Sunny权益并退出Westrong",

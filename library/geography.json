@@ -2898,9 +2898,11 @@
       "island": "印尼其他／地点待确认",
       "province": "",
       "regency": "",
-      "locality": "印度尼西亚，具体项目未识别",
-      "source_urls": [],
-      "pending": "PT Huashuo Nickel Indonesia候选映射未闭合"
+      "locality": "印度尼西亚；具体厂址仍待补充",
+      "source_urls": [
+        "https://www.huayou.com/Public/Uploads/uploadfile2/files/20250429/MeetingMaterialsfor2024AnnualGeneralMeeting.pdf"
+      ],
+      "pending": "华硕独立项目的具体厂址和所属园区"
     },
     "P49": {
       "project_id": "P49",

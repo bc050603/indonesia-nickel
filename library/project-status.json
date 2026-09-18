@@ -6,11 +6,27 @@
       "key": "operating",
       "label": "已投产",
       "period": "2025年第二季度",
-      "note": "高冰镍业务已形成经营收入，产销及分期情况见正文。",
+      "note": "2025年第二季度开始出现经营收入。NPI经营与高冰镍商业发货分别记录；收入披露没有拆分产品。",
       "reviewed_at": "2026-09-18",
       "article_id": "NPI004",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "POSCO Holdings 2025Q3 IR",
+          "url": "https://www.sec.gov/Archives/edgar/data/889132/000119312525301242/d64503dex991.htm"
+        }
+      ],
+      "products": [
+        {
+          "product": "NPI／镍铁",
+          "status": "既有生产业务",
+          "period": "项目经营资料及2025—2026年贸易记录"
+        },
+        {
+          "product": "高冰镍",
+          "status": "已见商业发货；本厂自产路径待补充",
+          "period": "样本记录：2025年5—7月"
+        }
+      ]
     },
     "NPI005": {
       "key": "operating",

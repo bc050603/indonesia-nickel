@@ -19,7 +19,7 @@
           "detail": "POSCO季度披露显示，妮可在2025年第一季度末仍无销售收入。财务节点可用于限定商业化进度，但不能据此判断设备是否已经完成试车或产出样品。",
           "kind": "经营",
           "source_url": "https://www.sec.gov/Archives/edgar/data/889132/000119312525131929/d906391d6k.htm",
-          "source_title": "I20",
+          "source_title": "POSCO Holdings 2025年第一季度经营报告",
           "project_id": "NPI004"
         },
         {
@@ -808,7 +808,7 @@
           "detail": "伟明2026年半年报仍将嘉曼美列为筹建项目，较新规划能力为每年5万镍吨。该数值是设计目标，不应与已运行的嘉曼项目合并。",
           "kind": "资料披露",
           "source_url": "https://file.finance.sina.com.cn/211.154.219.97%3A9494/MRGG/CNSESH_STOCK/2026/2026-8/2026-08-15/12495705.PDF",
-          "source_title": "伟明2026半年报，既有E05",
+          "source_title": "伟明环保2026年半年度报告",
           "project_id": "P29"
         }
       ],
@@ -1459,7 +1459,7 @@
           "detail": "Nickel Industries运营资料将安琪的生产起点明确到2022年1月。四条RKEF随后继续爬坡，产品主线为NPI。",
           "kind": "投产",
           "source_url": "https://nickelindustries.com/operations/",
-          "source_title": "Operations",
+          "source_title": "Nickel Industries：印尼冶炼项目、权益及2025年生产情况",
           "project_id": "NPI005"
         },
         {
@@ -1635,6 +1635,24 @@
           "source_url": "https://www.walsin.com/wp-content/uploads/2026/05/2025Annual-Report.pdf",
           "source_title": "华新丽华2025年年度报告",
           "project_id": "NPI020"
+        },
+        {
+          "date": "2021-08",
+          "label": "旭日设立",
+          "detail": "Sunny本厂供应链尽责报告将公司设立时间列为2021年8月。",
+          "kind": "成立",
+          "project_id": "NPI020",
+          "source_title": "Sunny 2025/26供应链尽责管理报告",
+          "source_url": "https://www.walsin.com/wp-content/uploads/2026/03/供應鏈盡責管理報告Supply-Chain-Due-Diligence-Report-1.pdf"
+        },
+        {
+          "date": "2022-01",
+          "label": "旭日开始建设",
+          "detail": "Sunny在纬达贝园区启动冶炼项目建设，随后配置四套RKEF设备。",
+          "kind": "建设",
+          "project_id": "NPI020",
+          "source_title": "Sunny 2025/26供应链尽责管理报告",
+          "source_url": "https://www.walsin.com/wp-content/uploads/2026/03/供應鏈盡責管理報告Supply-Chain-Due-Diligence-Report-1.pdf"
         }
       ],
       "coverage_note": "已整理可由正文来源定位的历史节点。 具体仍缺：旭日每年NPI与低冰镍的产品比例；Sunny与Walhsu之间的料权、加工费及供料数量"
@@ -2136,8 +2154,18 @@
     },
     "P27": {
       "project_id": "P27",
-      "events": [],
-      "coverage_note": "仍缺：正式法人登记、股东和厂址；与华星项目是否为同一实体；建设、工艺和产品记录"
+      "events": [
+        {
+          "date": "2025-04-29",
+          "label": "股东大会资料列示华硕子公司",
+          "detail": "华友2024年度股东大会资料单独列示PT Huashuo Nickel Indonesia，持股100%，并与华兴分别记录。这是公司身份的披露日期。",
+          "kind": "资料披露",
+          "source_url": "https://www.huayou.com/Public/Uploads/uploadfile2/files/20250429/MeetingMaterialsfor2024AnnualGeneralMeeting.pdf",
+          "source_title": "华友2024年度股东大会会议资料",
+          "project_id": "P27"
+        }
+      ],
+      "coverage_note": "仍需补充：华硕自身的厂址、工程配置、建设及投产节点。"
     },
     "P30": {
       "project_id": "P30",
@@ -3095,7 +3123,7 @@
           "project_id": "NPI037"
         }
       ],
-      "coverage_note": "已整理现有正文中的关键里程碑。具体仍缺：LSI最新工商股东与最终持股链；是否存在2026新投资或未在集团图单列少数权益；15万/30万实物能力差异、实际炉台数和停复产；现行直接股东及最终控制；逐炉工艺与台数；明示镍吨额定能力；2026运行和停复产；具名客户/冰镍供料关系；15万与30万实物吨两版官方口径差异原因；未公开的具体承购期限、价格和数量不作推定；具体限制见生产判断及主文章节；股权与控制：最终集团仍仍需确认。2022MBMA报表列第三方；2025集团结构未列LSI。IMIP无署期页声称MBMA旗下尚无对应持股链；不能反向断言2026绝无持股或少数投资。"
+      "coverage_note": "已整理现有正文中的关键里程碑。具体仍缺：LSI最新工商股东与最终持股链；是否存在2026新投资或未在集团图单列少数权益；15万/30万实物能力差异、实际炉台数和负荷；历史停复产事件；现行直接股东及最终控制；逐炉工艺与台数；明示镍吨额定能力；2026运行和停复产；具名客户/冰镍供料关系；15万与30万实物吨两版官方口径差异原因；未公开的具体承购期限、价格和数量不作推定；具体限制见生产判断及主文章节；股权与控制：最终集团仍仍需确认。2022MBMA报表列第三方；2025集团结构未列LSI。IMIP无署期页声称MBMA旗下尚无对应持股链；不能反向断言2026绝无持股或少数投资。"
     },
     "NPI041": {
       "project_id": "NPI041",
@@ -3487,7 +3515,7 @@
           "detail": "嘉曼项目法人于2022年3月24日成立，为后续RKEF及高冰镍设施建设建立主体；公司设立不代表厂房或产线已投产。",
           "kind": "股权",
           "source_url": "https://file.finance.sina.com.cn/211.154.219.97%3A9494/MRGG/CNSESH_STOCK/2026/2026-8/2026-08-15/12495705.PDF",
-          "source_title": "伟明2026半年报，既有E05",
+          "source_title": "伟明环保2026年半年度报告",
           "project_id": "P09"
         },
         {
@@ -3496,7 +3524,7 @@
           "detail": "项目首条线在2024年第四季度进入调试，标志建设转入热态运行阶段；调试产物与合格高冰镍商业生产仍需分开。",
           "kind": "投产",
           "source_url": "https://file.finance.sina.com.cn/211.154.219.97%3A9494/MRGG/CNSESH_STOCK/2026/2026-8/2026-08-15/12495705.PDF",
-          "source_title": "伟明2026半年报，既有E05",
+          "source_title": "伟明环保2026年半年度报告",
           "project_id": "P09"
         },
         {
@@ -3505,7 +3533,7 @@
           "detail": "项目披露具名高冰镍产品里程碑，表明工艺链已产出目标产品；该节点不代表全部规划产线同步达产。",
           "kind": "投产",
           "source_url": "https://file.finance.sina.com.cn/211.154.219.97%3A9494/MRGG/CNSESH_STOCK/2026/2026-8/2026-08-15/12495705.PDF",
-          "source_title": "伟明2026半年报，既有E05",
+          "source_title": "伟明环保2026年半年度报告",
           "project_id": "P09"
         },
         {
@@ -3514,7 +3542,7 @@
           "detail": "嘉曼取得商业运营相关许可，属于合规经营节点；许可日期晚于产品产出，不能反写为首产日期。",
           "kind": "经营",
           "source_url": "https://file.finance.sina.com.cn/211.154.219.97%3A9494/MRGG/CNSESH_STOCK/2026/2026-8/2026-08-15/12495705.PDF",
-          "source_title": "伟明2026半年报，既有E05",
+          "source_title": "伟明环保2026年半年度报告",
           "project_id": "P09"
         },
         {
@@ -3523,7 +3551,7 @@
           "detail": "第三条生产线于2026年6月试产，反映项目按分线节奏扩充；不能把总规划能力提前套到首线调试阶段。",
           "kind": "扩产",
           "source_url": "https://file.finance.sina.com.cn/211.154.219.97%3A9494/MRGG/CNSESH_STOCK/2026/2026-8/2026-08-15/12495705.PDF",
-          "source_title": "伟明2026半年报，既有E05",
+          "source_title": "伟明环保2026年半年度报告",
           "project_id": "P09"
         }
       ],
@@ -5242,7 +5270,7 @@
       "detail": "Nickel Industries运营资料将安琪的生产起点明确到2022年1月。四条RKEF随后继续爬坡，产品主线为NPI。",
       "kind": "投产",
       "source_url": "https://nickelindustries.com/operations/",
-      "source_title": "Operations",
+      "source_title": "Nickel Industries：印尼冶炼项目、权益及2025年生产情况",
       "project_id": "NPI005"
     },
     {
@@ -5350,7 +5378,7 @@
       "detail": "嘉曼项目法人于2022年3月24日成立，为后续RKEF及高冰镍设施建设建立主体；公司设立不代表厂房或产线已投产。",
       "kind": "股权",
       "source_url": "https://file.finance.sina.com.cn/211.154.219.97%3A9494/MRGG/CNSESH_STOCK/2026/2026-8/2026-08-15/12495705.PDF",
-      "source_title": "伟明2026半年报，既有E05",
+      "source_title": "伟明环保2026年半年度报告",
       "project_id": "P09"
     },
     {
@@ -6124,7 +6152,7 @@
       "detail": "项目首条线在2024年第四季度进入调试，标志建设转入热态运行阶段；调试产物与合格高冰镍商业生产仍需分开。",
       "kind": "投产",
       "source_url": "https://file.finance.sina.com.cn/211.154.219.97%3A9494/MRGG/CNSESH_STOCK/2026/2026-8/2026-08-15/12495705.PDF",
-      "source_title": "伟明2026半年报，既有E05",
+      "source_title": "伟明环保2026年半年度报告",
       "project_id": "P09"
     },
     {
@@ -6556,7 +6584,7 @@
       "detail": "POSCO季度披露显示，妮可在2025年第一季度末仍无销售收入。财务节点可用于限定商业化进度，但不能据此判断设备是否已经完成试车或产出样品。",
       "kind": "经营",
       "source_url": "https://www.sec.gov/Archives/edgar/data/889132/000119312525131929/d906391d6k.htm",
-      "source_title": "I20",
+      "source_title": "POSCO Holdings 2025年第一季度经营报告",
       "project_id": "NPI004"
     },
     {
@@ -6637,7 +6665,7 @@
       "detail": "项目披露具名高冰镍产品里程碑，表明工艺链已产出目标产品；该节点不代表全部规划产线同步达产。",
       "kind": "投产",
       "source_url": "https://file.finance.sina.com.cn/211.154.219.97%3A9494/MRGG/CNSESH_STOCK/2026/2026-8/2026-08-15/12495705.PDF",
-      "source_title": "伟明2026半年报，既有E05",
+      "source_title": "伟明环保2026年半年度报告",
       "project_id": "P09"
     },
     {
@@ -6745,7 +6773,7 @@
       "detail": "嘉曼取得商业运营相关许可，属于合规经营节点；许可日期晚于产品产出，不能反写为首产日期。",
       "kind": "经营",
       "source_url": "https://file.finance.sina.com.cn/211.154.219.97%3A9494/MRGG/CNSESH_STOCK/2026/2026-8/2026-08-15/12495705.PDF",
-      "source_title": "伟明2026半年报，既有E05",
+      "source_title": "伟明环保2026年半年度报告",
       "project_id": "P09"
     },
     {
@@ -6934,7 +6962,7 @@
       "detail": "伟明2026年半年报仍将嘉曼美列为筹建项目，较新规划能力为每年5万镍吨。该数值是设计目标，不应与已运行的嘉曼项目合并。",
       "kind": "资料披露",
       "source_url": "https://file.finance.sina.com.cn/211.154.219.97%3A9494/MRGG/CNSESH_STOCK/2026/2026-8/2026-08-15/12495705.PDF",
-      "source_title": "伟明2026半年报，既有E05",
+      "source_title": "伟明环保2026年半年度报告",
       "project_id": "P29"
     },
     {
@@ -7195,7 +7223,7 @@
       "detail": "第三条生产线于2026年6月试产，反映项目按分线节奏扩充；不能把总规划能力提前套到首线调试阶段。",
       "kind": "扩产",
       "source_url": "https://file.finance.sina.com.cn/211.154.219.97%3A9494/MRGG/CNSESH_STOCK/2026/2026-8/2026-08-15/12495705.PDF",
-      "source_title": "伟明2026半年报，既有E05",
+      "source_title": "伟明环保2026年半年度报告",
       "project_id": "P09"
     },
     {
@@ -7350,6 +7378,33 @@
       "source_url": "https://www.cnnbrasil.com.br/infra/bndes-aprova-r-100-milhoes-para-projeto-da-brazilian-nickel-no-piaui/",
       "source_title": "CNN采访公司Piauí融资进度",
       "project_id": "MHP043"
+    },
+    {
+      "date": "2025-04-29",
+      "label": "股东大会资料列示华硕子公司",
+      "detail": "华友2024年度股东大会资料单独列示PT Huashuo Nickel Indonesia，持股100%，并与华兴分别记录。这是公司身份的披露日期。",
+      "kind": "资料披露",
+      "source_url": "https://www.huayou.com/Public/Uploads/uploadfile2/files/20250429/MeetingMaterialsfor2024AnnualGeneralMeeting.pdf",
+      "source_title": "华友2024年度股东大会会议资料",
+      "project_id": "P27"
+    },
+    {
+      "date": "2021-08",
+      "label": "旭日设立",
+      "detail": "Sunny本厂供应链尽责报告将公司设立时间列为2021年8月。",
+      "kind": "成立",
+      "project_id": "NPI020",
+      "source_title": "Sunny 2025/26供应链尽责管理报告",
+      "source_url": "https://www.walsin.com/wp-content/uploads/2026/03/供應鏈盡責管理報告Supply-Chain-Due-Diligence-Report-1.pdf"
+    },
+    {
+      "date": "2022-01",
+      "label": "旭日开始建设",
+      "detail": "Sunny在纬达贝园区启动冶炼项目建设，随后配置四套RKEF设备。",
+      "kind": "建设",
+      "project_id": "NPI020",
+      "source_title": "Sunny 2025/26供应链尽责管理报告",
+      "source_url": "https://www.walsin.com/wp-content/uploads/2026/03/供應鏈盡責管理報告Supply-Chain-Due-Diligence-Report-1.pdf"
     }
   ],
   "note": "事件采用原始资料的年月日精度，试产、首产、商业生产及全线达产分别记录；规划日期保留规划标签。资料披露与用户样本发货不充当投产日期。"
