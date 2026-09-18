@@ -1567,51 +1567,62 @@
     },
     "MHP034": {
       "key": "operating",
-      "label": "已投产 · 现况待更新",
-      "period": "2014年试产；2015年首次出口",
-      "note": "历史生产已建立，2025—2026停复产说法尚待对应期间原件。",
+      "label": "在产",
+      "period": "底表核实年份：2026；状态始于2025年",
+      "note": "该记录按全球普查底表列为在产。",
       "reviewed_at": "2026-09-18",
       "article_id": "MHP034",
-      "sources": [],
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-002 · 总表第3行",
+          "url": "library/global-register.csv"
+        }
+      ],
       "products": []
     },
     "MHP035": {
       "key": "operating",
-      "label": "已投产 · 检修后重启",
-      "period": "2026年运行资料",
-      "note": "制酸厂计划检修后逐步重启。",
+      "label": "在产",
+      "period": "底表核实年份：2026；状态始于2026年",
+      "note": "该记录按全球普查底表列为在产。",
       "reviewed_at": "2026-09-18",
       "article_id": "MHP035",
-      "sources": [],
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-075 · 总表第76行",
+          "url": "library/global-register.csv"
+        }
+      ],
       "products": []
     },
     "MHP036": {
-      "key": "halted",
-      "label": "停产维护",
-      "period": "2024年7月起；2026—2028年指引",
-      "note": "Ravensthorpe继续按维护保养安排，暂无已确认复产。",
+      "key": "care",
+      "label": "保养维护(C&M)",
+      "period": "底表核实年份：2026；状态始于2024年",
+      "note": "该记录按全球普查底表列为保养维护(C&M)。停产及变化背景见正文。",
       "reviewed_at": "2026-09-18",
       "article_id": "MHP036",
       "sources": [
         {
-          "title": "First Quantum：2026—2028年指引",
-          "url": "https://www.first-quantum.com/news/first-quantum-minerals-announces-2025-preliminary-production-and-2026-2028-guidance/"
-        },
-        {
-          "title": "Ravensthorpe项目页",
-          "url": "https://www.first-quantum.com/operations/ravensthorpe/"
+          "title": "全球普查底表 · NI-084 · 总表第85行",
+          "url": "library/global-register.csv"
         }
       ],
       "products": []
     },
     "MHP037": {
       "key": "operating",
-      "label": "已投产",
-      "period": "2012年投产；后续经营见正文",
-      "note": "瑞木镍钴项目已建立生产。",
+      "label": "在产",
+      "period": "底表核实年份：2026；状态始于2025年",
+      "note": "该记录按全球普查底表列为在产。",
       "reviewed_at": "2026-09-18",
       "article_id": "MHP037",
-      "sources": [],
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-070 · 总表第71行",
+          "url": "library/global-register.csv"
+        }
+      ],
       "products": []
     },
     "MHP039": {
@@ -1625,35 +1636,31 @@
       "products": []
     },
     "MHP040": {
-      "key": "halted",
-      "label": "历史工厂停产",
-      "period": "2008年停产；2026年项目清单",
-      "note": "旧Cawse厂未找到复产证据；资源项目仍有登记。",
+      "key": "care",
+      "label": "保养维护(C&M)",
+      "period": "底表核实年份：2014；状态始于2008年",
+      "note": "该记录按全球普查底表列为保养维护(C&M)。停产及变化背景见正文。",
       "reviewed_at": "2026-09-18",
       "article_id": "MHP040",
       "sources": [
         {
-          "title": "西澳政府2026年2月镍钴项目清单",
-          "url": "https://www.wa.gov.au/media/159135/download?inline="
+          "title": "全球普查底表 · NI-082 · 总表第83行",
+          "url": "library/global-register.csv"
         }
       ],
       "products": []
     },
     "MHP041": {
-      "key": "halted",
-      "label": "历史工厂停产",
-      "period": "2003年停产；2026年项目清单",
-      "note": "Bulong／Avalon仍按历史停产厂阅读，非现役MHP供应。",
+      "key": "closed",
+      "label": "永久关闭",
+      "period": "底表核实年份：2014；状态始于2003年",
+      "note": "该记录按全球普查底表列为永久关闭。停产及变化背景见正文。",
       "reviewed_at": "2026-09-18",
       "article_id": "MHP041",
       "sources": [
         {
-          "title": "西澳政府2026年2月镍钴项目清单",
-          "url": "https://www.wa.gov.au/media/159135/download?inline="
-        },
-        {
-          "title": "西澳政府Bulong尾矿设施修复",
-          "url": "https://www.wa.gov.au/organisation/department-of-mines-petroleum-and-exploration/bulong-tailings-storage-facility-project"
+          "title": "全球普查底表 · NI-081 · 总表第82行",
+          "url": "library/global-register.csv"
         }
       ],
       "products": []
@@ -1669,25 +1676,19 @@
       "products": []
     },
     "MHP043": {
-      "key": "unbuilt",
-      "label": "未投产（商业大项目）",
-      "period": "2026年开发融资资料",
-      "note": "已有小规模设施；2.8万镍吨商业项目仍在开发。",
+      "key": "planned",
+      "label": "规划中或可研",
+      "period": "底表核实年份：2026；状态始于2026年",
+      "note": "该记录按全球普查底表列为规划中或可研。",
       "reviewed_at": "2026-09-18",
       "article_id": "MHP043",
-      "sources": [],
-      "products": [
+      "sources": [
         {
-          "product": "PPN1000小规模设施",
-          "status": "已产出产品",
-          "period": "小规模项目"
-        },
-        {
-          "product": "2.8万镍吨商业项目",
-          "status": "未投产／开发",
-          "period": "不与小规模首产混合"
+          "title": "全球普查底表 · NI-137 · 总表第138行",
+          "url": "library/global-register.csv"
         }
-      ]
+      ],
+      "products": []
     },
     "MHP044": {
       "key": "halted",
@@ -1710,52 +1711,77 @@
     },
     "MHP045": {
       "key": "operating",
-      "label": "已投产",
-      "period": "2005年投运；后续经营见正文",
-      "note": "MSP生产与日本精炼体系衔接。",
+      "label": "在产",
+      "period": "底表核实年份：2026；状态始于2025年",
+      "note": "该记录按全球普查底表列为在产。",
       "reviewed_at": "2026-09-18",
       "article_id": "MHP045",
-      "sources": [],
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-062 · 总表第63行",
+          "url": "library/global-register.csv"
+        }
+      ],
       "products": []
     },
     "MHP046": {
       "key": "operating",
-      "label": "已投产",
-      "period": "2026年上半年",
-      "note": "镍钴硫化物及电池化学品仍有生产，硫酸镍负荷随市场调整。",
+      "label": "在产",
+      "period": "底表核实年份：2026；状态始于2025年",
+      "note": "该记录按全球普查底表列为在产。",
       "reviewed_at": "2026-09-18",
       "article_id": "MHP046",
-      "sources": [],
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-019 · 总表第20行",
+          "url": "library/global-register.csv"
+        }
+      ],
       "products": []
     },
     "MHP047": {
       "key": "operating",
-      "label": "已投产",
-      "period": "2013年投产；后续经营见正文",
-      "note": "MSP生产设施已运行。",
+      "label": "在产",
+      "period": "底表核实年份：2026；状态始于2025年",
+      "note": "该记录按全球普查底表列为在产。",
       "reviewed_at": "2026-09-18",
       "article_id": "MHP047",
-      "sources": [],
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-063 · 总表第64行",
+          "url": "library/global-register.csv"
+        }
+      ],
       "products": []
     },
     "MHP048": {
       "key": "operating",
-      "label": "已投产 · 重启爬坡",
-      "period": "2026年7月",
-      "note": "气旋停产后开始重启生产。",
+      "label": "在产",
+      "period": "底表核实年份：2026；状态始于2026年",
+      "note": "该记录按全球普查底表列为在产。",
       "reviewed_at": "2026-09-18",
       "article_id": "MHP048",
-      "sources": [],
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-157 · 总表第158行",
+          "url": "library/global-register.csv"
+        }
+      ],
       "products": []
     },
     "MHP049": {
       "key": "operating",
-      "label": "已投产",
-      "period": "2025年产量及2026年运营报告",
-      "note": "已有镍钴成品生产；逐月负荷未单独核实。",
+      "label": "在产",
+      "period": "底表核实年份：2026；状态始于2025年",
+      "note": "该记录按全球普查底表列为在产。",
       "reviewed_at": "2026-09-18",
       "article_id": "MHP049",
-      "sources": [],
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-083 · 总表第84行",
+          "url": "library/global-register.csv"
+        }
+      ],
       "products": []
     },
     "RF001": {
@@ -1822,6 +1848,2316 @@
       "reviewed_at": "2026-09-18",
       "article_id": "RF005",
       "sources": [],
+      "products": []
+    },
+    "GL001": {
+      "key": "halted",
+      "label": "停产(可复产)",
+      "period": "底表核实年份：2025；状态始于2024年",
+      "note": "该记录按全球普查底表列为停产(可复产)。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL001",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-001 · 总表第2行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL003": {
+      "key": "care",
+      "label": "保养维护(C&M)",
+      "period": "底表核实年份：2013；状态始于2013年",
+      "note": "该记录按全球普查底表列为保养维护(C&M)。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL003",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-003 · 总表第4行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL004": {
+      "key": "closed",
+      "label": "永久关闭",
+      "period": "底表核实年份：2024；状态始于2022年",
+      "note": "该记录按全球普查底表列为永久关闭。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL004",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-004 · 总表第5行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL005": {
+      "key": "operating",
+      "label": "在产",
+      "period": "底表核实年份：2025；状态始于2025年",
+      "note": "该记录按全球普查底表列为在产。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL005",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-005 · 总表第6行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL006": {
+      "key": "closed",
+      "label": "永久关闭",
+      "period": "底表核实年份：1920；状态始于1920年",
+      "note": "该记录按全球普查底表列为永久关闭。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL006",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-006 · 总表第7行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL007": {
+      "key": "closed",
+      "label": "永久关闭",
+      "period": "底表核实年份：1946；状态始于1946年",
+      "note": "该记录按全球普查底表列为永久关闭。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL007",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-007 · 总表第8行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL008": {
+      "key": "closed",
+      "label": "永久关闭",
+      "period": "底表核实年份：1894；状态始于1894年",
+      "note": "该记录按全球普查底表列为永久关闭。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL008",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-008 · 总表第9行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL009": {
+      "key": "operating",
+      "label": "在产",
+      "period": "底表核实年份：2025；状态始于2025年",
+      "note": "该记录按全球普查底表列为在产。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL009",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-009 · 总表第10行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL010": {
+      "key": "closed",
+      "label": "永久关闭",
+      "period": "底表核实年份：1992；状态始于1992年",
+      "note": "该记录按全球普查底表列为永久关闭。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL010",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-010 · 总表第11行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL011": {
+      "key": "operating",
+      "label": "在产",
+      "period": "底表核实年份：2025；状态始于2025年",
+      "note": "该记录按全球普查底表列为在产。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL011",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-011 · 总表第12行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL012": {
+      "key": "closed",
+      "label": "永久关闭",
+      "period": "底表核实年份：1900；状态始于1900年",
+      "note": "该记录按全球普查底表列为永久关闭。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL012",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-012 · 总表第13行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL013": {
+      "key": "care",
+      "label": "保养维护(C&M)",
+      "period": "底表核实年份：2025；状态始于2025年",
+      "note": "该记录按全球普查底表列为保养维护(C&M)。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL013",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-013 · 总表第14行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL014": {
+      "key": "demolished",
+      "label": "已拆除",
+      "period": "底表核实年份：1983；状态始于1983年",
+      "note": "该记录按全球普查底表列为已拆除。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL014",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-014 · 总表第15行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL015": {
+      "key": "operating",
+      "label": "在产",
+      "period": "底表核实年份：2023；状态始于2023年",
+      "note": "该记录按全球普查底表列为在产。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL015",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-015 · 总表第16行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL016": {
+      "key": "operating",
+      "label": "在产",
+      "period": "底表核实年份：2026；状态始于2025年",
+      "note": "该记录按全球普查底表列为在产。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL016",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-016 · 总表第17行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL017": {
+      "key": "operating",
+      "label": "在产",
+      "period": "底表核实年份：2026；状态始于2025年",
+      "note": "该记录按全球普查底表列为在产。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL017",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-017 · 总表第18行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL018": {
+      "key": "planned",
+      "label": "规划中或可研",
+      "period": "底表核实年份：2025；状态始于2022年",
+      "note": "该记录按全球普查底表列为规划中或可研。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL018",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-018 · 总表第19行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL020": {
+      "key": "closed",
+      "label": "永久关闭",
+      "period": "底表核实年份：1894；状态始于1894年",
+      "note": "该记录按全球普查底表列为永久关闭。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL020",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-020 · 总表第21行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL021": {
+      "key": "operating",
+      "label": "在产",
+      "period": "底表核实年份：2026；状态始于2025年",
+      "note": "该记录按全球普查底表列为在产。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL021",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-021 · 总表第22行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL022": {
+      "key": "closed",
+      "label": "永久关闭",
+      "period": "底表核实年份：2019；状态始于2019年",
+      "note": "该记录按全球普查底表列为永久关闭。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL022",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-022 · 总表第23行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL023": {
+      "key": "closed",
+      "label": "永久关闭",
+      "period": "底表核实年份：1991；状态始于1991年",
+      "note": "该记录按全球普查底表列为永久关闭。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL023",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-023 · 总表第24行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL024": {
+      "key": "halted",
+      "label": "停产(可复产)",
+      "period": "底表核实年份：2026；状态始于2022年",
+      "note": "该记录按全球普查底表列为停产(可复产)。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL024",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-024 · 总表第25行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL025": {
+      "key": "closed",
+      "label": "永久关闭",
+      "period": "底表核实年份：2017；状态始于2017年",
+      "note": "该记录按全球普查底表列为永久关闭。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL025",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-025 · 总表第26行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL026": {
+      "key": "closed",
+      "label": "永久关闭",
+      "period": "底表核实年份：2017；状态始于2017年",
+      "note": "该记录按全球普查底表列为永久关闭。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL026",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-026 · 总表第27行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL027": {
+      "key": "care",
+      "label": "保养维护(C&M)",
+      "period": "底表核实年份：2026；状态始于2012年",
+      "note": "该记录按全球普查底表列为保养维护(C&M)。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL027",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-027 · 总表第28行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL028": {
+      "key": "operating",
+      "label": "在产",
+      "period": "底表核实年份：2026；状态始于2026年",
+      "note": "该记录按全球普查底表列为在产。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL028",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-028 · 总表第29行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL029": {
+      "key": "demolished",
+      "label": "已拆除",
+      "period": "底表核实年份：2019；状态始于2019年",
+      "note": "该记录按全球普查底表列为已拆除。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL029",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-029 · 总表第30行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL030": {
+      "key": "closed",
+      "label": "永久关闭",
+      "period": "底表核实年份：2020；状态始于2020年",
+      "note": "该记录按全球普查底表列为永久关闭。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL030",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-030 · 总表第31行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL031": {
+      "key": "operating",
+      "label": "在产",
+      "period": "底表核实年份：2026；状态始于2026年",
+      "note": "该记录按全球普查底表列为在产。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL031",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-031 · 总表第32行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL032": {
+      "key": "halted",
+      "label": "停产(可复产)",
+      "period": "底表核实年份：2026；状态始于2018年",
+      "note": "该记录按全球普查底表列为停产(可复产)。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL032",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-032 · 总表第33行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL033": {
+      "key": "planned",
+      "label": "规划中或可研",
+      "period": "底表核实年份：2026；状态始于2026年",
+      "note": "该记录按全球普查底表列为规划中或可研。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL033",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-033 · 总表第34行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL034": {
+      "key": "operating",
+      "label": "在产",
+      "period": "底表核实年份：2026；状态始于2026年",
+      "note": "该记录按全球普查底表列为在产。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL034",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-034 · 总表第35行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL035": {
+      "key": "construction",
+      "label": "在建",
+      "period": "底表核实年份：2025；状态始于2025年",
+      "note": "该记录按全球普查底表列为在建。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL035",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-035 · 总表第36行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL036": {
+      "key": "unknown",
+      "label": "不详",
+      "period": "底表核实年份：2012；状态始于2012年",
+      "note": "该记录按全球普查底表列为不详。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL036",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-036 · 总表第37行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL037": {
+      "key": "operating",
+      "label": "在产",
+      "period": "底表核实年份：2026；状态始于2024年",
+      "note": "该记录按全球普查底表列为在产。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL037",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-037 · 总表第38行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL038": {
+      "key": "closed",
+      "label": "永久关闭",
+      "period": "底表核实年份：1979；状态始于1979年",
+      "note": "该记录按全球普查底表列为永久关闭。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL038",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-038 · 总表第39行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL039": {
+      "key": "operating",
+      "label": "在产",
+      "period": "底表核实年份：2025；状态始于2024年",
+      "note": "该记录按全球普查底表列为在产。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL039",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-039 · 总表第40行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL040": {
+      "key": "operating",
+      "label": "在产",
+      "period": "底表核实年份：2026；状态始于2023年",
+      "note": "该记录按全球普查底表列为在产。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL040",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-040 · 总表第41行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL041": {
+      "key": "partial",
+      "label": "减产或部分停产",
+      "period": "底表核实年份：2026；状态始于2025年",
+      "note": "该记录按全球普查底表列为减产或部分停产。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL041",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-041 · 总表第42行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL042": {
+      "key": "unknown",
+      "label": "不详",
+      "period": "底表核实年份：1975；状态始于1975年",
+      "note": "该记录按全球普查底表列为不详。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL042",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-042 · 总表第43行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL043": {
+      "key": "operating",
+      "label": "在产",
+      "period": "底表核实年份：2026；状态始于2024年",
+      "note": "该记录按全球普查底表列为在产。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL043",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-043 · 总表第44行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL044": {
+      "key": "operating",
+      "label": "在产",
+      "period": "底表核实年份：2019；状态始于2019年",
+      "note": "该记录按全球普查底表列为在产。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL044",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-044 · 总表第45行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL045": {
+      "key": "planned",
+      "label": "规划中或可研",
+      "period": "底表核实年份：2026；状态始于2025年",
+      "note": "该记录按全球普查底表列为规划中或可研。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL045",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-045 · 总表第46行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL046": {
+      "key": "construction",
+      "label": "在建",
+      "period": "底表核实年份：2026；状态始于2025年",
+      "note": "该记录按全球普查底表列为在建。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL046",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-046 · 总表第47行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL047": {
+      "key": "operating",
+      "label": "在产",
+      "period": "底表核实年份：2026；状态始于2023年",
+      "note": "该记录按全球普查底表列为在产。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL047",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-047 · 总表第48行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL048": {
+      "key": "closed",
+      "label": "永久关闭",
+      "period": "底表核实年份：2023；状态始于2023年",
+      "note": "该记录按全球普查底表列为永久关闭。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL048",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-048 · 总表第49行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL049": {
+      "key": "operating",
+      "label": "在产",
+      "period": "底表核实年份：2026；状态始于2024年",
+      "note": "该记录按全球普查底表列为在产。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL049",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-049 · 总表第50行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL050": {
+      "key": "operating",
+      "label": "在产",
+      "period": "底表核实年份：2025；状态始于2025年",
+      "note": "该记录按全球普查底表列为在产。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL050",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-050 · 总表第51行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL051": {
+      "key": "operating",
+      "label": "在产",
+      "period": "底表核实年份：2026；状态始于2023年",
+      "note": "该记录按全球普查底表列为在产。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL051",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-051 · 总表第52行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL052": {
+      "key": "operating",
+      "label": "在产",
+      "period": "底表核实年份：2023；状态始于2023年",
+      "note": "该记录按全球普查底表列为在产。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL052",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-052 · 总表第53行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL053": {
+      "key": "construction",
+      "label": "在建",
+      "period": "底表核实年份：2026；状态始于2026年",
+      "note": "该记录按全球普查底表列为在建。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL053",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-053 · 总表第54行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL054": {
+      "key": "construction",
+      "label": "在建",
+      "period": "底表核实年份：2024；状态始于2024年",
+      "note": "该记录按全球普查底表列为在建。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL054",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-054 · 总表第55行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL055": {
+      "key": "operating",
+      "label": "在产",
+      "period": "底表核实年份：2024；状态始于2021年",
+      "note": "该记录按全球普查底表列为在产。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL055",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-055 · 总表第56行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL056": {
+      "key": "unknown",
+      "label": "不详",
+      "period": "底表核实年份：2021；状态始于2021年",
+      "note": "该记录按全球普查底表列为不详。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL056",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-056 · 总表第57行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL057": {
+      "key": "operating",
+      "label": "在产",
+      "period": "底表核实年份：2026；状态始于2023年",
+      "note": "该记录按全球普查底表列为在产。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL057",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-057 · 总表第58行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL058": {
+      "key": "planned",
+      "label": "规划中或可研",
+      "period": "底表核实年份：2022；状态始于2022年",
+      "note": "该记录按全球普查底表列为规划中或可研。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL058",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-058 · 总表第59行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL059": {
+      "key": "partial",
+      "label": "减产或部分停产",
+      "period": "底表核实年份：2024；状态始于2024年",
+      "note": "该记录按全球普查底表列为减产或部分停产。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL059",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-059 · 总表第60行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL060": {
+      "key": "cancelled",
+      "label": "项目中止(未建成)",
+      "period": "底表核实年份：2014；状态始于2014年",
+      "note": "该记录按全球普查底表列为项目中止(未建成)。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL060",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-060 · 总表第61行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL061": {
+      "key": "closed",
+      "label": "永久关闭",
+      "period": "底表核实年份：2012；状态始于2012年",
+      "note": "该记录按全球普查底表列为永久关闭。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL061",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-061 · 总表第62行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL064": {
+      "key": "planned",
+      "label": "规划中或可研",
+      "period": "底表核实年份：2024；状态始于2024年",
+      "note": "该记录按全球普查底表列为规划中或可研。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL064",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-064 · 总表第65行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL065": {
+      "key": "planned",
+      "label": "规划中或可研",
+      "period": "底表核实年份：2024；状态始于2024年",
+      "note": "该记录按全球普查底表列为规划中或可研。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL065",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-065 · 总表第66行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL066": {
+      "key": "planned",
+      "label": "规划中或可研",
+      "period": "底表核实年份：2025；状态始于2025年",
+      "note": "该记录按全球普查底表列为规划中或可研。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL066",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-066 · 总表第67行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL067": {
+      "key": "unknown",
+      "label": "不详",
+      "period": "底表核实年份：2018；状态始于2018年",
+      "note": "该记录按全球普查底表列为不详。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL067",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-067 · 总表第68行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL068": {
+      "key": "care",
+      "label": "保养维护(C&M)",
+      "period": "底表核实年份：2025；状态始于2016年",
+      "note": "该记录按全球普查底表列为保养维护(C&M)。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL068",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-068 · 总表第69行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL069": {
+      "key": "planned",
+      "label": "规划中或可研",
+      "period": "底表核实年份：2026；状态始于2025年",
+      "note": "该记录按全球普查底表列为规划中或可研。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL069",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-069 · 总表第70行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL071": {
+      "key": "demolished",
+      "label": "已拆除",
+      "period": "底表核实年份：1879；状态始于1879年",
+      "note": "该记录按全球普查底表列为已拆除。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL071",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-071 · 总表第72行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL072": {
+      "key": "demolished",
+      "label": "已拆除",
+      "period": "底表核实年份：1891；状态始于1891年",
+      "note": "该记录按全球普查底表列为已拆除。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL072",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-072 · 总表第73行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL073": {
+      "key": "partial",
+      "label": "减产或部分停产",
+      "period": "底表核实年份：2026；状态始于2026年",
+      "note": "该记录按全球普查底表列为减产或部分停产。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL073",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-073 · 总表第74行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL074": {
+      "key": "demolished",
+      "label": "已拆除",
+      "period": "底表核实年份：1930；状态始于1930年",
+      "note": "该记录按全球普查底表列为已拆除。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL074",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-074 · 总表第75行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL076": {
+      "key": "care",
+      "label": "保养维护(C&M)",
+      "period": "底表核实年份：2026；状态始于2024年",
+      "note": "该记录按全球普查底表列为保养维护(C&M)。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL076",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-076 · 总表第77行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL077": {
+      "key": "closed",
+      "label": "永久关闭",
+      "period": "底表核实年份：1937；状态始于1937年",
+      "note": "该记录按全球普查底表列为永久关闭。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL077",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-077 · 总表第78行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL078": {
+      "key": "care",
+      "label": "保养维护(C&M)",
+      "period": "底表核实年份：2026；状态始于2024年",
+      "note": "该记录按全球普查底表列为保养维护(C&M)。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL078",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-078 · 总表第79行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL079": {
+      "key": "care",
+      "label": "保养维护(C&M)",
+      "period": "底表核实年份：2026；状态始于2024年",
+      "note": "该记录按全球普查底表列为保养维护(C&M)。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL079",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-079 · 总表第80行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL080": {
+      "key": "halted",
+      "label": "停产(可复产)",
+      "period": "底表核实年份：2026；状态始于2016年",
+      "note": "该记录按全球普查底表列为停产(可复产)。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL080",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-080 · 总表第81行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL085": {
+      "key": "planned",
+      "label": "规划中或可研",
+      "period": "底表核实年份：2026；状态始于2025年",
+      "note": "该记录按全球普查底表列为规划中或可研。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL085",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-085 · 总表第86行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL086": {
+      "key": "planned",
+      "label": "规划中或可研",
+      "period": "底表核实年份：2026；状态始于2025年",
+      "note": "该记录按全球普查底表列为规划中或可研。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL086",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-086 · 总表第87行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL087": {
+      "key": "unknown",
+      "label": "不详",
+      "period": "底表核实年份：2023；状态始于2023年",
+      "note": "该记录按全球普查底表列为不详。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL087",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-087 · 总表第88行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL088": {
+      "key": "cancelled",
+      "label": "项目中止(未建成)",
+      "period": "底表核实年份：2024；状态始于2024年",
+      "note": "该记录按全球普查底表列为项目中止(未建成)。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL088",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-088 · 总表第89行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL089": {
+      "key": "planned",
+      "label": "规划中或可研",
+      "period": "底表核实年份：2026；状态始于2026年",
+      "note": "该记录按全球普查底表列为规划中或可研。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL089",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-089 · 总表第90行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL090": {
+      "key": "planned",
+      "label": "规划中或可研",
+      "period": "底表核实年份：2023；状态始于2023年",
+      "note": "该记录按全球普查底表列为规划中或可研。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL090",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-090 · 总表第91行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL091": {
+      "key": "planned",
+      "label": "规划中或可研",
+      "period": "底表核实年份：2026；状态始于2026年",
+      "note": "该记录按全球普查底表列为规划中或可研。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL091",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-091 · 总表第92行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL092": {
+      "key": "planned",
+      "label": "规划中或可研",
+      "period": "底表核实年份：2026；状态始于2025年",
+      "note": "该记录按全球普查底表列为规划中或可研。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL092",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-092 · 总表第93行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL093": {
+      "key": "planned",
+      "label": "规划中或可研",
+      "period": "底表核实年份：2026；状态始于2024年",
+      "note": "该记录按全球普查底表列为规划中或可研。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL093",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-093 · 总表第94行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL094": {
+      "key": "demolished",
+      "label": "已拆除",
+      "period": "底表核实年份：1902；状态始于1902年",
+      "note": "该记录按全球普查底表列为已拆除。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL094",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-094 · 总表第95行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL095": {
+      "key": "operating",
+      "label": "在产",
+      "period": "底表核实年份：2026；状态始于2026年",
+      "note": "该记录按全球普查底表列为在产。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL095",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-095 · 总表第96行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL096": {
+      "key": "demolished",
+      "label": "已拆除",
+      "period": "底表核实年份：1913；状态始于1913年",
+      "note": "该记录按全球普查底表列为已拆除。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL096",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-096 · 总表第97行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL097": {
+      "key": "demolished",
+      "label": "已拆除",
+      "period": "底表核实年份：1961；状态始于1961年",
+      "note": "该记录按全球普查底表列为已拆除。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL097",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-097 · 总表第98行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL098": {
+      "key": "demolished",
+      "label": "已拆除",
+      "period": "底表核实年份：1976；状态始于1976年",
+      "note": "该记录按全球普查底表列为已拆除。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL098",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-098 · 总表第99行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL099": {
+      "key": "demolished",
+      "label": "已拆除",
+      "period": "底表核实年份：1923；状态始于1923年",
+      "note": "该记录按全球普查底表列为已拆除。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL099",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-099 · 总表第100行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL100": {
+      "key": "partial",
+      "label": "减产或部分停产",
+      "period": "底表核实年份：2026；状态始于1984年",
+      "note": "该记录按全球普查底表列为减产或部分停产。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL100",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-100 · 总表第101行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL101": {
+      "key": "demolished",
+      "label": "已拆除",
+      "period": "底表核实年份：1924；状态始于1924年",
+      "note": "该记录按全球普查底表列为已拆除。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL101",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-101 · 总表第102行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL102": {
+      "key": "operating",
+      "label": "在产",
+      "period": "底表核实年份：2026；状态始于2026年",
+      "note": "该记录按全球普查底表列为在产。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL102",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-102 · 总表第103行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL103": {
+      "key": "halted",
+      "label": "停产(可复产)",
+      "period": "底表核实年份：2026；状态始于2026年",
+      "note": "该记录按全球普查底表列为停产(可复产)。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL103",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-103 · 总表第104行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL104": {
+      "key": "closed",
+      "label": "永久关闭",
+      "period": "底表核实年份：2018；状态始于2018年",
+      "note": "该记录按全球普查底表列为永久关闭。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL104",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-104 · 总表第105行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL105": {
+      "key": "closed",
+      "label": "永久关闭",
+      "period": "底表核实年份：2018；状态始于2018年",
+      "note": "该记录按全球普查底表列为永久关闭。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL105",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-105 · 总表第106行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL106": {
+      "key": "operating",
+      "label": "在产",
+      "period": "底表核实年份：2026；状态始于2026年",
+      "note": "该记录按全球普查底表列为在产。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL106",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-106 · 总表第107行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL107": {
+      "key": "operating",
+      "label": "在产",
+      "period": "底表核实年份：2026；状态始于2026年",
+      "note": "该记录按全球普查底表列为在产。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL107",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-107 · 总表第108行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL108": {
+      "key": "cancelled",
+      "label": "项目中止(未建成)",
+      "period": "底表核实年份：2003；状态始于2003年",
+      "note": "该记录按全球普查底表列为项目中止(未建成)。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL108",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-108 · 总表第109行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL109": {
+      "key": "planned",
+      "label": "规划中或可研",
+      "period": "底表核实年份：2026；状态始于2026年",
+      "note": "该记录按全球普查底表列为规划中或可研。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL109",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-109 · 总表第110行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL110": {
+      "key": "closed",
+      "label": "永久关闭",
+      "period": "底表核实年份：1905；状态始于1905年",
+      "note": "该记录按全球普查底表列为永久关闭。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL110",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-110 · 总表第111行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL111": {
+      "key": "closed",
+      "label": "永久关闭",
+      "period": "底表核实年份：1922；状态始于1922年",
+      "note": "该记录按全球普查底表列为永久关闭。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL111",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-111 · 总表第112行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL112": {
+      "key": "closed",
+      "label": "永久关闭",
+      "period": "底表核实年份：1998；状态始于1998年",
+      "note": "该记录按全球普查底表列为永久关闭。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL112",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-112 · 总表第113行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL113": {
+      "key": "operating",
+      "label": "在产",
+      "period": "底表核实年份：2026；状态始于2026年",
+      "note": "该记录按全球普查底表列为在产。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL113",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-113 · 总表第114行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL114": {
+      "key": "planned",
+      "label": "规划中或可研",
+      "period": "底表核实年份：2026；状态始于2026年",
+      "note": "该记录按全球普查底表列为规划中或可研。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL114",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-114 · 总表第115行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL115": {
+      "key": "construction",
+      "label": "在建",
+      "period": "底表核实年份：2026；状态始于2026年",
+      "note": "该记录按全球普查底表列为在建。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL115",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-115 · 总表第116行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL116": {
+      "key": "planned",
+      "label": "规划中或可研",
+      "period": "底表核实年份：2025；状态始于2025年",
+      "note": "该记录按全球普查底表列为规划中或可研。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL116",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-116 · 总表第117行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL117": {
+      "key": "planned",
+      "label": "规划中或可研",
+      "period": "底表核实年份：2026；状态始于2026年",
+      "note": "该记录按全球普查底表列为规划中或可研。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL117",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-117 · 总表第118行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL118": {
+      "key": "partial",
+      "label": "减产或部分停产",
+      "period": "底表核实年份：2026；状态始于2026年",
+      "note": "该记录按全球普查底表列为减产或部分停产。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL118",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-118 · 总表第119行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL119": {
+      "key": "cancelled",
+      "label": "项目中止(未建成)",
+      "period": "底表核实年份：2026；状态始于2026年",
+      "note": "该记录按全球普查底表列为项目中止(未建成)。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL119",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-119 · 总表第120行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL120": {
+      "key": "planned",
+      "label": "规划中或可研",
+      "period": "底表核实年份：2026；状态始于2026年",
+      "note": "该记录按全球普查底表列为规划中或可研。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL120",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-120 · 总表第121行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL121": {
+      "key": "operating",
+      "label": "在产",
+      "period": "底表核实年份：2026；状态始于2026年",
+      "note": "该记录按全球普查底表列为在产。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL121",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-121 · 总表第122行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL122": {
+      "key": "closed",
+      "label": "永久关闭",
+      "period": "底表核实年份：2012；状态始于2012年",
+      "note": "该记录按全球普查底表列为永久关闭。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL122",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-122 · 总表第123行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL123": {
+      "key": "halted",
+      "label": "停产(可复产)",
+      "period": "底表核实年份：2026；状态始于2026年",
+      "note": "该记录按全球普查底表列为停产(可复产)。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL123",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-123 · 总表第124行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL124": {
+      "key": "partial",
+      "label": "减产或部分停产",
+      "period": "底表核实年份：2026；状态始于2026年",
+      "note": "该记录按全球普查底表列为减产或部分停产。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL124",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-124 · 总表第125行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL125": {
+      "key": "cancelled",
+      "label": "项目中止(未建成)",
+      "period": "底表核实年份：2005；状态始于2005年",
+      "note": "该记录按全球普查底表列为项目中止(未建成)。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL125",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-125 · 总表第126行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL126": {
+      "key": "unknown",
+      "label": "不详",
+      "period": "底表核实年份：2005；状态始于2005年",
+      "note": "该记录按全球普查底表列为不详。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL126",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-126 · 总表第127行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL127": {
+      "key": "partial",
+      "label": "减产或部分停产",
+      "period": "底表核实年份：2026；状态始于2026年",
+      "note": "该记录按全球普查底表列为减产或部分停产。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL127",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-127 · 总表第128行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL128": {
+      "key": "halted",
+      "label": "停产(可复产)",
+      "period": "底表核实年份：2026；状态始于2023年",
+      "note": "该记录按全球普查底表列为停产(可复产)。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL128",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-128 · 总表第129行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL129": {
+      "key": "halted",
+      "label": "停产(可复产)",
+      "period": "底表核实年份：2026；状态始于2015年",
+      "note": "该记录按全球普查底表列为停产(可复产)。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL129",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-129 · 总表第130行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL130": {
+      "key": "closed",
+      "label": "永久关闭",
+      "period": "底表核实年份：1998；状态始于1998年",
+      "note": "该记录按全球普查底表列为永久关闭。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL130",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-130 · 总表第131行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL131": {
+      "key": "closed",
+      "label": "永久关闭",
+      "period": "底表核实年份：2016；状态始于2016年",
+      "note": "该记录按全球普查底表列为永久关闭。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL131",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-131 · 总表第132行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL132": {
+      "key": "operating",
+      "label": "在产",
+      "period": "底表核实年份：2026；状态始于2026年",
+      "note": "该记录按全球普查底表列为在产。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL132",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-132 · 总表第133行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL133": {
+      "key": "closed",
+      "label": "永久关闭",
+      "period": "底表核实年份：2025；状态始于2013年",
+      "note": "该记录按全球普查底表列为永久关闭。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL133",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-133 · 总表第134行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL134": {
+      "key": "operating",
+      "label": "在产",
+      "period": "底表核实年份：2026；状态始于2026年",
+      "note": "该记录按全球普查底表列为在产。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL134",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-134 · 总表第135行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL135": {
+      "key": "operating",
+      "label": "在产",
+      "period": "底表核实年份：2026；状态始于2025年",
+      "note": "该记录按全球普查底表列为在产。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL135",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-135 · 总表第136行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL136": {
+      "key": "care",
+      "label": "保养维护(C&M)",
+      "period": "底表核实年份：2026；状态始于2024年",
+      "note": "该记录按全球普查底表列为保养维护(C&M)。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL136",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-136 · 总表第137行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL138": {
+      "key": "halted",
+      "label": "停产(可复产)",
+      "period": "底表核实年份：2026；状态始于2016年",
+      "note": "该记录按全球普查底表列为停产(可复产)。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL138",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-138 · 总表第139行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL139": {
+      "key": "cancelled",
+      "label": "项目中止(未建成)",
+      "period": "底表核实年份：2024；状态始于2024年",
+      "note": "该记录按全球普查底表列为项目中止(未建成)。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL139",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-139 · 总表第140行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL140": {
+      "key": "operating",
+      "label": "在产",
+      "period": "底表核实年份：2025；状态始于2025年",
+      "note": "该记录按全球普查底表列为在产。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL140",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-140 · 总表第141行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL141": {
+      "key": "care",
+      "label": "保养维护(C&M)",
+      "period": "底表核实年份：2026；状态始于2021年",
+      "note": "该记录按全球普查底表列为保养维护(C&M)。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL141",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-141 · 总表第142行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL142": {
+      "key": "operating",
+      "label": "在产",
+      "period": "底表核实年份：2025；状态始于2025年",
+      "note": "该记录按全球普查底表列为在产。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL142",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-142 · 总表第143行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL143": {
+      "key": "operating",
+      "label": "在产",
+      "period": "底表核实年份：2021；状态始于2021年",
+      "note": "该记录按全球普查底表列为在产。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL143",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-143 · 总表第144行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL144": {
+      "key": "operating",
+      "label": "在产",
+      "period": "底表核实年份：2025；状态始于2025年",
+      "note": "该记录按全球普查底表列为在产。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL144",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-144 · 总表第145行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL145": {
+      "key": "operating",
+      "label": "在产",
+      "period": "底表核实年份：2026；状态始于2025年",
+      "note": "该记录按全球普查底表列为在产。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL145",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-145 · 总表第146行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL146": {
+      "key": "closed",
+      "label": "永久关闭",
+      "period": "底表核实年份：2016；状态始于2016年",
+      "note": "该记录按全球普查底表列为永久关闭。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL146",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-146 · 总表第147行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL147": {
+      "key": "cancelled",
+      "label": "项目中止(未建成)",
+      "period": "底表核实年份：2006；状态始于2006年",
+      "note": "该记录按全球普查底表列为项目中止(未建成)。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL147",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-147 · 总表第148行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL148": {
+      "key": "planned",
+      "label": "规划中或可研",
+      "period": "底表核实年份：2026；状态始于2024年",
+      "note": "该记录按全球普查底表列为规划中或可研。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL148",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-148 · 总表第149行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL149": {
+      "key": "unknown",
+      "label": "不详",
+      "period": "底表核实年份：2026；状态始于2013年",
+      "note": "该记录按全球普查底表列为不详。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL149",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-149 · 总表第150行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL150": {
+      "key": "cancelled",
+      "label": "项目中止(未建成)",
+      "period": "底表核实年份：2011；状态始于2011年",
+      "note": "该记录按全球普查底表列为项目中止(未建成)。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL150",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-150 · 总表第151行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL151": {
+      "key": "operating",
+      "label": "在产",
+      "period": "底表核实年份：2026；状态始于2025年",
+      "note": "该记录按全球普查底表列为在产。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL151",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-151 · 总表第152行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL152": {
+      "key": "halted",
+      "label": "停产(可复产)",
+      "period": "底表核实年份：2026；状态始于2008年",
+      "note": "该记录按全球普查底表列为停产(可复产)。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL152",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-152 · 总表第153行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL153": {
+      "key": "care",
+      "label": "保养维护(C&M)",
+      "period": "底表核实年份：2026；状态始于2008年",
+      "note": "该记录按全球普查底表列为保养维护(C&M)。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL153",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-153 · 总表第154行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL154": {
+      "key": "unknown",
+      "label": "不详",
+      "period": "底表核实年份：1997；状态始于1997年",
+      "note": "该记录按全球普查底表列为不详。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL154",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-154 · 总表第155行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL155": {
+      "key": "operating",
+      "label": "在产",
+      "period": "底表核实年份：2026；状态始于2025年",
+      "note": "该记录按全球普查底表列为在产。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL155",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-155 · 总表第156行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL156": {
+      "key": "unknown",
+      "label": "不详",
+      "period": "底表核实年份：2014；状态始于2014年",
+      "note": "该记录按全球普查底表列为不详。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL156",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-156 · 总表第157行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL158": {
+      "key": "closed",
+      "label": "永久关闭",
+      "period": "底表核实年份：1920；状态始于1920年",
+      "note": "该记录按全球普查底表列为永久关闭。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL158",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-158 · 总表第159行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL159": {
+      "key": "closed",
+      "label": "永久关闭",
+      "period": "底表核实年份：1919；状态始于1919年",
+      "note": "该记录按全球普查底表列为永久关闭。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL159",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-159 · 总表第160行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL160": {
+      "key": "demolished",
+      "label": "已拆除",
+      "period": "底表核实年份：1897；状态始于1897年",
+      "note": "该记录按全球普查底表列为已拆除。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL160",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-160 · 总表第161行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL161": {
+      "key": "demolished",
+      "label": "已拆除",
+      "period": "底表核实年份：1893；状态始于1893年",
+      "note": "该记录按全球普查底表列为已拆除。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL161",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-161 · 总表第162行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL162": {
+      "key": "closed",
+      "label": "永久关闭",
+      "period": "底表核实年份：1876；状态始于1876年",
+      "note": "该记录按全球普查底表列为永久关闭。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL162",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-162 · 总表第163行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL163": {
+      "key": "closed",
+      "label": "永久关闭",
+      "period": "底表核实年份：1902；状态始于1902年",
+      "note": "该记录按全球普查底表列为永久关闭。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL163",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-163 · 总表第164行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL164": {
+      "key": "cancelled",
+      "label": "项目中止(未建成)",
+      "period": "底表核实年份：2025；状态始于2025年",
+      "note": "该记录按全球普查底表列为项目中止(未建成)。停产及变化背景见正文。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL164",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-164 · 总表第165行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL165": {
+      "key": "planned",
+      "label": "规划中或可研",
+      "period": "底表核实年份：2026；状态始于2024年",
+      "note": "该记录按全球普查底表列为规划中或可研。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL165",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-165 · 总表第166行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "GL166": {
+      "key": "planned",
+      "label": "规划中或可研",
+      "period": "底表核实年份：2026；状态始于2026年",
+      "note": "该记录按全球普查底表列为规划中或可研。",
+      "reviewed_at": "2026-09-18",
+      "article_id": "GL166",
+      "sources": [
+        {
+          "title": "全球普查底表 · NI-166 · 总表第167行",
+          "url": "library/global-register.csv"
+        }
+      ],
       "products": []
     }
   }

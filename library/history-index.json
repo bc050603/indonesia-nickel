@@ -1203,6 +1203,24 @@
           "source_url": "https://www.metanikel.com.tr/en/us/our-story",
           "source_title": "Meta企业沿革及HPAL技术",
           "project_id": "MHP034"
+        },
+        {
+          "date": "2015",
+          "label": "开始生产（底表投产年）",
+          "detail": "梅塔镍钴(Meta Nikel Kobalt)格尔德斯(Gördes)HPAL厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "MHP034",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-002 · 总表第3行"
+        },
+        {
+          "date": "2025",
+          "label": "在产",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "MHP034",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-002 · 总表第3行"
         }
       ],
       "coverage_note": "仍缺：最新停复产与亏损原因的官方确认 2026股权变化 客户、承购期限与产品比例"
@@ -1254,6 +1272,24 @@
           "source_url": "https://nickel28.com/investors/news-releases/nickel-28-releases-ramu-q2-operating-performance",
           "source_title": "Nickel28 Ramu2026Q2运营",
           "project_id": "MHP037"
+        },
+        {
+          "date": "2012",
+          "label": "开始生产（底表投产年）",
+          "detail": "拉穆(Ramu)镍钴项目——巴萨穆克(Basamuk)高压酸浸精炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "MHP037",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-070 · 总表第71行"
+        },
+        {
+          "date": "2025",
+          "label": "在产",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "MHP037",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-070 · 总表第71行"
         }
       ],
       "coverage_note": "仍缺：全部PNG股东最新股比 名义与可持续能力 具体买方合同及现期产品去向"
@@ -1287,6 +1323,24 @@
           "source_url": "https://nornickel.com/upload/iblock/94a/2014_Annual_consolidated_financial_statements_of_MMC_Norilsk_Nickel.pdf",
           "source_title": "Nornickel 2014 audited consolidated financial statements",
           "project_id": "MHP041"
+        },
+        {
+          "date": "1998",
+          "label": "开始生产（底表投产年）",
+          "detail": "布隆镍钴项目的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "MHP041",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-081 · 总表第82行"
+        },
+        {
+          "date": "2003",
+          "label": "永久关闭",
+          "detail": "工艺(源自1950年代古巴Moa Bay加压酸浸工艺)被证明不适应西澳当地矿石条件：矿石镁含量高(约5%)导致硫酸耗量高达每吨矿500公斤，加之矿石品位低(约1%Ni)、粘土矿物特性造成管道石膏结垢堵塞，运营成本失控。2002年债权人托管，2003年停产。此后虽多次易主但均未复产，2014年后未见任何后续报道，故按长期无经营活动列为永久关闭，但需注意部分基础设施据称曾被保留以备未来硫化矿业务使用，并无正式'永久关闭/拆除'的官方声明。",
+          "kind": "运营变化",
+          "project_id": "MHP041",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-081 · 总表第82行"
         }
       ],
       "coverage_note": "仍缺：具体当前持有人 完整原始流程和设备保留 实际停止原因及后续处理"
@@ -1362,6 +1416,24 @@
           "source_url": "https://nickelasia.com/assets/documents/C2605-NIKL-2026-AGM-Definitive-Information-Statement-with-SEC-17-A-2025-AFS-and-17-Q.pdf",
           "source_title": "Nickel Asia2026股东会文件与2025年报/2026Q1",
           "project_id": "MHP047"
+        },
+        {
+          "date": "2013",
+          "label": "开始生产（底表投产年）",
+          "detail": "塔加尼托HPAL镍业公司的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "MHP047",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-063 · 总表第64行"
+        },
+        {
+          "date": "2025",
+          "label": "在产",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "MHP047",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-063 · 总表第64行"
         }
       ],
       "coverage_note": "仍缺：最新设计与扩建能力 实际MS销售渠道份额 股东承购和供矿期限"
@@ -2506,6 +2578,24 @@
           "source_url": "https://fr.linkedin.com/posts/prony-resources-new-caledonia_shutdown-usineacide-nickel-activity-7498256597073223680-2GRz",
           "source_title": "Prony Resources 2026年检修复产更新",
           "project_id": "MHP035"
+        },
+        {
+          "date": "2010",
+          "label": "开始生产（底表投产年）",
+          "detail": "戈罗(Goro)镍厂（南部工厂，Prony Resources运营）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "MHP035",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-075 · 总表第76行"
+        },
+        {
+          "date": "2026",
+          "label": "在产",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "MHP035",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-075 · 总表第76行"
         }
       ],
       "coverage_note": "仍缺：2026年最终股权结构；当前可持续能力和实际年度产量；Tesla及其他客户合同的现行期限和交付安排"
@@ -2571,6 +2661,15 @@
           "project_id": "MHP045"
         },
         {
+          "date": "2026Q1",
+          "label": "Nickel Asia继续供应HPAL矿石",
+          "detail": "Nickel Asia经营文件仍记录向HPAL项目供应矿石，说明退出Coral Bay股权后供矿关系并未因此自动终止。",
+          "kind": "经营",
+          "source_url": "https://nickelasia.com/assets/documents/C2605-NIKL-2026-AGM-Definitive-Information-Statement-with-SEC-17-A-2025-AFS-and-17-Q.pdf",
+          "source_title": "Nickel Asia 2026年股东会及经营文件",
+          "project_id": "MHP045"
+        },
+        {
           "date": "2026-03-31",
           "label": "法定报告列为全资子公司",
           "detail": "住友金属矿山2026年有价证券报告在期末将CBNC列为100%持股子公司，表明剩余权益收购已反映在法定股权披露中。",
@@ -2580,13 +2679,22 @@
           "project_id": "MHP045"
         },
         {
-          "date": "2026Q1",
-          "label": "Nickel Asia继续供应HPAL矿石",
-          "detail": "Nickel Asia经营文件仍记录向HPAL项目供应矿石，说明退出Coral Bay股权后供矿关系并未因此自动终止。",
-          "kind": "经营",
-          "source_url": "https://nickelasia.com/assets/documents/C2605-NIKL-2026-AGM-Definitive-Information-Statement-with-SEC-17-A-2025-AFS-and-17-Q.pdf",
-          "source_title": "Nickel Asia 2026年股东会及经营文件",
-          "project_id": "MHP045"
+          "date": "2005",
+          "label": "开始生产（底表投产年）",
+          "detail": "科拉尔湾镍业公司的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "MHP045",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-062 · 总表第63行"
+        },
+        {
+          "date": "2025",
+          "label": "在产",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "MHP045",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-062 · 总表第63行"
         }
       ],
       "coverage_note": "仍缺：最新额定能力与实际运行负荷；日本各精炼厂的年度分配量；Nickel Asia供矿合同的期限与定价"
@@ -2665,6 +2773,24 @@
           "source_url": "https://www.linkedin.com/pulse/from-recovery-renewal-ambatovy-vdeoe",
           "source_title": "Ambatovy恢复生产文章",
           "project_id": "MHP048"
+        },
+        {
+          "date": "2012",
+          "label": "开始生产（底表投产年）",
+          "detail": "安巴托维图阿马西纳湿法冶炼及精炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "MHP048",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-157 · 总表第158行"
+        },
+        {
+          "date": "2026",
+          "label": "在产",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "MHP048",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-157 · 总表第158行"
         }
       ],
       "coverage_note": "仍缺：AMRI入股后的完整股权表；重启后的首批金属及持续负荷；现行客户和长期销售合同"
@@ -3932,6 +4058,24 @@
           "source_url": "https://www.first-quantum.com/wp-content/uploads/2026/03/First-Quantum-2025-AR-Final-Web.pdf",
           "source_title": "First Quantum2025年报",
           "project_id": "MHP036"
+        },
+        {
+          "date": "2008",
+          "label": "开始生产（底表投产年）",
+          "detail": "雷文斯索普镍项目的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "MHP036",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-084 · 总表第85行"
+        },
+        {
+          "date": "2024",
+          "label": "保养维护(C&M)",
+          "detail": "镍价持续低迷、运营成本高企，导致经济性不佳。2024年1月先减少30%采矿人力，4月29日宣布进入保养维护(裁员330人)，7月起矿山停采；处理现有库存矿石预计维持约2年后计划恢复采矿(未见具体复产年份公告)。",
+          "kind": "运营变化",
+          "project_id": "MHP036",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-084 · 总表第85行"
         }
       ],
       "coverage_note": "已整理现有正文中的关键里程碑。具体仍缺：复产经济条件及正式重启决定 最新含镍能力技术报告口径 完整销售条款"
@@ -3965,6 +4109,24 @@
           "source_url": "https://nornickel.com/upload/iblock/00a/fy2014_ifrs_press_release_ang_final_1_full.pdf",
           "source_title": "Nornickel2014审计业绩",
           "project_id": "MHP040"
+        },
+        {
+          "date": "1999",
+          "label": "开始生产（底表投产年）",
+          "detail": "科斯镍钴项目的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "MHP040",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-082 · 总表第83行"
+        },
+        {
+          "date": "2008",
+          "label": "保养维护(C&M)",
+          "detail": "2008年全球金融危机导致镍价大幅下跌，运营不再经济，进入保养维护。此后历经Norilsk Nickel、Wingstar Investments易主，但均未重新投产，长期处于保养维护状态。",
+          "kind": "运营变化",
+          "project_id": "MHP040",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-082 · 总表第83行"
         }
       ],
       "coverage_note": "已整理现有正文中的关键里程碑。具体仍缺：当前法律产权与设备完整性 任何重启决定 历史流程是否曾外销MHP；法律实体：历史Norilsk Nickel Cawse Pty Ltd及相关资产；现运营法人仍需确认"
@@ -3989,6 +4151,15 @@
           "source_url": "https://www.cnnbrasil.com.br/infra/bndes-aprova-r-100-milhoes-para-projeto-da-brazilian-nickel-no-piaui/",
           "source_title": "CNN采访公司Piauí融资进度",
           "project_id": "MHP043"
+        },
+        {
+          "date": "2026",
+          "label": "规划中或可研",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "MHP043",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-137 · 总表第138行"
         }
       ],
       "coverage_note": "已整理现有正文中的关键里程碑。具体仍缺：完整融资关闭及FID 首产计划2029/2030版本 小规模当前运行和产出 最终承购"
@@ -4022,6 +4193,24 @@
           "source_url": "https://www.terrafame.com/newsroom/news/terrafames-january-june-2026-strategy-execution-progressed-as-planned-and-profitability-improved.html",
           "source_title": "Terrafame2026H1运营报告",
           "project_id": "MHP046"
+        },
+        {
+          "date": "2008",
+          "label": "开始生产（底表投产年）",
+          "detail": "泰拉法梅（Terrafame）索特卡莫矿山及电池化学品厂（原塔尔维瓦拉Talvivaara）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "MHP046",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-019 · 总表第20行"
+        },
+        {
+          "date": "2025",
+          "label": "在产",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "MHP046",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-019 · 总表第20行"
         }
       ],
       "coverage_note": "已整理现有正文中的关键里程碑。具体仍缺：最新精确股比 MS外售与内部消耗比例 长期承购和终端去向 额定3万/3.2万更新"
@@ -4046,6 +4235,24 @@
           "source_url": "https://www.glencore.com/media-and-insights/news/full-year-2025-production-report",
           "source_title": "Glencore2025生产报告",
           "project_id": "MHP049"
+        },
+        {
+          "date": "1999",
+          "label": "开始生产（底表投产年）",
+          "detail": "穆林穆林镍钴项目的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "MHP049",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-083 · 总表第84行"
+        },
+        {
+          "date": "2025",
+          "label": "在产",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "MHP049",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-083 · 总表第84行"
         }
       ],
       "coverage_note": "已整理现有正文中的关键里程碑。具体仍缺：最新额定含镍能力 2026实际单厂量 第三方料与自产占比 是否有外售MS合同"
@@ -4100,6 +4307,3198 @@
         }
       ],
       "coverage_note": "已整理现有正文中的关键里程碑。具体仍缺：首批阴极镍的准确日期（现仅确认2024-10-15已有成品）；高冰镍／MHP等原料构成与具名供应方；2024、2025、2026阴极镍产销量；股东承购、价格公式及最终客户；副产品种类和产量"
+    },
+    "GL001": {
+      "project_id": "GL001",
+      "events": [
+        {
+          "date": "1982",
+          "label": "开始生产（底表投产年）",
+          "detail": "欧洲镍业(Euronickel Industries，原FENI Industries)卡瓦达尔齐镍铁厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL001",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-001 · 总表第2行"
+        },
+        {
+          "date": "2024",
+          "label": "停产(可复产)",
+          "detail": "2021-2023年间与瑞士贸易商Arrow Metals & Trading AG的不利合同安排导致严重亏损（据2025年刑事指控），叠加能源/镍价波动，最终于2024年2月2日进入破产程序；2024年5月被土耳其Yıldırım Group收购，工会称预计约3个月内复产，但本次研究未能查得2024年下半年至2025-2026年是否已实际恢复生产的确凿证据（截至2025年9月的报道仅涉及对前高管的刑事指控，未提及当前生产状态）",
+          "kind": "运营变化",
+          "project_id": "GL001",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-001 · 总表第2行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL003": {
+      "project_id": "GL003",
+      "events": [
+        {
+          "date": "2013",
+          "label": "保养维护(C&M)",
+          "detail": "露天矿开采需清除约10万棵松树，土耳其原已颁发的林业许可被宪法法院撤销；尽管2010年6月土耳其修订矿业法试图解决此类问题，但相关部门此后未再重新颁发许可，项目遂陷入停滞并被置于保养维护状态",
+          "kind": "运营变化",
+          "project_id": "GL003",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-003 · 总表第4行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL004": {
+      "project_id": "GL004",
+      "events": [
+        {
+          "date": "1966",
+          "label": "开始生产（底表投产年）",
+          "detail": "拉尔科(LARCO)拉里姆纳镍铁冶炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL004",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-004 · 总表第5行"
+        },
+        {
+          "date": "2022",
+          "label": "永久关闭",
+          "detail": "长期亏损与债务危机（截至停产时总债务约4.7亿欧元，其中3.512亿欧元欠国家电力公司PPC）；多轮私有化/资产处置招标失败（2021年6轮非约束性投标未能达成交易；2024年8月GEK Terna/AD Holdings财团以'全球能源和镍产品市场不利变化'及法律纠纷为由退出）；2020年2月起进入特别管理程序，2022年7月25日工厂正式全面停产，1,061名员工遭解雇（约400人短期续聘、约100人退休），希腊国家为此支付遣散费约2,237.7万欧元",
+          "kind": "运营变化",
+          "project_id": "GL004",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-004 · 总表第5行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL005": {
+      "project_id": "GL005",
+      "events": [
+        {
+          "date": "2025",
+          "label": "在产",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL005",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-005 · 总表第6行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL006": {
+      "project_id": "GL006",
+      "events": [
+        {
+          "date": "1688",
+          "label": "开始生产（底表投产年）",
+          "detail": "灵厄里克镍冶炼厂(Ringerike Nikkelverk)的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL006",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-006 · 总表第7行"
+        },
+        {
+          "date": "1920",
+          "label": "永久关闭",
+          "detail": "埃尔特利恩主矿区自1880年前后开始产量下滑,1903年永久关闭;公司1913年曾尝试复产,仅维持数年后于1920年正式宣告破产，全面停产。停产背景与19世纪末新喀里多尼亚、加拿大萨德伯里新发现的大规模优质镍矿引发的国际镍价竞争压力有关(与同期瑞典克莱瓦镍矿、奥地利施拉德明镍厂关闭原因一致)，但挪威大百科全书原文未直接点明该因果关系，此处为本研究的合理推断。",
+          "kind": "运营变化",
+          "project_id": "GL006",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-006 · 总表第7行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL007": {
+      "project_id": "GL007",
+      "events": [
+        {
+          "date": "1872",
+          "label": "开始生产（底表投产年）",
+          "detail": "埃夫耶镍冶炼厂（弗洛特矿配套冶炼厂）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL007",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-007 · 总表第8行"
+        },
+        {
+          "date": "1946",
+          "label": "永久关闭",
+          "detail": "弗洛特矿藏枯竭(矿井最终深度422米,已低于海平面),矿山与配套冶炼厂同步关闭;二战结束后未复产",
+          "kind": "运营变化",
+          "project_id": "GL007",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-007 · 总表第8行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL008": {
+      "project_id": "GL008",
+      "events": [
+        {
+          "date": "1883",
+          "label": "开始生产（底表投产年）",
+          "detail": "塞尼亚(Senjen)镍矿冶炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL008",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-008 · 总表第9行"
+        },
+        {
+          "date": "1894",
+          "label": "永久关闭",
+          "detail": "存疑;具体关闭年份未直接查实,1894年为推断值——据H.H. Vivian & Co.同期(1889-1894年)转向经营加拿大萨德伯里Murray矿并以其矿石替代挪威矿源的时间点反推,请谨慎使用",
+          "kind": "运营变化",
+          "project_id": "GL008",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-008 · 总表第9行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL009": {
+      "project_id": "GL009",
+      "events": [
+        {
+          "date": "1910",
+          "label": "开始生产（底表投产年）",
+          "detail": "嘉能可克里斯蒂安桑镍精炼厂(Nikkelverk)的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL009",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-009 · 总表第10行"
+        },
+        {
+          "date": "2025",
+          "label": "在产",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL009",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-009 · 总表第10行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL010": {
+      "project_id": "GL010",
+      "events": [
+        {
+          "date": "1959",
+          "label": "开始生产（底表投产年）",
+          "detail": "谢雷季(Sereď)镍钴电解厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL010",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-010 · 总表第11行"
+        },
+        {
+          "date": "1992",
+          "label": "永久关闭",
+          "detail": "'主要出于经济原因'(pôvodne z ekonomických dôvodov)，冷战结束、经济体制转轨后原料供应(阿尔巴尼亚矿)与经济性均难以为继；厂址后遗留大量含镍工业废渣堆场，成为斯洛伐克境内重要的历史污染场地，近年有多篇环境地质学论文研究该堆场对多瑙河低地环境的影响",
+          "kind": "运营变化",
+          "project_id": "GL010",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-010 · 总表第11行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL011": {
+      "project_id": "GL011",
+      "events": [
+        {
+          "date": "2025",
+          "label": "在产",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL011",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-011 · 总表第12行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL012": {
+      "project_id": "GL012",
+      "events": [
+        {
+          "date": "1875",
+          "label": "开始生产（底表投产年）",
+          "detail": "塞普泰姆莱瓦隆镍冶炼厂(马尔博与加尼耶创办)的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL012",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-012 · 总表第13行"
+        },
+        {
+          "date": "1900",
+          "label": "永久关闭",
+          "detail": "存疑;推测为SLN(1880年成立)整合法国本土及新喀里多尼亚当地冶炼产能后,该厂逐步被取代或关闭,具体年份及原因本轮检索未能独立核实一手资料",
+          "kind": "运营变化",
+          "project_id": "GL012",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-012 · 总表第13行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL013": {
+      "project_id": "GL013",
+      "events": [
+        {
+          "date": "2025",
+          "label": "保养维护(C&M)",
+          "detail": "持续亏损；Sibanye收购后原计划生产电池级硫酸镍，但因终止一项主要原料供应合同(耗资约3,700万美元)及市场环境，2024-2025年处于'消化库存、边际运营'状态，同时启动向正极前驱体材料(pCAM)转型的可行性研究(GalliCam项目)，尚未确定最终投资决定",
+          "kind": "运营变化",
+          "project_id": "GL013",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-013 · 总表第14行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL014": {
+      "project_id": "GL014",
+      "events": [
+        {
+          "date": "1895",
+          "label": "开始生产（底表投产年）",
+          "detail": "什克拉雷(Szklary)镍矿与冶炼厂【德国时期称\"法兰肯施泰因镍厂\"，波兰时期称什克拉雷矿冶联合企业】的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL014",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-014 · 总表第15行"
+        },
+        {
+          "date": "1983",
+          "label": "已拆除",
+          "detail": "存疑(据研究简报为矿藏枯竭/经济性下降,本轮检索未能独立核实一手资料)",
+          "kind": "运营变化",
+          "project_id": "GL014",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-014 · 总表第15行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL015": {
+      "project_id": "GL015",
+      "events": [
+        {
+          "date": "1984",
+          "label": "开始生产（底表投产年）",
+          "detail": "纽科费罗尼克利(NewCo Ferronikeli)镍铁联合企业的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL015",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-015 · 总表第16行"
+        },
+        {
+          "date": "2023",
+          "label": "在产",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL015",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-015 · 总表第16行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL016": {
+      "project_id": "GL016",
+      "events": [
+        {
+          "date": "1959",
+          "label": "开始生产（底表投产年）",
+          "detail": "波利登哈尔亚瓦尔塔冶炼厂（镍线）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL016",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-016 · 总表第17行"
+        },
+        {
+          "date": "2025",
+          "label": "在产",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL016",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-016 · 总表第17行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL017": {
+      "project_id": "GL017",
+      "events": [
+        {
+          "date": "1960",
+          "label": "开始生产（底表投产年）",
+          "detail": "诺里尔斯克镍业哈尔亚瓦尔塔精炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL017",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-017 · 总表第18行"
+        },
+        {
+          "date": "2025",
+          "label": "在产",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL017",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-017 · 总表第18行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL018": {
+      "project_id": "GL018",
+      "events": [
+        {
+          "date": "1990",
+          "label": "开始生产（底表投产年）",
+          "detail": "科科拉(Umicore)镍精炼规划线(暂停)；现有钴精炼/pCAM厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL018",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-018 · 总表第19行"
+        },
+        {
+          "date": "2022",
+          "label": "规划中或可研",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL018",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-018 · 总表第19行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL020": {
+      "project_id": "GL020",
+      "events": [
+        {
+          "date": "1883",
+          "label": "开始生产（底表投产年）",
+          "detail": "哈福德伊沙(Hafod Isha)镍钴厂(维维安父子公司)的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL020",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-020 · 总表第21行"
+        },
+        {
+          "date": "1894",
+          "label": "永久关闭",
+          "detail": "存疑;推测为萨德伯里矿石大量涌现后,原料就地在北美加工(经由奥福德\"上下层分离法\"及加拿大铜业公司/国际镍公司体系)更具经济性,英国斯旺西精炼环节逐步失去竞争力而停止,具体关闭年份及决策细节本轮检索未能独立核实一手资料,1894年为参照该公司萨德伯里矿权终止年份的推断值",
+          "kind": "运营变化",
+          "project_id": "GL020",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-020 · 总表第21行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL021": {
+      "project_id": "GL021",
+      "events": [
+        {
+          "date": "1902",
+          "label": "开始生产（底表投产年）",
+          "detail": "淡水河谷克莱达赫(Clydach)镍精炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL021",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-021 · 总表第22行"
+        },
+        {
+          "date": "2025",
+          "label": "在产",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL021",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-021 · 总表第22行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL022": {
+      "project_id": "GL022",
+      "events": [
+        {
+          "date": "1924",
+          "label": "开始生产（底表投产年）",
+          "detail": "国际镍公司(INCO)/淡水河谷阿克顿(Acton)精炼厂（伦敦）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL022",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-022 · 总表第23行"
+        },
+        {
+          "date": "2019",
+          "label": "永久关闭",
+          "detail": "未查实具体关停时间及原因；从Vale现有公开表述（Clydach为'英国唯一在产镍精炼厂'）可推断Acton厂目前已不再从事镍精炼业务，但确切关停/转型年份、是否仍作PGM精炼用途，均未能在本次研究中证实，列为研究缺口",
+          "kind": "运营变化",
+          "project_id": "GL022",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-022 · 总表第23行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL023": {
+      "project_id": "GL023",
+      "events": [
+        {
+          "date": "1976",
+          "label": "开始生产（底表投产年）",
+          "detail": "埃尔巴桑冶金联合企业镍钴厂(\"党的钢铁\"联合企业)的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL023",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-023 · 总表第24行"
+        },
+        {
+          "date": "1991",
+          "label": "永久关闭",
+          "detail": "存疑;推测为1990-1991年阿尔巴尼亚计划经济体制崩溃、苏东剧变后经济危机、原料及能源供应中断,以及中国技术支持终止后设备老化失修等因素综合导致停产,具体停产年份及直接原因本轮检索未能独立核实一手资料",
+          "kind": "运营变化",
+          "project_id": "GL023",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-023 · 总表第24行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL024": {
+      "project_id": "GL024",
+      "events": [
+        {
+          "date": "1965",
+          "label": "开始生产（底表投产年）",
+          "detail": "波布日镍铁厂（PFK）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL024",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-024 · 总表第25行"
+        },
+        {
+          "date": "2022",
+          "label": "停产(可复产)",
+          "detail": "俄乌战争：2022年10月22日俄军导弹袭击乌克兰能源基础设施导致停电，影响冶金工艺及取水系统，2022年11月1日起停产；此后受黑海港口物流封锁影响长期仅以约50%产能间歇性运行，并多次因电网持续遭袭而被迫再次停产；2026年5月所有权变更为瑞士Avenir Group后，新业主表态拟将部分厂区转型为'工业与能源园区'，是否会恢复镍铁冶炼生产尚不明朗，故未定性为永久关闭",
+          "kind": "运营变化",
+          "project_id": "GL024",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-024 · 总表第25行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL025": {
+      "project_id": "GL025",
+      "events": [
+        {
+          "date": "1933",
+          "label": "开始生产（底表投产年）",
+          "detail": "乌法列镍厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL025",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-025 · 总表第26行"
+        },
+        {
+          "date": "2017",
+          "label": "永久关闭",
+          "detail": "镍价长期低迷、经营持续亏损，叠加逾160亿卢布债务，2017年10月被俄法院裁定破产清算",
+          "kind": "运营变化",
+          "project_id": "GL025",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-025 · 总表第26行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL026": {
+      "project_id": "GL026",
+      "events": [
+        {
+          "date": "1936",
+          "label": "开始生产（底表投产年）",
+          "detail": "雷日镍厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL026",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-026 · 总表第27行"
+        },
+        {
+          "date": "2017",
+          "label": "永久关闭",
+          "detail": "与乌法列镍厂同期破产：镍价低迷、经营长期亏损，叠加约160亿卢布债务，Рост银行主导的破产程序中于2017年10月被裁定破产",
+          "kind": "运营变化",
+          "project_id": "GL026",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-026 · 总表第27行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL027": {
+      "project_id": "GL027",
+      "events": [
+        {
+          "date": "1938",
+          "label": "开始生产（底表投产年）",
+          "detail": "南乌拉尔镍联合企业（奥尔斯克）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL027",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-027 · 总表第28行"
+        },
+        {
+          "date": "2012",
+          "label": "保养维护(C&M)",
+          "detail": "镍价长期低迷、高能源成本、原料及产品运输成本高导致持续亏损，2012年停产封存；2015年被俄联邦税务局申请破产程序",
+          "kind": "运营变化",
+          "project_id": "GL027",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-027 · 总表第28行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL028": {
+      "project_id": "GL028",
+      "events": [
+        {
+          "date": "1939",
+          "label": "开始生产（底表投产年）",
+          "detail": "北方镍厂（科拉矿冶公司精炼厂，蒙切戈尔斯克）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL028",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-028 · 总表第29行"
+        },
+        {
+          "date": "2026",
+          "label": "在产",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL028",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-028 · 总表第29行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL029": {
+      "project_id": "GL029",
+      "events": [
+        {
+          "date": "1942",
+          "label": "开始生产（底表投产年）",
+          "detail": "诺里尔斯克镍厂（老镍厂）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL029",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-029 · 总表第30行"
+        },
+        {
+          "date": "2019",
+          "label": "已拆除",
+          "detail": "设备陈旧、基础设施磨损严重；环保（该厂当时约占诺里尔斯克地区大气污染的25%，年排放约40万吨SO2）；2014年Nornickel与俄罗斯联邦政府达成协议，以取消镍/铜阴极出口关税（价值约110亿卢布）换取公司承担关厂、拆除设备及员工安置的成本",
+          "kind": "运营变化",
+          "project_id": "GL029",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-029 · 总表第30行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL030": {
+      "project_id": "GL030",
+      "events": [
+        {
+          "date": "1946",
+          "label": "开始生产（底表投产年）",
+          "detail": "佩琴加镍厂（尼克尔镇冶炼厂）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL030",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-030 · 总表第31行"
+        },
+        {
+          "date": "2020",
+          "label": "永久关闭",
+          "detail": "环保（减少SO2排放，改善与挪威、芬兰接壤地区的空气质量，该厂长期被列为北欧最大的跨境污染源之一）+设备陈旧；2020年12月完全停止熔炼作业，此后陆续拆除烟囱等构筑物（2021年起）",
+          "kind": "运营变化",
+          "project_id": "GL030",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-030 · 总表第31行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL031": {
+      "project_id": "GL031",
+      "events": [
+        {
+          "date": "1979",
+          "label": "开始生产（底表投产年）",
+          "detail": "纳杰日达冶金厂（纳杰日金斯基冶金厂）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL031",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-031 · 总表第32行"
+        },
+        {
+          "date": "2026",
+          "label": "在产",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL031",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-031 · 总表第32行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL032": {
+      "project_id": "GL032",
+      "events": [
+        {
+          "date": "2018",
+          "label": "停产(可复产)",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL032",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-032 · 总表第33行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL033": {
+      "project_id": "GL033",
+      "events": [
+        {
+          "date": "2026",
+          "label": "规划中或可研",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL033",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-033 · 总表第34行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL034": {
+      "project_id": "GL034",
+      "events": [
+        {
+          "date": "2026",
+          "label": "在产",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL034",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-034 · 总表第35行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL035": {
+      "project_id": "GL035",
+      "events": [
+        {
+          "date": "2025",
+          "label": "在建",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL035",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-035 · 总表第36行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL036": {
+      "project_id": "GL036",
+      "events": [
+        {
+          "date": "1982",
+          "label": "开始生产（底表投产年）",
+          "detail": "台湾镍业精炼股份有限公司的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL036",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-036 · 总表第37行"
+        },
+        {
+          "date": "2012",
+          "label": "不详",
+          "detail": "未确认；据ImportGenius贸易记录，该公司进口活动最后记录止于2012年7月14日(数据库覆盖范围2006-2019年)，此后未见任何进口/生产活动记录，推测可能已大幅减产或停产，但无直接停产公告可确认，故状态列为'不详'而非'永久关闭'",
+          "kind": "运营变化",
+          "project_id": "GL036",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-036 · 总表第37行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL037": {
+      "project_id": "GL037",
+      "events": [
+        {
+          "date": "1939",
+          "label": "开始生产（底表投产年）",
+          "detail": "新居浜镍精炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL037",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-037 · 总表第38行"
+        },
+        {
+          "date": "2024",
+          "label": "在产",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL037",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-037 · 总表第38行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL038": {
+      "project_id": "GL038",
+      "events": [
+        {
+          "date": "1951",
+          "label": "开始生产（底表投产年）",
+          "detail": "志村化工株式会社(电解镍厂，历史)的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL038",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-038 · 总表第39行"
+        },
+        {
+          "date": "1979",
+          "label": "永久关闭",
+          "detail": "经营/原料成本问题：1963年起停止自建竖炉熔炼、改依赖进口镍锍精炼，最终1979年全面退出电解镍生产，转为住友金属矿山的委托加工(toll)方",
+          "kind": "运营变化",
+          "project_id": "GL038",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-038 · 总表第39行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL039": {
+      "project_id": "GL039",
+      "events": [
+        {
+          "date": "1952",
+          "label": "开始生产（底表投产年）",
+          "detail": "日本冶金工业 大江山制作所的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL039",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-039 · 总表第40行"
+        },
+        {
+          "date": "2024",
+          "label": "在产",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL039",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-039 · 总表第40行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL040": {
+      "project_id": "GL040",
+      "events": [
+        {
+          "date": "1966",
+          "label": "开始生产（底表投产年）",
+          "detail": "播磨精炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL040",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-040 · 总表第41行"
+        },
+        {
+          "date": "2023",
+          "label": "在产",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL040",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-040 · 总表第41行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL041": {
+      "project_id": "GL041",
+      "events": [
+        {
+          "date": "1966",
+          "label": "开始生产（底表投产年）",
+          "detail": "太平洋金属八户制炼所的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL041",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-041 · 总表第42行"
+        },
+        {
+          "date": "2025",
+          "label": "减产或部分停产",
+          "detail": "镍价长期低迷叠加印尼镍铁(NPI)低成本产能冲击，公司主动大幅削减产量以控制亏损，截至2025年3月已连续三个财年(FY2022-FY2024)出现亏损",
+          "kind": "运营变化",
+          "project_id": "GL041",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-041 · 总表第42行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL042": {
+      "project_id": "GL042",
+      "events": [
+        {
+          "date": "1975",
+          "label": "开始生产（底表投产年）",
+          "detail": "日本矿业 镍钴分离厂(历史，选址未确认)的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL042",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-042 · 总表第43行"
+        },
+        {
+          "date": "1975",
+          "label": "不详",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL042",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-042 · 总表第43行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL043": {
+      "project_id": "GL043",
+      "events": [
+        {
+          "date": "2024",
+          "label": "在产",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL043",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-043 · 总表第44行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL044": {
+      "project_id": "GL044",
+      "events": [
+        {
+          "date": "2019",
+          "label": "在产",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL044",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-044 · 总表第45行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL045": {
+      "project_id": "GL045",
+      "events": [
+        {
+          "date": "2025",
+          "label": "规划中或可研",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL045",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-045 · 总表第46行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL046": {
+      "project_id": "GL046",
+      "events": [
+        {
+          "date": "2025",
+          "label": "在建",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL046",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-046 · 总表第47行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL047": {
+      "project_id": "GL047",
+      "events": [
+        {
+          "date": "2023",
+          "label": "在产",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL047",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-047 · 总表第48行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL048": {
+      "project_id": "GL048",
+      "events": [
+        {
+          "date": "1987",
+          "label": "开始生产（底表投产年）",
+          "detail": "韩国镍业公司(KNC)的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL048",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-048 · 总表第49行"
+        },
+        {
+          "date": "2023",
+          "label": "永久关闭",
+          "detail": "POSCO与高丽亚锌两大股东分别转向自建独立镍供应链(POSCO的光阳高纯镍精炼厂、高丽亚锌/KEMCO的Onsan新镍冶炼产能)以分散供应商、掌控电池材料原料自主权，三方决定终止合资并清算该公司",
+          "kind": "运营变化",
+          "project_id": "GL048",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-048 · 总表第49行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL049": {
+      "project_id": "GL049",
+      "events": [
+        {
+          "date": "2008",
+          "label": "开始生产（底表投产年）",
+          "detail": "SNNC(POSCO-SMSP合资镍铁厂)的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL049",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-049 · 总表第50行"
+        },
+        {
+          "date": "2024",
+          "label": "在产",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL049",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-049 · 总表第50行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL050": {
+      "project_id": "GL050",
+      "events": [
+        {
+          "date": "2021",
+          "label": "开始生产（底表投产年）",
+          "detail": "EcoPro Materials 浦项厂(RMP镍钴精炼+前驱体)的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL050",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-050 · 总表第51行"
+        },
+        {
+          "date": "2025",
+          "label": "在产",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL050",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-050 · 总表第51行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL051": {
+      "project_id": "GL051",
+      "events": [
+        {
+          "date": "2023",
+          "label": "开始生产（底表投产年）",
+          "detail": "POSCO 光阳高纯镍精炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL051",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-051 · 总表第52行"
+        },
+        {
+          "date": "2023",
+          "label": "在产",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL051",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-051 · 总表第52行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL052": {
+      "project_id": "GL052",
+      "events": [
+        {
+          "date": "2023",
+          "label": "开始生产（底表投产年）",
+          "detail": "Torecom(LS MnM子公司) 牙山硫酸镍精炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL052",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-052 · 总表第53行"
+        },
+        {
+          "date": "2023",
+          "label": "在产",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL052",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-052 · 总表第53行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL053": {
+      "project_id": "GL053",
+      "events": [
+        {
+          "date": "2026",
+          "label": "开始生产（底表投产年）",
+          "detail": "高丽亚锌 温山'一体化镍冶炼厂'(新建)的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL053",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-053 · 总表第54行"
+        },
+        {
+          "date": "2026",
+          "label": "在建",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL053",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-053 · 总表第54行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL054": {
+      "project_id": "GL054",
+      "events": [
+        {
+          "date": "2026",
+          "label": "开始生产（底表投产年）",
+          "detail": "LS MnM 温山镍钴锰硫酸盐新厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL054",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-054 · 总表第55行"
+        },
+        {
+          "date": "2024",
+          "label": "在建",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL054",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-054 · 总表第55行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL055": {
+      "project_id": "GL055",
+      "events": [
+        {
+          "date": "2021",
+          "label": "在产",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL055",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-055 · 总表第56行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL056": {
+      "project_id": "GL056",
+      "events": [
+        {
+          "date": "2021",
+          "label": "不详",
+          "detail": "自2004/05财年起未报告硫酸镍产量，具体原因(如铜精炼副产液成分变化、经济性不足、设备老化等)未见公开说明，未见官方'永久关闭'的正式声明",
+          "kind": "运营变化",
+          "project_id": "GL056",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-056 · 总表第57行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL057": {
+      "project_id": "GL057",
+      "events": [
+        {
+          "date": "2023",
+          "label": "在产",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL057",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-057 · 总表第58行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL058": {
+      "project_id": "GL058",
+      "events": [
+        {
+          "date": "2022",
+          "label": "规划中或可研",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL058",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-058 · 总表第59行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL059": {
+      "project_id": "GL059",
+      "events": [
+        {
+          "date": "2011",
+          "label": "开始生产（底表投产年）",
+          "detail": "德贡东（塔冈冬）镍铁冶炼项目的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL059",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-059 · 总表第60行"
+        },
+        {
+          "date": "2024",
+          "label": "减产或部分停产",
+          "detail": "非因经济或资源原因永久关闭；2022年1月因缅甸反政府武装(Tigyaing镇人民防卫军)破坏输电基础设施被迫停产；此后缅甸内战持续，该项目经营状况未能核实",
+          "kind": "运营变化",
+          "project_id": "GL059",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-059 · 总表第60行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL060": {
+      "project_id": "GL060",
+      "events": [
+        {
+          "date": "2014",
+          "label": "项目中止(未建成)",
+          "detail": "2013年2月完成可行性研究后，因当地社区强烈反对(土地征用、透明度缺失、利益分配不公——仅2-5%利益分成给钦邦当地、缺乏事先自由知情同意FPIC)、资源分成谈判失败及镍价大跌(从每吨逾2万美元跌至不足1万美元)，项目于2014年起无限期搁置，此后未见复工报道",
+          "kind": "运营变化",
+          "project_id": "GL060",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-060 · 总表第61行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL061": {
+      "project_id": "GL061",
+      "events": [
+        {
+          "date": "1974",
+          "label": "开始生产（底表投产年）",
+          "detail": "诺诺克岛镍精炼厂（马林杜克矿业公司建；后由Philnico公司尝试复产改造）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL061",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-061 · 总表第62行"
+        },
+        {
+          "date": "2012",
+          "label": "永久关闭",
+          "detail": "1986年3月永久关闭。直接原因是1984年债务违约被债权银行查封；深层原因是Caron氨浸工艺技术落后、能耗高、经济性差，叠加当时镍价低迷。1996年(原Caron工艺)和1998年(PAL工艺)两轮可行性研究均未能促成实际复产，2000年后再无实质性进展报道，工厂长期废弃。",
+          "kind": "运营变化",
+          "project_id": "GL061",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-061 · 总表第62行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL064": {
+      "project_id": "GL064",
+      "events": [
+        {
+          "date": "2024",
+          "label": "规划中或可研",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL064",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-064 · 总表第65行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL065": {
+      "project_id": "GL065",
+      "events": [
+        {
+          "date": "2024",
+          "label": "规划中或可研",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL065",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-065 · 总表第66行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL066": {
+      "project_id": "GL066",
+      "events": [
+        {
+          "date": "2025",
+          "label": "规划中或可研",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL066",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-066 · 总表第67行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL067": {
+      "project_id": "GL067",
+      "events": [
+        {
+          "date": "2018",
+          "label": "不详",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL067",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-067 · 总表第68行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL068": {
+      "project_id": "GL068",
+      "events": [
+        {
+          "date": "2013",
+          "label": "开始生产（底表投产年）",
+          "detail": "版福镍矿及选矿厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL068",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-068 · 总表第69行"
+        },
+        {
+          "date": "2016",
+          "label": "保养维护(C&M)",
+          "detail": "2016年9月镍价下跌导致收入不足以覆盖运营成本(此前3.5年投资者累计投入超1.36亿美元、产生2.13亿美元收入，但仍难以为继)，转入护养维护状态；此后经Blackstone(2019年)、Xuan Loc Tho(2025年)等新股东多次评估复产，但截至研究时未找到确认已恢复商业化生产的报道",
+          "kind": "运营变化",
+          "project_id": "GL068",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-068 · 总表第69行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL069": {
+      "project_id": "GL069",
+      "events": [
+        {
+          "date": "2025",
+          "label": "规划中或可研",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL069",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-069 · 总表第70行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL071": {
+      "project_id": "GL071",
+      "events": [
+        {
+          "date": "1879",
+          "label": "开始生产（底表投产年）",
+          "detail": "沙莱克斯角(Pointe Chaleix)冶炼厂（新喀里多尼亚第一座镍冶炼厂）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL071",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-071 · 总表第72行"
+        },
+        {
+          "date": "1879",
+          "label": "已拆除",
+          "detail": "推测因1910年Doniambo厂建成及产能整合而被取代，但具体关闭年份及原因未在本轮检索中查实",
+          "kind": "运营变化",
+          "project_id": "GL071",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-071 · 总表第72行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL072": {
+      "project_id": "GL072",
+      "events": [
+        {
+          "date": "1889",
+          "label": "开始生产（底表投产年）",
+          "detail": "蒂奥乌鲁埃(Ouroué)冶炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL072",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-072 · 总表第73行"
+        },
+        {
+          "date": "1891",
+          "label": "已拆除",
+          "detail": "存疑;运营时间极短(仅约2年),具体关闭原因本轮检索未能独立核实,推测为技术/经济性问题或产能整合至同期蒂奥其它设施",
+          "kind": "运营变化",
+          "project_id": "GL072",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-072 · 总表第73行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL073": {
+      "project_id": "GL073",
+      "events": [
+        {
+          "date": "1910",
+          "label": "开始生产（底表投产年）",
+          "detail": "多尼安博(Doniambo)冶炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL073",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-073 · 总表第74行"
+        },
+        {
+          "date": "2026",
+          "label": "减产或部分停产",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL073",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-073 · 总表第74行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL074": {
+      "project_id": "GL074",
+      "events": [
+        {
+          "date": "1912",
+          "label": "开始生产（底表投产年）",
+          "detail": "蒂奥教会区(Thio-Mission)冶炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL074",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-074 · 总表第75行"
+        },
+        {
+          "date": "1930",
+          "label": "已拆除",
+          "detail": "存疑;1930年前后关闭恰逢全球经济大萧条及国际镍价暴跌(1929-1931年镍价崩盘,据本普查现有『Doniambo Smelter』记录,该次崩盘导致新喀里多尼亚两家竞争性冶炼企业于1929-1931年间合并),推测蒂奥教会区厂产能因此被整合至努美阿主厂,具体原因本轮检索未能独立核实一手资料",
+          "kind": "运营变化",
+          "project_id": "GL074",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-074 · 总表第75行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL076": {
+      "project_id": "GL076",
+      "events": [
+        {
+          "date": "2014",
+          "label": "开始生产（底表投产年）",
+          "detail": "科尼安博(Koniambo)镍业公司(KNS)冶炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL076",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-076 · 总表第77行"
+        },
+        {
+          "date": "2024",
+          "label": "保养维护(C&M)",
+          "detail": "持续高企的运营成本叠加镍价低迷导致长期亏损（Glencore自2013年以来投入超40亿美元未获盈利），加上新喀里多尼亚2024年骚乱局势恶化，Glencore决定退出并转入保养维护、寻求新的产业合作伙伴",
+          "kind": "运营变化",
+          "project_id": "GL076",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-076 · 总表第77行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL077": {
+      "project_id": "GL077",
+      "events": [
+        {
+          "date": "1909",
+          "label": "开始生产（底表投产年）",
+          "detail": "努美阿高炉公司(Hauts Fourneaux de Nouméa)的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL077",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-077 · 总表第78行"
+        },
+        {
+          "date": "1937",
+          "label": "永久关闭",
+          "detail": "1931年7月1日SLN与竞争企业'Calédonia'(推测与本厂存在继承/重组关系，但未100%确证)各出资50%成立合资公司Calédonickel，接管双方工业矿业资产，标志本厂作为独立法人的经营告一段落；1937年2月SLN进一步宣布全面吸收合并Calédonia，终止Calédonickel合资架构，SLN成为全岛唯一采选冶一体化运营商。",
+          "kind": "运营变化",
+          "project_id": "GL077",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-077 · 总表第78行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL078": {
+      "project_id": "GL078",
+      "events": [
+        {
+          "date": "1970",
+          "label": "开始生产（底表投产年）",
+          "detail": "奎纳纳镍精炼厂（含硫酸镍工厂）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL078",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-078 · 总表第79行"
+        },
+        {
+          "date": "2024",
+          "label": "保养维护(C&M)",
+          "detail": "随整个Nickel West业务于2024年7月11日宣布、10月起暂停：全球镍市场供应过剩、镍价大跌导致经济不可行。2027年2月前复审。",
+          "kind": "运营变化",
+          "project_id": "GL078",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-078 · 总表第79行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL079": {
+      "project_id": "GL079",
+      "events": [
+        {
+          "date": "1973",
+          "label": "开始生产（底表投产年）",
+          "detail": "卡尔古利镍冶炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL079",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-079 · 总表第80行"
+        },
+        {
+          "date": "2024",
+          "label": "保养维护(C&M)",
+          "detail": "全球镍市场供应过剩、镍价大跌，导致Nickel West经济上不可行(BHP 2024年7月11日官方声明，预计FY2024 EBITDA亏损约3亿美元)；西澳廉价印尼镍供应冲击也是背景因素。BHP计划2027年2月前完成复审，决定继续暂停/重启/永久关闭/出售。截至2026年8月尚未做最终决定，存在联邦/州政府救助呼声但未获承诺。",
+          "kind": "运营变化",
+          "project_id": "GL079",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-079 · 总表第80行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL080": {
+      "project_id": "GL080",
+      "events": [
+        {
+          "date": "1974",
+          "label": "开始生产（底表投产年）",
+          "detail": "亚布鲁镍精炼厂（帕尔默镍钴精炼厂）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL080",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-080 · 总表第81行"
+        },
+        {
+          "date": "2016",
+          "label": "停产(可复产)",
+          "detail": "2016年镍价低迷导致公司资不抵债（负债达7.71亿澳元），2016年1月大规模裁员并进入自愿托管，4月清算；此后多次宣布复产/出售计划但均未见落实运营的可靠报道",
+          "kind": "运营变化",
+          "project_id": "GL080",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-080 · 总表第81行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL085": {
+      "project_id": "GL085",
+      "events": [
+        {
+          "date": "2025",
+          "label": "规划中或可研",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL085",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-085 · 总表第86行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL086": {
+      "project_id": "GL086",
+      "events": [
+        {
+          "date": "2025",
+          "label": "规划中或可研",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL086",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-086 · 总表第87行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL087": {
+      "project_id": "GL087",
+      "events": [
+        {
+          "date": "2023",
+          "label": "不详",
+          "detail": "2023年5月，联邦工业、科学与资源部以'项目合作方与政府时间表不一致'为由终止与PBT的关键资助(1.196亿澳元MMI资助)谈判，PBT失去这笔资金支持。此后未找到任何公开的项目最新进展报道，很可能已实质性停滞，但未见正式取消/终止声明，故状态标记为'不详'而非'项目中止(未建成)'，供撰写者进一步核实2024-2026年是否有更新。",
+          "kind": "运营变化",
+          "project_id": "GL087",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-087 · 总表第88行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL088": {
+      "project_id": "GL088",
+      "events": [
+        {
+          "date": "2024",
+          "label": "项目中止(未建成)",
+          "detail": "2023-24年镍价大幅下跌(较峰值跌约40%，主因印尼供应冲击)，导致IGO自有Cosmos镍矿于2024年1月进入保养维护(原料来源萎缩)，Wyloo旗下Kambalda(Cassini、北部矿区)镍矿也于2024年5-6月间关闭。据Sound Telegraph(2024年7月)报道，IGO与Wyloo已'因市场环境'搁置了Kwinana加工厂计划；同期Wyloo将其加拿大首座下游电池材料厂选址在安大略萨德伯里而非西澳，进一步印证Kwinana项目优先级下降/搁置。注：本研究未找到使用'cancelled'等措辞的官方正式声明，结论部分基于时间线推断。",
+          "kind": "运营变化",
+          "project_id": "GL088",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-088 · 总表第89行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL089": {
+      "project_id": "GL089",
+      "events": [
+        {
+          "date": "2026",
+          "label": "规划中或可研",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL089",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-089 · 总表第90行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL090": {
+      "project_id": "GL090",
+      "events": [
+        {
+          "date": "2023",
+          "label": "规划中或可研",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL090",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-090 · 总表第91行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL091": {
+      "project_id": "GL091",
+      "events": [
+        {
+          "date": "2026",
+          "label": "规划中或可研",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL091",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-091 · 总表第92行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL092": {
+      "project_id": "GL092",
+      "events": [
+        {
+          "date": "2025",
+          "label": "规划中或可研",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL092",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-092 · 总表第93行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL093": {
+      "project_id": "GL093",
+      "events": [
+        {
+          "date": "2024",
+          "label": "规划中或可研",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL093",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-093 · 总表第94行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL094": {
+      "project_id": "GL094",
+      "events": [
+        {
+          "date": "1888",
+          "label": "开始生产（底表投产年）",
+          "detail": "加拿大铜业公司科珀克利夫冶炼厂(1888年原始厂,萨德伯里首座冶炼厂)的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL094",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-094 · 总表第95行"
+        },
+        {
+          "date": "1902",
+          "label": "已拆除",
+          "detail": "1902年加拿大铜业公司、奥福德铜业公司与美国镍业公司合并组建国际镍公司(INCO)后,原始19世纪厂房设备历经INCO及后续Vale历代技术改造与重建(如1948-1963年运营的烧结厂、历次现代化熔炼技术更新等),1888年原始设施本身已不复存在;本记录状态年份(1902)仅标志加拿大铜业公司作为独立企业实体及其原始技术阶段的终结,厂址物理生产活动并未真正中断,而是由后继者(INCO、Vale)在同一场地持续经营至今(现状请参见本普查现行『Copper Cliff Smelter Complex』记录)",
+          "kind": "运营变化",
+          "project_id": "GL094",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-094 · 总表第95行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL095": {
+      "project_id": "GL095",
+      "events": [
+        {
+          "date": "1888",
+          "label": "开始生产（底表投产年）",
+          "detail": "铜崖冶炼厂综合体（萨德伯里）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL095",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-095 · 总表第96行"
+        },
+        {
+          "date": "2026",
+          "label": "在产",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL095",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-095 · 总表第96行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL096": {
+      "project_id": "GL096",
+      "events": [
+        {
+          "date": "1901",
+          "label": "开始生产（底表投产年）",
+          "detail": "蒙德镍业公司维多利亚矿区冶炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL096",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-096 · 总表第97行"
+        },
+        {
+          "date": "1913",
+          "label": "已拆除",
+          "detail": "加尔森(Garson)矿产量超过维多利亚矿,冶炼厂选址距新主力矿区过远,蒙德镍业公司决定在科尼斯顿新建冶炼厂承接产能;维多利亚矿区厂大部分建筑物被拆除并迁至科尼斯顿或沃辛顿(Worthington)",
+          "kind": "运营变化",
+          "project_id": "GL096",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-096 · 总表第97行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL097": {
+      "project_id": "GL097",
+      "events": [
+        {
+          "date": "1906",
+          "label": "开始生产（底表投产年）",
+          "detail": "德洛罗冶炼精炼公司（钴/银/砷为主，镍为伴生，存疑收录）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL097",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-097 · 总表第98行"
+        },
+        {
+          "date": "1961",
+          "label": "已拆除",
+          "detail": "1956年主营的司太立特合金业务迁往Belleville后，Deloro厂区业务萎缩，1961年3月关闭。",
+          "kind": "运营变化",
+          "project_id": "GL097",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-097 · 总表第98行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL098": {
+      "project_id": "GL098",
+      "events": [
+        {
+          "date": "1913",
+          "label": "开始生产（底表投产年）",
+          "detail": "科尼斯顿冶炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL098",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-098 · 总表第99行"
+        },
+        {
+          "date": "1976",
+          "label": "已拆除",
+          "detail": "1972年1月28日Inco宣布因安大略省政府环保排放限制趋严、且老厂效率低于Copper Cliff新厂而关闭；1972年4月16日完成末班生产。厂区曾作为'备用'冶炼厂保留一段时间，1976年被拆除，部分建筑(更衣室、办公室、动力房、1954/1959年烟囱、仓库等)被保留改造为工业园区。",
+          "kind": "运营变化",
+          "project_id": "GL098",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-098 · 总表第99行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL099": {
+      "project_id": "GL099",
+      "events": [
+        {
+          "date": "1916",
+          "label": "开始生产（底表投产年）",
+          "detail": "英美镍业公司魁北克德申海宾内特法精炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL099",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-099 · 总表第100行"
+        },
+        {
+          "date": "1923",
+          "label": "已拆除",
+          "detail": "1923年加拿大总理麦肯齐·金下令关闭该厂,具体政策/经济原因来源未详述(推测与一战后镍价下跌、公司经营困难及国防/产业政策调整有关);翌年母公司清盘,厂房废墟保留至1985年被清除",
+          "kind": "运营变化",
+          "project_id": "GL099",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-099 · 总表第100行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL100": {
+      "project_id": "GL100",
+      "events": [
+        {
+          "date": "1918",
+          "label": "开始生产（底表投产年）",
+          "detail": "科尔本港镍精炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL100",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-100 · 总表第101行"
+        },
+        {
+          "date": "1984",
+          "label": "减产或部分停产",
+          "detail": "多来源存在矛盾：一说'电解精炼于1984年停止'(Smith v. Inco判例文书称'in commission between 1918-1984')。本轮通过Vale官方现役业务页面(valebasemetals.com、vale.com)独立核实2024-2026年该厂当前业务范围，两份官网现均只描述该厂从事：电积钴(electro-cobalt)生产、贵金属及微量金属加工处理、以及镍'成品'的制造/包装/分销——均未提及任何形式的原生电解镍精炼或电积镍生产。这一现状描述与'电解镍精炼已于1984年停止'的判例记载相互印证，支持'该厂已从原生电解镍精炼转型为钴/贵金属精炼+镍产品加工分销'这一结论；但官网本身未直接给出转型的具体年份，故'1984年'仍为间接推断而非官网自证，两类信息未能完全调和，仍建议标注为'较大概率成立但未100%确证'。",
+          "kind": "运营变化",
+          "project_id": "GL100",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-100 · 总表第101行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL101": {
+      "project_id": "GL101",
+      "events": [
+        {
+          "date": "1920",
+          "label": "开始生产（底表投产年）",
+          "detail": "英美镍业公司镍尔顿(Nickelton)冶炼厂(默里矿区)的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL101",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-101 · 总表第102行"
+        },
+        {
+          "date": "1924",
+          "label": "已拆除",
+          "detail": "一战结束后国际镍价大幅下跌,英美镍业公司难以与国际镍公司(INCO)、蒙德镍业公司竞争,1924年7月公司清盘解散",
+          "kind": "运营变化",
+          "project_id": "GL101",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-101 · 总表第102行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL102": {
+      "project_id": "GL102",
+      "events": [
+        {
+          "date": "1930",
+          "label": "开始生产（底表投产年）",
+          "detail": "萨德伯里冶炼厂（原Falconbridge，现Glencore萨德伯里一体化镍业务）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL102",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-102 · 总表第103行"
+        },
+        {
+          "date": "2026",
+          "label": "在产",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL102",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-102 · 总表第103行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL103": {
+      "project_id": "GL103",
+      "events": [
+        {
+          "date": "1954",
+          "label": "开始生产（底表投产年）",
+          "detail": "谢里特堡萨斯喀彻温精炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL103",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-103 · 总表第104行"
+        },
+        {
+          "date": "2026",
+          "label": "停产(可复产)",
+          "detail": "根本原因是原料链断裂：2026年2月古巴Moa因燃料短缺已暂停部分采选活动；2026年5月7日美国行政令扩大对古巴制裁后，Sherritt宣布暂停在Moa和Energas合资企业的直接参与；随着库存混合硫化物于2026年6月中旬耗尽，Fort Saskatchewan炼厂于2026年6月22日停止镍钴精炼生产。公司表示将保留人员和设施'安全稳定状态'，待Moa采选恢复、原料管道重建后择机复产，但未给出具体复产时间表。停产期间厂区继续利用现有装置对外销售化肥和硫酸维持部分现金流。",
+          "kind": "运营变化",
+          "project_id": "GL103",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-103 · 总表第104行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL104": {
+      "project_id": "GL104",
+      "events": [
+        {
+          "date": "1961",
+          "label": "开始生产（底表投产年）",
+          "detail": "汤普森精炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL104",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-104 · 总表第105行"
+        },
+        {
+          "date": "2018",
+          "label": "永久关闭",
+          "detail": "与同址冶炼厂同步于2018年关闭，原因相同(设施老旧、环保改造成本高、集团加工网络整合至萨德伯里/Long Harbour)。",
+          "kind": "运营变化",
+          "project_id": "GL104",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-104 · 总表第105行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL105": {
+      "project_id": "GL105",
+      "events": [
+        {
+          "date": "1961",
+          "label": "开始生产（底表投产年）",
+          "detail": "汤普森冶炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL105",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-105 · 总表第106行"
+        },
+        {
+          "date": "2018",
+          "label": "永久关闭",
+          "detail": "Vale于2015年宣布计划关闭汤普森冶炼和精炼环节(仅保留采选)；据USGS Minerals Yearbook记载，因加拿大新颁布的SO2排放法规，Vale已于2017年关闭厂内第一台熔炼炉，并计划于2018年下半年关闭剩余熔炼/精炼产能，2018年正式全面停产；官方及媒体报道原因主要为该冶炼/精炼设施老旧、环保合规(SO2新规)成本过高、以及Vale集团调整加工网络(改为将精矿外运至萨德伯里和纽芬兰Long Harbour加工)。",
+          "kind": "运营变化",
+          "project_id": "GL105",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-105 · 总表第106行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL106": {
+      "project_id": "GL106",
+      "events": [
+        {
+          "date": "1973",
+          "label": "开始生产（底表投产年）",
+          "detail": "铜崖镍精炼厂（羰基法）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL106",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-106 · 总表第107行"
+        },
+        {
+          "date": "2026",
+          "label": "在产",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL106",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-106 · 总表第107行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL107": {
+      "project_id": "GL107",
+      "events": [
+        {
+          "date": "2014",
+          "label": "开始生产（底表投产年）",
+          "detail": "朗哈伯（长港）湿法冶炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL107",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-107 · 总表第108行"
+        },
+        {
+          "date": "2026",
+          "label": "在产",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL107",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-107 · 总表第108行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL108": {
+      "project_id": "GL108",
+      "events": [
+        {
+          "date": "2003",
+          "label": "项目中止(未建成)",
+          "detail": "该商业规模方案(闪速熔炼+MCLE氯浸电积法)因故未按1996年原设计建成；2000年代初已缩减为示范装置方案，最终该示范方案本身似乎也未继续推进(2003年后USGS Minerals Yearbook不再提及)，纽芬兰与拉布拉多省转而与Vale谈判达成在Long Harbour建设全尺寸商业水冶厂的协议(2008年宣布，2014年投产)，Argentia方案被彻底取代。",
+          "kind": "运营变化",
+          "project_id": "GL108",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-108 · 总表第109行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL109": {
+      "project_id": "GL109",
+      "events": [
+        {
+          "date": "2026",
+          "label": "规划中或可研",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL109",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-109 · 总表第110行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL110": {
+      "project_id": "GL110",
+      "events": [
+        {
+          "date": "1863",
+          "label": "开始生产（底表投产年）",
+          "detail": "美国镍业公司(卡姆登镍厂，约瑟夫·沃顿创办)的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL110",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-110 · 总表第111行"
+        },
+        {
+          "date": "1905",
+          "label": "永久关闭",
+          "detail": "1902年参与组建国际镍公司(INCO);1905年美国镍业公司正式并入奥福德铜业公司(Orford Copper Company),独立品牌与经营主体不再存续",
+          "kind": "运营变化",
+          "project_id": "GL110",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-110 · 总表第111行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL111": {
+      "project_id": "GL111",
+      "events": [
+        {
+          "date": "1892",
+          "label": "开始生产（底表投产年）",
+          "detail": "奥福德铜业公司炼厂（新泽西州贝永市）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL111",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-111 · 总表第112行"
+        },
+        {
+          "date": "1922",
+          "label": "永久关闭",
+          "detail": "1918年加拿大Port Colborne电解精炼厂建成后，出于产业本土化(避免一战式对美依赖的重演)及成本考虑，Inco决定将电解镍生产集中至加拿大，1922年正式关闭Bayonne(Orford)炼厂。",
+          "kind": "运营变化",
+          "project_id": "GL111",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-111 · 总表第112行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL112": {
+      "project_id": "GL112",
+      "events": [
+        {
+          "date": "1954",
+          "label": "开始生产（底表投产年）",
+          "detail": "汉纳镍冶炼公司/格伦布鲁克镍业公司里德尔冶炼厂（俄勒冈州镍山）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL112",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-112 · 总表第113行"
+        },
+        {
+          "date": "1998",
+          "label": "永久关闭",
+          "detail": "1987年首次关闭：红土矿资源枯竭及经济性下降。Glenbrook Nickel Co.其后收购该矿点(所有权登记年份，据Western Mining History为1992年；此前记录采用1990年，两者并列保留)，以消化约600万短吨库存低品位矿石为主。经本轮再次检索，1998年最终关闭年份(核查清单曾提示)仍未获得独立可核实来源确认，continues to be一个明确研究缺口——本研究未能推翻也未能证实这一年份，故按任务要求'两者皆保留'处理：一说该厂1998年前后最终停产(业内常见引用但缺乏一手来源)，另一说其停产时间与Glenbrook的矿石消化周期相关、未见明确终止年份的官方记录。",
+          "kind": "运营变化",
+          "project_id": "GL112",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-112 · 总表第113行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL113": {
+      "project_id": "GL113",
+      "events": [
+        {
+          "date": "2024",
+          "label": "开始生产（底表投产年）",
+          "detail": "西温元素公司劳顿镍钴精炼厂（中试/示范装置）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL113",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-113 · 总表第114行"
+        },
+        {
+          "date": "2026",
+          "label": "在产",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL113",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-113 · 总表第114行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL114": {
+      "project_id": "GL114",
+      "events": [
+        {
+          "date": "2026",
+          "label": "规划中或可研",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL114",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-114 · 总表第115行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL115": {
+      "project_id": "GL115",
+      "events": [
+        {
+          "date": "2026",
+          "label": "在建",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL115",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-115 · 总表第116行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL116": {
+      "project_id": "GL116",
+      "events": [
+        {
+          "date": "2025",
+          "label": "规划中或可研",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL116",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-116 · 总表第117行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL117": {
+      "project_id": "GL117",
+      "events": [
+        {
+          "date": "2026",
+          "label": "规划中或可研",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL117",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-117 · 总表第118行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL118": {
+      "project_id": "GL118",
+      "events": [
+        {
+          "date": "2026",
+          "label": "减产或部分停产",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL118",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-118 · 总表第119行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL119": {
+      "project_id": "GL119",
+      "events": [
+        {
+          "date": "2026",
+          "label": "项目中止(未建成)",
+          "detail": "2026年9月Talon宣布转而利用其2026年1月从Lundin Mining收购的密歇根州Humboldt Mill(原Eagle矿选矿厂)现有基础设施加工Tamarack矿石，以'大幅降低前期资本开支和融资需求'，故放弃在北达科他州新建独立加工厂的原计划；公司称将于2026年底完成利用Humboldt Mill方案的可行性研究，原1.148亿美元DOE拨款能否转用于Humboldt方案尚存不确定性。",
+          "kind": "运营变化",
+          "project_id": "GL119",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-119 · 总表第120行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL120": {
+      "project_id": "GL120",
+      "events": [
+        {
+          "date": "2026",
+          "label": "规划中或可研",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL120",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-120 · 总表第121行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL121": {
+      "project_id": "GL121",
+      "events": [
+        {
+          "date": "1977",
+          "label": "开始生产（底表投产年）",
+          "detail": "菲尼克斯镍项目（普罗尼科镍铁厂，原EXMIBAL/Inco矿）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL121",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-121 · 总表第122行"
+        },
+        {
+          "date": "2026",
+          "label": "在产",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL121",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-121 · 总表第122行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL122": {
+      "project_id": "GL122",
+      "events": [
+        {
+          "date": "1943",
+          "label": "开始生产（底表投产年）",
+          "detail": "尼卡罗镍厂（雷内·拉莫斯·拉图尔镍厂）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL122",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-122 · 总表第123行"
+        },
+        {
+          "date": "2012",
+          "label": "永久关闭",
+          "detail": "设备老化、能耗过高、经济性差；运营超70年后于2012年底关闭",
+          "kind": "运营变化",
+          "project_id": "GL122",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-122 · 总表第123行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL123": {
+      "project_id": "GL123",
+      "events": [
+        {
+          "date": "1959",
+          "label": "开始生产（底表投产年）",
+          "detail": "莫阿镍厂（佩德罗·索托·阿尔瓦厂）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL123",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-123 · 总表第124行"
+        },
+        {
+          "date": "2026",
+          "label": "停产(可复产)",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL123",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-123 · 总表第124行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL124": {
+      "project_id": "GL124",
+      "events": [
+        {
+          "date": "1986",
+          "label": "开始生产（底表投产年）",
+          "detail": "蓬塔戈尔达镍厂（切·格瓦拉镍厂）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL124",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-124 · 总表第125行"
+        },
+        {
+          "date": "2026",
+          "label": "减产或部分停产",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL124",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-124 · 总表第125行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL125": {
+      "project_id": "GL125",
+      "events": [
+        {
+          "date": "2005",
+          "label": "项目中止(未建成)",
+          "detail": "苏联解体导致原始建设资金中断；2004年中国五矿合资改造计划亦未完工（具体终止原因及是否正式终止未见披露）",
+          "kind": "运营变化",
+          "project_id": "GL125",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-125 · 总表第126行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL126": {
+      "project_id": "GL126",
+      "events": [
+        {
+          "date": "2005",
+          "label": "不详",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL126",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-126 · 总表第127行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL127": {
+      "project_id": "GL127",
+      "events": [
+        {
+          "date": "1982",
+          "label": "开始生产（底表投产年）",
+          "detail": "塞罗马托索镍铁厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL127",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-127 · 总表第128行"
+        },
+        {
+          "date": "2026",
+          "label": "减产或部分停产",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL127",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-127 · 总表第128行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL128": {
+      "project_id": "GL128",
+      "events": [
+        {
+          "date": "1971",
+          "label": "开始生产（底表投产年）",
+          "detail": "法尔康多镍铁厂（博纳奥）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL128",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-128 · 总表第129行"
+        },
+        {
+          "date": "2023",
+          "label": "停产(可复产)",
+          "detail": "2023年骤然停产，具体直接诱因未在信源中明确说明（推测与长期镍价低迷、企业财务/破产程序相关），目前处于破产清算及劳资遣散费追讨程序中",
+          "kind": "运营变化",
+          "project_id": "GL128",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-128 · 总表第129行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL129": {
+      "project_id": "GL129",
+      "events": [
+        {
+          "date": "2000",
+          "label": "开始生产（底表投产年）",
+          "detail": "洛马德尼克尔镍铁厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL129",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-129 · 总表第130行"
+        },
+        {
+          "date": "2015",
+          "label": "停产(可复产)",
+          "detail": "2015年9月停产，具体直接原因未在信源中充分说明（委内瑞拉经济危机、外汇管制、国有化后管理问题等因素可能相关，但未见确切归因表述）",
+          "kind": "运营变化",
+          "project_id": "GL129",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-129 · 总表第130行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL130": {
+      "project_id": "GL130",
+      "events": [
+        {
+          "date": "1966",
+          "label": "开始生产（底表投产年）",
+          "detail": "莫罗-多-尼克尔镍厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL130",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-130 · 总表第131行"
+        },
+        {
+          "date": "1998",
+          "label": "永久关闭",
+          "detail": "未在信源中明确说明具体关闭原因",
+          "kind": "运营变化",
+          "project_id": "GL130",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-130 · 总表第131行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL131": {
+      "project_id": "GL131",
+      "events": [
+        {
+          "date": "1981",
+          "label": "开始生产（底表投产年）",
+          "detail": "托坎廷斯镍公司（尼克兰迪亚Caron氨浸厂）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL131",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-131 · 总表第132行"
+        },
+        {
+          "date": "2016",
+          "label": "永久关闭",
+          "detail": "2015年镍价年内下跌约40%，公司评估各情景均不具备中短期经济可行性；2016年2月1日起停止尼克兰迪亚端采矿，5月起停止选矿及圣保罗端精炼作业，直接裁员约800人（不含分包商）",
+          "kind": "运营变化",
+          "project_id": "GL131",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-131 · 总表第132行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL132": {
+      "project_id": "GL132",
+      "events": [
+        {
+          "date": "1982",
+          "label": "开始生产（底表投产年）",
+          "detail": "科德明镍铁厂（尼克兰迪亚）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL132",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-132 · 总表第133行"
+        },
+        {
+          "date": "2026",
+          "label": "在产",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL132",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-132 · 总表第133行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL133": {
+      "project_id": "GL133",
+      "events": [
+        {
+          "date": "1997",
+          "label": "开始生产（底表投产年）",
+          "detail": "福塔莱萨-德米纳斯镍厂（塞拉福塔莱萨矿业）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL133",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-133 · 总表第134行"
+        },
+        {
+          "date": "2013",
+          "label": "永久关闭",
+          "detail": "2013年镍价暴跌，公司评估各情景均不具备短中期经济可行性，宣布不可抗力并全面停产",
+          "kind": "运营变化",
+          "project_id": "GL133",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-133 · 总表第134行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL134": {
+      "project_id": "GL134",
+      "events": [
+        {
+          "date": "2011",
+          "label": "开始生产（底表投产年）",
+          "detail": "巴罗阿尔托镍铁厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL134",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-134 · 总表第135行"
+        },
+        {
+          "date": "2026",
+          "label": "在产",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL134",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-134 · 总表第135行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL135": {
+      "project_id": "GL135",
+      "events": [
+        {
+          "date": "2011",
+          "label": "开始生产（底表投产年）",
+          "detail": "翁萨普马镍铁厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL135",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-135 · 总表第136行"
+        },
+        {
+          "date": "2025",
+          "label": "在产",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL135",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-135 · 总表第136行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL136": {
+      "project_id": "GL136",
+      "events": [
+        {
+          "date": "2024",
+          "label": "保养维护(C&M)",
+          "detail": "2024年4月融资失败（接触150余方潜在投资者未果），资本开支较原预算上涨约87%（5.37亿→10亿美元），管理层认为印尼镍供应格局下市场对镍铁行业复苏缺乏信心",
+          "kind": "运营变化",
+          "project_id": "GL136",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-136 · 总表第137行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL138": {
+      "project_id": "GL138",
+      "events": [
+        {
+          "date": "2016",
+          "label": "停产(可复产)",
+          "detail": "随原料供应厂CNT厂（尼克兰迪亚）因镍价暴跌转入保养维护/停产而同步停运（USGS给出2015年版即已停产，巴西本地媒体给出2016年5月停产，两口径均列出）",
+          "kind": "运营变化",
+          "project_id": "GL138",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-138 · 总表第139行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL139": {
+      "project_id": "GL139",
+      "events": [
+        {
+          "date": "2024",
+          "label": "项目中止(未建成)",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL139",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-139 · 总表第140行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL140": {
+      "project_id": "GL140",
+      "events": [
+        {
+          "date": "1974",
+          "label": "开始生产（底表投产年）",
+          "detail": "英帕拉铂业斯普林斯贱金属精炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL140",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-140 · 总表第141行"
+        },
+        {
+          "date": "2025",
+          "label": "在产",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL140",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-140 · 总表第141行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL141": {
+      "project_id": "GL141",
+      "events": [
+        {
+          "date": "1998",
+          "label": "开始生产（底表投产年）",
+          "detail": "恩科马蒂镍矿选矿厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL141",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-141 · 总表第142行"
+        },
+        {
+          "date": "2021",
+          "label": "保养维护(C&M)",
+          "detail": "镍价低迷叠加成本上升：地下矿已于2015年停产转入保养维护；2019年8月ARM即已公开宣布拟于2020年9月前将全矿转入保养维护状态(据USGS MYB 2019)；露天矿(MMZ/PCMZ)可采资源采竭，实际已于2021年2月停止露天开采，2021年3月正式转入保养维护状态为关闭做准备(据USGS MYB 2021)，未见2022-2026年间复产报道。",
+          "kind": "运营变化",
+          "project_id": "GL141",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-141 · 总表第142行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL142": {
+      "project_id": "GL142",
+      "events": [
+        {
+          "date": "2005",
+          "label": "开始生产（底表投产年）",
+          "detail": "诺瑟姆铂业桑德雷恩德冶炼厂及贱金属精炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL142",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-142 · 总表第143行"
+        },
+        {
+          "date": "2025",
+          "label": "在产",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL142",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-142 · 总表第143行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL143": {
+      "project_id": "GL143",
+      "events": [
+        {
+          "date": "2019",
+          "label": "开始生产（底表投产年）",
+          "detail": "萨卡杜硫酸镍厂(马里卡纳)的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL143",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-143 · 总表第144行"
+        },
+        {
+          "date": "2021",
+          "label": "在产",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL143",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-143 · 总表第144行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL144": {
+      "project_id": "GL144",
+      "events": [
+        {
+          "date": "2025",
+          "label": "在产",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL144",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-144 · 总表第145行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL145": {
+      "project_id": "GL145",
+      "events": [
+        {
+          "date": "2025",
+          "label": "在产",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL145",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-145 · 总表第146行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL146": {
+      "project_id": "GL146",
+      "events": [
+        {
+          "date": "1973",
+          "label": "开始生产（底表投产年）",
+          "detail": "BCL塞莱比皮奎镍铜冶炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL146",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-146 · 总表第147行"
+        },
+        {
+          "date": "2016",
+          "label": "永久关闭",
+          "detail": "长期亏损：公司原计划运营至2010年，后延至2013年，最终于2016年9月因持续亏损、矿石品位下降及现金流枯竭而全面停产并进入清算，导致大量失业，塞莱比皮奎镇经济受到严重冲击。",
+          "kind": "运营变化",
+          "project_id": "GL146",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-146 · 总表第147行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL147": {
+      "project_id": "GL147",
+      "events": [
+        {
+          "date": "2006",
+          "label": "项目中止(未建成)",
+          "detail": "2006年8月获批后仅出现于当年USGS Minerals Yearbook记录，此后(2007年及以后)未见于任何后续版本的USGS资料或其它信源，据此推断项目在规划阶段即被搁置或取消，具体原因(资金、镍价周期、Norilsk Nickel收购LionOre后的战略调整等)本次调研未能独立核实。",
+          "kind": "运营变化",
+          "project_id": "GL147",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-147 · 总表第148行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL148": {
+      "project_id": "GL148",
+      "events": [
+        {
+          "date": "2024",
+          "label": "规划中或可研",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL148",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-148 · 总表第149行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL149": {
+      "project_id": "GL149",
+      "events": [
+        {
+          "date": "2013",
+          "label": "不详",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL149",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-149 · 总表第150行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL150": {
+      "project_id": "GL150",
+      "events": [
+        {
+          "date": "2011",
+          "label": "项目中止(未建成)",
+          "detail": "项目长期停留在勘探/可行性研究阶段：矿区地处内陆，缺乏配套铁路/港口基础设施(拟议中的坦桑尼亚-布隆迪吉特加铁路线途经该矿区，但该铁路本身亦未建成)，叠加融资困难与布隆迪国内政治经济环境不稳定，导致项目历经数十年(1970年代至今)始终未能进入建设阶段。",
+          "kind": "运营变化",
+          "project_id": "GL150",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-150 · 总表第151行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL151": {
+      "project_id": "GL151",
+      "events": [
+        {
+          "date": "1928",
+          "label": "开始生产（底表投产年）",
+          "detail": "布阿泽尔钴镍联合厂(CTT/曼纳吉姆)的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL151",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-151 · 总表第152行"
+        },
+        {
+          "date": "2025",
+          "label": "在产",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL151",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-151 · 总表第152行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL152": {
+      "project_id": "GL152",
+      "events": [
+        {
+          "date": "1968",
+          "label": "开始生产（底表投产年）",
+          "detail": "宾杜拉镍冶炼及精炼厂(宾杜拉镍业公司/特洛伊矿)的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL152",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-152 · 总表第153行"
+        },
+        {
+          "date": "2008",
+          "label": "停产(可复产)",
+          "detail": "2008年因镍价暴跌陷入停产并转入保养维护；2011-2020年间多次尝试复产均未能稳定实现；2024年5月2日津巴布韦政府依据国家重组法对公司下达重组令，公司进入管理人接管状态并对运营/财务展开调查，同期VFEX交易所暂停其证券交易——表明截至2024-2025年，公司仍处于严重财务危机与治理不确定性之中，冶炼/精炼环节大概率仍未稳定复产。",
+          "kind": "运营变化",
+          "project_id": "GL152",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-152 · 总表第153行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL153": {
+      "project_id": "GL153",
+      "events": [
+        {
+          "date": "1968",
+          "label": "开始生产（底表投产年）",
+          "detail": "皇后镍精炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL153",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-153 · 总表第154行"
+        },
+        {
+          "date": "2008",
+          "label": "保养维护(C&M)",
+          "detail": "2008年镍价暴跌导致停产；此后长期未见稳定复产报道。据RioZim官网2025年信息，公司陈述'老化的基础设施和设备故障已严重影响Renco(金矿)和皇后精炼厂的运营'，表明该厂近期虽仍被列为集团资产并存在运营尝试，但因设备老化陷入严重减产/间歇性停产状态，这与ENR自2008年后长期停产的一般行业认知存在一定张力，两种信息均列出以供报告撰写人判断。",
+          "kind": "运营变化",
+          "project_id": "GL153",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-153 · 总表第154行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL154": {
+      "project_id": "GL154",
+      "events": [
+        {
+          "date": "1997",
+          "label": "开始生产（底表投产年）",
+          "detail": "哈特利铂矿铂族金属贱金属精炼厂(副产镍)的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL154",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-154 · 总表第155行"
+        },
+        {
+          "date": "1997",
+          "label": "不详",
+          "detail": "1997年10月首次发运后，仅见于当年USGS Minerals Yearbook记录，此后未见于任何后续版本，具体停产/退出的年份及原因本次调研未能独立核实，列为重要缺口。",
+          "kind": "运营变化",
+          "project_id": "GL154",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-154 · 总表第155行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL155": {
+      "project_id": "GL155",
+      "events": [
+        {
+          "date": "2006",
+          "label": "开始生产（底表投产年）",
+          "detail": "津巴布韦铂业塞卢斯冶炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL155",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-155 · 总表第156行"
+        },
+        {
+          "date": "2025",
+          "label": "在产",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL155",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-155 · 总表第156行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL156": {
+      "project_id": "GL156",
+      "events": [
+        {
+          "date": "2014",
+          "label": "不详",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL156",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-156 · 总表第157行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL158": {
+      "project_id": "GL158",
+      "events": [
+        {
+          "date": "1845",
+          "label": "开始生产（底表投产年）",
+          "detail": "克莱瓦(Kleva)镍矿及冶炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL158",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-158 · 总表第159行"
+        },
+        {
+          "date": "1920",
+          "label": "永久关闭",
+          "detail": "1876-1877年产量见顶后,新喀里多尼亚发现规模更大、品位更优的红土镍矿引发国际镍价格崩盘,克莱瓦矿冶炼经济性丧失,历经间歇运营后于1920年最终关闭;二战期间曾短暂重新处理库存矿石服务军工需求,但未恢复常态化生产",
+          "kind": "运营变化",
+          "project_id": "GL158",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-158 · 总表第159行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL159": {
+      "project_id": "GL159",
+      "events": [
+        {
+          "date": "1859",
+          "label": "开始生产（底表投产年）",
+          "detail": "巴姆布勒(Bamble)镍厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL159",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-159 · 总表第160行"
+        },
+        {
+          "date": "1919",
+          "label": "永久关闭",
+          "detail": "存疑;未查得具体停产原因的一手资料。推测与19世纪末-20世纪初新喀里多尼亚/加拿大萨德伯里新镍矿冲击导致传统硫化矿镍冶炼经济性下降有关(参见同期挪威灵厄里克镍厂、瑞典克莱瓦镍矿、奥地利施拉德明镍厂均因类似原因关闭),但本记录未找到直接证据",
+          "kind": "运营变化",
+          "project_id": "GL159",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-159 · 总表第160行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL160": {
+      "project_id": "GL160",
+      "events": [
+        {
+          "date": "1890",
+          "label": "开始生产（底表投产年）",
+          "detail": "德鲁里镍业公司芝加哥矿冶炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL160",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-160 · 总表第161行"
+        },
+        {
+          "date": "1897",
+          "label": "已拆除",
+          "detail": "存疑;矿床规模有限(安大略省地质调查现将其列为'已勘探但未见公开储量记录的成矿点'),推测因矿石枯竭或经济性不足而停产,具体决策细节及确切最终关闭年份未查实",
+          "kind": "运营变化",
+          "project_id": "GL160",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-160 · 总表第161行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL161": {
+      "project_id": "GL161",
+      "events": [
+        {
+          "date": "1890",
+          "label": "开始生产（底表投产年）",
+          "detail": "多米尼恩镍业公司布莱扎德矿冶炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL161",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-161 · 总表第162行"
+        },
+        {
+          "date": "1893",
+          "label": "已拆除",
+          "detail": "资金链断裂/财务困难导致DNC公司1893年停止运营(仅维持3年);冶炼炉设施其后转供邻近沃辛顿矿继续使用一段时间,该延续使用阶段的具体终止年份本轮检索未查实",
+          "kind": "运营变化",
+          "project_id": "GL161",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-161 · 总表第162行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL162": {
+      "project_id": "GL162",
+      "events": [
+        {
+          "date": "1840",
+          "label": "开始生产（底表投产年）",
+          "detail": "施拉德明-霍普夫里森镍冶炼厂(格斯多夫镍业)的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL162",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-162 · 总表第163行"
+        },
+        {
+          "date": "1876",
+          "label": "永久关闭",
+          "detail": "1876年因新喀里多尼亚及加拿大萨德伯里新发现的大规模优质镍矿冲击国际市场,镍价格崩盘,施拉德明地区传统硫化矿镍冶炼彻底丧失经济性而全面停产(创办人格斯多夫已于1849年去世,此后经营已趋衰落多年)",
+          "kind": "运营变化",
+          "project_id": "GL162",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-162 · 总表第163行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL163": {
+      "project_id": "GL163",
+      "events": [
+        {
+          "date": "1890",
+          "label": "开始生产（底表投产年）",
+          "detail": "蒙德(Mond)斯梅斯维克镍羰基法实验/模型精炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
+          "project_id": "GL163",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-163 · 总表第164行"
+        },
+        {
+          "date": "1902",
+          "label": "永久关闭",
+          "detail": "存疑;两份来源均未记载该实验装置的确切关闭年份。本记录status_year(1902)采用的是威尔士克莱达赫大规模商业化羰基精炼厂建成投产、承接该工艺规模化生产职能的年份作为推断性节点,不代表斯梅斯维克装置本身确切的停止运营时间——不排除该装置在1902年后仍以中试/研发用途继续存在一段时间,具体关闭年份为明确研究缺口",
+          "kind": "运营变化",
+          "project_id": "GL163",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-163 · 总表第164行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL164": {
+      "project_id": "GL164",
+      "events": [
+        {
+          "date": "2025",
+          "label": "项目中止(未建成)",
+          "detail": "下游客户通用汽车(GM)与合资伙伴POSCO以'市场动态变化'为由，决定暂停其Ultium Cam电池合资项目二期，导致GM近期不再需要魁北克产的电池级硫酸镍，Vale Base Metals遂于2025年10月16日宣布取消该硫酸镍厂建设计划（未开工即取消）",
+          "kind": "运营变化",
+          "project_id": "GL164",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-164 · 总表第165行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL165": {
+      "project_id": "GL165",
+      "events": [
+        {
+          "date": "2024",
+          "label": "规划中或可研",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL165",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-165 · 总表第166行"
+        }
+      ],
+      "coverage_note": ""
+    },
+    "GL166": {
+      "project_id": "GL166",
+      "events": [
+        {
+          "date": "2026",
+          "label": "规划中或可研",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
+          "project_id": "GL166",
+          "source_url": "library/global-register.csv",
+          "source_title": "全球普查底表 · NI-166 · 总表第167行"
+        }
+      ],
+      "coverage_note": ""
     }
   },
   "events": [
@@ -7405,6 +10804,2481 @@
       "project_id": "NPI020",
       "source_title": "Sunny 2025/26供应链尽责管理报告",
       "source_url": "https://www.walsin.com/wp-content/uploads/2026/03/供應鏈盡責管理報告Supply-Chain-Due-Diligence-Report-1.pdf"
+    },
+    {
+      "date": "1982",
+      "label": "开始生产（底表投产年）",
+      "detail": "欧洲镍业(Euronickel Industries，原FENI Industries)卡瓦达尔齐镍铁厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL001",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-001 · 总表第2行"
+    },
+    {
+      "date": "2024",
+      "label": "停产(可复产)",
+      "detail": "2021-2023年间与瑞士贸易商Arrow Metals & Trading AG的不利合同安排导致严重亏损（据2025年刑事指控），叠加能源/镍价波动，最终于2024年2月2日进入破产程序；2024年5月被土耳其Yıldırım Group收购，工会称预计约3个月内复产，但本次研究未能查得2024年下半年至2025-2026年是否已实际恢复生产的确凿证据（截至2025年9月的报道仅涉及对前高管的刑事指控，未提及当前生产状态）",
+      "kind": "运营变化",
+      "project_id": "GL001",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-001 · 总表第2行"
+    },
+    {
+      "date": "2015",
+      "label": "开始生产（底表投产年）",
+      "detail": "梅塔镍钴(Meta Nikel Kobalt)格尔德斯(Gördes)HPAL厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "MHP034",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-002 · 总表第3行"
+    },
+    {
+      "date": "2025",
+      "label": "在产",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "MHP034",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-002 · 总表第3行"
+    },
+    {
+      "date": "2013",
+      "label": "保养维护(C&M)",
+      "detail": "露天矿开采需清除约10万棵松树，土耳其原已颁发的林业许可被宪法法院撤销；尽管2010年6月土耳其修订矿业法试图解决此类问题，但相关部门此后未再重新颁发许可，项目遂陷入停滞并被置于保养维护状态",
+      "kind": "运营变化",
+      "project_id": "GL003",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-003 · 总表第4行"
+    },
+    {
+      "date": "1966",
+      "label": "开始生产（底表投产年）",
+      "detail": "拉尔科(LARCO)拉里姆纳镍铁冶炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL004",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-004 · 总表第5行"
+    },
+    {
+      "date": "2022",
+      "label": "永久关闭",
+      "detail": "长期亏损与债务危机（截至停产时总债务约4.7亿欧元，其中3.512亿欧元欠国家电力公司PPC）；多轮私有化/资产处置招标失败（2021年6轮非约束性投标未能达成交易；2024年8月GEK Terna/AD Holdings财团以'全球能源和镍产品市场不利变化'及法律纠纷为由退出）；2020年2月起进入特别管理程序，2022年7月25日工厂正式全面停产，1,061名员工遭解雇（约400人短期续聘、约100人退休），希腊国家为此支付遣散费约2,237.7万欧元",
+      "kind": "运营变化",
+      "project_id": "GL004",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-004 · 总表第5行"
+    },
+    {
+      "date": "2025",
+      "label": "在产",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL005",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-005 · 总表第6行"
+    },
+    {
+      "date": "1688",
+      "label": "开始生产（底表投产年）",
+      "detail": "灵厄里克镍冶炼厂(Ringerike Nikkelverk)的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL006",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-006 · 总表第7行"
+    },
+    {
+      "date": "1920",
+      "label": "永久关闭",
+      "detail": "埃尔特利恩主矿区自1880年前后开始产量下滑,1903年永久关闭;公司1913年曾尝试复产,仅维持数年后于1920年正式宣告破产，全面停产。停产背景与19世纪末新喀里多尼亚、加拿大萨德伯里新发现的大规模优质镍矿引发的国际镍价竞争压力有关(与同期瑞典克莱瓦镍矿、奥地利施拉德明镍厂关闭原因一致)，但挪威大百科全书原文未直接点明该因果关系，此处为本研究的合理推断。",
+      "kind": "运营变化",
+      "project_id": "GL006",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-006 · 总表第7行"
+    },
+    {
+      "date": "1872",
+      "label": "开始生产（底表投产年）",
+      "detail": "埃夫耶镍冶炼厂（弗洛特矿配套冶炼厂）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL007",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-007 · 总表第8行"
+    },
+    {
+      "date": "1946",
+      "label": "永久关闭",
+      "detail": "弗洛特矿藏枯竭(矿井最终深度422米,已低于海平面),矿山与配套冶炼厂同步关闭;二战结束后未复产",
+      "kind": "运营变化",
+      "project_id": "GL007",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-007 · 总表第8行"
+    },
+    {
+      "date": "1883",
+      "label": "开始生产（底表投产年）",
+      "detail": "塞尼亚(Senjen)镍矿冶炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL008",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-008 · 总表第9行"
+    },
+    {
+      "date": "1894",
+      "label": "永久关闭",
+      "detail": "存疑;具体关闭年份未直接查实,1894年为推断值——据H.H. Vivian & Co.同期(1889-1894年)转向经营加拿大萨德伯里Murray矿并以其矿石替代挪威矿源的时间点反推,请谨慎使用",
+      "kind": "运营变化",
+      "project_id": "GL008",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-008 · 总表第9行"
+    },
+    {
+      "date": "1910",
+      "label": "开始生产（底表投产年）",
+      "detail": "嘉能可克里斯蒂安桑镍精炼厂(Nikkelverk)的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL009",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-009 · 总表第10行"
+    },
+    {
+      "date": "2025",
+      "label": "在产",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL009",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-009 · 总表第10行"
+    },
+    {
+      "date": "1959",
+      "label": "开始生产（底表投产年）",
+      "detail": "谢雷季(Sereď)镍钴电解厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL010",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-010 · 总表第11行"
+    },
+    {
+      "date": "1992",
+      "label": "永久关闭",
+      "detail": "'主要出于经济原因'(pôvodne z ekonomických dôvodov)，冷战结束、经济体制转轨后原料供应(阿尔巴尼亚矿)与经济性均难以为继；厂址后遗留大量含镍工业废渣堆场，成为斯洛伐克境内重要的历史污染场地，近年有多篇环境地质学论文研究该堆场对多瑙河低地环境的影响",
+      "kind": "运营变化",
+      "project_id": "GL010",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-010 · 总表第11行"
+    },
+    {
+      "date": "2025",
+      "label": "在产",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL011",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-011 · 总表第12行"
+    },
+    {
+      "date": "1875",
+      "label": "开始生产（底表投产年）",
+      "detail": "塞普泰姆莱瓦隆镍冶炼厂(马尔博与加尼耶创办)的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL012",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-012 · 总表第13行"
+    },
+    {
+      "date": "1900",
+      "label": "永久关闭",
+      "detail": "存疑;推测为SLN(1880年成立)整合法国本土及新喀里多尼亚当地冶炼产能后,该厂逐步被取代或关闭,具体年份及原因本轮检索未能独立核实一手资料",
+      "kind": "运营变化",
+      "project_id": "GL012",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-012 · 总表第13行"
+    },
+    {
+      "date": "2025",
+      "label": "保养维护(C&M)",
+      "detail": "持续亏损；Sibanye收购后原计划生产电池级硫酸镍，但因终止一项主要原料供应合同(耗资约3,700万美元)及市场环境，2024-2025年处于'消化库存、边际运营'状态，同时启动向正极前驱体材料(pCAM)转型的可行性研究(GalliCam项目)，尚未确定最终投资决定",
+      "kind": "运营变化",
+      "project_id": "GL013",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-013 · 总表第14行"
+    },
+    {
+      "date": "1895",
+      "label": "开始生产（底表投产年）",
+      "detail": "什克拉雷(Szklary)镍矿与冶炼厂【德国时期称\"法兰肯施泰因镍厂\"，波兰时期称什克拉雷矿冶联合企业】的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL014",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-014 · 总表第15行"
+    },
+    {
+      "date": "1983",
+      "label": "已拆除",
+      "detail": "存疑(据研究简报为矿藏枯竭/经济性下降,本轮检索未能独立核实一手资料)",
+      "kind": "运营变化",
+      "project_id": "GL014",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-014 · 总表第15行"
+    },
+    {
+      "date": "1984",
+      "label": "开始生产（底表投产年）",
+      "detail": "纽科费罗尼克利(NewCo Ferronikeli)镍铁联合企业的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL015",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-015 · 总表第16行"
+    },
+    {
+      "date": "2023",
+      "label": "在产",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL015",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-015 · 总表第16行"
+    },
+    {
+      "date": "1959",
+      "label": "开始生产（底表投产年）",
+      "detail": "波利登哈尔亚瓦尔塔冶炼厂（镍线）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL016",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-016 · 总表第17行"
+    },
+    {
+      "date": "2025",
+      "label": "在产",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL016",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-016 · 总表第17行"
+    },
+    {
+      "date": "1960",
+      "label": "开始生产（底表投产年）",
+      "detail": "诺里尔斯克镍业哈尔亚瓦尔塔精炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL017",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-017 · 总表第18行"
+    },
+    {
+      "date": "2025",
+      "label": "在产",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL017",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-017 · 总表第18行"
+    },
+    {
+      "date": "1990",
+      "label": "开始生产（底表投产年）",
+      "detail": "科科拉(Umicore)镍精炼规划线(暂停)；现有钴精炼/pCAM厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL018",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-018 · 总表第19行"
+    },
+    {
+      "date": "2022",
+      "label": "规划中或可研",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL018",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-018 · 总表第19行"
+    },
+    {
+      "date": "2008",
+      "label": "开始生产（底表投产年）",
+      "detail": "泰拉法梅（Terrafame）索特卡莫矿山及电池化学品厂（原塔尔维瓦拉Talvivaara）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "MHP046",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-019 · 总表第20行"
+    },
+    {
+      "date": "2025",
+      "label": "在产",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "MHP046",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-019 · 总表第20行"
+    },
+    {
+      "date": "1883",
+      "label": "开始生产（底表投产年）",
+      "detail": "哈福德伊沙(Hafod Isha)镍钴厂(维维安父子公司)的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL020",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-020 · 总表第21行"
+    },
+    {
+      "date": "1894",
+      "label": "永久关闭",
+      "detail": "存疑;推测为萨德伯里矿石大量涌现后,原料就地在北美加工(经由奥福德\"上下层分离法\"及加拿大铜业公司/国际镍公司体系)更具经济性,英国斯旺西精炼环节逐步失去竞争力而停止,具体关闭年份及决策细节本轮检索未能独立核实一手资料,1894年为参照该公司萨德伯里矿权终止年份的推断值",
+      "kind": "运营变化",
+      "project_id": "GL020",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-020 · 总表第21行"
+    },
+    {
+      "date": "1902",
+      "label": "开始生产（底表投产年）",
+      "detail": "淡水河谷克莱达赫(Clydach)镍精炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL021",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-021 · 总表第22行"
+    },
+    {
+      "date": "2025",
+      "label": "在产",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL021",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-021 · 总表第22行"
+    },
+    {
+      "date": "1924",
+      "label": "开始生产（底表投产年）",
+      "detail": "国际镍公司(INCO)/淡水河谷阿克顿(Acton)精炼厂（伦敦）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL022",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-022 · 总表第23行"
+    },
+    {
+      "date": "2019",
+      "label": "永久关闭",
+      "detail": "未查实具体关停时间及原因；从Vale现有公开表述（Clydach为'英国唯一在产镍精炼厂'）可推断Acton厂目前已不再从事镍精炼业务，但确切关停/转型年份、是否仍作PGM精炼用途，均未能在本次研究中证实，列为研究缺口",
+      "kind": "运营变化",
+      "project_id": "GL022",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-022 · 总表第23行"
+    },
+    {
+      "date": "1976",
+      "label": "开始生产（底表投产年）",
+      "detail": "埃尔巴桑冶金联合企业镍钴厂(\"党的钢铁\"联合企业)的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL023",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-023 · 总表第24行"
+    },
+    {
+      "date": "1991",
+      "label": "永久关闭",
+      "detail": "存疑;推测为1990-1991年阿尔巴尼亚计划经济体制崩溃、苏东剧变后经济危机、原料及能源供应中断,以及中国技术支持终止后设备老化失修等因素综合导致停产,具体停产年份及直接原因本轮检索未能独立核实一手资料",
+      "kind": "运营变化",
+      "project_id": "GL023",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-023 · 总表第24行"
+    },
+    {
+      "date": "1965",
+      "label": "开始生产（底表投产年）",
+      "detail": "波布日镍铁厂（PFK）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL024",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-024 · 总表第25行"
+    },
+    {
+      "date": "2022",
+      "label": "停产(可复产)",
+      "detail": "俄乌战争：2022年10月22日俄军导弹袭击乌克兰能源基础设施导致停电，影响冶金工艺及取水系统，2022年11月1日起停产；此后受黑海港口物流封锁影响长期仅以约50%产能间歇性运行，并多次因电网持续遭袭而被迫再次停产；2026年5月所有权变更为瑞士Avenir Group后，新业主表态拟将部分厂区转型为'工业与能源园区'，是否会恢复镍铁冶炼生产尚不明朗，故未定性为永久关闭",
+      "kind": "运营变化",
+      "project_id": "GL024",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-024 · 总表第25行"
+    },
+    {
+      "date": "1933",
+      "label": "开始生产（底表投产年）",
+      "detail": "乌法列镍厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL025",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-025 · 总表第26行"
+    },
+    {
+      "date": "2017",
+      "label": "永久关闭",
+      "detail": "镍价长期低迷、经营持续亏损，叠加逾160亿卢布债务，2017年10月被俄法院裁定破产清算",
+      "kind": "运营变化",
+      "project_id": "GL025",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-025 · 总表第26行"
+    },
+    {
+      "date": "1936",
+      "label": "开始生产（底表投产年）",
+      "detail": "雷日镍厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL026",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-026 · 总表第27行"
+    },
+    {
+      "date": "2017",
+      "label": "永久关闭",
+      "detail": "与乌法列镍厂同期破产：镍价低迷、经营长期亏损，叠加约160亿卢布债务，Рост银行主导的破产程序中于2017年10月被裁定破产",
+      "kind": "运营变化",
+      "project_id": "GL026",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-026 · 总表第27行"
+    },
+    {
+      "date": "1938",
+      "label": "开始生产（底表投产年）",
+      "detail": "南乌拉尔镍联合企业（奥尔斯克）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL027",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-027 · 总表第28行"
+    },
+    {
+      "date": "2012",
+      "label": "保养维护(C&M)",
+      "detail": "镍价长期低迷、高能源成本、原料及产品运输成本高导致持续亏损，2012年停产封存；2015年被俄联邦税务局申请破产程序",
+      "kind": "运营变化",
+      "project_id": "GL027",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-027 · 总表第28行"
+    },
+    {
+      "date": "1939",
+      "label": "开始生产（底表投产年）",
+      "detail": "北方镍厂（科拉矿冶公司精炼厂，蒙切戈尔斯克）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL028",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-028 · 总表第29行"
+    },
+    {
+      "date": "2026",
+      "label": "在产",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL028",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-028 · 总表第29行"
+    },
+    {
+      "date": "1942",
+      "label": "开始生产（底表投产年）",
+      "detail": "诺里尔斯克镍厂（老镍厂）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL029",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-029 · 总表第30行"
+    },
+    {
+      "date": "2019",
+      "label": "已拆除",
+      "detail": "设备陈旧、基础设施磨损严重；环保（该厂当时约占诺里尔斯克地区大气污染的25%，年排放约40万吨SO2）；2014年Nornickel与俄罗斯联邦政府达成协议，以取消镍/铜阴极出口关税（价值约110亿卢布）换取公司承担关厂、拆除设备及员工安置的成本",
+      "kind": "运营变化",
+      "project_id": "GL029",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-029 · 总表第30行"
+    },
+    {
+      "date": "1946",
+      "label": "开始生产（底表投产年）",
+      "detail": "佩琴加镍厂（尼克尔镇冶炼厂）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL030",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-030 · 总表第31行"
+    },
+    {
+      "date": "2020",
+      "label": "永久关闭",
+      "detail": "环保（减少SO2排放，改善与挪威、芬兰接壤地区的空气质量，该厂长期被列为北欧最大的跨境污染源之一）+设备陈旧；2020年12月完全停止熔炼作业，此后陆续拆除烟囱等构筑物（2021年起）",
+      "kind": "运营变化",
+      "project_id": "GL030",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-030 · 总表第31行"
+    },
+    {
+      "date": "1979",
+      "label": "开始生产（底表投产年）",
+      "detail": "纳杰日达冶金厂（纳杰日金斯基冶金厂）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL031",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-031 · 总表第32行"
+    },
+    {
+      "date": "2026",
+      "label": "在产",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL031",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-031 · 总表第32行"
+    },
+    {
+      "date": "2018",
+      "label": "停产(可复产)",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL032",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-032 · 总表第33行"
+    },
+    {
+      "date": "2026",
+      "label": "规划中或可研",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL033",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-033 · 总表第34行"
+    },
+    {
+      "date": "2026",
+      "label": "在产",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL034",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-034 · 总表第35行"
+    },
+    {
+      "date": "2025",
+      "label": "在建",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL035",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-035 · 总表第36行"
+    },
+    {
+      "date": "1982",
+      "label": "开始生产（底表投产年）",
+      "detail": "台湾镍业精炼股份有限公司的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL036",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-036 · 总表第37行"
+    },
+    {
+      "date": "2012",
+      "label": "不详",
+      "detail": "未确认；据ImportGenius贸易记录，该公司进口活动最后记录止于2012年7月14日(数据库覆盖范围2006-2019年)，此后未见任何进口/生产活动记录，推测可能已大幅减产或停产，但无直接停产公告可确认，故状态列为'不详'而非'永久关闭'",
+      "kind": "运营变化",
+      "project_id": "GL036",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-036 · 总表第37行"
+    },
+    {
+      "date": "1939",
+      "label": "开始生产（底表投产年）",
+      "detail": "新居浜镍精炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL037",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-037 · 总表第38行"
+    },
+    {
+      "date": "2024",
+      "label": "在产",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL037",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-037 · 总表第38行"
+    },
+    {
+      "date": "1951",
+      "label": "开始生产（底表投产年）",
+      "detail": "志村化工株式会社(电解镍厂，历史)的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL038",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-038 · 总表第39行"
+    },
+    {
+      "date": "1979",
+      "label": "永久关闭",
+      "detail": "经营/原料成本问题：1963年起停止自建竖炉熔炼、改依赖进口镍锍精炼，最终1979年全面退出电解镍生产，转为住友金属矿山的委托加工(toll)方",
+      "kind": "运营变化",
+      "project_id": "GL038",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-038 · 总表第39行"
+    },
+    {
+      "date": "1952",
+      "label": "开始生产（底表投产年）",
+      "detail": "日本冶金工业 大江山制作所的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL039",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-039 · 总表第40行"
+    },
+    {
+      "date": "2024",
+      "label": "在产",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL039",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-039 · 总表第40行"
+    },
+    {
+      "date": "1966",
+      "label": "开始生产（底表投产年）",
+      "detail": "播磨精炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL040",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-040 · 总表第41行"
+    },
+    {
+      "date": "2023",
+      "label": "在产",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL040",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-040 · 总表第41行"
+    },
+    {
+      "date": "1966",
+      "label": "开始生产（底表投产年）",
+      "detail": "太平洋金属八户制炼所的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL041",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-041 · 总表第42行"
+    },
+    {
+      "date": "2025",
+      "label": "减产或部分停产",
+      "detail": "镍价长期低迷叠加印尼镍铁(NPI)低成本产能冲击，公司主动大幅削减产量以控制亏损，截至2025年3月已连续三个财年(FY2022-FY2024)出现亏损",
+      "kind": "运营变化",
+      "project_id": "GL041",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-041 · 总表第42行"
+    },
+    {
+      "date": "1975",
+      "label": "开始生产（底表投产年）",
+      "detail": "日本矿业 镍钴分离厂(历史，选址未确认)的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL042",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-042 · 总表第43行"
+    },
+    {
+      "date": "1975",
+      "label": "不详",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL042",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-042 · 总表第43行"
+    },
+    {
+      "date": "2024",
+      "label": "在产",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL043",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-043 · 总表第44行"
+    },
+    {
+      "date": "2019",
+      "label": "在产",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL044",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-044 · 总表第45行"
+    },
+    {
+      "date": "2025",
+      "label": "规划中或可研",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL045",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-045 · 总表第46行"
+    },
+    {
+      "date": "2025",
+      "label": "在建",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL046",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-046 · 总表第47行"
+    },
+    {
+      "date": "2023",
+      "label": "在产",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL047",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-047 · 总表第48行"
+    },
+    {
+      "date": "1987",
+      "label": "开始生产（底表投产年）",
+      "detail": "韩国镍业公司(KNC)的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL048",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-048 · 总表第49行"
+    },
+    {
+      "date": "2023",
+      "label": "永久关闭",
+      "detail": "POSCO与高丽亚锌两大股东分别转向自建独立镍供应链(POSCO的光阳高纯镍精炼厂、高丽亚锌/KEMCO的Onsan新镍冶炼产能)以分散供应商、掌控电池材料原料自主权，三方决定终止合资并清算该公司",
+      "kind": "运营变化",
+      "project_id": "GL048",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-048 · 总表第49行"
+    },
+    {
+      "date": "2008",
+      "label": "开始生产（底表投产年）",
+      "detail": "SNNC(POSCO-SMSP合资镍铁厂)的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL049",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-049 · 总表第50行"
+    },
+    {
+      "date": "2024",
+      "label": "在产",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL049",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-049 · 总表第50行"
+    },
+    {
+      "date": "2021",
+      "label": "开始生产（底表投产年）",
+      "detail": "EcoPro Materials 浦项厂(RMP镍钴精炼+前驱体)的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL050",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-050 · 总表第51行"
+    },
+    {
+      "date": "2025",
+      "label": "在产",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL050",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-050 · 总表第51行"
+    },
+    {
+      "date": "2023",
+      "label": "开始生产（底表投产年）",
+      "detail": "POSCO 光阳高纯镍精炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL051",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-051 · 总表第52行"
+    },
+    {
+      "date": "2023",
+      "label": "在产",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL051",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-051 · 总表第52行"
+    },
+    {
+      "date": "2023",
+      "label": "开始生产（底表投产年）",
+      "detail": "Torecom(LS MnM子公司) 牙山硫酸镍精炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL052",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-052 · 总表第53行"
+    },
+    {
+      "date": "2023",
+      "label": "在产",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL052",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-052 · 总表第53行"
+    },
+    {
+      "date": "2026",
+      "label": "开始生产（底表投产年）",
+      "detail": "高丽亚锌 温山'一体化镍冶炼厂'(新建)的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL053",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-053 · 总表第54行"
+    },
+    {
+      "date": "2026",
+      "label": "在建",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL053",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-053 · 总表第54行"
+    },
+    {
+      "date": "2026",
+      "label": "开始生产（底表投产年）",
+      "detail": "LS MnM 温山镍钴锰硫酸盐新厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL054",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-054 · 总表第55行"
+    },
+    {
+      "date": "2024",
+      "label": "在建",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL054",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-054 · 总表第55行"
+    },
+    {
+      "date": "2021",
+      "label": "在产",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL055",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-055 · 总表第56行"
+    },
+    {
+      "date": "2021",
+      "label": "不详",
+      "detail": "自2004/05财年起未报告硫酸镍产量，具体原因(如铜精炼副产液成分变化、经济性不足、设备老化等)未见公开说明，未见官方'永久关闭'的正式声明",
+      "kind": "运营变化",
+      "project_id": "GL056",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-056 · 总表第57行"
+    },
+    {
+      "date": "2023",
+      "label": "在产",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL057",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-057 · 总表第58行"
+    },
+    {
+      "date": "2022",
+      "label": "规划中或可研",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL058",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-058 · 总表第59行"
+    },
+    {
+      "date": "2011",
+      "label": "开始生产（底表投产年）",
+      "detail": "德贡东（塔冈冬）镍铁冶炼项目的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL059",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-059 · 总表第60行"
+    },
+    {
+      "date": "2024",
+      "label": "减产或部分停产",
+      "detail": "非因经济或资源原因永久关闭；2022年1月因缅甸反政府武装(Tigyaing镇人民防卫军)破坏输电基础设施被迫停产；此后缅甸内战持续，该项目经营状况未能核实",
+      "kind": "运营变化",
+      "project_id": "GL059",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-059 · 总表第60行"
+    },
+    {
+      "date": "2014",
+      "label": "项目中止(未建成)",
+      "detail": "2013年2月完成可行性研究后，因当地社区强烈反对(土地征用、透明度缺失、利益分配不公——仅2-5%利益分成给钦邦当地、缺乏事先自由知情同意FPIC)、资源分成谈判失败及镍价大跌(从每吨逾2万美元跌至不足1万美元)，项目于2014年起无限期搁置，此后未见复工报道",
+      "kind": "运营变化",
+      "project_id": "GL060",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-060 · 总表第61行"
+    },
+    {
+      "date": "1974",
+      "label": "开始生产（底表投产年）",
+      "detail": "诺诺克岛镍精炼厂（马林杜克矿业公司建；后由Philnico公司尝试复产改造）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL061",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-061 · 总表第62行"
+    },
+    {
+      "date": "2012",
+      "label": "永久关闭",
+      "detail": "1986年3月永久关闭。直接原因是1984年债务违约被债权银行查封；深层原因是Caron氨浸工艺技术落后、能耗高、经济性差，叠加当时镍价低迷。1996年(原Caron工艺)和1998年(PAL工艺)两轮可行性研究均未能促成实际复产，2000年后再无实质性进展报道，工厂长期废弃。",
+      "kind": "运营变化",
+      "project_id": "GL061",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-061 · 总表第62行"
+    },
+    {
+      "date": "2005",
+      "label": "开始生产（底表投产年）",
+      "detail": "科拉尔湾镍业公司的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "MHP045",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-062 · 总表第63行"
+    },
+    {
+      "date": "2025",
+      "label": "在产",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "MHP045",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-062 · 总表第63行"
+    },
+    {
+      "date": "2013",
+      "label": "开始生产（底表投产年）",
+      "detail": "塔加尼托HPAL镍业公司的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "MHP047",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-063 · 总表第64行"
+    },
+    {
+      "date": "2025",
+      "label": "在产",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "MHP047",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-063 · 总表第64行"
+    },
+    {
+      "date": "2024",
+      "label": "规划中或可研",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL064",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-064 · 总表第65行"
+    },
+    {
+      "date": "2024",
+      "label": "规划中或可研",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL065",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-065 · 总表第66行"
+    },
+    {
+      "date": "2025",
+      "label": "规划中或可研",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL066",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-066 · 总表第67行"
+    },
+    {
+      "date": "2018",
+      "label": "不详",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL067",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-067 · 总表第68行"
+    },
+    {
+      "date": "2013",
+      "label": "开始生产（底表投产年）",
+      "detail": "版福镍矿及选矿厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL068",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-068 · 总表第69行"
+    },
+    {
+      "date": "2016",
+      "label": "保养维护(C&M)",
+      "detail": "2016年9月镍价下跌导致收入不足以覆盖运营成本(此前3.5年投资者累计投入超1.36亿美元、产生2.13亿美元收入，但仍难以为继)，转入护养维护状态；此后经Blackstone(2019年)、Xuan Loc Tho(2025年)等新股东多次评估复产，但截至研究时未找到确认已恢复商业化生产的报道",
+      "kind": "运营变化",
+      "project_id": "GL068",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-068 · 总表第69行"
+    },
+    {
+      "date": "2025",
+      "label": "规划中或可研",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL069",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-069 · 总表第70行"
+    },
+    {
+      "date": "2012",
+      "label": "开始生产（底表投产年）",
+      "detail": "拉穆(Ramu)镍钴项目——巴萨穆克(Basamuk)高压酸浸精炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "MHP037",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-070 · 总表第71行"
+    },
+    {
+      "date": "2025",
+      "label": "在产",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "MHP037",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-070 · 总表第71行"
+    },
+    {
+      "date": "1879",
+      "label": "开始生产（底表投产年）",
+      "detail": "沙莱克斯角(Pointe Chaleix)冶炼厂（新喀里多尼亚第一座镍冶炼厂）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL071",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-071 · 总表第72行"
+    },
+    {
+      "date": "1879",
+      "label": "已拆除",
+      "detail": "推测因1910年Doniambo厂建成及产能整合而被取代，但具体关闭年份及原因未在本轮检索中查实",
+      "kind": "运营变化",
+      "project_id": "GL071",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-071 · 总表第72行"
+    },
+    {
+      "date": "1889",
+      "label": "开始生产（底表投产年）",
+      "detail": "蒂奥乌鲁埃(Ouroué)冶炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL072",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-072 · 总表第73行"
+    },
+    {
+      "date": "1891",
+      "label": "已拆除",
+      "detail": "存疑;运营时间极短(仅约2年),具体关闭原因本轮检索未能独立核实,推测为技术/经济性问题或产能整合至同期蒂奥其它设施",
+      "kind": "运营变化",
+      "project_id": "GL072",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-072 · 总表第73行"
+    },
+    {
+      "date": "1910",
+      "label": "开始生产（底表投产年）",
+      "detail": "多尼安博(Doniambo)冶炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL073",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-073 · 总表第74行"
+    },
+    {
+      "date": "2026",
+      "label": "减产或部分停产",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL073",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-073 · 总表第74行"
+    },
+    {
+      "date": "1912",
+      "label": "开始生产（底表投产年）",
+      "detail": "蒂奥教会区(Thio-Mission)冶炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL074",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-074 · 总表第75行"
+    },
+    {
+      "date": "1930",
+      "label": "已拆除",
+      "detail": "存疑;1930年前后关闭恰逢全球经济大萧条及国际镍价暴跌(1929-1931年镍价崩盘,据本普查现有『Doniambo Smelter』记录,该次崩盘导致新喀里多尼亚两家竞争性冶炼企业于1929-1931年间合并),推测蒂奥教会区厂产能因此被整合至努美阿主厂,具体原因本轮检索未能独立核实一手资料",
+      "kind": "运营变化",
+      "project_id": "GL074",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-074 · 总表第75行"
+    },
+    {
+      "date": "2010",
+      "label": "开始生产（底表投产年）",
+      "detail": "戈罗(Goro)镍厂（南部工厂，Prony Resources运营）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "MHP035",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-075 · 总表第76行"
+    },
+    {
+      "date": "2026",
+      "label": "在产",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "MHP035",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-075 · 总表第76行"
+    },
+    {
+      "date": "2014",
+      "label": "开始生产（底表投产年）",
+      "detail": "科尼安博(Koniambo)镍业公司(KNS)冶炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL076",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-076 · 总表第77行"
+    },
+    {
+      "date": "2024",
+      "label": "保养维护(C&M)",
+      "detail": "持续高企的运营成本叠加镍价低迷导致长期亏损（Glencore自2013年以来投入超40亿美元未获盈利），加上新喀里多尼亚2024年骚乱局势恶化，Glencore决定退出并转入保养维护、寻求新的产业合作伙伴",
+      "kind": "运营变化",
+      "project_id": "GL076",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-076 · 总表第77行"
+    },
+    {
+      "date": "1909",
+      "label": "开始生产（底表投产年）",
+      "detail": "努美阿高炉公司(Hauts Fourneaux de Nouméa)的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL077",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-077 · 总表第78行"
+    },
+    {
+      "date": "1937",
+      "label": "永久关闭",
+      "detail": "1931年7月1日SLN与竞争企业'Calédonia'(推测与本厂存在继承/重组关系，但未100%确证)各出资50%成立合资公司Calédonickel，接管双方工业矿业资产，标志本厂作为独立法人的经营告一段落；1937年2月SLN进一步宣布全面吸收合并Calédonia，终止Calédonickel合资架构，SLN成为全岛唯一采选冶一体化运营商。",
+      "kind": "运营变化",
+      "project_id": "GL077",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-077 · 总表第78行"
+    },
+    {
+      "date": "1970",
+      "label": "开始生产（底表投产年）",
+      "detail": "奎纳纳镍精炼厂（含硫酸镍工厂）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL078",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-078 · 总表第79行"
+    },
+    {
+      "date": "2024",
+      "label": "保养维护(C&M)",
+      "detail": "随整个Nickel West业务于2024年7月11日宣布、10月起暂停：全球镍市场供应过剩、镍价大跌导致经济不可行。2027年2月前复审。",
+      "kind": "运营变化",
+      "project_id": "GL078",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-078 · 总表第79行"
+    },
+    {
+      "date": "1973",
+      "label": "开始生产（底表投产年）",
+      "detail": "卡尔古利镍冶炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL079",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-079 · 总表第80行"
+    },
+    {
+      "date": "2024",
+      "label": "保养维护(C&M)",
+      "detail": "全球镍市场供应过剩、镍价大跌，导致Nickel West经济上不可行(BHP 2024年7月11日官方声明，预计FY2024 EBITDA亏损约3亿美元)；西澳廉价印尼镍供应冲击也是背景因素。BHP计划2027年2月前完成复审，决定继续暂停/重启/永久关闭/出售。截至2026年8月尚未做最终决定，存在联邦/州政府救助呼声但未获承诺。",
+      "kind": "运营变化",
+      "project_id": "GL079",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-079 · 总表第80行"
+    },
+    {
+      "date": "1974",
+      "label": "开始生产（底表投产年）",
+      "detail": "亚布鲁镍精炼厂（帕尔默镍钴精炼厂）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL080",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-080 · 总表第81行"
+    },
+    {
+      "date": "2016",
+      "label": "停产(可复产)",
+      "detail": "2016年镍价低迷导致公司资不抵债（负债达7.71亿澳元），2016年1月大规模裁员并进入自愿托管，4月清算；此后多次宣布复产/出售计划但均未见落实运营的可靠报道",
+      "kind": "运营变化",
+      "project_id": "GL080",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-080 · 总表第81行"
+    },
+    {
+      "date": "1998",
+      "label": "开始生产（底表投产年）",
+      "detail": "布隆镍钴项目的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "MHP041",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-081 · 总表第82行"
+    },
+    {
+      "date": "2003",
+      "label": "永久关闭",
+      "detail": "工艺(源自1950年代古巴Moa Bay加压酸浸工艺)被证明不适应西澳当地矿石条件：矿石镁含量高(约5%)导致硫酸耗量高达每吨矿500公斤，加之矿石品位低(约1%Ni)、粘土矿物特性造成管道石膏结垢堵塞，运营成本失控。2002年债权人托管，2003年停产。此后虽多次易主但均未复产，2014年后未见任何后续报道，故按长期无经营活动列为永久关闭，但需注意部分基础设施据称曾被保留以备未来硫化矿业务使用，并无正式'永久关闭/拆除'的官方声明。",
+      "kind": "运营变化",
+      "project_id": "MHP041",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-081 · 总表第82行"
+    },
+    {
+      "date": "1999",
+      "label": "开始生产（底表投产年）",
+      "detail": "科斯镍钴项目的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "MHP040",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-082 · 总表第83行"
+    },
+    {
+      "date": "2008",
+      "label": "保养维护(C&M)",
+      "detail": "2008年全球金融危机导致镍价大幅下跌，运营不再经济，进入保养维护。此后历经Norilsk Nickel、Wingstar Investments易主，但均未重新投产，长期处于保养维护状态。",
+      "kind": "运营变化",
+      "project_id": "MHP040",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-082 · 总表第83行"
+    },
+    {
+      "date": "1999",
+      "label": "开始生产（底表投产年）",
+      "detail": "穆林穆林镍钴项目的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "MHP049",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-083 · 总表第84行"
+    },
+    {
+      "date": "2025",
+      "label": "在产",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "MHP049",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-083 · 总表第84行"
+    },
+    {
+      "date": "2008",
+      "label": "开始生产（底表投产年）",
+      "detail": "雷文斯索普镍项目的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "MHP036",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-084 · 总表第85行"
+    },
+    {
+      "date": "2024",
+      "label": "保养维护(C&M)",
+      "detail": "镍价持续低迷、运营成本高企，导致经济性不佳。2024年1月先减少30%采矿人力，4月29日宣布进入保养维护(裁员330人)，7月起矿山停采；处理现有库存矿石预计维持约2年后计划恢复采矿(未见具体复产年份公告)。",
+      "kind": "运营变化",
+      "project_id": "MHP036",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-084 · 总表第85行"
+    },
+    {
+      "date": "2025",
+      "label": "规划中或可研",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL085",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-085 · 总表第86行"
+    },
+    {
+      "date": "2025",
+      "label": "规划中或可研",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL086",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-086 · 总表第87行"
+    },
+    {
+      "date": "2023",
+      "label": "不详",
+      "detail": "2023年5月，联邦工业、科学与资源部以'项目合作方与政府时间表不一致'为由终止与PBT的关键资助(1.196亿澳元MMI资助)谈判，PBT失去这笔资金支持。此后未找到任何公开的项目最新进展报道，很可能已实质性停滞，但未见正式取消/终止声明，故状态标记为'不详'而非'项目中止(未建成)'，供撰写者进一步核实2024-2026年是否有更新。",
+      "kind": "运营变化",
+      "project_id": "GL087",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-087 · 总表第88行"
+    },
+    {
+      "date": "2024",
+      "label": "项目中止(未建成)",
+      "detail": "2023-24年镍价大幅下跌(较峰值跌约40%，主因印尼供应冲击)，导致IGO自有Cosmos镍矿于2024年1月进入保养维护(原料来源萎缩)，Wyloo旗下Kambalda(Cassini、北部矿区)镍矿也于2024年5-6月间关闭。据Sound Telegraph(2024年7月)报道，IGO与Wyloo已'因市场环境'搁置了Kwinana加工厂计划；同期Wyloo将其加拿大首座下游电池材料厂选址在安大略萨德伯里而非西澳，进一步印证Kwinana项目优先级下降/搁置。注：本研究未找到使用'cancelled'等措辞的官方正式声明，结论部分基于时间线推断。",
+      "kind": "运营变化",
+      "project_id": "GL088",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-088 · 总表第89行"
+    },
+    {
+      "date": "2026",
+      "label": "规划中或可研",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL089",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-089 · 总表第90行"
+    },
+    {
+      "date": "2023",
+      "label": "规划中或可研",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL090",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-090 · 总表第91行"
+    },
+    {
+      "date": "2026",
+      "label": "规划中或可研",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL091",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-091 · 总表第92行"
+    },
+    {
+      "date": "2025",
+      "label": "规划中或可研",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL092",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-092 · 总表第93行"
+    },
+    {
+      "date": "2024",
+      "label": "规划中或可研",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL093",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-093 · 总表第94行"
+    },
+    {
+      "date": "1888",
+      "label": "开始生产（底表投产年）",
+      "detail": "加拿大铜业公司科珀克利夫冶炼厂(1888年原始厂,萨德伯里首座冶炼厂)的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL094",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-094 · 总表第95行"
+    },
+    {
+      "date": "1902",
+      "label": "已拆除",
+      "detail": "1902年加拿大铜业公司、奥福德铜业公司与美国镍业公司合并组建国际镍公司(INCO)后,原始19世纪厂房设备历经INCO及后续Vale历代技术改造与重建(如1948-1963年运营的烧结厂、历次现代化熔炼技术更新等),1888年原始设施本身已不复存在;本记录状态年份(1902)仅标志加拿大铜业公司作为独立企业实体及其原始技术阶段的终结,厂址物理生产活动并未真正中断,而是由后继者(INCO、Vale)在同一场地持续经营至今(现状请参见本普查现行『Copper Cliff Smelter Complex』记录)",
+      "kind": "运营变化",
+      "project_id": "GL094",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-094 · 总表第95行"
+    },
+    {
+      "date": "1888",
+      "label": "开始生产（底表投产年）",
+      "detail": "铜崖冶炼厂综合体（萨德伯里）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL095",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-095 · 总表第96行"
+    },
+    {
+      "date": "2026",
+      "label": "在产",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL095",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-095 · 总表第96行"
+    },
+    {
+      "date": "1901",
+      "label": "开始生产（底表投产年）",
+      "detail": "蒙德镍业公司维多利亚矿区冶炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL096",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-096 · 总表第97行"
+    },
+    {
+      "date": "1913",
+      "label": "已拆除",
+      "detail": "加尔森(Garson)矿产量超过维多利亚矿,冶炼厂选址距新主力矿区过远,蒙德镍业公司决定在科尼斯顿新建冶炼厂承接产能;维多利亚矿区厂大部分建筑物被拆除并迁至科尼斯顿或沃辛顿(Worthington)",
+      "kind": "运营变化",
+      "project_id": "GL096",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-096 · 总表第97行"
+    },
+    {
+      "date": "1906",
+      "label": "开始生产（底表投产年）",
+      "detail": "德洛罗冶炼精炼公司（钴/银/砷为主，镍为伴生，存疑收录）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL097",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-097 · 总表第98行"
+    },
+    {
+      "date": "1961",
+      "label": "已拆除",
+      "detail": "1956年主营的司太立特合金业务迁往Belleville后，Deloro厂区业务萎缩，1961年3月关闭。",
+      "kind": "运营变化",
+      "project_id": "GL097",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-097 · 总表第98行"
+    },
+    {
+      "date": "1913",
+      "label": "开始生产（底表投产年）",
+      "detail": "科尼斯顿冶炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL098",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-098 · 总表第99行"
+    },
+    {
+      "date": "1976",
+      "label": "已拆除",
+      "detail": "1972年1月28日Inco宣布因安大略省政府环保排放限制趋严、且老厂效率低于Copper Cliff新厂而关闭；1972年4月16日完成末班生产。厂区曾作为'备用'冶炼厂保留一段时间，1976年被拆除，部分建筑(更衣室、办公室、动力房、1954/1959年烟囱、仓库等)被保留改造为工业园区。",
+      "kind": "运营变化",
+      "project_id": "GL098",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-098 · 总表第99行"
+    },
+    {
+      "date": "1916",
+      "label": "开始生产（底表投产年）",
+      "detail": "英美镍业公司魁北克德申海宾内特法精炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL099",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-099 · 总表第100行"
+    },
+    {
+      "date": "1923",
+      "label": "已拆除",
+      "detail": "1923年加拿大总理麦肯齐·金下令关闭该厂,具体政策/经济原因来源未详述(推测与一战后镍价下跌、公司经营困难及国防/产业政策调整有关);翌年母公司清盘,厂房废墟保留至1985年被清除",
+      "kind": "运营变化",
+      "project_id": "GL099",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-099 · 总表第100行"
+    },
+    {
+      "date": "1918",
+      "label": "开始生产（底表投产年）",
+      "detail": "科尔本港镍精炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL100",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-100 · 总表第101行"
+    },
+    {
+      "date": "1984",
+      "label": "减产或部分停产",
+      "detail": "多来源存在矛盾：一说'电解精炼于1984年停止'(Smith v. Inco判例文书称'in commission between 1918-1984')。本轮通过Vale官方现役业务页面(valebasemetals.com、vale.com)独立核实2024-2026年该厂当前业务范围，两份官网现均只描述该厂从事：电积钴(electro-cobalt)生产、贵金属及微量金属加工处理、以及镍'成品'的制造/包装/分销——均未提及任何形式的原生电解镍精炼或电积镍生产。这一现状描述与'电解镍精炼已于1984年停止'的判例记载相互印证，支持'该厂已从原生电解镍精炼转型为钴/贵金属精炼+镍产品加工分销'这一结论；但官网本身未直接给出转型的具体年份，故'1984年'仍为间接推断而非官网自证，两类信息未能完全调和，仍建议标注为'较大概率成立但未100%确证'。",
+      "kind": "运营变化",
+      "project_id": "GL100",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-100 · 总表第101行"
+    },
+    {
+      "date": "1920",
+      "label": "开始生产（底表投产年）",
+      "detail": "英美镍业公司镍尔顿(Nickelton)冶炼厂(默里矿区)的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL101",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-101 · 总表第102行"
+    },
+    {
+      "date": "1924",
+      "label": "已拆除",
+      "detail": "一战结束后国际镍价大幅下跌,英美镍业公司难以与国际镍公司(INCO)、蒙德镍业公司竞争,1924年7月公司清盘解散",
+      "kind": "运营变化",
+      "project_id": "GL101",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-101 · 总表第102行"
+    },
+    {
+      "date": "1930",
+      "label": "开始生产（底表投产年）",
+      "detail": "萨德伯里冶炼厂（原Falconbridge，现Glencore萨德伯里一体化镍业务）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL102",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-102 · 总表第103行"
+    },
+    {
+      "date": "2026",
+      "label": "在产",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL102",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-102 · 总表第103行"
+    },
+    {
+      "date": "1954",
+      "label": "开始生产（底表投产年）",
+      "detail": "谢里特堡萨斯喀彻温精炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL103",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-103 · 总表第104行"
+    },
+    {
+      "date": "2026",
+      "label": "停产(可复产)",
+      "detail": "根本原因是原料链断裂：2026年2月古巴Moa因燃料短缺已暂停部分采选活动；2026年5月7日美国行政令扩大对古巴制裁后，Sherritt宣布暂停在Moa和Energas合资企业的直接参与；随着库存混合硫化物于2026年6月中旬耗尽，Fort Saskatchewan炼厂于2026年6月22日停止镍钴精炼生产。公司表示将保留人员和设施'安全稳定状态'，待Moa采选恢复、原料管道重建后择机复产，但未给出具体复产时间表。停产期间厂区继续利用现有装置对外销售化肥和硫酸维持部分现金流。",
+      "kind": "运营变化",
+      "project_id": "GL103",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-103 · 总表第104行"
+    },
+    {
+      "date": "1961",
+      "label": "开始生产（底表投产年）",
+      "detail": "汤普森精炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL104",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-104 · 总表第105行"
+    },
+    {
+      "date": "2018",
+      "label": "永久关闭",
+      "detail": "与同址冶炼厂同步于2018年关闭，原因相同(设施老旧、环保改造成本高、集团加工网络整合至萨德伯里/Long Harbour)。",
+      "kind": "运营变化",
+      "project_id": "GL104",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-104 · 总表第105行"
+    },
+    {
+      "date": "1961",
+      "label": "开始生产（底表投产年）",
+      "detail": "汤普森冶炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL105",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-105 · 总表第106行"
+    },
+    {
+      "date": "2018",
+      "label": "永久关闭",
+      "detail": "Vale于2015年宣布计划关闭汤普森冶炼和精炼环节(仅保留采选)；据USGS Minerals Yearbook记载，因加拿大新颁布的SO2排放法规，Vale已于2017年关闭厂内第一台熔炼炉，并计划于2018年下半年关闭剩余熔炼/精炼产能，2018年正式全面停产；官方及媒体报道原因主要为该冶炼/精炼设施老旧、环保合规(SO2新规)成本过高、以及Vale集团调整加工网络(改为将精矿外运至萨德伯里和纽芬兰Long Harbour加工)。",
+      "kind": "运营变化",
+      "project_id": "GL105",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-105 · 总表第106行"
+    },
+    {
+      "date": "1973",
+      "label": "开始生产（底表投产年）",
+      "detail": "铜崖镍精炼厂（羰基法）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL106",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-106 · 总表第107行"
+    },
+    {
+      "date": "2026",
+      "label": "在产",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL106",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-106 · 总表第107行"
+    },
+    {
+      "date": "2014",
+      "label": "开始生产（底表投产年）",
+      "detail": "朗哈伯（长港）湿法冶炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL107",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-107 · 总表第108行"
+    },
+    {
+      "date": "2026",
+      "label": "在产",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL107",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-107 · 总表第108行"
+    },
+    {
+      "date": "2003",
+      "label": "项目中止(未建成)",
+      "detail": "该商业规模方案(闪速熔炼+MCLE氯浸电积法)因故未按1996年原设计建成；2000年代初已缩减为示范装置方案，最终该示范方案本身似乎也未继续推进(2003年后USGS Minerals Yearbook不再提及)，纽芬兰与拉布拉多省转而与Vale谈判达成在Long Harbour建设全尺寸商业水冶厂的协议(2008年宣布，2014年投产)，Argentia方案被彻底取代。",
+      "kind": "运营变化",
+      "project_id": "GL108",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-108 · 总表第109行"
+    },
+    {
+      "date": "2026",
+      "label": "规划中或可研",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL109",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-109 · 总表第110行"
+    },
+    {
+      "date": "1863",
+      "label": "开始生产（底表投产年）",
+      "detail": "美国镍业公司(卡姆登镍厂，约瑟夫·沃顿创办)的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL110",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-110 · 总表第111行"
+    },
+    {
+      "date": "1905",
+      "label": "永久关闭",
+      "detail": "1902年参与组建国际镍公司(INCO);1905年美国镍业公司正式并入奥福德铜业公司(Orford Copper Company),独立品牌与经营主体不再存续",
+      "kind": "运营变化",
+      "project_id": "GL110",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-110 · 总表第111行"
+    },
+    {
+      "date": "1892",
+      "label": "开始生产（底表投产年）",
+      "detail": "奥福德铜业公司炼厂（新泽西州贝永市）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL111",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-111 · 总表第112行"
+    },
+    {
+      "date": "1922",
+      "label": "永久关闭",
+      "detail": "1918年加拿大Port Colborne电解精炼厂建成后，出于产业本土化(避免一战式对美依赖的重演)及成本考虑，Inco决定将电解镍生产集中至加拿大，1922年正式关闭Bayonne(Orford)炼厂。",
+      "kind": "运营变化",
+      "project_id": "GL111",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-111 · 总表第112行"
+    },
+    {
+      "date": "1954",
+      "label": "开始生产（底表投产年）",
+      "detail": "汉纳镍冶炼公司/格伦布鲁克镍业公司里德尔冶炼厂（俄勒冈州镍山）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL112",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-112 · 总表第113行"
+    },
+    {
+      "date": "1998",
+      "label": "永久关闭",
+      "detail": "1987年首次关闭：红土矿资源枯竭及经济性下降。Glenbrook Nickel Co.其后收购该矿点(所有权登记年份，据Western Mining History为1992年；此前记录采用1990年，两者并列保留)，以消化约600万短吨库存低品位矿石为主。经本轮再次检索，1998年最终关闭年份(核查清单曾提示)仍未获得独立可核实来源确认，continues to be一个明确研究缺口——本研究未能推翻也未能证实这一年份，故按任务要求'两者皆保留'处理：一说该厂1998年前后最终停产(业内常见引用但缺乏一手来源)，另一说其停产时间与Glenbrook的矿石消化周期相关、未见明确终止年份的官方记录。",
+      "kind": "运营变化",
+      "project_id": "GL112",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-112 · 总表第113行"
+    },
+    {
+      "date": "2024",
+      "label": "开始生产（底表投产年）",
+      "detail": "西温元素公司劳顿镍钴精炼厂（中试/示范装置）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL113",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-113 · 总表第114行"
+    },
+    {
+      "date": "2026",
+      "label": "在产",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL113",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-113 · 总表第114行"
+    },
+    {
+      "date": "2026",
+      "label": "规划中或可研",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL114",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-114 · 总表第115行"
+    },
+    {
+      "date": "2026",
+      "label": "在建",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL115",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-115 · 总表第116行"
+    },
+    {
+      "date": "2025",
+      "label": "规划中或可研",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL116",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-116 · 总表第117行"
+    },
+    {
+      "date": "2026",
+      "label": "规划中或可研",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL117",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-117 · 总表第118行"
+    },
+    {
+      "date": "2026",
+      "label": "减产或部分停产",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL118",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-118 · 总表第119行"
+    },
+    {
+      "date": "2026",
+      "label": "项目中止(未建成)",
+      "detail": "2026年9月Talon宣布转而利用其2026年1月从Lundin Mining收购的密歇根州Humboldt Mill(原Eagle矿选矿厂)现有基础设施加工Tamarack矿石，以'大幅降低前期资本开支和融资需求'，故放弃在北达科他州新建独立加工厂的原计划；公司称将于2026年底完成利用Humboldt Mill方案的可行性研究，原1.148亿美元DOE拨款能否转用于Humboldt方案尚存不确定性。",
+      "kind": "运营变化",
+      "project_id": "GL119",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-119 · 总表第120行"
+    },
+    {
+      "date": "2026",
+      "label": "规划中或可研",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL120",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-120 · 总表第121行"
+    },
+    {
+      "date": "1977",
+      "label": "开始生产（底表投产年）",
+      "detail": "菲尼克斯镍项目（普罗尼科镍铁厂，原EXMIBAL/Inco矿）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL121",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-121 · 总表第122行"
+    },
+    {
+      "date": "2026",
+      "label": "在产",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL121",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-121 · 总表第122行"
+    },
+    {
+      "date": "1943",
+      "label": "开始生产（底表投产年）",
+      "detail": "尼卡罗镍厂（雷内·拉莫斯·拉图尔镍厂）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL122",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-122 · 总表第123行"
+    },
+    {
+      "date": "2012",
+      "label": "永久关闭",
+      "detail": "设备老化、能耗过高、经济性差；运营超70年后于2012年底关闭",
+      "kind": "运营变化",
+      "project_id": "GL122",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-122 · 总表第123行"
+    },
+    {
+      "date": "1959",
+      "label": "开始生产（底表投产年）",
+      "detail": "莫阿镍厂（佩德罗·索托·阿尔瓦厂）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL123",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-123 · 总表第124行"
+    },
+    {
+      "date": "2026",
+      "label": "停产(可复产)",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL123",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-123 · 总表第124行"
+    },
+    {
+      "date": "1986",
+      "label": "开始生产（底表投产年）",
+      "detail": "蓬塔戈尔达镍厂（切·格瓦拉镍厂）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL124",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-124 · 总表第125行"
+    },
+    {
+      "date": "2026",
+      "label": "减产或部分停产",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL124",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-124 · 总表第125行"
+    },
+    {
+      "date": "2005",
+      "label": "项目中止(未建成)",
+      "detail": "苏联解体导致原始建设资金中断；2004年中国五矿合资改造计划亦未完工（具体终止原因及是否正式终止未见披露）",
+      "kind": "运营变化",
+      "project_id": "GL125",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-125 · 总表第126行"
+    },
+    {
+      "date": "2005",
+      "label": "不详",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL126",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-126 · 总表第127行"
+    },
+    {
+      "date": "1982",
+      "label": "开始生产（底表投产年）",
+      "detail": "塞罗马托索镍铁厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL127",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-127 · 总表第128行"
+    },
+    {
+      "date": "2026",
+      "label": "减产或部分停产",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL127",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-127 · 总表第128行"
+    },
+    {
+      "date": "1971",
+      "label": "开始生产（底表投产年）",
+      "detail": "法尔康多镍铁厂（博纳奥）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL128",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-128 · 总表第129行"
+    },
+    {
+      "date": "2023",
+      "label": "停产(可复产)",
+      "detail": "2023年骤然停产，具体直接诱因未在信源中明确说明（推测与长期镍价低迷、企业财务/破产程序相关），目前处于破产清算及劳资遣散费追讨程序中",
+      "kind": "运营变化",
+      "project_id": "GL128",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-128 · 总表第129行"
+    },
+    {
+      "date": "2000",
+      "label": "开始生产（底表投产年）",
+      "detail": "洛马德尼克尔镍铁厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL129",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-129 · 总表第130行"
+    },
+    {
+      "date": "2015",
+      "label": "停产(可复产)",
+      "detail": "2015年9月停产，具体直接原因未在信源中充分说明（委内瑞拉经济危机、外汇管制、国有化后管理问题等因素可能相关，但未见确切归因表述）",
+      "kind": "运营变化",
+      "project_id": "GL129",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-129 · 总表第130行"
+    },
+    {
+      "date": "1966",
+      "label": "开始生产（底表投产年）",
+      "detail": "莫罗-多-尼克尔镍厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL130",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-130 · 总表第131行"
+    },
+    {
+      "date": "1998",
+      "label": "永久关闭",
+      "detail": "未在信源中明确说明具体关闭原因",
+      "kind": "运营变化",
+      "project_id": "GL130",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-130 · 总表第131行"
+    },
+    {
+      "date": "1981",
+      "label": "开始生产（底表投产年）",
+      "detail": "托坎廷斯镍公司（尼克兰迪亚Caron氨浸厂）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL131",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-131 · 总表第132行"
+    },
+    {
+      "date": "2016",
+      "label": "永久关闭",
+      "detail": "2015年镍价年内下跌约40%，公司评估各情景均不具备中短期经济可行性；2016年2月1日起停止尼克兰迪亚端采矿，5月起停止选矿及圣保罗端精炼作业，直接裁员约800人（不含分包商）",
+      "kind": "运营变化",
+      "project_id": "GL131",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-131 · 总表第132行"
+    },
+    {
+      "date": "1982",
+      "label": "开始生产（底表投产年）",
+      "detail": "科德明镍铁厂（尼克兰迪亚）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL132",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-132 · 总表第133行"
+    },
+    {
+      "date": "2026",
+      "label": "在产",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL132",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-132 · 总表第133行"
+    },
+    {
+      "date": "1997",
+      "label": "开始生产（底表投产年）",
+      "detail": "福塔莱萨-德米纳斯镍厂（塞拉福塔莱萨矿业）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL133",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-133 · 总表第134行"
+    },
+    {
+      "date": "2013",
+      "label": "永久关闭",
+      "detail": "2013年镍价暴跌，公司评估各情景均不具备短中期经济可行性，宣布不可抗力并全面停产",
+      "kind": "运营变化",
+      "project_id": "GL133",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-133 · 总表第134行"
+    },
+    {
+      "date": "2011",
+      "label": "开始生产（底表投产年）",
+      "detail": "巴罗阿尔托镍铁厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL134",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-134 · 总表第135行"
+    },
+    {
+      "date": "2026",
+      "label": "在产",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL134",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-134 · 总表第135行"
+    },
+    {
+      "date": "2011",
+      "label": "开始生产（底表投产年）",
+      "detail": "翁萨普马镍铁厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL135",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-135 · 总表第136行"
+    },
+    {
+      "date": "2025",
+      "label": "在产",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL135",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-135 · 总表第136行"
+    },
+    {
+      "date": "2024",
+      "label": "保养维护(C&M)",
+      "detail": "2024年4月融资失败（接触150余方潜在投资者未果），资本开支较原预算上涨约87%（5.37亿→10亿美元），管理层认为印尼镍供应格局下市场对镍铁行业复苏缺乏信心",
+      "kind": "运营变化",
+      "project_id": "GL136",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-136 · 总表第137行"
+    },
+    {
+      "date": "2026",
+      "label": "规划中或可研",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "MHP043",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-137 · 总表第138行"
+    },
+    {
+      "date": "2016",
+      "label": "停产(可复产)",
+      "detail": "随原料供应厂CNT厂（尼克兰迪亚）因镍价暴跌转入保养维护/停产而同步停运（USGS给出2015年版即已停产，巴西本地媒体给出2016年5月停产，两口径均列出）",
+      "kind": "运营变化",
+      "project_id": "GL138",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-138 · 总表第139行"
+    },
+    {
+      "date": "2024",
+      "label": "项目中止(未建成)",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL139",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-139 · 总表第140行"
+    },
+    {
+      "date": "1974",
+      "label": "开始生产（底表投产年）",
+      "detail": "英帕拉铂业斯普林斯贱金属精炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL140",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-140 · 总表第141行"
+    },
+    {
+      "date": "2025",
+      "label": "在产",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL140",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-140 · 总表第141行"
+    },
+    {
+      "date": "1998",
+      "label": "开始生产（底表投产年）",
+      "detail": "恩科马蒂镍矿选矿厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL141",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-141 · 总表第142行"
+    },
+    {
+      "date": "2021",
+      "label": "保养维护(C&M)",
+      "detail": "镍价低迷叠加成本上升：地下矿已于2015年停产转入保养维护；2019年8月ARM即已公开宣布拟于2020年9月前将全矿转入保养维护状态(据USGS MYB 2019)；露天矿(MMZ/PCMZ)可采资源采竭，实际已于2021年2月停止露天开采，2021年3月正式转入保养维护状态为关闭做准备(据USGS MYB 2021)，未见2022-2026年间复产报道。",
+      "kind": "运营变化",
+      "project_id": "GL141",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-141 · 总表第142行"
+    },
+    {
+      "date": "2005",
+      "label": "开始生产（底表投产年）",
+      "detail": "诺瑟姆铂业桑德雷恩德冶炼厂及贱金属精炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL142",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-142 · 总表第143行"
+    },
+    {
+      "date": "2025",
+      "label": "在产",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL142",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-142 · 总表第143行"
+    },
+    {
+      "date": "2019",
+      "label": "开始生产（底表投产年）",
+      "detail": "萨卡杜硫酸镍厂(马里卡纳)的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL143",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-143 · 总表第144行"
+    },
+    {
+      "date": "2021",
+      "label": "在产",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL143",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-143 · 总表第144行"
+    },
+    {
+      "date": "2025",
+      "label": "在产",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL144",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-144 · 总表第145行"
+    },
+    {
+      "date": "2025",
+      "label": "在产",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL145",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-145 · 总表第146行"
+    },
+    {
+      "date": "1973",
+      "label": "开始生产（底表投产年）",
+      "detail": "BCL塞莱比皮奎镍铜冶炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL146",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-146 · 总表第147行"
+    },
+    {
+      "date": "2016",
+      "label": "永久关闭",
+      "detail": "长期亏损：公司原计划运营至2010年，后延至2013年，最终于2016年9月因持续亏损、矿石品位下降及现金流枯竭而全面停产并进入清算，导致大量失业，塞莱比皮奎镇经济受到严重冲击。",
+      "kind": "运营变化",
+      "project_id": "GL146",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-146 · 总表第147行"
+    },
+    {
+      "date": "2006",
+      "label": "项目中止(未建成)",
+      "detail": "2006年8月获批后仅出现于当年USGS Minerals Yearbook记录，此后(2007年及以后)未见于任何后续版本的USGS资料或其它信源，据此推断项目在规划阶段即被搁置或取消，具体原因(资金、镍价周期、Norilsk Nickel收购LionOre后的战略调整等)本次调研未能独立核实。",
+      "kind": "运营变化",
+      "project_id": "GL147",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-147 · 总表第148行"
+    },
+    {
+      "date": "2024",
+      "label": "规划中或可研",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL148",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-148 · 总表第149行"
+    },
+    {
+      "date": "2013",
+      "label": "不详",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL149",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-149 · 总表第150行"
+    },
+    {
+      "date": "2011",
+      "label": "项目中止(未建成)",
+      "detail": "项目长期停留在勘探/可行性研究阶段：矿区地处内陆，缺乏配套铁路/港口基础设施(拟议中的坦桑尼亚-布隆迪吉特加铁路线途经该矿区，但该铁路本身亦未建成)，叠加融资困难与布隆迪国内政治经济环境不稳定，导致项目历经数十年(1970年代至今)始终未能进入建设阶段。",
+      "kind": "运营变化",
+      "project_id": "GL150",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-150 · 总表第151行"
+    },
+    {
+      "date": "1928",
+      "label": "开始生产（底表投产年）",
+      "detail": "布阿泽尔钴镍联合厂(CTT/曼纳吉姆)的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL151",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-151 · 总表第152行"
+    },
+    {
+      "date": "2025",
+      "label": "在产",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL151",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-151 · 总表第152行"
+    },
+    {
+      "date": "1968",
+      "label": "开始生产（底表投产年）",
+      "detail": "宾杜拉镍冶炼及精炼厂(宾杜拉镍业公司/特洛伊矿)的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL152",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-152 · 总表第153行"
+    },
+    {
+      "date": "2008",
+      "label": "停产(可复产)",
+      "detail": "2008年因镍价暴跌陷入停产并转入保养维护；2011-2020年间多次尝试复产均未能稳定实现；2024年5月2日津巴布韦政府依据国家重组法对公司下达重组令，公司进入管理人接管状态并对运营/财务展开调查，同期VFEX交易所暂停其证券交易——表明截至2024-2025年，公司仍处于严重财务危机与治理不确定性之中，冶炼/精炼环节大概率仍未稳定复产。",
+      "kind": "运营变化",
+      "project_id": "GL152",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-152 · 总表第153行"
+    },
+    {
+      "date": "1968",
+      "label": "开始生产（底表投产年）",
+      "detail": "皇后镍精炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL153",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-153 · 总表第154行"
+    },
+    {
+      "date": "2008",
+      "label": "保养维护(C&M)",
+      "detail": "2008年镍价暴跌导致停产；此后长期未见稳定复产报道。据RioZim官网2025年信息，公司陈述'老化的基础设施和设备故障已严重影响Renco(金矿)和皇后精炼厂的运营'，表明该厂近期虽仍被列为集团资产并存在运营尝试，但因设备老化陷入严重减产/间歇性停产状态，这与ENR自2008年后长期停产的一般行业认知存在一定张力，两种信息均列出以供报告撰写人判断。",
+      "kind": "运营变化",
+      "project_id": "GL153",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-153 · 总表第154行"
+    },
+    {
+      "date": "1997",
+      "label": "开始生产（底表投产年）",
+      "detail": "哈特利铂矿铂族金属贱金属精炼厂(副产镍)的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL154",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-154 · 总表第155行"
+    },
+    {
+      "date": "1997",
+      "label": "不详",
+      "detail": "1997年10月首次发运后，仅见于当年USGS Minerals Yearbook记录，此后未见于任何后续版本，具体停产/退出的年份及原因本次调研未能独立核实，列为重要缺口。",
+      "kind": "运营变化",
+      "project_id": "GL154",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-154 · 总表第155行"
+    },
+    {
+      "date": "2006",
+      "label": "开始生产（底表投产年）",
+      "detail": "津巴布韦铂业塞卢斯冶炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL155",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-155 · 总表第156行"
+    },
+    {
+      "date": "2025",
+      "label": "在产",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL155",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-155 · 总表第156行"
+    },
+    {
+      "date": "2014",
+      "label": "不详",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL156",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-156 · 总表第157行"
+    },
+    {
+      "date": "2012",
+      "label": "开始生产（底表投产年）",
+      "detail": "安巴托维图阿马西纳湿法冶炼及精炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "MHP048",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-157 · 总表第158行"
+    },
+    {
+      "date": "2026",
+      "label": "在产",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "MHP048",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-157 · 总表第158行"
+    },
+    {
+      "date": "1845",
+      "label": "开始生产（底表投产年）",
+      "detail": "克莱瓦(Kleva)镍矿及冶炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL158",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-158 · 总表第159行"
+    },
+    {
+      "date": "1920",
+      "label": "永久关闭",
+      "detail": "1876-1877年产量见顶后,新喀里多尼亚发现规模更大、品位更优的红土镍矿引发国际镍价格崩盘,克莱瓦矿冶炼经济性丧失,历经间歇运营后于1920年最终关闭;二战期间曾短暂重新处理库存矿石服务军工需求,但未恢复常态化生产",
+      "kind": "运营变化",
+      "project_id": "GL158",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-158 · 总表第159行"
+    },
+    {
+      "date": "1859",
+      "label": "开始生产（底表投产年）",
+      "detail": "巴姆布勒(Bamble)镍厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL159",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-159 · 总表第160行"
+    },
+    {
+      "date": "1919",
+      "label": "永久关闭",
+      "detail": "存疑;未查得具体停产原因的一手资料。推测与19世纪末-20世纪初新喀里多尼亚/加拿大萨德伯里新镍矿冲击导致传统硫化矿镍冶炼经济性下降有关(参见同期挪威灵厄里克镍厂、瑞典克莱瓦镍矿、奥地利施拉德明镍厂均因类似原因关闭),但本记录未找到直接证据",
+      "kind": "运营变化",
+      "project_id": "GL159",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-159 · 总表第160行"
+    },
+    {
+      "date": "1890",
+      "label": "开始生产（底表投产年）",
+      "detail": "德鲁里镍业公司芝加哥矿冶炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL160",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-160 · 总表第161行"
+    },
+    {
+      "date": "1897",
+      "label": "已拆除",
+      "detail": "存疑;矿床规模有限(安大略省地质调查现将其列为'已勘探但未见公开储量记录的成矿点'),推测因矿石枯竭或经济性不足而停产,具体决策细节及确切最终关闭年份未查实",
+      "kind": "运营变化",
+      "project_id": "GL160",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-160 · 总表第161行"
+    },
+    {
+      "date": "1890",
+      "label": "开始生产（底表投产年）",
+      "detail": "多米尼恩镍业公司布莱扎德矿冶炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL161",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-161 · 总表第162行"
+    },
+    {
+      "date": "1893",
+      "label": "已拆除",
+      "detail": "资金链断裂/财务困难导致DNC公司1893年停止运营(仅维持3年);冶炼炉设施其后转供邻近沃辛顿矿继续使用一段时间,该延续使用阶段的具体终止年份本轮检索未查实",
+      "kind": "运营变化",
+      "project_id": "GL161",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-161 · 总表第162行"
+    },
+    {
+      "date": "1840",
+      "label": "开始生产（底表投产年）",
+      "detail": "施拉德明-霍普夫里森镍冶炼厂(格斯多夫镍业)的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL162",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-162 · 总表第163行"
+    },
+    {
+      "date": "1876",
+      "label": "永久关闭",
+      "detail": "1876年因新喀里多尼亚及加拿大萨德伯里新发现的大规模优质镍矿冲击国际市场,镍价格崩盘,施拉德明地区传统硫化矿镍冶炼彻底丧失经济性而全面停产(创办人格斯多夫已于1849年去世,此后经营已趋衰落多年)",
+      "kind": "运营变化",
+      "project_id": "GL162",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-162 · 总表第163行"
+    },
+    {
+      "date": "1890",
+      "label": "开始生产（底表投产年）",
+      "detail": "蒙德(Mond)斯梅斯维克镍羰基法实验/模型精炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
+      "project_id": "GL163",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-163 · 总表第164行"
+    },
+    {
+      "date": "1902",
+      "label": "永久关闭",
+      "detail": "存疑;两份来源均未记载该实验装置的确切关闭年份。本记录status_year(1902)采用的是威尔士克莱达赫大规模商业化羰基精炼厂建成投产、承接该工艺规模化生产职能的年份作为推断性节点,不代表斯梅斯维克装置本身确切的停止运营时间——不排除该装置在1902年后仍以中试/研发用途继续存在一段时间,具体关闭年份为明确研究缺口",
+      "kind": "运营变化",
+      "project_id": "GL163",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-163 · 总表第164行"
+    },
+    {
+      "date": "2025",
+      "label": "项目中止(未建成)",
+      "detail": "下游客户通用汽车(GM)与合资伙伴POSCO以'市场动态变化'为由，决定暂停其Ultium Cam电池合资项目二期，导致GM近期不再需要魁北克产的电池级硫酸镍，Vale Base Metals遂于2025年10月16日宣布取消该硫酸镍厂建设计划（未开工即取消）",
+      "kind": "运营变化",
+      "project_id": "GL164",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-164 · 总表第165行"
+    },
+    {
+      "date": "2024",
+      "label": "规划中或可研",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL165",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-165 · 总表第166行"
+    },
+    {
+      "date": "2026",
+      "label": "规划中或可研",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL166",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-166 · 总表第167行"
     }
   ],
   "note": "事件采用原始资料的年月日精度，试产、首产、商业生产及全线达产分别记录；规划日期保留规划标签。资料披露与用户样本发货不充当投产日期。"
