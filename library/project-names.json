@@ -1,0 +1,1526 @@
+{
+  "NPI004": {
+    "title": "PT Nicole Metal Industry (NMI) 妮可镍业",
+    "english": "PT Nicole Metal Industry (NMI)",
+    "chinese": "妮可镍业",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "PT Nicole Metal Industry (NMI) 妮可",
+      "妮可镍业",
+      "PT Nicole Metal Industry"
+    ]
+  },
+  "NPI005": {
+    "title": "PT Angel Nickel Industry (ANI) 安琪镍业",
+    "english": "PT Angel Nickel Industry (ANI)",
+    "chinese": "安琪镍业",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "PT Angel Nickel Industry (ANI) 安琪镍业",
+      "安琪镍业（Angel Nickel）",
+      "PT Angel Nickel Industry"
+    ]
+  },
+  "NPI006": {
+    "title": "PT Langit Metal Industry 蓝天金属工业",
+    "english": "PT Langit Metal Industry",
+    "chinese": "蓝天金属工业",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "PT Langit Metal Industry",
+      "蓝天金属工业"
+    ]
+  },
+  "NPI007": {
+    "title": "PT Yashi Indonesia Investment 雅石投资",
+    "english": "PT Yashi Indonesia Investment",
+    "chinese": "雅石投资",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "PT Yashi Indonesia Investment",
+      "雅石"
+    ]
+  },
+  "NPI008": {
+    "title": "PT Youshan Nickel Indonesia 友山镍业",
+    "english": "PT Youshan Nickel Indonesia",
+    "chinese": "友山镍业",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "PT Youshan Nickel Indonesia 友山镍业",
+      "友山镍业",
+      "PT Youshan Nickel Indonesia"
+    ]
+  },
+  "NPI009": {
+    "title": "PT Weda Bay Nickel (WBN) 纬达贝镍业",
+    "english": "PT Weda Bay Nickel (WBN)",
+    "chinese": "纬达贝镍业",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "PT Weda Bay Nickel — RKEF NPI厂 (WBN) 纬达贝镍业",
+      "PT Weda Bay Nickel"
+    ]
+  },
+  "NPI010": {
+    "title": "PT Infei Metal Industry 英菲金属工业",
+    "english": "PT Infei Metal Industry",
+    "chinese": "英菲金属工业",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "PT Infei Metal Industry",
+      "英菲金属"
+    ]
+  },
+  "NPI011": {
+    "title": "PT Cosan Metal Industry (COSAN) 科赞金属工业",
+    "english": "PT Cosan Metal Industry (COSAN)",
+    "chinese": "科赞金属工业",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "PT Cosan Metal Industry (COSAN) 科赞",
+      "科赞金属工业",
+      "PT Cosan Metal Industry"
+    ]
+  },
+  "NPI012": {
+    "title": "PT Debonair Nickel Indonesia 德邦镍业",
+    "english": "PT Debonair Nickel Indonesia",
+    "chinese": "德邦镍业",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "PT Debonair Nickel Indonesia 德邦镍业",
+      "PT Debonair Nickel Indonesia"
+    ]
+  },
+  "NPI013": {
+    "title": "PT Andalan Metal Industry (AMI) 安达兰金属工业",
+    "english": "PT Andalan Metal Industry (AMI)",
+    "chinese": "安达兰金属工业",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "PT Andalan Metal Industry (AMI)",
+      "安达兰金属",
+      "PT Andalan Metal Industry"
+    ]
+  },
+  "NPI014": {
+    "title": "PT Jiu Long Metal Industry 九龙金属工业",
+    "english": "PT Jiu Long Metal Industry",
+    "chinese": "九龙金属工业",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "PT Jiu Long Metal Industry 九龙",
+      "九龙金属工业",
+      "PT Jiu Long Metal Industry"
+    ]
+  },
+  "NPI015": {
+    "title": "PT Perkasa Metal Industry 佩尔卡萨金属工业",
+    "english": "PT Perkasa Metal Industry",
+    "chinese": "佩尔卡萨金属工业",
+    "chinese_basis": "中文阅读译名",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "PT Perkasa Metal Industry"
+    ]
+  },
+  "NPI016": {
+    "title": "PT Kao Rahai Smelters 金川考拉海冶炼",
+    "english": "PT Kao Rahai Smelters",
+    "chinese": "金川考拉海冶炼",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "PT Kao Rahai Smelters 金川考拉海",
+      "金川考拉海",
+      "PT Kao Rahai Smelters"
+    ]
+  },
+  "NPI017": {
+    "title": "PT Lipe Metal Industry 利佩金属工业",
+    "english": "PT Lipe Metal Industry",
+    "chinese": "利佩金属工业",
+    "chinese_basis": "中文阅读译名",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "PT Lipe Metal Industry",
+      "Lipe金属工业"
+    ]
+  },
+  "NPI018": {
+    "title": "PT Maluku Utara Metal Industry 北马鲁古金属工业",
+    "english": "PT Maluku Utara Metal Industry",
+    "chinese": "北马鲁古金属工业",
+    "chinese_basis": "中文阅读译名",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "PT Maluku Utara Metal Industry"
+    ]
+  },
+  "NPI019": {
+    "title": "PT Lin Victor Metal Industry 林维克金属工业",
+    "english": "PT Lin Victor Metal Industry",
+    "chinese": "林维克金属工业",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "PT Lin Victor Metal Industry",
+      "林维克金属"
+    ]
+  },
+  "NPI020": {
+    "title": "PT Sunny Metal Industry 旭日金属工业",
+    "english": "PT Sunny Metal Industry",
+    "chinese": "旭日金属工业",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "PT Sunny Metal Industry 旭日",
+      "旭日金属工业",
+      "PT Sunny Metal Industry"
+    ]
+  },
+  "NPI021": {
+    "title": "PT Westrong Metal Industry 纬创金属工业",
+    "english": "PT Westrong Metal Industry",
+    "chinese": "纬创金属工业",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "PT Westrong Metal Industry"
+    ]
+  },
+  "NPI022": {
+    "title": "PT Huake Nickel Indonesia 华科镍业",
+    "english": "PT Huake Nickel Indonesia",
+    "chinese": "华科镍业",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "PT Huake Nickel Indonesia 华科镍业",
+      "华科镍业",
+      "PT Huake Nickel Indonesia"
+    ]
+  },
+  "NPI023": {
+    "title": "PT Jade Bay Metal Industry 翡翠湾金属工业",
+    "english": "PT Jade Bay Metal Industry",
+    "chinese": "翡翠湾金属工业",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "PT Jade Bay Metal Industry 翡翠湾金属工业",
+      "翡翠湾金属工业",
+      "PT Jade Bay Metal Industry"
+    ]
+  },
+  "NPI024": {
+    "title": "PT Lancon Metal Industry 澜凯金属工业",
+    "english": "PT Lancon Metal Industry",
+    "chinese": "澜凯金属工业",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "PT Lancon Metal Industry"
+    ]
+  },
+  "NPI026": {
+    "title": "PT Indonesia Guang Ching Nickel and Stainless Steel Industry (GCNS) 印尼广青镍业",
+    "english": "PT Indonesia Guang Ching Nickel and Stainless Steel Industry (GCNS)",
+    "chinese": "印尼广青镍业",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "PT Indonesia Guang Ching Nickel and Stainless Steel Industry (GCNS) 印尼广青镍业有限公司",
+      "印尼广青",
+      "PT Indonesia Guang Ching Nickel and Stainless Steel Industry"
+    ]
+  },
+  "NPI027": {
+    "title": "PT Indonesia Tsingshan Stainless Steel (ITSS) 印尼青山不锈钢",
+    "english": "PT Indonesia Tsingshan Stainless Steel (ITSS)",
+    "chinese": "印尼青山不锈钢",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "PT Indonesia Tsingshan Stainless Steel (ITSS) 印尼青山不锈钢有限公司",
+      "印尼青山不锈钢",
+      "PT Indonesia Tsingshan Stainless Steel"
+    ]
+  },
+  "NPI028": {
+    "title": "PT Sulawesi Mining Investment (SMI) 苏拉威西矿业投资",
+    "english": "PT Sulawesi Mining Investment (SMI)",
+    "chinese": "苏拉威西矿业投资",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "PT Sulawesi Mining Investment (SMI) 苏拉威西矿业投资",
+      "PT Sulawesi Mining Investment"
+    ]
+  },
+  "NPI029": {
+    "title": "PT Tsingshan Steel Indonesia (TSI) 青山钢铁印尼",
+    "english": "PT Tsingshan Steel Indonesia (TSI)",
+    "chinese": "青山钢铁印尼",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "PT Tsingshan Steel Indonesia (PT TSI) 青山钢铁印尼",
+      "青山钢铁印尼",
+      "PT Tsingshan Steel Indonesia"
+    ]
+  },
+  "NPI030": {
+    "title": "PT Zhao Hui Nickel (ZHN) 兆辉镍业",
+    "english": "PT Zhao Hui Nickel (ZHN)",
+    "chinese": "兆辉镍业",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "PT Zhao Hui Nickel (ZHN) 兆辉镍业",
+      "兆辉镍业",
+      "PT Zhao Hui Nickel"
+    ]
+  },
+  "NPI031": {
+    "title": "PT Oracle Nickel Industry (ONI) 奥拉克镍业",
+    "english": "PT Oracle Nickel Industry (ONI)",
+    "chinese": "奥拉克镍业",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "PT Oracle Nickel Industry (ONI) 奥拉克镍业",
+      "PT Oracle Nickel Industry"
+    ]
+  },
+  "NPI032": {
+    "title": "PT Ocean Sky Metal Industry 海天金属工业",
+    "english": "PT Ocean Sky Metal Industry",
+    "chinese": "海天金属工业",
+    "chinese_basis": "中文阅读译名",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "PT Ocean Sky Metal Industry",
+      "Ocean Sky"
+    ]
+  },
+  "NPI033": {
+    "title": "PT Indonesia Ruipu Nickel and Chrome Alloy (IRNC) 印尼瑞浦镍铬合金",
+    "english": "PT Indonesia Ruipu Nickel and Chrome Alloy (IRNC)",
+    "chinese": "印尼瑞浦镍铬合金",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "PT Indonesia Ruipu Nickel and Chrome Alloy (IRNC) 印尼瑞浦镍铬合金有限公司",
+      "印尼瑞浦镍铬合金",
+      "PT Indonesia Ruipu Nickel and Chrome Alloy"
+    ]
+  },
+  "NPI034": {
+    "title": "PT Walsin Nickel Industrial Indonesia (WNII) 印尼华新镍业",
+    "english": "PT Walsin Nickel Industrial Indonesia (WNII)",
+    "chinese": "印尼华新镍业",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "PT Walsin Nickel Industrial Indonesia 印尼华新镍业",
+      "PT Walsin Nickel Industrial Indonesia"
+    ]
+  },
+  "NPI035": {
+    "title": "PT Bukit Smelter Indonesia (BSI) 布吉特冶炼",
+    "english": "PT Bukit Smelter Indonesia (BSI)",
+    "chinese": "布吉特冶炼",
+    "chinese_basis": "中文阅读译名",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "PT Bukit Smelter Indonesia (BSI)",
+      "Bukit Smelter Indonesia",
+      "PT Bukit Smelter Indonesia"
+    ]
+  },
+  "NPI036": {
+    "title": "PT Cahaya Smelter Indonesia (CSI) 卡哈亚冶炼",
+    "english": "PT Cahaya Smelter Indonesia (CSI)",
+    "chinese": "卡哈亚冶炼",
+    "chinese_basis": "中文阅读译名",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "PT Cahaya Smelter Indonesia (CSI)",
+      "Cahaya Smelter Indonesia",
+      "PT Cahaya Smelter Indonesia"
+    ]
+  },
+  "NPI037": {
+    "title": "PT Lestari Smelter Indonesia (LSI) 莱斯塔里冶炼",
+    "english": "PT Lestari Smelter Indonesia (LSI)",
+    "chinese": "莱斯塔里冶炼",
+    "chinese_basis": "中文阅读译名",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "PT Lestari Smelter Indonesia (LSI)",
+      "PT Lestari Smelter Indonesia"
+    ]
+  },
+  "NPI038": {
+    "title": "PT Hengjaya Nickel Industry (HNI) 恒嘉镍业",
+    "english": "PT Hengjaya Nickel Industry (HNI)",
+    "chinese": "恒嘉镍业",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "PT Hengjaya Nickel Industry (HNI) 恒嘉镍业",
+      "恒嘉镍业",
+      "PT Hengjaya Nickel Industry"
+    ]
+  },
+  "NPI039": {
+    "title": "PT Ranger Nickel Industry (RNI) 兰吉尔镍业",
+    "english": "PT Ranger Nickel Industry (RNI)",
+    "chinese": "兰吉尔镍业",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "PT Ranger Nickel Industry (RNI) 兰吉尔镍业",
+      "兰吉尔镍业",
+      "PT Ranger Nickel Industry"
+    ]
+  },
+  "NPI041": {
+    "title": "PT Obsidian Stainless Steel (OSS) 德龙二期",
+    "english": "PT Obsidian Stainless Steel (OSS)",
+    "chinese": "德龙二期",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "PT Obsidian Stainless Steel (OSS) 德龙二期",
+      "PT Obsidian Stainless Steel"
+    ]
+  },
+  "NPI042": {
+    "title": "PT Virtue Dragon Nickel Industry (VDNI) 德龙一期",
+    "english": "PT Virtue Dragon Nickel Industry (VDNI)",
+    "chinese": "德龙一期",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "PT Virtue Dragon Nickel Industry (VDNI) 德龙一期",
+      "德龙一期",
+      "PT Virtue Dragon Nickel Industry"
+    ]
+  },
+  "NPI043": {
+    "title": "PT Gunbuster Nickel Industry (GNI) 德龙三期",
+    "english": "PT Gunbuster Nickel Industry (GNI)",
+    "chinese": "德龙三期",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "PT Gunbuster Nickel Industry (GNI) 德龙三期",
+      "Gunbuster镍业（GNI）",
+      "PT Gunbuster Nickel Industry"
+    ]
+  },
+  "NPI044": {
+    "title": "PT Nadesico Nickel Industry (NNI) 德龙四期",
+    "english": "PT Nadesico Nickel Industry (NNI)",
+    "chinese": "德龙四期",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "PT Nadesico Nickel Industry (NNI) 德龙四期",
+      "PT Nadesico Nickel Industry"
+    ]
+  },
+  "NPI046": {
+    "title": "PT Karunia Permai Sentosa (KPS) 力勤哈利达KPS镍铁项目",
+    "english": "PT Karunia Permai Sentosa (KPS)",
+    "chinese": "力勤哈利达KPS镍铁项目",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "PT Karunia Permai Sentosa (KPS) 力勤·哈利达",
+      "KPS镍铁项目",
+      "PT Karunia Permai Sentosa"
+    ]
+  },
+  "NPI047": {
+    "title": "PT Halmahera Jaya Feronikel (HJF) 力勤哈利达HJF镍铁项目",
+    "english": "PT Halmahera Jaya Feronikel (HJF)",
+    "chinese": "力勤哈利达HJF镍铁项目",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "PT Halmahera Jaya Feronikel (HJF) 力勤·哈利达",
+      "Halmahera Jaya Feronikel",
+      "PT Halmahera Jaya Feronikel"
+    ]
+  },
+  "NPI048": {
+    "title": "PT Megah Surya Pertiwi (MSP) 新兴铸管MSP镍铁项目",
+    "english": "PT Megah Surya Pertiwi (MSP)",
+    "chinese": "新兴铸管MSP镍铁项目",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "PT Megah Surya Pertiwi (MSP) 新兴铸管",
+      "PT Megah Surya Pertiwi"
+    ]
+  },
+  "NPI049": {
+    "title": "PT Wanatiara Persada (WP) 金川WP镍铁项目",
+    "english": "PT Wanatiara Persada (WP)",
+    "chinese": "金川WP镍铁项目",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "PT Wanatiara Persada (WP) 金川集团",
+      "Wanatiara Persada",
+      "PT Wanatiara Persada"
+    ]
+  },
+  "NPI051": {
+    "title": "PT Shuoshi Indonesia Investment 华宝硕石镍铁",
+    "english": "PT Shuoshi Indonesia Investment",
+    "chinese": "华宝硕石镍铁",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "PT Shuoshi Indonesia Investment 印尼华宝",
+      "印尼华宝硕石项目",
+      "PT Shuoshi Indonesia Investment"
+    ]
+  },
+  "NPI053": {
+    "title": "PT Bahodopi Nickel Smelting Indonesia (BNSI) 巴哈多比镍冶炼",
+    "english": "PT Bahodopi Nickel Smelting Indonesia (BNSI)",
+    "chinese": "巴哈多比镍冶炼",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "PT Bahodopi Nickel Smelting Indonesia (BNSI) 巴哈多比",
+      "PT Bahodopi Nickel Smelting Indonesia"
+    ]
+  },
+  "NPI054": {
+    "title": "PT Wanxiang Nickel Indonesia 万向镍业",
+    "english": "PT Wanxiang Nickel Indonesia",
+    "chinese": "万向镍业",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "PT Wanxiang Nickel Indonesia 万向镍业",
+      "万向镍业"
+    ]
+  },
+  "NPI055": {
+    "title": "PT Huadi Nickel-Alloy Indonesia 华迪镍合金",
+    "english": "PT Huadi Nickel-Alloy Indonesia",
+    "chinese": "华迪镍合金",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "PT Huadi Nickel-Alloy Indonesia 华迪钢业",
+      "华迪镍合金"
+    ]
+  },
+  "NPI056": {
+    "title": "PT COR Industri Indonesia (CORII) 印尼COR冶炼",
+    "english": "PT COR Industri Indonesia (CORII)",
+    "chinese": "印尼COR冶炼",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "PT COR Industri Indonesia (CORII)",
+      "PT COR Industri Indonesia"
+    ]
+  },
+  "NPI057": {
+    "title": "PT Metal Smeltindo Selaras (MSS) 青岛中程MSS镍铁项目",
+    "english": "PT Metal Smeltindo Selaras (MSS)",
+    "chinese": "青岛中程MSS镍铁项目",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "PT Metal Smeltindo Selaras (MSS) 青岛中程",
+      "Metal Smeltindo Selaras",
+      "PT Metal Smeltindo Selaras"
+    ]
+  },
+  "NPI058": {
+    "title": "PT Aneka Tambang Tbk — Pomalaa 安塔姆波马拉镍铁厂",
+    "english": "PT Aneka Tambang Tbk — Pomalaa",
+    "chinese": "安塔姆波马拉镍铁厂",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "ANTAM Pomalaa FeNi 安塔姆·波马拉",
+      "ANTAM Pomalaa镍铁厂",
+      "PT Aneka Tambang Tbk — Pomalaa/Kolaka ferronickel operations"
+    ]
+  },
+  "NPI059": {
+    "title": "PT Artha Mining Industry 阿尔塔矿业",
+    "english": "PT Artha Mining Industry",
+    "chinese": "阿尔塔矿业",
+    "chinese_basis": "中文阅读译名",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "PT Artha Mining Industry"
+    ]
+  },
+  "NPI060": {
+    "title": "PT Ceria Nugraha Indotama (CNI) 塞里亚镍铁项目",
+    "english": "PT Ceria Nugraha Indotama (CNI)",
+    "chinese": "塞里亚镍铁项目",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "PT Ceria Nugraha Indotama (CNI)",
+      "Ceria Nugraha Indotama",
+      "PT Ceria Nugraha Indotama；RKEF冶炼运营涉及PT Ceria Metalindo Prima，需分层登记"
+    ]
+  },
+  "NPI061": {
+    "title": "PT Artabumi Sentra Industri (ASI) 阿尔塔布米工业",
+    "english": "PT Artabumi Sentra Industri (ASI)",
+    "chinese": "阿尔塔布米工业",
+    "chinese_basis": "中文阅读译名",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "PT Artabumi Sentra Industri (ASI)",
+      "Artabumi Sentra Industri",
+      "PT Artabumi Sentra Industri"
+    ]
+  },
+  "NPI062": {
+    "title": "PT Bumi Mineral Sulawesi (BMS) 苏拉威西布米矿业",
+    "english": "PT Bumi Mineral Sulawesi (BMS)",
+    "chinese": "苏拉威西布米矿业",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "PT Bumi Mineral Sulawesi (BMS)",
+      "PT Bumi Mineral Sulawesi"
+    ]
+  },
+  "NPI063": {
+    "title": "PT Anugrah Tambang Sejahtera (ATS) 安努格拉矿业",
+    "english": "PT Anugrah Tambang Sejahtera (ATS)",
+    "chinese": "安努格拉矿业",
+    "chinese_basis": "中文阅读译名",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "PT Anugrah Tambang Sejahtera (ATS)",
+      "Anugrah Tambang Sejahtera",
+      "PT Anugrah Tambang Sejahtera"
+    ]
+  },
+  "NPI064": {
+    "title": "PT Asia Mining Minerals 亚洲矿业矿产",
+    "english": "PT Asia Mining Minerals",
+    "chinese": "亚洲矿业矿产",
+    "chinese_basis": "中文阅读译名",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "PT Asia Mining Minerals",
+      "Asia Mining Minerals"
+    ]
+  },
+  "NPI065": {
+    "title": "PT Unity Nickel Alloy Indonesia 印尼联合镍合金",
+    "english": "PT Unity Nickel Alloy Indonesia",
+    "chinese": "印尼联合镍合金",
+    "chinese_basis": "中文阅读译名",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "PT Unity Nickel Alloy Indonesia"
+    ]
+  },
+  "NPI067": {
+    "title": "PT Kalimantan Ferro Industry (KFI) 加里曼丹铁业",
+    "english": "PT Kalimantan Ferro Industry (KFI)",
+    "chinese": "加里曼丹铁业",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "PT Kalimantan Ferro Industry (KFI)",
+      "Kalimantan Ferro Industry",
+      "PT Kalimantan Ferro Industry"
+    ]
+  },
+  "NPI068": {
+    "title": "PT Sebuku Ferroalloy Perkasa 塞布库铁合金",
+    "english": "PT Sebuku Ferroalloy Perkasa",
+    "chinese": "塞布库铁合金",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "PT Sebuku Ferroalloy Perkasa",
+      "Sebuku Ferroalloy Perkasa"
+    ]
+  },
+  "NPI069": {
+    "title": "PT Mitra Murni Perkasa (MMP) 米特拉穆尔尼冶炼",
+    "english": "PT Mitra Murni Perkasa (MMP)",
+    "chinese": "米特拉穆尔尼冶炼",
+    "chinese_basis": "中文阅读译名",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "PT Mitra Murni Perkasa (MMP)",
+      "PT Mitra Murni Perkasa"
+    ]
+  },
+  "NPI071": {
+    "title": "PT Growth Java Industry (GJI) 爪哇成长工业",
+    "english": "PT Growth Java Industry (GJI)",
+    "chinese": "爪哇成长工业",
+    "chinese_basis": "中文阅读译名",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "PT Growth Java Industry (GJI)",
+      "Growth Java Industry",
+      "PT Growth Java Industry"
+    ]
+  },
+  "NPI072": {
+    "title": "PT Aneka Tambang Tbk — East Halmahera 安塔姆东哈马黑拉镍铁厂",
+    "english": "PT Aneka Tambang Tbk — East Halmahera",
+    "chinese": "安塔姆东哈马黑拉镍铁厂",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "ANTAM Haltim 安塔姆·东哈马黑拉",
+      "ANTAM东哈马黑拉镍铁厂",
+      "PT Aneka Tambang Tbk — P3FH East Halmahera ferronickel plant"
+    ]
+  },
+  "NPI073": {
+    "title": "PT Cahaya Modern Metal Industri (CMMI) 现代金属工业",
+    "english": "PT Cahaya Modern Metal Industri (CMMI)",
+    "chinese": "现代金属工业",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "PT Cahaya Modern Metal Industri (CMMI) 现代",
+      "PT Cahaya Modern Metal Industri"
+    ]
+  },
+  "NPI074": {
+    "title": "PT Bintang Timur Steel 东方之星钢铁",
+    "english": "PT Bintang Timur Steel",
+    "chinese": "东方之星钢铁",
+    "chinese_basis": "中文阅读译名",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "PT Bintang Timur Steel",
+      "Bintang Timur Steel"
+    ]
+  },
+  "NPI075": {
+    "title": "PT Century Metalindo 世纪冶金",
+    "english": "PT Century Metalindo",
+    "chinese": "世纪冶金",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "PT Century Metalindo 世纪冶金",
+      "Century Metalindo"
+    ]
+  },
+  "P01": {
+    "title": "PT Huaneng Metal Industry (HNMI) 华能金属工业",
+    "english": "PT Huaneng Metal Industry (HNMI)",
+    "chinese": "华能金属工业",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "华能",
+      "华能金属工业",
+      "PT Huaneng Metal Industry"
+    ]
+  },
+  "P02": {
+    "title": "PT Zhongtsing New Energy 中青新能源",
+    "english": "PT Zhongtsing New Energy",
+    "chinese": "中青新能源",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "中青新能源",
+      "PT Zhongtsing New Energy"
+    ]
+  },
+  "P05": {
+    "title": "PT Walhsu Metal Industry 华旭金属工业",
+    "english": "PT Walhsu Metal Industry",
+    "chinese": "华旭金属工业",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "华旭",
+      "PT Walhsu Metal Industry"
+    ]
+  },
+  "P09": {
+    "title": "PT JIAMAN NEW ENERGY 嘉曼新能源",
+    "english": "PT JIAMAN NEW ENERGY",
+    "chinese": "嘉曼新能源",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "嘉曼",
+      "PT JIAMAN NEW ENERGY"
+    ]
+  },
+  "P11": {
+    "title": "PT Universe Smelter Metal Industry 寰宇冶炼",
+    "english": "PT Universe Smelter Metal Industry",
+    "chinese": "寰宇冶炼",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "寰宇",
+      "PT Universe Smelter Metal Industry"
+    ]
+  },
+  "P12": {
+    "title": "PT Vale Indonesia Tbk 淡水河谷索罗瓦科高冰镍项目",
+    "english": "PT Vale Indonesia Tbk",
+    "chinese": "淡水河谷索罗瓦科高冰镍项目",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "Sorowako高冰镍",
+      "Sorowako高冰镍项目",
+      "PT Vale Indonesia Tbk"
+    ]
+  },
+  "P25": {
+    "title": "PT Hanrui Nickel Indonesia 寒锐镍业",
+    "english": "PT Hanrui Nickel Indonesia",
+    "chinese": "寒锐镍业",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "寒锐（华宝园）",
+      "PT Hanrui Nickel Indonesia"
+    ]
+  },
+  "P26": {
+    "title": "PT Huaxing Nickel Indonesia 华星镍业",
+    "english": "PT Huaxing Nickel Indonesia",
+    "chinese": "华星镍业",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "华星镍业",
+      "PT Huaxing Nickel Indonesia"
+    ]
+  },
+  "P27": {
+    "title": "PT Huashuo Nickel Indonesia 华硕镍业候选项目",
+    "english": "PT Huashuo Nickel Indonesia",
+    "chinese": "华硕镍业候选项目",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "华友系，项目库无对应",
+      "Huashuo候选项目",
+      "PT Huashuo Nickel Indonesia（候选映射）"
+    ]
+  },
+  "P28": {
+    "title": "PT Jiamanda New Energy 嘉曼达新能源",
+    "english": "PT Jiamanda New Energy",
+    "chinese": "嘉曼达新能源",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "嘉曼达",
+      "PT Jiamanda New Energy"
+    ]
+  },
+  "P29": {
+    "title": "PT JIAMANMEI NEW ENERGY 嘉曼美新能源",
+    "english": "PT JIAMANMEI NEW ENERGY",
+    "chinese": "嘉曼美新能源",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "嘉曼美",
+      "PT JIAMANMEI NEW ENERGY"
+    ]
+  },
+  "P30": {
+    "title": "PT Yongyu International Energy Indonesia 永誉国际候选项目",
+    "english": "PT Yongyu International Energy Indonesia",
+    "chinese": "永誉国际候选项目",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "永誉国际",
+      "永誉国际候选项目",
+      "PT Yongyu International Energy Indonesia（原行待拆分）"
+    ]
+  },
+  "P31": {
+    "title": "PT Dowstone Energy Material Indonesia 道氏能源材料",
+    "english": "PT Dowstone Energy Material Indonesia",
+    "chinese": "道氏能源材料",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "道氏",
+      "PT Dowstone Energy Material Indonesia"
+    ]
+  },
+  "P32": {
+    "title": "PT CNGR Xing qiu New Energy 中伟兴球新能源",
+    "english": "PT CNGR Xing qiu New Energy",
+    "chinese": "中伟兴球新能源",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "兴球",
+      "PT CNGR Xing qiu New Energy"
+    ]
+  },
+  "P33": {
+    "title": "PT CNGR Xing quan New Energy 中伟兴全新能源",
+    "english": "PT CNGR Xing quan New Energy",
+    "chinese": "中伟兴全新能源",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "兴全",
+      "兴全新能源",
+      "PT CNGR Xing quan New Energy"
+    ]
+  },
+  "P34": {
+    "title": "PT CNGR Xing xin New Energy 中伟兴新新能源",
+    "english": "PT CNGR Xing xin New Energy",
+    "chinese": "中伟兴新新能源",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "兴新",
+      "PT CNGR Xing xin New Energy"
+    ]
+  },
+  "P38": {
+    "title": "PT CHENGMACH NICKEL INDONESIA 盛迈镍业",
+    "english": "PT CHENGMACH NICKEL INDONESIA",
+    "chinese": "盛迈镍业",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "盛迈镍业",
+      "PT CHENGMACH NICKEL INDONESIA"
+    ]
+  },
+  "P40": {
+    "title": "PT Ceria Nugraha Indotama — Matte Project 塞里亚冰镍规划",
+    "english": "PT Ceria Nugraha Indotama — Matte Project",
+    "chinese": "塞里亚冰镍规划",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "Ceria铁镍与冰镍规划",
+      "Ceria铁镍项目与冰镍规划",
+      "PT Ceria Nugraha Indotama — Matte"
+    ]
+  },
+  "P41": {
+    "title": "ANTAM–CNGR Nickel Matte Project 安塔姆与中伟冰镍合资规划",
+    "english": "ANTAM–CNGR Nickel Matte Project",
+    "chinese": "安塔姆与中伟冰镍合资规划",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目名称，未指定已核运营法人",
+    "aliases": [
+      "ANTAM—中伟合资规划",
+      "ANTAM/CNGR冰镍合资项目"
+    ]
+  },
+  "P48": {
+    "title": "PT Hengsheng New Energy Material Indonesia 恒生新能源材料",
+    "english": "PT Hengsheng New Energy Material Indonesia",
+    "chinese": "恒生新能源材料",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "恒生",
+      "PT Hengsheng New Energy Material Indonesia"
+    ]
+  },
+  "P49": {
+    "title": "PT Alam Cipta Lestari 阿拉姆齐普塔莱斯塔里",
+    "english": "PT Alam Cipta Lestari",
+    "chinese": "阿拉姆齐普塔莱斯塔里",
+    "chinese_basis": "中文阅读译名",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "Alam Cipta Lestari",
+      "PT Alam Cipta Lestari"
+    ]
+  },
+  "MHP000": {
+    "title": "PT Hydrotech Metal Indonesia 海卓科技印尼出口主体",
+    "english": "PT Hydrotech Metal Indonesia",
+    "chinese": "海卓科技印尼出口主体",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "Hydrotech：样本补充出口主体",
+      "PT Hydrotech Metal Indonesia"
+    ]
+  },
+  "MHP003": {
+    "title": "PT Halmahera Persada Lygend (HPL) 奥比岛力勤HPL湿法项目",
+    "english": "PT Halmahera Persada Lygend (HPL)",
+    "chinese": "奥比岛力勤HPL湿法项目",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "Obi湿法一期",
+      "Obi岛HPL湿法项目",
+      "PT Halmahera Persada Lygend"
+    ]
+  },
+  "MHP005": {
+    "title": "PT Obi Nickel Cobalt (ONC) 奥比镍钴湿法三期",
+    "english": "PT Obi Nickel Cobalt (ONC)",
+    "chinese": "奥比镍钴湿法三期",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "Obi湿法三期 ONC",
+      "PT Obi Nickel Cobalt"
+    ]
+  },
+  "MHP006": {
+    "title": "PT Huayue Nickel Cobalt (HNC) 华越镍钴",
+    "english": "PT Huayue Nickel Cobalt (HNC)",
+    "chinese": "华越镍钴",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "华越镍钴",
+      "PT Huayue Nickel Cobalt (HNC)"
+    ]
+  },
+  "MHP007": {
+    "title": "PT Sulawesi Nickel Cobalt (SLNC) 苏拉威西镍钴",
+    "english": "PT Sulawesi Nickel Cobalt (SLNC)",
+    "chinese": "苏拉威西镍钴",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "SLNC",
+      "SLNC湿法镍钴项目",
+      "PT Sulawesi Nickel Cobalt"
+    ]
+  },
+  "MHP008": {
+    "title": "PT Huafei Nickel Cobalt 华飞镍钴",
+    "english": "PT Huafei Nickel Cobalt",
+    "chinese": "华飞镍钴",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "华飞镍钴",
+      "PT Huafei Nickel Cobalt"
+    ]
+  },
+  "MHP009": {
+    "title": "PT Gebe Industry Nickel 格贝镍业",
+    "english": "PT Gebe Industry Nickel",
+    "chinese": "格贝镍业",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "Gebe：原表实体及地点需纠正",
+      "Gebe：实体及地点辨析",
+      "PT Gebe Industry Nickel（与原表PT.Gebe对应仍需确认）"
+    ]
+  },
+  "MHP010": {
+    "title": "PT Gostal Nickel Indonesia 戈斯塔尔镍业",
+    "english": "PT Gostal Nickel Indonesia",
+    "chinese": "戈斯塔尔镍业",
+    "chinese_basis": "中文阅读译名",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "Go STAL",
+      "PT Gostal Nickel Indonesia"
+    ]
+  },
+  "MHP011": {
+    "title": "PT QMB New Energy Materials 青美邦新能源材料",
+    "english": "PT QMB New Energy Materials",
+    "chinese": "青美邦新能源材料",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "QMB青美邦一期",
+      "青美邦",
+      "PT QMB New Energy Materials"
+    ]
+  },
+  "MHP013": {
+    "title": "PT ESG New Energy Material ESG新能源材料",
+    "english": "PT ESG New Energy Material",
+    "chinese": "ESG新能源材料",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "ESG",
+      "PT ESG New Energy Material"
+    ]
+  },
+  "MHP014": {
+    "title": "PT Meiming New Energy Material (MNEM) 美明新能源材料",
+    "english": "PT Meiming New Energy Material (MNEM)",
+    "chinese": "美明新能源材料",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "美明 Meiming",
+      "PT Meiming New Energy Material（MNEM）"
+    ]
+  },
+  "MHP015": {
+    "title": "PT Green Eco Nickel (GEN) 格林爱科镍业",
+    "english": "PT Green Eco Nickel (GEN)",
+    "chinese": "格林爱科镍业",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "Gree-Eco / 格林爱科一期",
+      "Green Eco Nickel",
+      "PT Green Eco Nickel（GEN；公告亦拼GreeEco）"
+    ]
+  },
+  "MHP016": {
+    "title": "PT Blue Sparking Energy (BSE) 蓝焰能源",
+    "english": "PT Blue Sparking Energy (BSE)",
+    "chinese": "蓝焰能源",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "蓝焰 BSE",
+      "PT Blue Sparking Energy"
+    ]
+  },
+  "MHP017": {
+    "title": "PT Excelsior Nickel Cobalt (ENC) 晨曦镍钴",
+    "english": "PT Excelsior Nickel Cobalt (ENC)",
+    "chinese": "晨曦镍钴",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "晨曦 ENC",
+      "PT Excelsior Nickel Cobalt"
+    ]
+  },
+  "MHP018": {
+    "title": "PT Kolaka Nickel Indonesia (KNI) 科拉卡镍业波马拉湿法项目",
+    "english": "PT Kolaka Nickel Indonesia (KNI)",
+    "chinese": "科拉卡镍业波马拉湿法项目",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "Pomalaa HPAL / KNI",
+      "Pomalaa HPAL项目",
+      "PT Kolaka Nickel Indonesia"
+    ]
+  },
+  "MHP020": {
+    "title": "Guangqing HPAL Project 广青湿法项目",
+    "english": "Guangqing HPAL Project",
+    "chinese": "广青湿法项目",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目名称，未指定已核运营法人",
+    "aliases": [
+      "广青湿法项目",
+      "印尼广青镍钴有限公司（英文注册名本轮未确认）"
+    ]
+  },
+  "MHP021": {
+    "title": "PT Ceria Kobalt Indotama (CKI) 塞里亚科巴尔特镍钴项目",
+    "english": "PT Ceria Kobalt Indotama (CKI)",
+    "chinese": "塞里亚科巴尔特镍钴项目",
+    "chinese_basis": "中文阅读译名",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "Ceria Kobalt Indotama",
+      "PT Ceria Kobalt Indotama (CKI)"
+    ]
+  },
+  "MHP022": {
+    "title": "Sorowako Limonite HPAL Project 索罗瓦科褐铁矿湿法项目",
+    "english": "Sorowako Limonite HPAL Project",
+    "chinese": "索罗瓦科褐铁矿湿法项目",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目名称，未指定已核运营法人",
+    "aliases": [
+      "Sorowako Limonite HPAL",
+      "Sorowako褐铁矿HPAL项目",
+      "项目层面已核；2023协议参与实体PT Huali Nickel Indonesia，不能未经登记把其等同最终工厂运营法人"
+    ]
+  },
+  "MHP023": {
+    "title": "PT Teluk Metal Industry (TMI) 海湾金属TMI湿法项目",
+    "english": "PT Teluk Metal Industry (TMI)",
+    "chinese": "海湾金属TMI湿法项目",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "TMI",
+      "PT Teluk Metal Industry"
+    ]
+  },
+  "MHP024": {
+    "title": "PT Nickel Cobalt Halmahera (NCH) 布里镍钴",
+    "english": "PT Nickel Cobalt Halmahera (NCH)",
+    "chinese": "布里镍钴",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "布里镍钴 NCH／CBL—ANTAM HPAL",
+      "PT Nickel Cobalt Halmahera"
+    ]
+  },
+  "MHP025": {
+    "title": "PT EVerde Global Mineral 伊沃德湿法项目",
+    "english": "PT EVerde Global Mineral",
+    "chinese": "伊沃德湿法项目",
+    "chinese_basis": "中文阅读译名",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "EVerde HPAL",
+      "EVerde HPAL项目",
+      "PT EVerde Global Mineral"
+    ]
+  },
+  "MHP026": {
+    "title": "PT Anugrah Neo Energy Materials 尼奥能源湿法项目",
+    "english": "PT Anugrah Neo Energy Materials",
+    "chinese": "尼奥能源湿法项目",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "NEMIE HPAL",
+      "PT Anugrah Neo Energy Materials"
+    ]
+  },
+  "MHP027": {
+    "title": "CNGR HPAL Project 中伟湿法项目",
+    "english": "CNGR HPAL Project",
+    "chinese": "中伟湿法项目",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目名称，未指定已核运营法人",
+    "aliases": [
+      "中伟HPAL（原表待识别项目）",
+      "中伟HPAL项目",
+      "未识别到能与该行唯一对应的印尼法律实体"
+    ]
+  },
+  "MHP028": {
+    "title": "PT Chengsheng New Energy (CNE) 诚盛新能源",
+    "english": "PT Chengsheng New Energy (CNE)",
+    "chinese": "诚盛新能源",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "诚盛 CNE",
+      "诚盛新能源（Chengsheng New Energy）",
+      "PT Chengsheng New Energy"
+    ]
+  },
+  "MHP029": {
+    "title": "Haiwan Metal Project 海湾金属待识别项目",
+    "english": "Haiwan Metal Project",
+    "chinese": "海湾金属待识别项目",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目名称，未指定已核运营法人",
+    "aliases": [
+      "海湾金属（待识别）",
+      "海湾金属",
+      ""
+    ]
+  },
+  "MHP031": {
+    "title": "PT Huashan Nickel Cobalt 华山镍钴",
+    "english": "PT Huashan Nickel Cobalt",
+    "chinese": "华山镍钴",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "华山镍钴",
+      "PT Huashan Nickel Cobalt"
+    ]
+  },
+  "MHP032": {
+    "title": "PT Excellen Silo Leaching 埃克塞伦西洛浸出项目",
+    "english": "PT Excellen Silo Leaching",
+    "chinese": "埃克塞伦西洛浸出项目",
+    "chinese_basis": "中文阅读译名",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "Excellen-Silo",
+      "Excellen Silo Leaching",
+      "PT Excellen Silo Leaching"
+    ]
+  },
+  "MHP033": {
+    "title": "PT Ceria Kobalt Prima 塞里亚科巴尔特普里玛项目",
+    "english": "PT Ceria Kobalt Prima",
+    "chinese": "塞里亚科巴尔特普里玛项目",
+    "chinese_basis": "中文阅读译名",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "Ceria Kobalt Prima",
+      "PT Ceria Kobalt Prima（名称待登记原件与项目许可闭合）"
+    ]
+  },
+  "MHP034": {
+    "title": "Meta Nikel Kobalt Madencilik Sanayi ve Ticaret A.Ş. 梅塔格尔德斯镍钴项目",
+    "english": "Meta Nikel Kobalt Madencilik Sanayi ve Ticaret A.Ş.",
+    "chinese": "梅塔格尔德斯镍钴项目",
+    "chinese_basis": "中文阅读译名",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "Meta Gördes",
+      "Meta Nikel Kobalt Madencilik Sanayi ve Ticaret A.Ş."
+    ]
+  },
+  "MHP035": {
+    "title": "Prony Resources New Caledonia SAS 普罗尼戈罗镍钴项目",
+    "english": "Prony Resources New Caledonia SAS",
+    "chinese": "普罗尼戈罗镍钴项目",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "Goro／Prony Resources",
+      "Goro镍钴项目（Prony Resources）",
+      "Prony Resources New Caledonia SAS"
+    ]
+  },
+  "MHP036": {
+    "title": "Ravensthorpe Nickel Operations (RNO) 雷文斯索普镍业",
+    "english": "Ravensthorpe Nickel Operations (RNO)",
+    "chinese": "雷文斯索普镍业",
+    "chinese_basis": "中文阅读译名",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "Ravensthorpe",
+      "Ravensthorpe Nickel Operations（RNO）"
+    ]
+  },
+  "MHP037": {
+    "title": "Ramu NiCo Management (MCC) Limited 瑞木镍钴",
+    "english": "Ramu NiCo Management (MCC) Limited",
+    "chinese": "瑞木镍钴",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "Ramu／瑞木镍钴",
+      "Ramu Nickel-Cobalt Joint Venture；Ramu NiCo Management (MCC) Limited运营"
+    ]
+  },
+  "MHP039": {
+    "title": "Hellenic Minerals Ltd — Skouriotissa 希腊矿业斯库里奥蒂萨项目",
+    "english": "Hellenic Minerals Ltd — Skouriotissa",
+    "chinese": "希腊矿业斯库里奥蒂萨项目",
+    "chinese_basis": "中文阅读译名",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "Arrow Metals／Hellenic Minerals Skouriotissa",
+      "Hellenic Minerals Skouriotissa项目",
+      "Hellenic Minerals Ltd为生产设施；Arrow Metals为贸易合作方"
+    ]
+  },
+  "MHP040": {
+    "title": "Norilsk Nickel Cawse Pty Ltd 考斯历史项目",
+    "english": "Norilsk Nickel Cawse Pty Ltd",
+    "chinese": "考斯历史项目",
+    "chinese_basis": "中文阅读译名",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "Cawse",
+      "历史Norilsk Nickel Cawse Pty Ltd及相关资产；现运营法人待核"
+    ]
+  },
+  "MHP041": {
+    "title": "Norilsk Nickel Avalon Pty Ltd — Bulong 布隆阿瓦隆历史项目",
+    "english": "Norilsk Nickel Avalon Pty Ltd — Bulong",
+    "chinese": "布隆阿瓦隆历史项目",
+    "chinese_basis": "中文阅读译名",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "Bulong／Avalon",
+      "历史Norilsk Nickel Avalon Pty Ltd及相关资产"
+    ]
+  },
+  "MHP042": {
+    "title": "LS MnM Inc. — EVBM Onsan / Saemangeum LS电池材料温山与新万金项目",
+    "english": "LS MnM Inc. — EVBM Onsan / Saemangeum",
+    "chinese": "LS电池材料温山与新万金项目",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "LS MnM EVBM温山／新万金",
+      "LS MnM电池材料项目",
+      "LS MnM Inc.／EVBM Onsan及Saemangeum分期项目"
+    ]
+  },
+  "MHP043": {
+    "title": "Piauí Níquel Metais S.A. 皮奥伊镍项目",
+    "english": "Piauí Níquel Metais S.A.",
+    "chinese": "皮奥伊镍项目",
+    "chinese_basis": "中文阅读译名",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "Piauí Nickel Project",
+      "Piauí Níquel Metais S.A.／Brazilian Nickel"
+    ]
+  },
+  "MHP044": {
+    "title": "Moa Joint Venture / Fort Saskatchewan Refinery 莫阿与萨斯喀彻温堡加工链",
+    "english": "Moa Joint Venture / Fort Saskatchewan Refinery",
+    "chinese": "莫阿与萨斯喀彻温堡加工链",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "Moa Nickel／Fort Saskatchewan链",
+      "Moa Joint Venture（Cuba）与加拿大Fort Saskatchewan refinery"
+    ]
+  },
+  "MHP045": {
+    "title": "Coral Bay Nickel Corporation (CBNC) 珊瑚湾镍业",
+    "english": "Coral Bay Nickel Corporation (CBNC)",
+    "chinese": "珊瑚湾镍业",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "Coral Bay",
+      "Coral Bay镍项目",
+      "Coral Bay Nickel Corporation（CBNC）"
+    ]
+  },
+  "MHP046": {
+    "title": "Terrafame Ltd 特拉法姆索特卡莫项目",
+    "english": "Terrafame Ltd",
+    "chinese": "特拉法姆索特卡莫项目",
+    "chinese_basis": "中文阅读译名",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "Terrafame Sotkamo",
+      "Terrafame Ltd"
+    ]
+  },
+  "MHP047": {
+    "title": "Taganito HPAL Nickel Corporation (THPAL) 塔加尼托高压酸浸项目",
+    "english": "Taganito HPAL Nickel Corporation (THPAL)",
+    "chinese": "塔加尼托高压酸浸项目",
+    "chinese_basis": "中文阅读译名",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "Taganito HPAL",
+      "Taganito HPAL Nickel Corporation（THPAL）"
+    ]
+  },
+  "MHP048": {
+    "title": "Ambatovy Minerals S.A. / Dynatec Madagascar S.A. 安巴托维镍钴项目",
+    "english": "Ambatovy Minerals S.A. / Dynatec Madagascar S.A.",
+    "chinese": "安巴托维镍钴项目",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "Ambatovy",
+      "Ambatovy镍钴项目",
+      "Ambatovy Minerals S.A.（矿山）／Dynatec Madagascar S.A.（工厂）"
+    ]
+  },
+  "MHP049": {
+    "title": "Murrin Murrin Operations / Minara Resources 穆林穆林镍钴项目",
+    "english": "Murrin Murrin Operations / Minara Resources",
+    "chinese": "穆林穆林镍钴项目",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "Murrin Murrin",
+      "Murrin Murrin Operations／Minara Resources"
+    ]
+  },
+  "RF003": {
+    "title": "PT Huaxiang Refining Indonesia 华翔精炼",
+    "english": "PT Huaxiang Refining Indonesia",
+    "chinese": "华翔精炼",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "华翔精炼",
+      "PT Huaxiang Refining Indonesia"
+    ]
+  },
+  "RF001": {
+    "title": "PT CNGR Ding Xing New Energy 中伟鼎兴新能源",
+    "english": "PT CNGR Ding Xing New Energy",
+    "chinese": "中伟鼎兴新能源",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "中伟鼎兴（DX-zwdx）",
+      "PT CNGR Ding Xing New Energy"
+    ]
+  },
+  "RF002": {
+    "title": "PT Eternal Nickel Industry 永恒镍业",
+    "english": "PT Eternal Nickel Industry",
+    "chinese": "永恒镍业",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "永恒镍业（PTENICO）",
+      "PT Eternal Nickel Industry"
+    ]
+  },
+  "RF004": {
+    "title": "PT Indonesia Qingmei Energy Materials (IQEM) 印尼青美能源材料",
+    "english": "PT Indonesia Qingmei Energy Materials (IQEM)",
+    "chinese": "印尼青美能源材料",
+    "chinese_basis": "已有中文名称或项目说明",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "印尼青美能源材料（IQEM）",
+      "PT Indonesia Qingmei Energy Materials"
+    ]
+  },
+  "RF005": {
+    "title": "PT Indonesia Service Provider 印尼服务供应商出口抬头",
+    "english": "PT Indonesia Service Provider",
+    "chinese": "印尼服务供应商出口抬头",
+    "chinese_basis": "中文阅读译名",
+    "identity_kind": "项目主体抬头；实体状态见正文",
+    "aliases": [
+      "Indonesia Service Provider出口抬头",
+      "PT Indonesia Service Provider"
+    ]
+  }
+}

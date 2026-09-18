@@ -1,0 +1,9 @@
+const OP_LABELS={operating:'已投产',unbuilt:'未投产',halted:'停产',partial:'部分停产／检修',trial:'试产／调试',unknown:'待确认',trader:'贸易／下游主体'};
+const opGet=id=>window.PROJECT_STATUS?.projects[id];
+function opBadge(id){let s=opGet(id);return s?`<span class="op-badge op-${s.key}" title="${E(s.period+'；'+s.note)}">${E(s.label)}</span>`:''}
+function opCell(id){let s=opGet(id);return s?`${opBadge(id)}<span class="sub op-period">${E(s.period)}</span><p class="op-note">${E(s.note)}</p>`:''}
+function opPanel(id){let s=opGet(id);if(!s)return '';return `<section class="op-panel" aria-label="投产与运行状态"><div class="op-top"><strong>投产与运行状态</strong>${opBadge(id)}</div><p>${E(s.note)}</p><div class="op-period">资料时点：${E(s.period)}</div>${s.products.length?`<div class="op-products">${s.products.map(p=>`<div><strong>${E(p.product)}</strong><span>${E(p.status)}</span><small>${E(p.period)}</small></div>`).join('')}</div>`:''}<div class="op-sources">${s.sources.map(x=>`<a href="${E(x.url)}" target="_blank" rel="noopener">${E(x.title)} ↗</a>`).join('')}<a href="#" data-scroll="wiki-sources">项目资料与出处 ↓</a></div></section>`}
+const opOldWikiArticle=wikiArticle;wikiArticle=function(id){return opOldWikiArticle(id).replace('</h1>','</h1>'+opPanel(id))};
+function opFilterMatch(p){let value=$('uStatus')?.value;return !value||opGet(p.id)?.key===value}
+function opBind(key){if(key==='projects'&&$('uStatus'))$('uStatus').onchange=()=>uRows('projects');statusDecorate()}
+function statusDecorate(root=document.getElementById('main')){if(!root)return;root.querySelectorAll('h2>a[href^="#/project/"],h3>a[href^="#/project/"]').forEach(a=>{if(a.closest('.hi-history,.event,.ix-chart')||a.parentElement.nextElementSibling?.classList.contains('op-mini'))return;let id=a.hash.split('/')[2];if(!opGet(id))return;let div=document.createElement('div');div.className='op-mini';div.innerHTML=opBadge(id);a.parentElement.after(div)})}
