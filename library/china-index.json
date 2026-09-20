@@ -11,7 +11,11 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "具体股东及母公司",
+        "技改后设备、产能及复产情况",
+        "客户和海外关联"
+      ],
       "is_source_scope": true,
       "title": "扬州一川镍业有限公司",
       "tech": [
@@ -28,7 +32,13 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "法人股东/母公司",
+        "厂址与设备",
+        "建设投产扩产历史",
+        "原料来源及客户",
+        "海外关联"
+      ],
       "is_source_scope": true,
       "title": "宿迁翔翔实业有限公司",
       "tech": [
@@ -45,7 +55,12 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "股东及母公司",
+        "EF炉型与实际产能",
+        "客户及海外关系",
+        "预重整后状态"
+      ],
       "is_source_scope": true,
       "title": "连云港海赣科技有限公司",
       "tech": [
@@ -62,7 +77,13 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "法人及股东",
+        "厂址、设备和产能",
+        "原料供应及客户",
+        "投产/停产历史",
+        "海外关联"
+      ],
       "is_source_scope": true,
       "title": "连云港科创不锈钢新材料有限公司",
       "tech": [
@@ -79,7 +100,11 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "江苏德龙最新股东穿透及各法人之间的控制关系",
+        "单厂现行产能和各期项目是否全部达产",
+        "具体外部客户、长期包销和海外矿权"
+      ],
       "is_source_scope": true,
       "group_ids": [
         "delong"
@@ -99,7 +124,12 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "法人股东/母公司",
+        "厂址和RKEF炉台",
+        "近年生产状态",
+        "供应商及客户"
+      ],
       "is_source_scope": true,
       "title": "赣榆县金成镍业有限公司",
       "tech": [
@@ -116,7 +146,11 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "股东与母公司",
+        "环评、炉台和产能",
+        "近年状态与客户"
+      ],
       "is_source_scope": true,
       "title": "连云港天乙金属制品有限公司",
       "tech": [
@@ -133,7 +167,11 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "重整投资人及最新股权",
+        "重整后设备和实际生产",
+        "客户、矿源和海外关联"
+      ],
       "is_source_scope": true,
       "title": "江苏宝通镍业有限公司",
       "tech": [
@@ -150,7 +188,12 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "镍铁项目是否真实存在及工艺",
+        "股东/母公司",
+        "退出后的企业状态",
+        "正文保留了来源边界或身份核验说明，需结合原始环评、工商或法院文件进一步核对。"
+      ],
       "is_source_scope": true,
       "title": "荣阳钢铁",
       "tech": [
@@ -167,7 +210,13 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "具体法人名称、股东及母公司",
+        "镍铁炉现状和产量",
+        "原料与客户",
+        "海外关联",
+        "正文保留了来源边界或身份核验说明，需结合原始环评、工商或法院文件进一步核对。"
+      ],
       "is_source_scope": true,
       "title": "营口宁丰镁业（宁丰集团）",
       "tech": [
@@ -184,7 +233,12 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "股东及母公司",
+        "镍铁设备、实际产量和开工率",
+        "客户、原料和海外关系",
+        "正文保留了来源边界或身份核验说明，需结合原始环评、工商或法院文件进一步核对。"
+      ],
       "is_source_scope": true,
       "title": "辽宁晟运实业有限公司",
       "tech": [
@@ -201,7 +255,13 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "法人股东/母公司",
+        "具体厂址",
+        "镍铁工艺与产能",
+        "投产及客户情况",
+        "正文保留了来源边界或身份核验说明，需结合原始环评、工商或法院文件进一步核对。"
+      ],
       "is_source_scope": true,
       "title": "营口广大实业有限公司",
       "tech": [
@@ -218,7 +278,13 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "最终法人股东与母公司",
+        "设备工艺和实际投产",
+        "原料、客户、海外关联",
+        "正文保留了来源边界或身份核验说明，需结合原始环评、工商或法院文件进一步核对。",
+        "报道未给出成立后的最终股权比例，最终法人股东仍需核实。"
+      ],
       "is_source_scope": true,
       "title": "光大冶金发展（大连）有限公司",
       "tech": [
@@ -235,7 +301,13 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "统一社会信用代码和厂址",
+        "股东/母公司",
+        "RKEF设备与实际产能",
+        "原料客户及海外关联",
+        "正文保留了来源边界或身份核验说明，需结合原始环评、工商或法院文件进一步核对。"
+      ],
       "is_source_scope": true,
       "title": "辽宁宝铂科技有限公司",
       "tech": [
@@ -253,7 +325,12 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "两家公司统一社会信用代码及股东",
+        "厂址、设备、投产史",
+        "实际客户与海外关联",
+        "正文保留了来源边界或身份核验说明，需结合原始环评、工商或法院文件进一步核对。"
+      ],
       "is_source_scope": true,
       "title": "朝阳昊天有色金属有限公司-朝阳利鑫有色金属有限公司（北方兄弟）",
       "tech": [
@@ -270,7 +347,11 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "镍铁厂址及法人股东",
+        "设备和当前状态",
+        "原料客户及海外关联"
+      ],
       "is_source_scope": true,
       "title": "海城市腾发耐火材料有限公司",
       "tech": [
@@ -287,7 +368,9 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "镍铁业务、具体炉型、原料和当前状态尚需单厂环评或生产资料确认；设备供应往来不单独证明镍铁冶炼。"
+      ],
       "is_source_scope": true,
       "title": "凌源市瑞丰铸造有限公司",
       "tech": [
@@ -304,7 +387,12 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "法人和厂址",
+        "环评、设备、产能",
+        "供应商、客户和母公司",
+        "义县地方大事记列有“垚鑫铸业”历史复产，另有“锦州垚鑫铸业”司法记录，但尚需核对与原目录“辽宁垚鑫”的法人对应，不能直接移植运行状态。"
+      ],
       "is_source_scope": true,
       "title": "辽宁垚鑫铸业有限公司",
       "tech": [
@@ -321,7 +409,12 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "统一社会信用代码",
+        "镍铁产线与状态",
+        "股东、原料和客户",
+        "正文保留了来源边界或身份核验说明，需结合原始环评、工商或法院文件进一步核对。"
+      ],
       "is_source_scope": true,
       "title": "鞍山旭辰耐火材料有限公司",
       "tech": [
@@ -338,7 +431,13 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "最新镍铁产线是否保留",
+        "法人股东及母公司",
+        "原料、客户、海外项目",
+        "正文保留了来源边界或身份核验说明，需结合原始环评、工商或法院文件进一步核对。",
+        "镍铁炉台、关停日期和转型完成边界尚需核实。"
+      ],
       "is_source_scope": true,
       "title": "辽宁国润金属集团",
       "tech": [
@@ -355,7 +454,11 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "两法人关系及统一社会信用代码",
+        "锦州主体镍铁项目环评",
+        "股东、原料、客户和状态"
+      ],
       "is_source_scope": true,
       "title": "锦州市鑫泽锰业有限公司（义县应盛金属实业有限公司）",
       "tech": [
@@ -372,7 +475,9 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "补充镍铁具体产品、炉型、股东及当前开停产；铁合金生产活动不等于已确认全部为镍铁。"
+      ],
       "is_source_scope": true,
       "title": "锦州鑫雨铁合金",
       "tech": [
@@ -389,7 +494,12 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "最新股权及控股股东",
+        "2020年后实际产能和开工率",
+        "具体客户、矿源和海外资产",
+        "正文保留了来源边界或身份核验说明，需结合原始环评、工商或法院文件进一步核对。"
+      ],
       "is_source_scope": true,
       "title": "山东鑫海科技有限公司",
       "tech": [
@@ -406,7 +516,11 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "法人股东及母公司",
+        "RKEF设备、投产与现行产能",
+        "原料和客户、海外关联"
+      ],
       "is_source_scope": true,
       "title": "临沂金海汇科技有限公司",
       "tech": [
@@ -423,7 +537,11 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "股东/母公司",
+        "设备、环评与近年状态",
+        "原料来源及客户"
+      ],
       "is_source_scope": true,
       "title": "茌平爱得信新材料有限公司",
       "tech": [
@@ -438,9 +556,15 @@
       "nature": "民企",
       "english": "",
       "products": [
-        "npi"
+        "other"
       ],
-      "pending": [],
+      "pending": [
+        "索引列入镍铁口径的具体来源",
+        "镍铁是否有独立业务单元",
+        "法人股东最新结构",
+        "正文保留了来源边界或身份核验说明，需结合原始环评、工商或法院文件进一步核对。",
+        "现有公开资料未将铸福实业归为高镍生铁供应商，索引中的镍铁关联及是否存在独立合金单元仍需核实。"
+      ],
       "is_source_scope": true,
       "title": "日照铸福",
       "tech": [
@@ -457,7 +581,11 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "最新产能、开工和股权穿透",
+        "矿源和当前客户",
+        "海外关联"
+      ],
       "is_source_scope": true,
       "title": "沾化县炜烨镍业有限公司",
       "tech": [
@@ -474,7 +602,12 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "法人/股东及厂址",
+        "镍铁环评和设备",
+        "投产、客户、原料和海外关系",
+        "正文保留了来源边界或身份核验说明，需结合原始环评、工商或法院文件进一步核对。"
+      ],
       "is_source_scope": true,
       "title": "山西曲沃县三鑫铸造有限公司",
       "tech": [
@@ -491,7 +624,12 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "法人名称统一、股东",
+        "镍铁项目及设备",
+        "客户和现状",
+        "索引名称“冶金科技”与年鉴中的“铸造有限公司”需用统一社会信用代码和环评建设单位核对。"
+      ],
       "is_source_scope": true,
       "title": "青州天泰德隆冶金科技有限公司",
       "tech": [
@@ -508,7 +646,12 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "统一社会信用代码、厂址",
+        "环评、设备和产能",
+        "股东、客户与海外关系",
+        "正文保留了来源边界或身份核验说明，需结合原始环评、工商或法院文件进一步核对。"
+      ],
       "is_source_scope": true,
       "title": "冠县顺丰金属制品有限公司",
       "tech": [
@@ -525,11 +668,18 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "联德最新法人股权比例和烨联持股链",
+        "炉型、原料来源和当前产能",
+        "具体客户及是否有海外原料长协"
+      ],
       "is_source_scope": true,
       "title": "福建联德镍铁合金",
       "tech": [
         "RKEF"
+      ],
+      "group_ids": [
+        "yieh-united"
       ]
     },
     "CN032": {
@@ -542,12 +692,20 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "鼎信实业最新股东及各青山法人的持股比例",
+        "镍铁炉台、当前年产量和矿源",
+        "具体外部客户与海外项目持股",
+        "正文保留了来源边界或身份核验说明，需结合原始环评、工商或法院文件进一步核对。"
+      ],
       "is_source_scope": true,
       "title": "福建鼎信实业有限公司",
       "tech": [
         "RKEF",
         "BF"
+      ],
+      "group_ids": [
+        "tsingshan"
       ]
     },
     "CN033": {
@@ -560,12 +718,19 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "最新股权比例与宝武内部法人关系",
+        "镍铁炉台、红土矿来源和当前产量",
+        "外部客户、海外供应和产品出口比例"
+      ],
       "is_source_scope": true,
       "title": "宝钢德盛不锈钢有限公司",
       "tech": [
         "RKEF",
         "BF"
+      ],
+      "group_ids": [
+        "baowu"
       ]
     },
     "CN034": {
@@ -578,7 +743,11 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "五洲镍业与五洲钢业法人关系",
+        "股东、设备和现行产能",
+        "原料、客户与海外关联"
+      ],
       "is_source_scope": true,
       "title": "五洲镍业有限公司/化德县五洲钢业有限公司",
       "tech": [
@@ -595,7 +764,12 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "鑫扬/福鑫法人关系",
+        "镍铁环评、炉台、产能和当前状态",
+        "股东、供应商及客户",
+        "“鑫扬冶化/福鑫”与正式法人之间的对应关系需用工商和环评资料核实。"
+      ],
       "is_source_scope": true,
       "title": "内蒙古察右前旗鑫扬冶金化工有限公司",
       "tech": [
@@ -613,7 +787,7 @@
         "npi"
       ],
       "pending": [
-        "租赁／历史名称可能重叠，暂不进入样本合计"
+        "工商沿革、转产日期、资产租赁及最终股东待核；名录说明历史对应，不据此认定目前生产镍铁。"
       ],
       "is_source_scope": true,
       "title": "内蒙古商都县永鑫公司（原瑞泰冶金）",
@@ -631,7 +805,12 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "镍铁历史实际产量和停转日期",
+        "最新重组股东及项目验收",
+        "原料供应商、具名客户、海外关联",
+        "公开资料未列具名客户；历史镍铁业务的红土矿供应和海外关联仍需核实。"
+      ],
       "is_source_scope": true,
       "title": "内蒙古硕丰实业有限公司",
       "tech": [
@@ -648,7 +827,11 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "最新工商股东及实际控制人",
+        "镍铁/铬铁炉台和当前产量",
+        "红土矿、铬矿供应商和具名客户"
+      ],
       "is_source_scope": true,
       "title": "内蒙古上泰实业有限公司",
       "tech": [
@@ -665,7 +848,11 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "商都中建金马与鑫金马的股权/资产关系",
+        "装备拆除或转产后的状态",
+        "原料、客户、母公司及海外关联"
+      ],
       "is_source_scope": true,
       "title": "内蒙古商都县中建金马冶金化工有限公司",
       "tech": [
@@ -682,7 +869,12 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "工商档案、股东和厂址",
+        "环评、设备、投产与当前状态",
+        "原料、客户、海外关联",
+        "正文保留了来源边界或身份核验说明，需结合原始环评、工商或法院文件进一步核对。"
+      ],
       "is_source_scope": true,
       "title": "内蒙古天润特种铁合金有限公司",
       "tech": [
@@ -700,7 +892,10 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "核对隆盛特钢的准确市县、正式环评、股权结构、设备技改和当前开停产状态；锡林郭勒整改材料中的同名企业不并入本条。",
+        "该文件未披露隆盛特钢的具体镍铁工艺、原料和下游客户。"
+      ],
       "is_source_scope": true,
       "title": "内蒙古隆盛特钢有限公司",
       "tech": [
@@ -718,7 +913,7 @@
         "npi"
       ],
       "pending": [
-        "租赁／历史名称可能重叠，暂不进入样本合计"
+        "未找到正式环评全文、现任实际控制人变更文件和2026年复产证据；万汇、瑞泰等租赁名称不能与和谊自动合并。"
       ],
       "is_source_scope": true,
       "title": "内蒙古和谊镍铬复合材料有限公司",
@@ -736,7 +931,10 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "原公开整改文件链接当前不可用；需补正式环评、工商状态、股东、设备处置和停产/复产信息。",
+        "需取得化德嘉铭自身资料；察右前旗辰东为另外的企业，相关材料不并入本条。"
+      ],
       "is_source_scope": true,
       "title": "化德县嘉铭钢业有限公司",
       "tech": [
@@ -753,7 +951,9 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "缺少工商存续、环评、设备处置和复产信息。"
+      ],
       "is_source_scope": true,
       "title": "内蒙古察右前旗辰东化工有限责任公司",
       "tech": [
@@ -771,7 +971,8 @@
         "npi"
       ],
       "pending": [
-        "租赁／历史名称可能重叠，暂不进入样本合计"
+        "补充统一社会信用代码、厂址、股东和环评；无法闭合前不判断在产。",
+        "现有公开资料未能闭合瑞泰冶金的统一社会信用代码、厂址和法人链。"
       ],
       "is_source_scope": true,
       "title": "瑞泰冶金有限公司",
@@ -790,7 +991,8 @@
         "npi"
       ],
       "pending": [
-        "租赁／历史名称可能重叠，暂不进入样本合计"
+        "需要营业执照/统一信用代码、历史厂址或环评名称才能继续。",
+        "同名企业、旧租赁名称和法人名称需以统一社会信用代码、厂址或环评名称区分。"
       ],
       "is_source_scope": true,
       "title": "瑞泰",
@@ -808,7 +1010,9 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "缺少正式环评、实际投产/停产信息、股东及客户；不能用旧报道规划规模推断当前状态。"
+      ],
       "is_source_scope": true,
       "title": "化德县中泰镍铁有限公司",
       "tech": [
@@ -825,7 +1029,9 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "核对‘鑫泽’与‘新鑫泽’是否同一法人、厂址、环评、股东和投产状态。"
+      ],
       "is_source_scope": true,
       "title": "化德县鑫泽镍业有限公司",
       "tech": [
@@ -842,7 +1048,9 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "需工商档案、正式项目名称、环评/验收和当前状态。"
+      ],
       "is_source_scope": true,
       "title": "化德县同盛铁合金有限公司(昌盛泰)",
       "tech": [
@@ -859,7 +1067,9 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "核对是否为索引中的同名法人、是否转产及厂区是否保留。"
+      ],
       "is_source_scope": true,
       "title": "永盛铁合金",
       "tech": [
@@ -876,7 +1086,9 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "核对‘烨兆’是否为光达旧名、品牌或另一主体；补充统一社会信用代码、厂址变更和镍铁项目文件。"
+      ],
       "is_source_scope": true,
       "title": "光达冶金（烨兆）",
       "tech": [
@@ -893,7 +1105,9 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "补充该企业的统一社会信用代码、环评和设备采购项目名称，核实其与镍铁生产线的关系。"
+      ],
       "is_source_scope": true,
       "title": "化德县鑫盛铁合金有限公司",
       "tech": [
@@ -910,7 +1124,9 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "未找到近年产量、客户名单和当前开工率；规划规模与实际生产须分开。"
+      ],
       "is_source_scope": true,
       "title": "唐山凯源实业有限公司",
       "tech": [
@@ -928,7 +1144,9 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "核对后续行政处罚、整改、公司存续和当前产线。"
+      ],
       "is_source_scope": true,
       "title": "唐山腾达科技有限公司",
       "tech": [
@@ -945,7 +1163,9 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "核对统一信用代码、地址、是否为历史关联厂及冶炼设备证据。"
+      ],
       "is_source_scope": true,
       "title": "丰润区长明不锈钢制品厂",
       "tech": [
@@ -962,7 +1182,9 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "核对其被纳入镍铁索引的原始依据及是否存在历史合金炉。"
+      ],
       "is_source_scope": true,
       "title": "河北春风铸造有限责任公司",
       "tech": [
@@ -979,7 +1201,9 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "核对镍铁合金2万吨/年口径对应的环评批复、矿热炉设备和当前运行状态。"
+      ],
       "is_source_scope": true,
       "title": "偏关县晋电化工有限责任公司",
       "tech": [
@@ -996,7 +1220,9 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "补充该企业厂址、统一社会信用代码、股东及环评，核实与襄汾县众泰冶炼实业有限公司的地域和法人边界。"
+      ],
       "is_source_scope": true,
       "title": "山西众泰陆洋冶炼实业有限公司",
       "tech": [
@@ -1013,7 +1239,9 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "核实达康集团与达康科工贸集团的完整法人名称、停产/关停日期及河津厂址。"
+      ],
       "is_source_scope": true,
       "title": "山西达康集团",
       "tech": [
@@ -1030,7 +1258,9 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "补充环评批复、验收和后续产能变化；销售客户和当前生产状态不由上述环境报告单独确定。"
+      ],
       "is_source_scope": true,
       "title": "河南省煜晟镍业有限责任公司",
       "tech": [
@@ -1047,7 +1277,9 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "补充地址、统一信用代码及镍铁关联原始证据。"
+      ],
       "is_source_scope": true,
       "title": "福佳不锈钢制品有限公司",
       "tech": [
@@ -1064,7 +1296,9 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "补充该产线厂址、法人和停炉后的资产处置或复产记录；‘商贸’名称与生产线主体关系需以工商材料确认。"
+      ],
       "is_source_scope": true,
       "title": "河南宝泰盛商贸有限公司",
       "tech": [
@@ -1081,7 +1315,11 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "补充股东/母公司、正式环评、回转窑和矿热炉设备、海外矿源及客户；不判断当前开工率。",
+        "公开页面未列翌川母公司、海外矿权、准确生产状态、环保设施和后续产品变化；原料采购方式和客户合同需以工商、环评和企业公告核实。",
+        "官网未披露翌川炉号、矿山权益和逐家客户；海外关联、原料采购方式和准确生产状态仍需核实。"
+      ],
       "is_source_scope": true,
       "title": "阳江翌川金属科技有限公司",
       "tech": [
@@ -1098,11 +1336,18 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "核对最新工商持股比例、正式产能、PGMC矿山当前权益和近年客户；官网未给出完整财报。",
+        "现有资料未给出菲律宾矿权是否持续有效或当前供矿比例；当前镍合金开工率和客户仍需核实。",
+        "结构性材料项目的具体规模、当前镍合金开工率、矿源比例和销售客户仍需以最新环评、排污许可及工商年报核实。"
+      ],
       "is_source_scope": true,
       "title": "广东世纪青山镍业有限公司",
       "tech": [
         "RKEF"
+      ],
+      "group_ids": [
+        "tsingshan"
       ]
     },
     "CN065": {
@@ -1115,12 +1360,20 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "核对广青镍合金炉型与广青不锈钢厂的最新实际产能、矿源采购结构和客户；索引中的BF/RKEF并非同一工序，应以最新环评拆分。",
+        "公开资料未列广青逐家外售客户及合同。",
+        "公开资料未列广青逐家外部客户合同，园区内其他公司的客户名单不并入广青。"
+      ],
       "is_source_scope": true,
       "title": "广东广青金属科技有限公司",
       "tech": [
         "BF",
         "RKEF"
+      ],
+      "group_ids": [
+        "tsingshan",
+        "guangxin"
       ]
     },
     "CN066": {
@@ -1133,7 +1386,9 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "补充柳钢中金控股关系的工商变更、镍铁前端实际设备清单及印尼/菲律宾矿源采购资料。"
+      ],
       "is_source_scope": true,
       "title": "中金金属科技有限公司",
       "tech": [
@@ -1150,7 +1405,9 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "核对450立方米高炉后续复产、关停或资产转让记录，以及戎鑫达与港口客户的具体货物合同。"
+      ],
       "is_source_scope": true,
       "title": "广西戎鑫达资源有限公司",
       "tech": [
@@ -1167,7 +1424,9 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "补充防城港政府原始公文、工商股东变更、环评批复和设备/产能资料；企业百科中的出资关系需用登记档案复核。"
+      ],
       "is_source_scope": true,
       "title": "广西金源镍业有限公司",
       "tech": [
@@ -1184,12 +1443,20 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "核对正式更名日期、当前股权比例、各工艺实际运行状态、菲律宾/印尼矿山当前权益和客户结构。",
+        "早期海外投资或收购红土镍矿的报道不能替代当前矿山股权证明；需核对正式更名日期、各工艺当前运行状态和矿山权益。",
+        "具体镍铁外售量、当前炉况和海外矿源比例需以北港最新年报、排污许可和环评验收核实。",
+        "公开材料未提供逐家客户合同。"
+      ],
       "is_source_scope": true,
       "title": "北海诚德镍业有限公司",
       "tech": [
         "BF",
         "RKEF"
+      ],
+      "group_ids": [
+        "beibu-gulf"
       ]
     },
     "CN070": {
@@ -1202,7 +1469,9 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "补充崇左市生态环境局行政处罚原文、排污许可和高炉/烧结设备清单，核实2017年后的镍铁生产状态。"
+      ],
       "is_source_scope": true,
       "title": "广西龙州中恒万华实业有限公司",
       "tech": [
@@ -1219,7 +1488,9 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "核对华乐集团与天嘉各自当前许可证、AOD/LF/VOD和连铸设备的实际运行状态，区分规划能力与实绩。"
+      ],
       "is_source_scope": true,
       "title": "连云港华乐合金",
       "tech": [
@@ -1236,7 +1507,9 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "核对盛阳正式全称、与亿晨/临沂钢投的股权和资产边界、环评验收、开工率、矿源与客户。"
+      ],
       "is_source_scope": true,
       "title": "山东临港有色金属有限公司（盛阳）",
       "tech": [
@@ -1253,7 +1526,9 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "补充中亿金属科技的统一社会信用代码、具体厂址、环评和法院执行案号，核实其与亿利达集团的真实产权关系。"
+      ],
       "is_source_scope": true,
       "title": "中亿金属科技有限公司（亿利达钢铁）",
       "tech": [
@@ -1270,11 +1545,17 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "核对青拓镍业与鼎信镍业的厂区边界、最新产能和当前海外矿源；不要把青拓集团其他镍铁厂的产能合并。",
+        "公开资料未列青拓镍业逐家外部客户。"
+      ],
       "is_source_scope": true,
       "title": "福建青拓镍业有限公司",
       "tech": [
         "BF"
+      ],
+      "group_ids": [
+        "tsingshan"
       ]
     },
     "CN075": {
@@ -1287,7 +1568,9 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "核对河南鑫金汇特钢有限公司与鑫金汇不锈钢有限公司的工商关系、统一代码和环评批复状态。"
+      ],
       "is_source_scope": true,
       "title": "河南鑫金汇特钢有限公司",
       "tech": [
@@ -1305,7 +1588,7 @@
         "npi"
       ],
       "pending": [
-        "租赁／历史名称可能重叠，暂不进入样本合计"
+        "查找万汇/和恒的完整法人名称、租赁合同、环评变更、法院/工商材料；在证据闭合前不判断其是否在产。"
       ],
       "is_source_scope": true,
       "title": "内蒙古和谊镍铬复合材料有限公司(租给万汇) 和恒",
@@ -1323,7 +1606,9 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "查找法院裁定、重整投资人、资产与临沂钢投的股权关系、环评验收和当前开工状态。"
+      ],
       "is_source_scope": true,
       "title": "亿晨镍铬合金（临沂钢投）",
       "tech": [
@@ -1340,7 +1625,9 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "核对最新环评验收、实际开工炉数、项目是否复产/转产、毕氏集团股权文件和客户；不得用设计产能替代实产。"
+      ],
       "is_source_scope": true,
       "title": "奈曼经安有限公司",
       "tech": [
@@ -1357,7 +1644,10 @@
       "products": [
         "npi"
       ],
-      "pending": [],
+      "pending": [
+        "补充国家企业信用信息公示系统原始页面、环评批复、土地及排污许可，核实90万吨规划的实际建设和投产进度。",
+        "登记和框架协议能够确认公司主体、经营范围和规划项目，但不能单独证明90万吨产能已全部建成或当前在产。后续公开资料还出现富力与设备、管理咨询或长期应收款相关记录，这些只能说明企业存在经营往来，不能替代环评验收、排污许可和现场运行证据。"
+      ],
       "is_source_scope": true,
       "title": "大连富力镍基合金新材料有限公司",
       "tech": [
@@ -1374,7 +1664,10 @@
       "products": [
         "sulfate"
       ],
-      "pending": [],
+      "pending": [
+        "原目录“湖南中伟新材料有限公司”与公开建设单位“湖南中伟新能源科技有限公司”的名称沿革仍需核对；暂保留原ID和别名。",
+        "具体硫酸镍外售客户、跨基地逐笔调拨及长期供货协议尚待补充。"
+      ],
       "is_source_scope": true,
       "scope_note": "硫酸镍表按公司抬头记录；所在地沿用原表湖南，不把该序列直接视为单一钦州厂产量。",
       "group_ids": [
@@ -1395,7 +1688,9 @@
       "products": [
         "sulfate"
       ],
-      "pending": [],
+      "pending": [
+        "本条为集团业务总览；单厂权益比例、包销客户和交货条件按各项目公告继续补充。"
+      ],
       "is_source_scope": true,
       "scope_note": "硫酸镍表按公司抬头记录；不将公司口径产量强行分配到衢州或广西工厂。",
       "group_ids": [
@@ -1404,11 +1699,12 @@
       "title": "浙江华友钴业股份有限公司",
       "tech": [
         "镍盐加工"
-      ]
+      ],
+      "record_type": "group-overview"
     },
     "CN082": {
       "id": "CN082",
-      "name": "荆门格林美新材料有限公司",
+      "name": "荆门市格林美新材料有限公司",
       "province": "湖北",
       "city": "荆门市",
       "nature": "民企",
@@ -1416,12 +1712,15 @@
       "products": [
         "sulfate"
       ],
-      "pending": [],
+      "pending": [
+        "补充荆门各次扩建的首产、验收和目前产品分工。",
+        "QMB原料至荆门的具体批次及客户合同需要独立核实。"
+      ],
       "is_source_scope": true,
       "group_ids": [
         "gem"
       ],
-      "title": "荆门格林美新材料有限公司",
+      "title": "荆门市格林美新材料有限公司 荆门格林美",
       "tech": [
         "镍盐加工"
       ]
@@ -1436,7 +1735,9 @@
       "products": [
         "sulfate"
       ],
-      "pending": [],
+      "pending": [
+        "镍盐公司的股权层级、各生产线投产和具名客户合同待补充。"
+      ],
       "is_source_scope": true,
       "group_ids": [
         "jinchuan"
@@ -1456,7 +1757,9 @@
       "products": [
         "sulfate"
       ],
-      "pending": [],
+      "pending": [
+        "补充并核验宁波长江招股书可下载版本、环评批复及验收文件；现有qcc PDF链接无法稳定直接打开，未作为唯一依据。"
+      ],
       "is_source_scope": true,
       "title": "宁波长江能源科技有限公司",
       "tech": [
@@ -1467,13 +1770,15 @@
       "id": "CN085",
       "name": "湖南邦普循环科技有限公司",
       "province": "湖南",
-      "city": "长沙市",
+      "city": "长沙宁乡市",
       "nature": "民企",
       "english": "",
       "products": [
         "sulfate"
       ],
-      "pending": [],
+      "pending": [
+        "补充湖南各厂区对应法人、最新持股比例及硫酸镍具名外售客户。"
+      ],
       "is_source_scope": true,
       "group_ids": [
         "catl-brunp"
@@ -1493,11 +1798,16 @@
       "products": [
         "sulfate"
       ],
-      "pending": [],
+      "pending": [
+        "补充佳纳最新环评验收、江西/广东厂区分工及单厂客户合同或年报附表。"
+      ],
       "is_source_scope": true,
       "title": "广东佳纳能源科技有限公司",
       "tech": [
         "镍盐加工"
+      ],
+      "group_ids": [
+        "dowstone"
       ]
     },
     "CN087": {
@@ -1510,10 +1820,14 @@
       "products": [
         "sulfate"
       ],
-      "pending": [],
+      "pending": [
+        "核对当前股权比例和后续股权变更，管理托管不等于收购完成。",
+        "补充瑞木供料及具体下游客户的合同期限、定价和实际交付。"
+      ],
       "is_source_scope": true,
       "group_ids": [
-        "mcc-ramu"
+        "mcc-ramu",
+        "minmetals-materials"
       ],
       "title": "中冶瑞木新能源科技有限公司",
       "tech": [
@@ -1531,7 +1845,10 @@
         "sulfate",
         "refined"
       ],
-      "pending": [],
+      "pending": [
+        "集团重整后的最终股权和当前运营主体需要进一步确认。",
+        "补充镍盐实际开停产、原料供货方、具名客户和合同。"
+      ],
       "is_source_scope": true,
       "title": "Guangxi Yinyi New Materials Co., Ltd. 广西银亿新材料有限公司",
       "tech": [
@@ -1541,7 +1858,7 @@
     },
     "CN089": {
       "id": "CN089",
-      "name": "广东芳源环保股份有限公司",
+      "name": "广东芳源新材料集团股份有限公司",
       "province": "广东",
       "city": "江门市",
       "nature": "民企",
@@ -1549,9 +1866,11 @@
       "products": [
         "sulfate"
       ],
-      "pending": [],
+      "pending": [
+        "各客户对应产品、采购量和长期协议期限仍需逐项核对。"
+      ],
       "is_source_scope": true,
-      "title": "广东芳源环保股份有限公司",
+      "title": "广东芳源新材料集团股份有限公司 芳源股份",
       "tech": [
         "镍盐加工"
       ]
@@ -1566,7 +1885,9 @@
       "products": [
         "sulfate"
       ],
-      "pending": [],
+      "pending": [
+        "补充广西智亮工商股东、正式环评报告书、环评批复、危废许可和竣工验收；不得把公示设计规模写成投产规模。"
+      ],
       "is_source_scope": true,
       "title": "广西智亮新材料股份有限公司",
       "tech": [
@@ -1583,7 +1904,9 @@
       "products": [
         "sulfate"
       ],
-      "pending": [],
+      "pending": [
+        "补充金柯迁建环评批复、当前金川镍盐公司与金柯分厂的工商关系及最新产销口径。"
+      ],
       "is_source_scope": true,
       "title": "金柯有色金属有限公司",
       "tech": [
@@ -1601,12 +1924,17 @@
         "sulfate",
         "refined"
       ],
-      "pending": [],
+      "pending": [
+        "补充当前持股比例、各车间投产节点及委托加工合同期限。"
+      ],
       "is_source_scope": true,
       "title": "Tianjin Maolian Technology Co., Ltd. 天津市茂联科技有限公司",
       "tech": [
         "镍盐加工",
         "电积"
+      ],
+      "group_ids": [
+        "hezon"
       ]
     },
     "CN093": {
@@ -1619,7 +1947,9 @@
       "products": [
         "sulfate"
       ],
-      "pending": [],
+      "pending": [
+        "补充长优现行排污许可、搬迁扩改验收和最新危废经营/转移记录；历史督察事实不等同于当前违法状态。"
+      ],
       "is_source_scope": true,
       "title": "江门市长优实业有限公司",
       "tech": [
@@ -1637,7 +1967,10 @@
         "sulfate",
         "refined"
       ],
-      "pending": [],
+      "pending": [
+        "补充2025—2026年的股权与生产披露、具体炉型和各镍盐线现状。",
+        "历史并购形成的海外资源与今天实际采购应分别核实。"
+      ],
       "is_source_scope": true,
       "title": "Jilin Jien Nickel Industry Co., Ltd. 吉林吉恩镍业股份有限公司",
       "tech": [
@@ -1655,7 +1988,9 @@
       "products": [
         "sulfate"
       ],
-      "pending": [],
+      "pending": [
+        "补充眉山顺应正式环评报告、批复及验收；当前资料不足以确认实际投产产品和客户。"
+      ],
       "is_source_scope": true,
       "title": "眉山顺应动力电池材料有限公司",
       "tech": [
@@ -1672,7 +2007,9 @@
       "products": [
         "sulfate"
       ],
-      "pending": [],
+      "pending": [
+        "补充改扩建项目最终批复、竣工验收、危险废物许可和吉锐/力道厂区产品分工。"
+      ],
       "is_source_scope": true,
       "title": "赣州吉锐新能源科技有限公司（江西力道）",
       "tech": [
@@ -1689,7 +2026,9 @@
       "products": [
         "sulfate"
       ],
-      "pending": [],
+      "pending": [
+        "补充烟台电池材料主体工商股权、硫酸盐扩能环评批复及竣工验收；严格区分烟台、海阳、莱州项目。"
+      ],
       "is_source_scope": true,
       "title": "万华化学电池产业公司",
       "tech": [
@@ -1698,7 +2037,7 @@
     },
     "CN098": {
       "id": "CN098",
-      "name": "赣州腾远钴业",
+      "name": "赣州腾远钴业新材料股份有限公司",
       "province": "江西",
       "city": "赣州市",
       "nature": "民企",
@@ -1707,9 +2046,12 @@
         "sulfate",
         "refined"
       ],
-      "pending": [],
+      "pending": [
+        "补充镍线首次投产与验收日期，MHP具名供应商、客户和协议。",
+        "不将原料类型自动对应为某一家印尼矿或独家供应。"
+      ],
       "is_source_scope": true,
-      "title": "Ganzhou Tengyuan Cobalt New Materials Co., Ltd. 赣州腾远钴业",
+      "title": "赣州腾远钴业新材料股份有限公司 腾远钴业",
       "tech": [
         "镍盐加工",
         "电积"
@@ -1725,7 +2067,9 @@
       "products": [
         "sulfate"
       ],
-      "pending": [],
+      "pending": [
+        "补充路加正式环评批复、分期建设进度、验收和下游客户；安全评价不等于投产证明。"
+      ],
       "is_source_scope": true,
       "title": "浙江路加新能源有限公司",
       "tech": [
@@ -1743,7 +2087,9 @@
         "sulfate",
         "refined"
       ],
-      "pending": [],
+      "pending": [
+        "补充池州各期投产和验收节点、最新股东层级、具名镍盐客户及持续供货合同。"
+      ],
       "is_source_scope": true,
       "title": "Chizhou CN Material New Materials Technology Co., Ltd. 池州西恩新材料科技有限公司",
       "tech": [
@@ -1762,7 +2108,9 @@
         "sulfate",
         "refined"
       ],
-      "pending": [],
+      "pending": [
+        "补充最新排污许可、危险废物经营许可和各车间实际产品结构；把已验收湿法线与调试项目分开。"
+      ],
       "is_source_scope": true,
       "title": "Zhejiang New Era Zhongneng Technology Co., Ltd. 浙江新时代中能循环科技有限公司",
       "tech": [
@@ -1772,7 +2120,7 @@
     },
     "CN102": {
       "id": "CN102",
-      "name": "广东威马新材料股份有限公司",
+      "name": "广东威玛新材料股份有限公司",
       "province": "广东",
       "city": "韶关市",
       "nature": "民企",
@@ -1780,9 +2128,13 @@
       "products": [
         "sulfate"
       ],
-      "pending": [],
+      "pending": [
+        "补充仁化县生态环境部门可核验的环评批复、竣工环保验收、排污许可和危险废物经营许可，确认镍盐产品在当前主体下的具体证照与运行状态。",
+        "官网项目清单未披露各项目的完整产能、客户和最近一次验收日期，不能将项目列表直接等同于持续投产。",
+        "原目录“威马”按企业官网规范名称更正为“威玛”。"
+      ],
       "is_source_scope": true,
-      "title": "广东威马新材料股份有限公司",
+      "title": "广东威玛新材料股份有限公司 广东威玛",
       "tech": [
         "镍盐加工"
       ]
@@ -1797,7 +2149,9 @@
       "products": [
         "sulfate"
       ],
-      "pending": [],
+      "pending": [
+        "补充常青项目正式环评批复、竣工验收及当前投产状态；计划建成时间不作为实际投产事实。"
+      ],
       "is_source_scope": true,
       "title": "福建常青新能源科技有限公司",
       "tech": [
@@ -1815,7 +2169,10 @@
         "sulfate",
         "refined"
       ],
-      "pending": [],
+      "pending": [
+        "当前股东结构、原料来源、金属镍品牌与镍盐客户仍需补齐。",
+        "官网不同年代的产品表述须与最新生产许可对照。"
+      ],
       "is_source_scope": true,
       "title": "Yantai Kaishi Industry Co., Ltd. 烟台凯实工业有限公司",
       "tech": [
@@ -1833,7 +2190,9 @@
       "products": [
         "sulfate"
       ],
-      "pending": [],
+      "pending": [
+        "补充河南科隆子公司清单、镍盐产线环评及客户/供应商附表；当前仅确认硫酸镍为原料。"
+      ],
       "is_source_scope": true,
       "title": "河南科隆新能源股份有限公司",
       "tech": [
@@ -1850,11 +2209,16 @@
       "products": [
         "sulfate"
       ],
-      "pending": [],
+      "pending": [
+        "补齐金驰各车间的建设投产、当前股权与硫酸镍成品外售情况。"
+      ],
       "is_source_scope": true,
       "title": "湖南金驰能源材料有限公司",
       "tech": [
         "镍盐加工"
+      ],
+      "group_ids": [
+        "minmetals-materials"
       ]
     },
     "CN107": {
@@ -1867,7 +2231,9 @@
       "products": [
         "sulfate"
       ],
-      "pending": [],
+      "pending": [
+        "补充江山环评全文、产品清单、股权沿革和竣工验收，明确硫酸镍是主产品还是盐类副产品。"
+      ],
       "is_source_scope": true,
       "title": "浙江三晟化工有限公司",
       "tech": [
@@ -1884,7 +2250,9 @@
       "products": [
         "sulfate"
       ],
-      "pending": [],
+      "pending": [
+        "补充睿达工商股东、正式环评批复/验收和最新危废许可证；把清洁生产原辅料表与实际年度产量分开。"
+      ],
       "is_source_scope": true,
       "title": "江西睿达环保有限公司",
       "tech": [
@@ -1901,11 +2269,16 @@
       "products": [
         "sulfate"
       ],
-      "pending": [],
+      "pending": [
+        "补充聚泰危废许可证、环评批复及陕西厂验收；继续区分陕西聚泰、浙江聚泰新能源和西安聚泰储能。"
+      ],
       "is_source_scope": true,
       "title": "陕西聚泰新材料科技有限公司",
       "tech": [
         "镍盐加工"
+      ],
+      "group_ids": [
+        "jutaitech"
       ]
     },
     "CN110": {
@@ -1918,7 +2291,9 @@
       "products": [
         "sulfate"
       ],
-      "pending": [],
+      "pending": [
+        "补充金晟肇庆技改环评批复及验收、危废经营许可和当前实际产品结构；官网集团客户不下推肇庆单厂。"
+      ],
       "is_source_scope": true,
       "title": "肇庆市金晟金属实业有限公司",
       "tech": [
@@ -1929,14 +2304,16 @@
       "id": "CN111",
       "name": "江西省广德环保科技股份有限公司",
       "province": "江西",
-      "city": "抚州市",
+      "city": "抚州市广昌县",
       "nature": "民企",
       "english": "Jiangxi Province Guangde Environmental Protection Technology Co., Ltd.",
       "products": [
         "sulfate",
         "refined"
       ],
-      "pending": [],
+      "pending": [
+        "补充各厂区车间首产、目前运行状态，以及硫酸镍和金属镍客户的分别对应。"
+      ],
       "is_source_scope": true,
       "title": "Jiangxi Province Guangde Environmental Protection Technology Co., Ltd. 江西省广德环保科技股份有限公司",
       "tech": [
@@ -1954,11 +2331,16 @@
       "products": [
         "sulfate"
       ],
-      "pending": [],
+      "pending": [
+        "补充上海格派集团与浙江格派、广西格派各主体的股权和产线交叉关系；客户只在有单厂披露时引用。"
+      ],
       "is_source_scope": true,
       "title": "上海格派镍钴能源技术集团有限公司",
       "tech": [
         "镍盐加工"
+      ],
+      "group_ids": [
+        "greatpower"
       ]
     },
     "CN113": {
@@ -1971,7 +2353,9 @@
       "products": [
         "sulfate"
       ],
-      "pending": [],
+      "pending": [
+        "补充华信钴业镍盐项目正式环评、危废许可和工商沿革；硫酸锰项目不能作为硫酸镍投产证据。"
+      ],
       "is_source_scope": true,
       "title": "辽宁华信钴业科技有限公司",
       "tech": [
@@ -1988,7 +2372,9 @@
       "products": [
         "sulfate"
       ],
-      "pending": [],
+      "pending": [
+        "补充长宸统一社会信用代码、环评全文、批复和验收；把设计产品与已投产品分开。"
+      ],
       "is_source_scope": true,
       "title": "湖北长宸锂能循环科技有限公司",
       "tech": [
@@ -2005,7 +2391,9 @@
       "products": [
         "sulfate"
       ],
-      "pending": [],
+      "pending": [
+        "补充瑞隆最终环评批复、危险废物许可、验收和实际产品去向。"
+      ],
       "is_source_scope": true,
       "title": "全南县瑞隆科技有限公司",
       "tech": [
@@ -2022,7 +2410,9 @@
       "products": [
         "sulfate"
       ],
-      "pending": [],
+      "pending": [
+        "补充金源镍盐项目的正式环评、验收和厂区地址；碳酸锂改造项目不直接等同硫酸镍产线。"
+      ],
       "is_source_scope": true,
       "title": "湖南金源新材料股份有限公司",
       "tech": [
@@ -2039,7 +2429,10 @@
       "products": [
         "sulfate"
       ],
-      "pending": [],
+      "pending": [
+        "补充国家企业信用信息公示、余姚生态环境部门环评/排污许可和危废经营许可，确认统一社会信用代码、法定代表人、厂址与现行状态。",
+        "补充能直接指向余姚环科的采购或客户公告；同城企业的客户信息不得代用。"
+      ],
       "is_source_scope": true,
       "title": "余姚市环科再生资源有限公司",
       "tech": [
@@ -2056,7 +2449,9 @@
       "products": [
         "sulfate"
       ],
-      "pending": [],
+      "pending": [
+        "补充自立镍盐线环评批复、验收、危废许可证和单厂客户证据；集团产能不得下推。"
+      ],
       "is_source_scope": true,
       "title": "江西自立环保科技有限公司",
       "tech": [
@@ -2073,7 +2468,9 @@
       "products": [
         "sulfate"
       ],
-      "pending": [],
+      "pending": [
+        "补充北新环评、验收、危废许可、股权沿革和客户合同；“主流厂商”不等于已确认客户。"
+      ],
       "is_source_scope": true,
       "title": "启东市北新无机化工有限公司",
       "tech": [
@@ -2090,12 +2487,16 @@
       "products": [
         "sulfate"
       ],
-      "pending": [],
+      "pending": [
+        "补充桑顿硫酸镍是否自制、对应环评和验收；若仅为外购原料，应调整产品身份。",
+        "原目录硫酸镍分类不等于本厂已核实对外生产硫酸镍；需补独立镍盐制造工序文件。"
+      ],
       "is_source_scope": true,
       "title": "桑顿新能源科技有限公司",
       "tech": [
         "镍盐加工"
-      ]
+      ],
+      "record_type": "downstream-materials"
     },
     "CN121": {
       "id": "CN121",
@@ -2107,7 +2508,10 @@
       "products": [
         "sulfate"
       ],
-      "pending": [],
+      "pending": [
+        "补充新玮最新工商、环评验收和硫酸镍产品证据；区分早期海门钴盐线与当前存续状态。",
+        "公开材料未点名单厂客户，不把客户行业概述写成具体买方。"
+      ],
       "is_source_scope": true,
       "title": "南通新玮镍钴科技发展有限公司",
       "tech": [
@@ -2124,12 +2528,16 @@
       "products": [
         "sulfate"
       ],
-      "pending": [],
+      "pending": [
+        "补充最新环评验收、排污许可、股权沿革和单厂客户证据；不把集团计划或同名主体资料并入。",
+        "补充最新环评验收、排污许可、股权沿革、单厂客户和实际运行状态。"
+      ],
       "is_source_scope": true,
       "title": "吉林亚融科技股份有限公司",
       "tech": [
         "镍盐加工"
-      ]
+      ],
+      "record_type": "downstream-materials"
     },
     "CN123": {
       "id": "CN123",
@@ -2141,7 +2549,10 @@
       "products": [
         "sulfate"
       ],
-      "pending": [],
+      "pending": [
+        "补充最新环评验收、排污许可、股权沿革和单厂客户证据；不把集团计划或同名主体资料并入。",
+        "公开资料未列，客户另列单厂客户名称；企业同时承担危废处置和污染物治理责任，后续排污许可、危废经营许可和实际产量应按厂区核对。"
+      ],
       "is_source_scope": true,
       "title": "浙江升阳再生资源科技股份有限公司",
       "tech": [
@@ -2158,12 +2569,17 @@
       "products": [
         "sulfate"
       ],
-      "pending": [],
+      "pending": [
+        "补充华吉工商档案、厂区环评/排污许可和危废许可，确认其生产商还是贸易商、实际产品形态及当前运行状态。",
+        "帕瓦披露的是历史供货关系，不能外推华吉当前客户名单或持续供应量.",
+        "招股书说明报告期前五大供应商可能是生产商或贸易商，华吉条目本身没有披露其原料、厂区或生产设备。因此可以把CN124写成“有已履行液体硫酸镍供货记录的法人”，但不能据此断定其一定拥有独立结晶/浓缩产线，也不能把帕瓦其他供应商的项目和客户移植过来。华吉的法人身份、环评批文、排污许可、危险废物许可及当前是否仍供货，仍需企业或监管文件补齐。"
+      ],
       "is_source_scope": true,
       "title": "宁波华吉新材料科技有限公司",
       "tech": [
         "镍盐加工"
-      ]
+      ],
+      "record_type": "supplier"
     },
     "CN125": {
       "id": "CN125",
@@ -2175,11 +2591,18 @@
       "products": [
         "sulfate"
       ],
-      "pending": [],
+      "pending": [
+        "核对镍盐、电积镍各工序对应的具体法人和厂区，不用集团研发成果替代单厂产线验收。",
+        "补充具名原料供应方、客户及处理合同。"
+      ],
       "is_source_scope": true,
       "title": "广东飞南资源利用股份有限公司",
       "tech": [
         "镍盐加工"
+      ],
+      "record_type": "group-overview",
+      "group_ids": [
+        "feinan"
       ]
     },
     "CN126": {
@@ -2192,7 +2615,9 @@
       "products": [
         "sulfate"
       ],
-      "pending": [],
+      "pending": [
+        "补充最新环评验收、排污许可、股权沿革和单厂客户证据；不把集团计划或同名主体资料并入。"
+      ],
       "is_source_scope": true,
       "title": "浙江天能新材料有限公司",
       "tech": [
@@ -2209,7 +2634,9 @@
       "products": [
         "sulfate"
       ],
-      "pending": [],
+      "pending": [
+        "补充最新环评验收、排污许可、股权沿革和单厂客户证据；不把集团计划或同名主体资料并入。"
+      ],
       "is_source_scope": true,
       "title": "广东光华科技股份有限公司",
       "tech": [
@@ -2226,12 +2653,16 @@
       "products": [
         "sulfate"
       ],
-      "pending": [],
+      "pending": [
+        "补充阳江市生态环境部门环评、排污许可、危废经营许可和企业信用公示资料，确认厂区、股东与实际业务。",
+        "必须取得直接写明硫酸镍或镍盐产线的项目/产品文件后，才能把索引产品升级为已证实事实."
+      ],
       "is_source_scope": true,
       "title": "阳江市绿森工贸有限公司",
       "tech": [
         "镍盐加工"
-      ]
+      ],
+      "record_type": "related-industry"
     },
     "CN129": {
       "id": "CN129",
@@ -2243,7 +2674,9 @@
       "products": [
         "sulfate"
       ],
-      "pending": [],
+      "pending": [
+        "补充最新环评验收、排污许可、股权沿革和单厂客户证据；不把集团计划或同名主体资料并入。"
+      ],
       "is_source_scope": true,
       "title": "上饶市鼎鑫金属化工有限公司",
       "tech": [
@@ -2260,7 +2693,10 @@
       "products": [
         "sulfate"
       ],
-      "pending": [],
+      "pending": [
+        "进一步补充镍盐与钴盐分别对应的具名客户、合同期限和采购比例。",
+        "按最新许可及运行报告细化各车间状态。"
+      ],
       "is_source_scope": true,
       "title": "赣州市豪鹏科技有限公司",
       "tech": [
@@ -2277,7 +2713,10 @@
       "products": [
         "sulfate"
       ],
-      "pending": [],
+      "pending": [
+        "补充最新环评验收、排污许可、股权沿革和单厂客户证据；不把集团计划或同名主体资料并入。",
+        "张家港华义框架协议具体供货品种、采购义务和期限需补协议全文。"
+      ],
       "is_source_scope": true,
       "title": "包头锐博新能源材料有限公司",
       "tech": [
@@ -2294,7 +2733,9 @@
       "products": [
         "sulfate"
       ],
-      "pending": [],
+      "pending": [
+        "补充最新环评验收、排污许可、股权沿革和单厂客户证据；不把集团计划或同名主体资料并入。"
+      ],
       "is_source_scope": true,
       "title": "大连瑞源动力股份有限公司",
       "tech": [
@@ -2311,7 +2752,10 @@
       "products": [
         "sulfate"
       ],
-      "pending": [],
+      "pending": [
+        "补充最新环评验收、排污许可、股权沿革和单厂客户证据；不把集团计划或同名主体资料并入。",
+        "补充最新环评验收、排污许可、股权沿革、单厂客户和实际运行状态。"
+      ],
       "is_source_scope": true,
       "title": "江西江钨钴业有限公司",
       "tech": [
@@ -2328,7 +2772,9 @@
       "products": [
         "sulfate"
       ],
-      "pending": [],
+      "pending": [
+        "补充最新环评验收、排污许可、股权沿革和单厂客户证据；不把集团计划或同名主体资料并入。"
+      ],
       "is_source_scope": true,
       "title": "江西赣峰锂业",
       "tech": [
@@ -2345,7 +2791,10 @@
       "products": [
         "sulfate"
       ],
-      "pending": [],
+      "pending": [
+        "补充最新环评验收、排污许可、股权沿革和单厂客户证据；不把集团计划或同名主体资料并入。",
+        "公开资料未点名单厂客户，长虹体系或铜仁园区客户名单不下推为鹏程客户；并购后的产线状态和硫酸镍实际销量应以最新环评验收和企业公告为准。"
+      ],
       "is_source_scope": true,
       "title": "贵州鹏程新材料有限公司",
       "tech": [
@@ -2362,7 +2811,10 @@
       "products": [
         "sulfate"
       ],
-      "pending": [],
+      "pending": [
+        "补充最新环评验收、排污许可、股权沿革和单厂客户证据；不把集团计划或同名主体资料并入。",
+        "经营范围包含出口业务，但尚缺具体出口单据、目的地和具名客户资料。"
+      ],
       "is_source_scope": true,
       "title": "山西正兴有色金属有限公司",
       "tech": [
@@ -2373,17 +2825,22 @@
       "id": "CN137",
       "name": "江西天奇金泰阁钴业有限公司",
       "province": "江西",
-      "city": "赣州市",
+      "city": "赣州市龙南市",
       "nature": "民企",
       "english": "",
       "products": [
         "sulfate"
       ],
-      "pending": [],
+      "pending": [
+        "核对2025年增资是否完成及最新股权；补充各产线历史验收和镍盐长期客户。"
+      ],
       "is_source_scope": true,
       "title": "江西天奇金泰阁钴业有限公司",
       "tech": [
         "镍盐加工"
+      ],
+      "group_ids": [
+        "tianqi-recycling"
       ]
     },
     "CN138": {
@@ -2396,7 +2853,9 @@
       "products": [
         "sulfate"
       ],
-      "pending": [],
+      "pending": [
+        "补充最新环评验收、排污许可、股权沿革和单厂客户证据；不把集团计划或同名主体资料并入。"
+      ],
       "is_source_scope": true,
       "title": "蜀矿环锂科技公司",
       "tech": [
@@ -2413,7 +2872,9 @@
       "products": [
         "sulfate"
       ],
-      "pending": [],
+      "pending": [
+        "补充各项目的具体持股层级、内部销售合同以及中合—贵州的实际物流。"
+      ],
       "is_source_scope": true,
       "group_ids": [
         "shengtun-mining"
@@ -2421,7 +2882,8 @@
       "title": "盛屯矿业",
       "tech": [
         "镍盐加工"
-      ]
+      ],
+      "record_type": "group-overview"
     },
     "CN140": {
       "id": "CN140",
@@ -2433,7 +2895,10 @@
       "products": [
         "sulfate"
       ],
-      "pending": [],
+      "pending": [
+        "补充中弘2014/2019项目的原始环评批复、验收与排污许可，确认各阶段实际建成和停运情况。",
+        "厘清中弘历史项目、威玛承接项目与当前厂区的许可边界；不得把中弘的批文自动归给威玛。"
+      ],
       "is_source_scope": true,
       "title": "韶关中弘金属实业有限公司",
       "tech": [
@@ -2450,7 +2915,9 @@
       "products": [
         "sulfate"
       ],
-      "pending": [],
+      "pending": [
+        "补充最新环评验收、排污许可、股权沿革和单厂客户证据；不把集团计划或同名主体资料并入。"
+      ],
       "is_source_scope": true,
       "title": "宁波容百新能源科技股份有限公司",
       "tech": [
@@ -2467,7 +2934,11 @@
       "products": [
         "sulfate"
       ],
-      "pending": [],
+      "pending": [
+        "补充常州生态环境部门的环评、验收、排污许可和危废经营许可，确认历史硫酸镍产品是否仍有对应产线。",
+        "补充最新工商股东、法定代表人和厂区信息；公开转让说明书只代表申报时点。",
+        "说明书以企业经营范围和历史业务描述确认领先再生资源具有从废旧金属中回收并加工有色金属产品的定位，硫酸镍是其列明的产品之一；但材料属于公开转让申报期文件，未给出目前的环评验收、排污许可、原料清单或客户订单。因而本条可以使用“历史上公开披露生产硫酸镍”，不能使用“当前仍在产”或将其客户、设备规模扩大解释。"
+      ],
       "is_source_scope": true,
       "title": "江苏领先再生资源科技有限公司",
       "tech": [
@@ -2484,12 +2955,16 @@
       "products": [
         "sulfate"
       ],
-      "pending": [],
+      "pending": [
+        "补充最新环评验收、排污许可、股权沿革和单厂客户证据；不把集团计划或同名主体资料并入。",
+        "原目录硫酸镍分类不等于本厂已核实对外生产硫酸镍；需补独立镍盐制造工序文件。"
+      ],
       "is_source_scope": true,
       "title": "浙江帕瓦新能源股份有限公司",
       "tech": [
         "镍盐加工"
-      ]
+      ],
+      "record_type": "downstream-materials"
     },
     "CN144": {
       "id": "CN144",
@@ -2501,12 +2976,16 @@
       "products": [
         "sulfate"
       ],
-      "pending": [],
+      "pending": [
+        "补充最新环评验收、排污许可、股权沿革和单厂客户证据；不把集团计划或同名主体资料并入。",
+        "原目录硫酸镍分类不等于本厂已核实对外生产硫酸镍；需补独立镍盐制造工序文件。"
+      ],
       "is_source_scope": true,
       "title": "宜宾光原锂电材料有限公司",
       "tech": [
         "镍盐加工"
-      ]
+      ],
+      "record_type": "downstream-materials"
     },
     "CN145": {
       "id": "CN145",
@@ -2518,7 +2997,9 @@
       "products": [
         "sulfate"
       ],
-      "pending": [],
+      "pending": [
+        "补充最新环评验收、排污许可、股权沿革和单厂客户证据；不把集团计划或同名主体资料并入。"
+      ],
       "is_source_scope": true,
       "title": "盐城星创资源循环利用有限公司",
       "tech": [
@@ -2535,7 +3016,9 @@
       "products": [
         "sulfate"
       ],
-      "pending": [],
+      "pending": [
+        "补充最新环评验收、排污许可、股权沿革和单厂客户证据；不把集团计划或同名主体资料并入。"
+      ],
       "is_source_scope": true,
       "title": "华泽钴镍材料股份有限公司",
       "tech": [
@@ -2552,7 +3035,9 @@
       "products": [
         "sulfate"
       ],
-      "pending": [],
+      "pending": [
+        "补充最新环评验收、排污许可、股权沿革和单厂客户证据；不把集团计划或同名主体资料并入。"
+      ],
       "is_source_scope": true,
       "title": "余姚市鑫和电池材料有限公司",
       "tech": [
@@ -2569,7 +3054,10 @@
       "products": [
         "sulfate"
       ],
-      "pending": [],
+      "pending": [
+        "补充官方公司、环评、验收和危废许可资料，核实股东、厂区、原料、投产、产品与客户。",
+        "补充最新环评验收、排污许可、股权沿革、单厂客户和实际运行状态。"
+      ],
       "is_source_scope": true,
       "title": "新乡超能电源有限公司（新乡帝龙）",
       "tech": [
@@ -2578,20 +3066,23 @@
     },
     "CN149": {
       "id": "CN149",
-      "name": "伟明盛青能源新材料有限公司",
+      "name": "浙江伟明盛青能源新材料有限公司",
       "province": "浙江",
       "city": "温州市",
       "nature": "民企",
       "english": "",
       "products": [
-        "sulfate"
+        "sulfate",
+        "refined"
       ],
-      "pending": [],
+      "pending": [
+        "补齐各股东最新比例及投票安排、邦普合同后续执行、嘉曼至温州逐笔原料交付。"
+      ],
       "is_source_scope": true,
       "group_ids": [
         "weiming"
       ],
-      "title": "伟明盛青能源新材料有限公司",
+      "title": "浙江伟明盛青能源新材料有限公司 伟明盛青",
       "tech": [
         "镍盐加工"
       ]
@@ -2606,7 +3097,9 @@
       "products": [
         "sulfate"
       ],
-      "pending": [],
+      "pending": [
+        "补充最新环评验收、排污许可、股权沿革和单厂客户证据；不把集团计划或同名主体资料并入。"
+      ],
       "is_source_scope": true,
       "title": "湖南金凯循环科技股份有限公司",
       "tech": [
@@ -2623,7 +3116,9 @@
       "products": [
         "sulfate"
       ],
-      "pending": [],
+      "pending": [
+        "补充最新环评验收、排污许可、股权沿革和单厂客户证据；不把集团计划或同名主体资料并入。"
+      ],
       "is_source_scope": true,
       "title": "湖北睿勤新能源科技有限公司",
       "tech": [
@@ -2640,7 +3135,9 @@
       "products": [
         "sulfate"
       ],
-      "pending": [],
+      "pending": [
+        "补充最新环评验收、排污许可、股权沿革和单厂客户证据；不把集团计划或同名主体资料并入。"
+      ],
       "is_source_scope": true,
       "title": "贵州星茂新材料有限公司",
       "tech": [
@@ -2657,7 +3154,9 @@
       "products": [
         "refined"
       ],
-      "pending": [],
+      "pending": [
+        "补齐当前每套冶炼和精炼系统的设备、检修与运行状态，以及产品具名客户。"
+      ],
       "is_source_scope": true,
       "group_ids": [
         "jinchuan"
@@ -2678,7 +3177,9 @@
       "products": [
         "refined"
       ],
-      "pending": [],
+      "pending": [
+        "进一步补充其他国内精炼镍生产主体，集团品牌注册不代表所有基地同日投产。"
+      ],
       "is_source_scope": true,
       "group_ids": [
         "gem"
@@ -2686,7 +3187,8 @@
       "title": "GEM Co., Ltd. 格林美股份有限公司",
       "tech": [
         "电积"
-      ]
+      ],
+      "record_type": "group-overview"
     },
     "CN155": {
       "id": "CN155",
@@ -2698,7 +3200,9 @@
       "products": [
         "refined"
       ],
-      "pending": [],
+      "pending": [
+        "补齐各工序的准确首产时间、主要原料项目、逐年权益与具名客户。"
+      ],
       "is_source_scope": true,
       "group_ids": [
         "huayou"
@@ -2718,7 +3222,9 @@
       "products": [
         "refined"
       ],
-      "pending": [],
+      "pending": [
+        "补充衢州早期成立、各湿法线与电积线首产、原料分配和客户合同。"
+      ],
       "is_source_scope": true,
       "group_ids": [
         "huayou"
@@ -2738,12 +3244,16 @@
       "products": [
         "refined"
       ],
-      "pending": [],
+      "pending": [
+        "尚未完成该简称与完整法人的可靠对应；需补工商全名、厂址或项目环评。",
+        "不能把陕西华泽、广西华汇或其他同名企业的股东、设备、开停产史直接并入。"
+      ],
       "is_source_scope": true,
       "title": "Guangxi Huaze 广西华泽",
       "tech": [
         "电积"
-      ]
+      ],
+      "record_type": "identity-pending"
     },
     "CN158": {
       "id": "CN158",
@@ -2755,26 +3265,32 @@
       "products": [
         "refined"
       ],
-      "pending": [],
+      "pending": [
+        "尚未完成该简称与完整法人的可靠对应；需补工商全名、厂址或项目环评。",
+        "不能把陕西华泽、广西华汇或其他同名企业的股东、设备、开停产史直接并入。"
+      ],
       "is_source_scope": true,
       "title": "Jiangxi Huaze 江西华泽",
       "tech": [
         "电积"
-      ]
+      ],
+      "record_type": "identity-pending"
     },
     "CN159": {
       "id": "CN159",
-      "name": "新疆新鑫矿业",
+      "name": "新疆新鑫矿业股份有限公司",
       "province": "新疆",
-      "city": "",
+      "city": "阜康市",
       "nature": "国企",
       "english": "Xinjiang Xinxin Mining",
       "products": [
         "refined"
       ],
-      "pending": [],
+      "pending": [
+        "补充阜康早期建设投产史、当前运行情况、原料矿山与具名客户。"
+      ],
       "is_source_scope": true,
-      "title": "Xinjiang Xinxin Mining 新疆新鑫矿业",
+      "title": "新疆新鑫矿业股份有限公司 阜康冶炼厂",
       "tech": [
         "电积"
       ]
@@ -2789,7 +3305,9 @@
       "products": [
         "refined"
       ],
-      "pending": [],
+      "pending": [
+        "目前法人、资产归属和纯镍线是否保留仍需确认；历史停运不能直接延伸为2026年状态。"
+      ],
       "is_source_scope": true,
       "title": "Yunxi Group Yuanjiang Nickel Industry Co., Ltd. 云锡集团元江镍业有限责任公司",
       "tech": [
@@ -2800,13 +3318,15 @@
       "id": "CN161",
       "name": "浙江元力再生资源有限公司",
       "province": "浙江",
-      "city": "",
+      "city": "金华市兰溪市",
       "nature": "民企",
       "english": "Zhejiang Yuanli Renewable Resources Co., Ltd.",
       "products": [
         "refined"
       ],
-      "pending": [],
+      "pending": [
+        "补充当前股东、镍线首产与环保验收、原料供应方及成品客户。"
+      ],
       "is_source_scope": true,
       "title": "Zhejiang Yuanli Renewable Resources Co., Ltd. 浙江元力再生资源有限公司",
       "tech": [
@@ -2817,13 +3337,16 @@
       "id": "CN162",
       "name": "浙江路加新材料有限公司",
       "province": "浙江",
-      "city": "",
+      "city": "台州市临海市",
       "nature": "民企",
       "english": "Zhejiang Lujia New Materials Co., Ltd.",
       "products": [
         "refined"
       ],
-      "pending": [],
+      "pending": [
+        "核对与“浙江路加新能源有限公司”的股权及名称关系，暂不自动合并。",
+        "补齐各期投产、验收、原料来源及具名客户。"
+      ],
       "is_source_scope": true,
       "title": "Zhejiang Lujia New Materials Co., Ltd. 浙江路加新材料有限公司",
       "tech": [
@@ -2834,13 +3357,15 @@
       "id": "CN163",
       "name": "江苏祺生金属科技有限公司",
       "province": "江苏",
-      "city": "",
+      "city": "泰州市兴化市",
       "nature": "民企",
       "english": "Jiangsu Qisheng Metal Technology Co., Ltd.",
       "products": [
         "refined"
       ],
-      "pending": [],
+      "pending": [
+        "核对最新股权、设备配置、产品认证和具名购销客户；访谈中的工艺评价不作为行业定论。"
+      ],
       "is_source_scope": true,
       "title": "Jiangsu Qisheng Metal Technology Co., Ltd. 江苏祺生金属科技有限公司",
       "tech": [
@@ -2849,20 +3374,25 @@
     },
     "CN164": {
       "id": "CN164",
-      "name": "广西中伟新能源科技有限公司（钦州纯镍产线）",
+      "name": "广西中伟新能源科技有限公司",
       "province": "广西",
       "city": "钦州市",
       "nature": "民企",
       "english": "",
       "products": [
-        "refined"
+        "sulfate",
+        "refined",
+        "matte"
       ],
-      "pending": [],
+      "pending": [
+        "补齐每条后续扩建线的投产与验收、最新生产状态，以及不同印尼项目逐年的供料合同。",
+        "厂内分流到硫酸镍、前驱体和金属镍的实际数量不以原表推算。"
+      ],
       "is_source_scope": true,
       "group_ids": [
         "cngr"
       ],
-      "title": "广西中伟新能源科技有限公司 钦州纯镍产线",
+      "title": "广西中伟新能源科技有限公司 钦州基地",
       "tech": [
         "电积"
       ]
@@ -2877,7 +3407,9 @@
       "products": [
         "refined"
       ],
-      "pending": [],
+      "pending": [
+        "补充各层股东、嘉曼与国内工厂实际销售合同和分期项目的最新进展。"
+      ],
       "is_source_scope": true,
       "group_ids": [
         "weiming"
@@ -2885,7 +3417,8 @@
       "title": "Zhejiang Weiming Environmental Protection Co., Ltd. 浙江伟明环保股份有限公司",
       "tech": [
         "电积"
-      ]
+      ],
+      "record_type": "group-overview"
     },
     "CN166": {
       "id": "CN166",
@@ -2898,67 +3431,84 @@
         "refined"
       ],
       "pending": [
-        "原表将纯镍项列为浙江，而硫酸镍项列为陕西。两条保留，不以总部地址覆盖实际生产基地。"
+        "原目录“陕西聚泰（浙江项目）”与具体纯镍车间尚未完成可靠对应，不把母公司工艺直接当成浙江已投产设备。",
+        "需补浙江项目环评、股东层级、厂址和产品首产资料。"
       ],
       "is_source_scope": true,
       "title": "Shaanxi Jutai New Materials Technology Co., Ltd. 陕西聚泰新材料科技有限公司（浙江统计项目）",
       "tech": [
         "电积"
+      ],
+      "record_type": "identity-pending",
+      "group_ids": [
+        "jutaitech"
       ]
     },
     "CN167": {
       "id": "CN167",
-      "name": "南京寒锐钴业股份有限公司",
+      "name": "赣州寒锐新能源科技有限公司",
       "province": "江西",
-      "city": "",
+      "city": "赣州市赣县区",
       "nature": "民企",
       "english": "Nanjing Hanrui Cobalt Co., Ltd.",
       "products": [
         "refined"
       ],
-      "pending": [],
+      "pending": [
+        "补齐既有线首产、最新状态及新增项目审批开工进度；不把新计划写成现有投产。",
+        "印尼高冰镍至赣州的实际内部供货合同待核。"
+      ],
       "is_source_scope": true,
       "group_ids": [
         "hanrui"
       ],
-      "title": "Nanjing Hanrui Cobalt Co., Ltd. 南京寒锐钴业股份有限公司",
+      "title": "赣州寒锐新能源科技有限公司 赣州寒锐",
       "tech": [
         "电积"
       ]
     },
     "CN168": {
       "id": "CN168",
-      "name": "上海格派镍钴材料股份有限公司",
+      "name": "广西格派电池新材料有限公司",
       "province": "广西",
-      "city": "",
+      "city": "钦州市",
       "nature": "民企",
       "english": "Shanghai Greatpower Technology Co., Ltd.",
       "products": [
         "refined"
       ],
-      "pending": [],
+      "pending": [
+        "补充广西项目环评、正式投产和验收文件、股权变动及供料客户合同。",
+        "公开招聘中的规划和预期不作为已投产依据。"
+      ],
       "is_source_scope": true,
-      "title": "Shanghai Greatpower Technology Co., Ltd. 上海格派镍钴材料股份有限公司",
+      "title": "广西格派电池新材料有限公司 广西格派",
       "tech": [
         "电积"
+      ],
+      "group_ids": [
+        "greatpower"
       ]
     },
     "CN169": {
       "id": "CN169",
-      "name": "盛屯矿业",
+      "name": "盛屯能源金属化学（贵州）有限公司",
       "province": "贵州",
-      "city": "",
+      "city": "黔南州福泉市",
       "nature": "民企",
       "english": "Chengtun Mining",
       "products": [
-        "refined"
+        "sulfate"
       ],
-      "pending": [],
+      "pending": [
+        "原目录把本项列在纯镍；目前主要公共文件明确的是贵州镍盐业务，纯镍线对应和投产尚需核对。",
+        "补充各期首产验收、当前权益比例、各来源原料占比及具名客户。"
+      ],
       "is_source_scope": true,
       "group_ids": [
         "shengtun-mining"
       ],
-      "title": "Chengtun Mining 盛屯矿业",
+      "title": "盛屯能源金属化学（贵州）有限公司 贵州盛屯",
       "tech": [
         "电积"
       ]
@@ -2973,11 +3523,18 @@
       "products": [
         "refined"
       ],
-      "pending": [],
+      "pending": [
+        "原目录江西纯镍项目的具体生产法人、厂区和设备仍需确认，暂不将其自动写成江西巴顿。",
+        "补齐江西各主体的原料合同、镍线首产及客户。"
+      ],
       "is_source_scope": true,
-      "title": "Guangdong Feinan Resources Utilization Co., Ltd. 广东飞南资源利用股份有限公司",
+      "title": "广东飞南资源利用股份有限公司 江西基地",
       "tech": [
         "电积"
+      ],
+      "record_type": "regional-overview",
+      "group_ids": [
+        "feinan"
       ]
     }
   },
@@ -3087,5 +3644,12 @@
       "url": "https://www.cngrgf.com.cn/gsxw/1307.html"
     }
   ],
-  "display_policy": "仅展示企业目录与公开资料；用户表格数值不发布。"
+  "display_policy": "仅展示企业目录与公开资料；用户表格数值不发布。",
+  "research": {
+    "updated_at": "2026-09-21",
+    "projects_reviewed": 170,
+    "with_public_sources": 164,
+    "with_timeline": 86,
+    "with_extended_article": 43
+  }
 }

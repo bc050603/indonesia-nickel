@@ -1,5 +1,5 @@
 {
-  "asof": "2026-09-18",
+  "asof": "2026-09-21",
   "places": [
     {
       "id": "imip",
@@ -9289,15 +9289,18 @@
       "island_id": "china-mainland",
       "island": "中国大陆",
       "province": "湖北",
-      "regency": "",
-      "locality": "荆门市",
+      "regency": "荆门市",
+      "locality": "荆门高新区",
       "country_codes": [
         "CN"
       ],
       "source_urls": [
-        "library/china-sources.html"
+        "https://en.gem.com.cn/GlobalLayout/index.html",
+        "https://www.gem.com.cn/uploadfiles/2024/06/20240616122650632.pdf",
+        "https://en.gem.com.cn/upload/2019-08/26/fujian52018nianniandubaogaoquanwen.pdf",
+        "https://en.gem.com.cn/CompanyNews/info_itemid_7445.html"
       ],
-      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+      "location_basis": "企业、项目或政府公开资料所述地点；地图仍按既有定位精度展示"
     },
     "CN083": {
       "project_id": "CN083",
@@ -9337,15 +9340,19 @@
       "island_id": "china-mainland",
       "island": "中国大陆",
       "province": "湖南",
-      "regency": "",
-      "locality": "长沙市",
+      "regency": "长沙宁乡市",
+      "locality": "宁乡高新技术产业区",
       "country_codes": [
         "CN"
       ],
       "source_urls": [
-        "library/china-sources.html"
+        "https://gxt.hunan.gov.cn/gxt/syzt/xjpjyzl/qglhdbsygh/202407/t20240716_33358172.html",
+        "https://sthjt.hunan.gov.cn/xxgk/xzgs/jsxm/hpgs/jsslgk/200902/t20090204_4696760.html",
+        "https://sthjt.hunan.gov.cn/uploadfiles/201505/20150507102520134.pdf",
+        "https://www.brunp.com.cn/about-us/news/media-report/150.html",
+        "https://sthjt.hunan.gov.cn/sthjt/xxgk/zdly/jdzf/ajcc/201410/t20141013_4696678.html"
       ],
-      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+      "location_basis": "企业、项目或政府公开资料所述地点；地图仍按既有定位精度展示"
     },
     "CN086": {
       "project_id": "CN086",
@@ -9369,15 +9376,16 @@
       "island_id": "china-mainland",
       "island": "中国大陆",
       "province": "河北",
-      "regency": "",
-      "locality": "唐山市",
+      "regency": "唐山市",
+      "locality": "曹妃甸",
       "country_codes": [
         "CN"
       ],
       "source_urls": [
-        "library/china-sources.html"
+        "https://www.mcc.com.cn/xwzx_7388/ywjj/201812/t20181224_313439.html",
+        "https://wkxn.minmetals.com.cn/xwzx_7726/gsxw/202504/t20250427_308507.html"
       ],
-      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+      "location_basis": "企业、项目或政府公开资料所述地点；地图仍按既有定位精度展示"
     },
     "CN088": {
       "project_id": "CN088",
@@ -9449,15 +9457,16 @@
       "island_id": "china-mainland",
       "island": "中国大陆",
       "province": "天津",
-      "regency": "",
-      "locality": "天津市",
+      "regency": "天津市",
+      "locality": "南港工业区富港路9号",
       "country_codes": [
         "CN"
       ],
       "source_urls": [
-        "library/china-sources.html"
+        "https://static.cninfo.com.cn/finalpage/2024-07-03/1220528084.PDF",
+        "https://disc.static.szse.cn/disc/disk03/finalpage/2026-04-29/537bb6e6-0619-4e88-8bed-2b7c070d75d6.PDF"
       ],
-      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+      "location_basis": "企业、项目或政府公开资料所述地点；地图仍按既有定位精度展示"
     },
     "CN093": {
       "project_id": "CN093",
@@ -9753,15 +9762,16 @@
       "island_id": "china-mainland",
       "island": "中国大陆",
       "province": "江西",
-      "regency": "",
-      "locality": "抚州市",
+      "regency": "抚州市广昌县",
+      "locality": "广昌工业园",
       "country_codes": [
         "CN"
       ],
       "source_urls": [
-        "library/china-sources.html"
+        "https://xinsanban.eastmoney.com/Article/NoticeContent?id=AN202504281663950001",
+        "https://static.cninfo.com.cn/finalpage/2024-08-19/1220912559.PDF"
       ],
-      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+      "location_basis": "企业、项目或政府公开资料所述地点；地图仍按既有定位精度展示"
     },
     "CN112": {
       "project_id": "CN112",
@@ -10169,15 +10179,17 @@
       "island_id": "china-mainland",
       "island": "中国大陆",
       "province": "江西",
-      "regency": "",
-      "locality": "赣州市",
+      "regency": "赣州市龙南市",
+      "locality": "富康工业小区",
       "country_codes": [
         "CN"
       ],
       "source_urls": [
-        "library/china-sources.html"
+        "https://paper.cnstock.com/html/2025-04/25/content_2055471.htm",
+        "https://static.cninfo.com.cn/finalpage/2025-05-17/1223569660.PDF",
+        "https://disc.static.szse.cn/disc/disk03/finalpage/2026-04-28/d5f71ad9-1942-4648-8885-d3663df684b5.PDF"
       ],
-      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+      "location_basis": "企业、项目或政府公开资料所述地点；地图仍按既有定位精度展示"
     },
     "CN138": {
       "project_id": "CN138",
@@ -10361,15 +10373,16 @@
       "island_id": "china-mainland",
       "island": "中国大陆",
       "province": "浙江",
-      "regency": "",
-      "locality": "温州市",
+      "regency": "温州市",
+      "locality": "",
       "country_codes": [
         "CN"
       ],
       "source_urls": [
-        "library/china-sources.html"
+        "https://www.cnweiming.com/index.aspx?id=1305&lanmuid=110&sublanmuid=1253",
+        "https://www.cnweiming.com/e/upload/s1/article/file/2026/04/21143514.pdf"
       ],
-      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+      "location_basis": "企业、项目或政府公开资料所述地点；地图仍按既有定位精度展示"
     },
     "CN150": {
       "project_id": "CN150",
@@ -10457,15 +10470,17 @@
       "island_id": "china-mainland",
       "island": "中国大陆",
       "province": "广西",
-      "regency": "",
-      "locality": "玉林市",
+      "regency": "玉林市",
+      "locality": "",
       "country_codes": [
         "CN"
       ],
       "source_urls": [
-        "library/china-sources.html"
+        "https://www.huayou.com/news/corporate-news/206.html",
+        "https://www.huayou.com/news/corporate-news/291",
+        "https://www.huayou.com/Public/Uploads/uploadfile/files/20240424/huayouyehuayouye2023nianniandubaogao20240420.pdf"
       ],
-      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+      "location_basis": "企业、项目或政府公开资料所述地点；地图仍按既有定位精度展示"
     },
     "CN156": {
       "project_id": "CN156",
@@ -10473,15 +10488,17 @@
       "island_id": "china-mainland",
       "island": "中国大陆",
       "province": "浙江",
-      "regency": "",
-      "locality": "衢州市",
+      "regency": "衢州市",
+      "locality": "",
       "country_codes": [
         "CN"
       ],
       "source_urls": [
-        "library/china-sources.html"
+        "https://www.huayou.com/Public/Uploads/uploadfile/files/20231221/huayouye2022nianduhuanjingshehuijiguanzhiESGbaogao.pdf",
+        "https://www.huayou.com/news/corporate-news/325",
+        "https://www.huayou.com/news/corporate-news/291"
       ],
-      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+      "location_basis": "企业、项目或政府公开资料所述地点；地图仍按既有定位精度展示"
     },
     "CN157": {
       "project_id": "CN157",
@@ -10521,15 +10538,18 @@
       "island_id": "china-mainland",
       "island": "中国大陆",
       "province": "新疆",
-      "regency": "",
-      "locality": "",
+      "regency": "阜康市",
+      "locality": "五宫梁",
       "country_codes": [
         "CN"
       ],
       "source_urls": [
-        "library/china-sources.html"
+        "https://stockn.xueqiu.com/03833/20250425255026.pdf",
+        "https://www.hkexnews.hk/listedco/listconews/sehk/2025/0627/2025062704213_c.pdf",
+        "https://www.shfe.com.cn/products/futures/metal/nonferrousmetal/ni_f/attach/202403/P020240320714581930830.pdf",
+        "https://sthjt.xinjiang.gov.cn/xjepd/c114111/202309/18f970b66e614c95a308679c4615067d.shtml"
       ],
-      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+      "location_basis": "企业、项目或政府公开资料所述地点；地图仍按既有定位精度展示"
     },
     "CN160": {
       "project_id": "CN160",
@@ -10553,15 +10573,16 @@
       "island_id": "china-mainland",
       "island": "中国大陆",
       "province": "浙江",
-      "regency": "",
-      "locality": "",
+      "regency": "金华市兰溪市",
+      "locality": "兰溪经济开发区兰江片",
       "country_codes": [
         "CN"
       ],
       "source_urls": [
-        "library/china-sources.html"
+        "https://sthjt.zj.gov.cn/module/download/downfile.jsp?classid=0&filename=4b6b0881b88f4775957e9a31efa493de.pdf",
+        "https://pdf.dfcfw.com/pdf/H2_AN202405091632773335_1.pdf"
       ],
-      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+      "location_basis": "企业、项目或政府公开资料所述地点；地图仍按既有定位精度展示"
     },
     "CN162": {
       "project_id": "CN162",
@@ -10569,15 +10590,15 @@
       "island_id": "china-mainland",
       "island": "中国大陆",
       "province": "浙江",
-      "regency": "",
-      "locality": "",
+      "regency": "台州市临海市",
+      "locality": "头门港东海第三大道11号",
       "country_codes": [
         "CN"
       ],
       "source_urls": [
-        "library/china-sources.html"
+        "https://www.zjsuntex.com/information-disclosure/safety-assessment-report/report-2025-3347.html"
       ],
-      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+      "location_basis": "企业、项目或政府公开资料所述地点；地图仍按既有定位精度展示"
     },
     "CN163": {
       "project_id": "CN163",
@@ -10585,15 +10606,15 @@
       "island_id": "china-mainland",
       "island": "中国大陆",
       "province": "江苏",
-      "regency": "",
-      "locality": "",
+      "regency": "泰州市兴化市",
+      "locality": "戴南",
       "country_codes": [
         "CN"
       ],
       "source_urls": [
-        "library/china-sources.html"
+        "https://wap.asianmetal.cn/interview/2025/interview_anshengcao.shtml"
       ],
-      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+      "location_basis": "企业、项目或政府公开资料所述地点；地图仍按既有定位精度展示"
     },
     "CN164": {
       "project_id": "CN164",
@@ -10601,15 +10622,18 @@
       "island_id": "china-mainland",
       "island": "中国大陆",
       "province": "广西",
-      "regency": "",
-      "locality": "钦州市",
+      "regency": "钦州市",
+      "locality": "",
       "country_codes": [
         "CN"
       ],
       "source_urls": [
-        "library/china-sources.html"
+        "https://www.cngrgf.com.cn/mobile/gsxw/819.html",
+        "https://www.cngrgf.com.cn/gsxw/1137.html",
+        "https://www.cngrgf.com.cn/gsxw/1307.html",
+        "https://www.cngrgf.com.cn/gsxw/1398.html"
       ],
-      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+      "location_basis": "企业、项目或政府公开资料所述地点；地图仍按既有定位精度展示"
     },
     "CN165": {
       "project_id": "CN165",
@@ -10649,15 +10673,16 @@
       "island_id": "china-mainland",
       "island": "中国大陆",
       "province": "江西",
-      "regency": "",
-      "locality": "",
+      "regency": "赣州市赣县区",
+      "locality": "高新技术产业开发区稀金四路9号",
       "country_codes": [
         "CN"
       ],
       "source_urls": [
-        "library/china-sources.html"
+        "https://static.cninfo.com.cn/finalpage/2026-06-06/1225354695.PDF",
+        "https://www.hrcobalt.com/"
       ],
-      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+      "location_basis": "企业、项目或政府公开资料所述地点；地图仍按既有定位精度展示"
     },
     "CN168": {
       "project_id": "CN168",
@@ -10665,15 +10690,16 @@
       "island_id": "china-mainland",
       "island": "中国大陆",
       "province": "广西",
-      "regency": "",
-      "locality": "",
+      "regency": "钦州市",
+      "locality": "石化产业园鹿耳环片区",
       "country_codes": [
         "CN"
       ],
       "source_urls": [
-        "library/china-sources.html"
+        "https://www.greatpowercn.com/index.php?catid=9",
+        "https://gx.bysjy.com.cn/detail/jobfair_apply?apply_id=1744347&company_id=638626"
       ],
-      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+      "location_basis": "企业、项目或政府公开资料所述地点；地图仍按既有定位精度展示"
     },
     "CN169": {
       "project_id": "CN169",
@@ -10681,15 +10707,16 @@
       "island_id": "china-mainland",
       "island": "中国大陆",
       "province": "贵州",
-      "regency": "",
+      "regency": "黔南州福泉市",
       "locality": "",
       "country_codes": [
         "CN"
       ],
       "source_urls": [
-        "library/china-sources.html"
+        "https://www.600711.com/metal_smelting",
+        "https://www.600711.com/uploads/pdfs/177492497780028.pdf"
       ],
-      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+      "location_basis": "企业、项目或政府公开资料所述地点；地图仍按既有定位精度展示"
     },
     "CN170": {
       "project_id": "CN170",

@@ -4200,11 +4200,11 @@
     ]
   },
   "CN082": {
-    "title": "荆门格林美新材料有限公司",
+    "title": "荆门市格林美新材料有限公司 荆门格林美",
     "english": "",
-    "chinese": "荆门格林美新材料有限公司",
-    "chinese_basis": "用户提供的中国项目表",
-    "identity_kind": "原表企业／产品／产线研究对象",
+    "chinese": "荆门市格林美新材料有限公司",
+    "chinese_basis": "企业、政府或上市公司公开披露",
+    "identity_kind": "公开生产主体或企业",
     "aliases": [
       "荆门格林美新材料有限公司"
     ]
@@ -4270,11 +4270,11 @@
     ]
   },
   "CN089": {
-    "title": "广东芳源环保股份有限公司",
+    "title": "广东芳源新材料集团股份有限公司 芳源股份",
     "english": "",
-    "chinese": "广东芳源环保股份有限公司",
-    "chinese_basis": "用户提供的中国项目表",
-    "identity_kind": "原表企业／产品／产线研究对象",
+    "chinese": "广东芳源新材料集团股份有限公司",
+    "chinese_basis": "企业、政府或上市公司公开披露",
+    "identity_kind": "公开生产主体或企业",
     "aliases": [
       "广东芳源环保股份有限公司"
     ]
@@ -4360,11 +4360,11 @@
     ]
   },
   "CN098": {
-    "title": "Ganzhou Tengyuan Cobalt New Materials Co., Ltd. 赣州腾远钴业",
-    "english": "Ganzhou Tengyuan Cobalt New Materials Co., Ltd.",
-    "chinese": "赣州腾远钴业",
-    "chinese_basis": "用户提供的中国项目表",
-    "identity_kind": "原表企业／产品／产线研究对象",
+    "title": "赣州腾远钴业新材料股份有限公司 腾远钴业",
+    "english": "",
+    "chinese": "赣州腾远钴业新材料股份有限公司",
+    "chinese_basis": "企业、政府或上市公司公开披露",
+    "identity_kind": "公开生产主体或企业",
     "aliases": [
       "赣州腾远钴业",
       "赣州腾远钴业新材料股份有限公司"
@@ -4402,11 +4402,11 @@
     ]
   },
   "CN102": {
-    "title": "广东威马新材料股份有限公司",
+    "title": "广东威玛新材料股份有限公司 广东威玛",
     "english": "",
-    "chinese": "广东威马新材料股份有限公司",
-    "chinese_basis": "用户提供的中国项目表",
-    "identity_kind": "原表企业／产品／产线研究对象",
+    "chinese": "广东威玛新材料股份有限公司",
+    "chinese_basis": "企业、政府或上市公司公开披露",
+    "identity_kind": "公开生产主体或企业",
     "aliases": [
       "广东威马新材料股份有限公司"
     ]
@@ -4872,11 +4872,11 @@
     ]
   },
   "CN149": {
-    "title": "伟明盛青能源新材料有限公司",
+    "title": "浙江伟明盛青能源新材料有限公司 伟明盛青",
     "english": "",
-    "chinese": "伟明盛青能源新材料有限公司",
-    "chinese_basis": "用户提供的中国项目表",
-    "identity_kind": "原表企业／产品／产线研究对象",
+    "chinese": "浙江伟明盛青能源新材料有限公司",
+    "chinese_basis": "企业、政府或上市公司公开披露",
+    "identity_kind": "公开生产主体或企业",
     "aliases": [
       "伟明盛青能源新材料有限公司"
     ]
@@ -4976,11 +4976,11 @@
     ]
   },
   "CN159": {
-    "title": "Xinjiang Xinxin Mining 新疆新鑫矿业",
-    "english": "Xinjiang Xinxin Mining",
-    "chinese": "新疆新鑫矿业",
-    "chinese_basis": "用户提供的中国项目表",
-    "identity_kind": "原表企业／产品／产线研究对象",
+    "title": "新疆新鑫矿业股份有限公司 阜康冶炼厂",
+    "english": "",
+    "chinese": "新疆新鑫矿业股份有限公司",
+    "chinese_basis": "企业、政府或上市公司公开披露",
+    "identity_kind": "公开生产主体或企业",
     "aliases": [
       "新疆新鑫矿业"
     ]
@@ -5026,15 +5026,15 @@
     ]
   },
   "CN164": {
-    "title": "广西中伟新能源科技有限公司 钦州纯镍产线",
+    "title": "广西中伟新能源科技有限公司 钦州基地",
     "english": "",
-    "chinese": "广西中伟新能源科技有限公司（钦州纯镍产线）",
-    "chinese_basis": "用户提供的中国项目表",
-    "identity_kind": "原表企业／产品／产线研究对象",
+    "chinese": "广西中伟新能源科技有限公司",
+    "chinese_basis": "企业、政府或上市公司公开披露",
+    "identity_kind": "公开生产主体或企业",
     "aliases": [
-      "广西中伟新能源科技有限公司（钦州纯镍产线）",
       "中伟一期",
-      "中伟二期"
+      "中伟二期",
+      "广西中伟新能源科技有限公司（钦州纯镍产线）"
     ]
   },
   "CN165": {
@@ -5059,37 +5059,37 @@
     ]
   },
   "CN167": {
-    "title": "Nanjing Hanrui Cobalt Co., Ltd. 南京寒锐钴业股份有限公司",
-    "english": "Nanjing Hanrui Cobalt Co., Ltd.",
-    "chinese": "南京寒锐钴业股份有限公司",
-    "chinese_basis": "用户提供的中国项目表",
-    "identity_kind": "原表企业／产品／产线研究对象",
+    "title": "赣州寒锐新能源科技有限公司 赣州寒锐",
+    "english": "",
+    "chinese": "赣州寒锐新能源科技有限公司",
+    "chinese_basis": "企业、政府或上市公司公开披露",
+    "identity_kind": "公开生产主体或企业",
     "aliases": [
       "南京寒锐钴业股份有限公司"
     ]
   },
   "CN168": {
-    "title": "Shanghai Greatpower Technology Co., Ltd. 上海格派镍钴材料股份有限公司",
-    "english": "Shanghai Greatpower Technology Co., Ltd.",
-    "chinese": "上海格派镍钴材料股份有限公司",
-    "chinese_basis": "用户提供的中国项目表",
-    "identity_kind": "原表企业／产品／产线研究对象",
+    "title": "广西格派电池新材料有限公司 广西格派",
+    "english": "",
+    "chinese": "广西格派电池新材料有限公司",
+    "chinese_basis": "企业、政府或上市公司公开披露",
+    "identity_kind": "公开生产主体或企业",
     "aliases": [
       "上海格派镍钴材料股份有限公司"
     ]
   },
   "CN169": {
-    "title": "Chengtun Mining 盛屯矿业",
-    "english": "Chengtun Mining",
-    "chinese": "盛屯矿业",
-    "chinese_basis": "用户提供的中国项目表",
-    "identity_kind": "原表企业／产品／产线研究对象",
+    "title": "盛屯能源金属化学（贵州）有限公司 贵州盛屯",
+    "english": "",
+    "chinese": "盛屯能源金属化学（贵州）有限公司",
+    "chinese_basis": "企业、政府或上市公司公开披露",
+    "identity_kind": "公开生产主体或企业",
     "aliases": [
       "盛屯矿业"
     ]
   },
   "CN170": {
-    "title": "Guangdong Feinan Resources Utilization Co., Ltd. 广东飞南资源利用股份有限公司",
+    "title": "广东飞南资源利用股份有限公司 江西基地",
     "english": "Guangdong Feinan Resources Utilization Co., Ltd.",
     "chinese": "广东飞南资源利用股份有限公司",
     "chinese_basis": "用户提供的中国项目表",
