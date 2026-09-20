@@ -5248,25 +5248,25 @@
     },
     {
       "id": "GL006",
-      "name": "Ringerike Nikkelverk (Ringerike Nickel Works) 灵厄里克镍冶炼厂(Ringerike Nikkelverk)",
-      "display_name": "Ringerike Nikkelverk (Ringerike Nickel Works) 灵厄里克镍冶炼厂(Ringerike Nikkelverk)",
-      "legal": "Ringerike Nikkelverk (Ringerike Nickel Works)",
+      "name": "Ringerike Nikkelverk 灵厄里克镍厂",
+      "display_name": "Ringerike Nikkelverk 灵厄里克镍厂",
+      "legal": "Ringerike Nikkelverk",
       "region": "挪威",
       "npi_id": null,
       "matte_ids": [],
       "related_matte_ids": [],
       "mhp_ids": [],
-      "ownership": "已永久关闭(1920年破产);具体末代运营公司名称本轮检索仍未查实",
+      "ownership": "历史运营企业：Ringerike Nikkelverk；现已关闭",
       "products": [
-        "粗镍/镍锍(推测)"
+        "富镍中间品／冰镍，送往国外精炼"
       ],
-      "classification": "其它(说明:19世纪中叶挪威早期镍冶炼工艺,具体炉型/流程未查实,推测为焙烧-鼓风炉/坩埚法处理镍黄铁矿)",
+      "classification": "矿石焙烧—熔炼制冰镍—重复焙烧与熔炼—鼓风氧化除铁",
       "aliases": [
         "NI-006",
         "灵厄里克镍冶炼厂(Ringerike Nikkelverk)",
         "Ringerike Nikkelverk (Ringerike Nickel Works)"
       ],
-      "search_text": "GL006 Ringerike Nikkelverk (Ringerike Nickel Works) 灵厄里克镍冶炼厂(Ringerike Nikkelverk) Ringerike Nikkelverk (Ringerike Nickel Works) NI-006 已永久关闭(1920年破产);具体末代运营公司名称本轮检索仍未查实 挪威 Norway 布斯克吕郡(Buskerud,现属Viken/Innlandet) 灵厄里克(Ringerike)地区 其它(说明:19世纪中叶挪威早期镍冶炼工艺,具体炉型/流程未查实,推测为焙烧-鼓风炉/坩埚法处理镍黄铁矿) 粗镍/镍锍(推测) 硫化矿精矿(推测,未独立核实) ",
+      "search_text": "GL006 Ringerike Nikkelverk 灵厄里克镍厂 挪威布斯克吕郡（Buskerud），灵厄里克Holleia地区 历史运营企业：Ringerike Nikkelverk；现已关闭 矿石焙烧—熔炼制冰镍—重复焙烧与熔炼—鼓风氧化除铁 富镍中间品／冰镍，送往国外精炼 灵厄里克镍厂是挪威早期的镍矿开采与冶炼企业，矿区位于布斯克吕郡灵厄里克的Holleia地区，以Ertelien为主要矿源。企业在当地把含镍硫化矿加工成富镍中间品，再运往德国和英国继续精炼。镍业务始于19世纪中叶，经历多次停复产，至20世纪20年代初结束。",
       "country_codes": [
         "NO"
       ],
@@ -5423,31 +5423,31 @@
     },
     {
       "id": "GL012",
-      "name": "Septèmes-les-Vallons Nickel Foundry (Marbeau & Garnier) 塞普泰姆莱瓦隆镍冶炼厂(马尔博与加尼耶创办)",
-      "display_name": "Septèmes-les-Vallons Nickel Foundry (Marbeau & Garnier) 塞普泰姆莱瓦隆镍冶炼厂(马尔博与加尼耶创办)",
-      "legal": "Septèmes-les-Vallons Nickel Foundry (Marbeau & Garnier)",
+      "name": "Septèmes-les-Vallons 塞普泰姆历史镍精炼厂",
+      "display_name": "Septèmes-les-Vallons 塞普泰姆历史镍精炼厂",
+      "legal": "Septèmes-les-Vallons",
       "region": "法国",
       "npi_id": null,
       "matte_ids": [],
       "related_matte_ids": [],
       "mhp_ids": [],
-      "ownership": "已永久关闭;创办人Henry Marbeau与地质学家Jules Garnier,其后并入Société Le Nickel(SLN,1880年成立)体系",
+      "ownership": "历史精炼业务由Jules Garnier参与经营，使用租赁厂房",
       "products": [
-        "粗镍/镍锍(具体品位未查实)"
+        "以可售镍为目标的早期精炼业务"
       ],
-      "classification": "其它(说明:早期处理进口新喀里多尼亚硅酸镍矿的鼓风炉/坩埚法冶炼,具体工艺细节未查实)",
+      "classification": "来自Pointe Chaleix镍铁的后续精炼",
       "aliases": [
         "NI-012",
         "塞普泰姆莱瓦隆镍冶炼厂(马尔博与加尼耶创办)",
         "Septèmes-les-Vallons Nickel Foundry (Marbeau & Garnier)"
       ],
-      "search_text": "GL012 Septèmes-les-Vallons Nickel Foundry (Marbeau & Garnier) 塞普泰姆莱瓦隆镍冶炼厂(马尔博与加尼耶创办) Septèmes-les-Vallons Nickel Foundry (Marbeau & Garnier) NI-012 已永久关闭;创办人Henry Marbeau与地质学家Jules Garnier,其后并入Société Le Nickel(SLN,1880年成立)体系 法国 France 普罗旺斯-阿尔卑斯-蓝色海岸大区 罗讷河口省(Bouches-du-Rhône) 塞普泰姆莱瓦隆镇(Septèmes-les-Vallons，近马赛) 其它(说明:早期处理进口新喀里多尼亚硅酸镍矿的鼓风炉/坩埚法冶炼,具体工艺细节未查实) 粗镍/镍锍(具体品位未查实) 红土矿(腐殖土，进口自新喀里多尼亚的硅酸镍矿即加尼耶石garnierite) ",
+      "search_text": "GL012 Septèmes-les-Vallons 塞普泰姆历史镍精炼厂 普罗旺斯-阿尔卑斯-蓝色海岸大区 罗讷河口省(Bouches-du-Rhône) 塞普泰姆莱瓦隆镇(Septèmes-les-Vallons，近马赛) 历史精炼业务由Jules Garnier参与经营，使用租赁厂房 来自Pointe Chaleix镍铁的后续精炼 以可售镍为目标的早期精炼业务 塞普泰姆的历史镍精炼业务位于法国马赛附近，与Jules Garnier推动的新喀里多尼亚镍开发相联系。它在早期产业链中承担把镍铁进一步提纯的任务：前端在新喀里多尼亚熔炼，后端运到法国加工，以减少远洋运输的矿石重量。",
       "country_codes": [
         "FR"
       ],
       "global_id": "NI-012",
       "global_scopes": [
-        "matte"
+        "refined"
       ]
     },
     {
@@ -5482,31 +5482,31 @@
     },
     {
       "id": "GL014",
-      "name": "Szklary Nickel Mine & Smelter (German era: \"Nickelwerke Frankenstein\"; Polish era: Zakłady Górniczo-Hutnicze Szklary) 什克拉雷(Szklary)镍矿与冶炼厂【德国时期称\"法兰肯施泰因镍厂\"，波兰时期称什克拉雷矿冶联合企业】",
-      "display_name": "Szklary Nickel Mine & Smelter (German era: \"Nickelwerke Frankenstein\"; Polish era: Zakłady Górniczo-Hutnicze Szklary) 什克拉雷(Szklary)镍矿与冶炼厂【德国时期称\"法兰肯施泰因镍厂\"，波兰时期称什克拉雷矿冶联合企业】",
-      "legal": "Szklary Nickel Mine & Smelter (German era: \"Nickelwerke Frankenstein\"; Polish era: Zakłady Górniczo-Hutnicze Szklary)",
+      "name": "Zakłady Górniczo-Hutnicze Szklary 什克拉雷矿冶厂",
+      "display_name": "Zakłady Górniczo-Hutnicze Szklary 什克拉雷矿冶厂",
+      "legal": "Zakłady Górniczo-Hutnicze Szklary",
       "region": "波兰",
       "npi_id": null,
       "matte_ids": [],
       "related_matte_ids": [],
       "mhp_ids": [],
-      "ownership": "已永久关闭;波兰时期末代运营方为国营什克拉雷矿冶联合企业(Zakłady Górniczo-Hutnicze Szklary)",
+      "ownership": "历史运营方：Zakłady Górniczo-Hutnicze Szklary；德国时期曾由Krupp控制",
       "products": [
-        "镍精矿/粗镍(具体产品形态未查实)"
+        "镍铁"
       ],
-      "classification": "其它(说明:早期德国镍矿开采冶炼工艺路线未查实;推测为红土型镍矿焙烧/熔炼或选矿富集后外运)",
+      "classification": "历史火法镍铁工艺；回转窑处理、粒化与分离",
       "aliases": [
         "NI-014",
         "什克拉雷(Szklary)镍矿与冶炼厂【德国时期称\"法兰肯施泰因镍厂\"，波兰时期称什克拉雷矿冶联合企业】",
         "Szklary Nickel Mine & Smelter (German era: \"Nickelwerke Frankenstein\"; Polish era: Zakłady Górniczo-Hutnicze Szklary)"
       ],
-      "search_text": "GL014 Szklary Nickel Mine & Smelter (German era: \"Nickelwerke Frankenstein\"; Polish era: Zakłady Górniczo-Hutnicze Szklary) 什克拉雷(Szklary)镍矿与冶炼厂【德国时期称\"法兰肯施泰因镍厂\"，波兰时期称什克拉雷矿冶联合企业】 Szklary Nickel Mine & Smelter (German era: \"Nickelwerke Frankenstein\"; Polish era: Zakłady Górniczo-Hutnicze Szklary) NI-014 已永久关闭;波兰时期末代运营方为国营什克拉雷矿冶联合企业(Zakłady Górniczo-Hutnicze Szklary) 波兰 Poland (historically Germany, Lower Silesia) 下西里西亚省(Dolnośląskie) 松布科维采-希隆斯克县(Ząbkowice Śląskie，德语Frankenstein) 什克拉雷村(Szklary) 其它(说明:早期德国镍矿开采冶炼工艺路线未查实;推测为红土型镍矿焙烧/熔炼或选矿富集后外运) 镍精矿/粗镍(具体产品形态未查实) 红土矿(褐铁矿，什克拉雷为蛇纹岩风化型镍红土/硅酸镍矿床，是波兰最重要的历史镍矿产地之一) ",
+      "search_text": "GL014 Zakłady Górniczo-Hutnicze Szklary 什克拉雷矿冶厂 下西里西亚省(Dolnośląskie) 松布科维采-希隆斯克县(Ząbkowice Śląskie，德语Frankenstein) 什克拉雷村(Szklary) 历史运营方：Zakłady Górniczo-Hutnicze Szklary；德国时期曾由Krupp控制 历史火法镍铁工艺；回转窑处理、粒化与分离 镍铁 什克拉雷矿冶厂位于波兰下西里西亚地区，依托蛇纹岩风化形成的镍矿床发展。企业经历德国时期的开发、Krupp控制和战后波兰时期的恢复生产。其工业生产采用火法处理，后来提出的堆浸研究属于另一阶段的再开发探索。",
       "country_codes": [
         "PL"
       ],
       "global_id": "NI-014",
       "global_scopes": [
-        "other"
+        "npi"
       ]
     },
     {
@@ -8599,25 +8599,25 @@
     },
     {
       "id": "GL130",
-      "name": "Morro do Níquel Plant 莫罗-多-尼克尔镍厂",
-      "display_name": "Morro do Níquel Plant 莫罗-多-尼克尔镍厂",
-      "legal": "Morro do Níquel Plant",
+      "name": "Morro do Níquel 莫罗镍铁厂",
+      "display_name": "Morro do Níquel 莫罗镍铁厂",
+      "legal": "Morro do Níquel",
       "region": "巴西",
       "npi_id": null,
       "matte_ids": [],
       "related_matte_ids": [],
       "mhp_ids": [],
-      "ownership": "已关闭；末任业主Anglo American",
+      "ownership": "历史后期股东：Anglo American（1978年收购）",
       "products": [
-        "镍铁(据信源，工艺细节存疑)"
+        "镍铁，含粗镍铁与精炼镍铁牌号"
       ],
-      "classification": "其它(说明：信源仅笼统提及\"开发了镍铁生产工艺\"，具体炉型/工艺细节未确认，存疑)",
+      "classification": "回转窑焙烧—电炉还原熔炼—脱硫—LD转炉精炼镍铁",
       "aliases": [
         "NI-130",
         "莫罗-多-尼克尔镍厂",
         "Morro do Níquel Plant"
       ],
-      "search_text": "GL130 Morro do Níquel Plant 莫罗-多-尼克尔镍厂 Morro do Níquel Plant NI-130 已关闭；末任业主Anglo American 巴西 Brazil 米纳斯吉拉斯州普拉塔波利斯 (Pratápolis, MG) 其它(说明：信源仅笼统提及\"开发了镍铁生产工艺\"，具体炉型/工艺细节未确认，存疑) 镍铁(据信源，工艺细节存疑) 硫化矿精矿 ",
+      "search_text": "GL130 Morro do Níquel 莫罗镍铁厂 米纳斯吉拉斯州普拉塔波利斯 (Pratápolis, MG) 历史后期股东：Anglo American（1978年收购） 回转窑焙烧—电炉还原熔炼—脱硫—LD转炉精炼镍铁 镍铁，含粗镍铁与精炼镍铁牌号 莫罗镍铁厂位于巴西米纳斯吉拉斯州Pratápolis，使用当地含镍硅酸盐矿石生产镍铁。工厂把回转窑焙烧、电炉还原熔炼和镍铁精炼连接起来，向炼钢业提供含镍合金原料。1962年已开始生产，Anglo American于1978年收购，工厂后来于1998年关闭。",
       "country_codes": [
         "BR"
       ],
@@ -9356,25 +9356,25 @@
     },
     {
       "id": "GL158",
-      "name": "Kleva Nickel Mine & Smelter (Kleva gruva) 克莱瓦(Kleva)镍矿及冶炼厂",
-      "display_name": "Kleva Nickel Mine & Smelter (Kleva gruva) 克莱瓦(Kleva)镍矿及冶炼厂",
-      "legal": "Kleva Nickel Mine & Smelter (Kleva gruva)",
+      "name": "Kleva gruva 克莱瓦镍矿与历史冶炼业务",
+      "display_name": "Kleva gruva 克莱瓦镍矿与历史冶炼业务",
+      "legal": "Kleva gruva",
       "region": "瑞典",
       "npi_id": null,
       "matte_ids": [],
       "related_matte_ids": [],
       "mhp_ids": [],
-      "ownership": "已永久关闭(工业开采);1991年起由地方政府/社团改造为旅游矿洞'Kleva Gruva',1995年起由私营方运营旅游业务",
+      "ownership": "历史矿冶业务已关闭；Kleva矿址现作为工业遗产参观地点",
       "products": [
-        "粗镍/镍锍(推测,具体品位未查实)"
+        "冰镍（历史记载45%—54%Ni）、颗粒镍产品（62%—87%Ni）"
       ],
-      "classification": "其它(说明:19世纪瑞典早期铜镍共生矿冶炼工艺,具体炉型/流程未查实,推测为焙烧-鼓风炉/坩埚法处理硫化铜镍矿)",
+      "classification": "硫化镍铜矿历史火法加工；末期矿石及旧炉渣送Ädelfors冶炼",
       "aliases": [
         "NI-158",
         "克莱瓦(Kleva)镍矿及冶炼厂",
         "Kleva Nickel Mine & Smelter (Kleva gruva)"
       ],
-      "search_text": "GL158 Kleva Nickel Mine & Smelter (Kleva gruva) 克莱瓦(Kleva)镍矿及冶炼厂 Kleva Nickel Mine & Smelter (Kleva gruva) NI-158 已永久关闭(工业开采);1991年起由地方政府/社团改造为旅游矿洞'Kleva Gruva',1995年起由私营方运营旅游业务 瑞典 Sweden 小兰(Småland)地区 卡尔马省(Kalmar län) 温梅尔比市(Vimmerby kommun) 克莱瓦(Kleva) 其它(说明:19世纪瑞典早期铜镍共生矿冶炼工艺,具体炉型/流程未查实,推测为焙烧-鼓风炉/坩埚法处理硫化铜镍矿) 粗镍/镍锍(推测,具体品位未查实) 硫化矿精矿(推测,矿床为铜镍共生矿,未独立核实) ",
+      "search_text": "GL158 Kleva gruva 克莱瓦镍矿与历史冶炼业务 瑞典延雪平省（Jönköpings län），Vetlanda附近的Kleva；末期加工点为Ädelfors 历史矿冶业务已关闭；Kleva矿址现作为工业遗产参观地点 硫化镍铜矿历史火法加工；末期矿石及旧炉渣送Ädelfors冶炼 冰镍（历史记载45%—54%Ni）、颗粒镍产品（62%—87%Ni） 克莱瓦位于瑞典斯莫兰地区、延雪平省Vetlanda附近，是瑞典历史上的镍铜矿山。矿石中的镍赋存在含镍铜的硫化物矿体中。19世纪的加工曾产出冰镍和较高镍含量的颗粒产品；第一次世界大战期间，矿石及旧炉渣还送往Ädelfors冶炼厂处理。",
       "country_codes": [
         "SE"
       ],
@@ -9385,25 +9385,25 @@
     },
     {
       "id": "GL159",
-      "name": "Bamble Nikkelverk (Bamble Nickel Works) 巴姆布勒(Bamble)镍厂",
-      "display_name": "Bamble Nikkelverk (Bamble Nickel Works) 巴姆布勒(Bamble)镍厂",
-      "legal": "Bamble Nikkelverk (Bamble Nickel Works)",
+      "name": "Bamble Nikkelverk 巴姆布勒镍厂",
+      "display_name": "Bamble Nikkelverk 巴姆布勒镍厂",
+      "legal": "Bamble Nikkelverk",
       "region": "挪威",
       "npi_id": null,
       "matte_ids": [],
       "related_matte_ids": [],
       "mhp_ids": [],
-      "ownership": "已永久关闭;具体末代运营公司名称本轮检索未查实",
+      "ownership": "历史后期运营方：A/S Bamle Nikkelkompani",
       "products": [
-        "粗镍/镍锍(推测)"
+        "镍铜冰镍"
       ],
-      "classification": "其它(说明:挪威语'nikkelverk'字面意为'镍厂',按同期挪威灵厄里克、埃夫耶等同类设施惯例通常含现场冶炼环节,但本轮检索未独立查实巴姆布勒是否配套建有冶炼炉,亦不排除仅为选矿富集后原矿外运的可能,工艺路线判定存疑)",
+      "classification": "后期电炉熔炼—冰镍吹炼；1920年另有示范精炼试验",
       "aliases": [
         "NI-159",
         "巴姆布勒(Bamble)镍厂",
         "Bamble Nikkelverk (Bamble Nickel Works)"
       ],
-      "search_text": "GL159 Bamble Nikkelverk (Bamble Nickel Works) 巴姆布勒(Bamble)镍厂 Bamble Nikkelverk (Bamble Nickel Works) NI-159 已永久关闭;具体末代运营公司名称本轮检索未查实 挪威 Norway 泰勒马克郡(现属Vestfold og Telemark) 巴姆布勒市(Bamble kommune) 其它(说明:挪威语'nikkelverk'字面意为'镍厂',按同期挪威灵厄里克、埃夫耶等同类设施惯例通常含现场冶炼环节,但本轮检索未独立查实巴姆布勒是否配套建有冶炼炉,亦不排除仅为选矿富集后原矿外运的可能,工艺路线判定存疑) 粗镍/镍锍(推测) 硫化矿精矿(推测,未独立核实) ",
+      "search_text": "GL159 Bamble Nikkelverk 巴姆布勒镍厂 挪威泰勒马克郡Bamble，Prisgrunn冶炼点 历史后期运营方：A/S Bamle Nikkelkompani 后期电炉熔炼—冰镍吹炼；1920年另有示范精炼试验 镍铜冰镍 巴姆布勒镍厂是挪威泰勒马克地区的历史镍铜矿冶企业，矿山包括Meinkjær、Nysten和Vissestad，冶炼设施位于Prisgrunn。企业在19世纪已有生产，第一次世界大战期间以A/S Bamle Nikkelkompani名义重新开发，并引入电炉。",
       "country_codes": [
         "NO"
       ],

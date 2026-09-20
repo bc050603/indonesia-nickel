@@ -1,11 +1,7 @@
 ﻿项目ID,项目,日期,事件类型,事件,说明,资料标题,资料链接
-GL006,Ringerike Nikkelverk (Ringerike Nickel Works) 灵厄里克镍冶炼厂(Ringerike Nikkelverk),1688,投产,开始生产（底表投产年）,灵厄里克镍冶炼厂(Ringerike Nikkelverk)的底表投产年份；试产、商业投产及前身设施的区分见历史正文。,全球普查底表 · NI-006 · 总表第7行,library/global-register.csv
 GL162,Schladming-Hopfriesen Nickel Smelter (Gersdorff Nickel Works) 施拉德明-霍普夫里森镍冶炼厂(格斯多夫镍业),1840,投产,开始生产（底表投产年）,施拉德明-霍普夫里森镍冶炼厂(格斯多夫镍业)的底表投产年份；试产、商业投产及前身设施的区分见历史正文。,全球普查底表 · NI-162 · 总表第163行,library/global-register.csv
-GL158,Kleva Nickel Mine & Smelter (Kleva gruva) 克莱瓦(Kleva)镍矿及冶炼厂,1845,投产,开始生产（底表投产年）,克莱瓦(Kleva)镍矿及冶炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。,全球普查底表 · NI-158 · 总表第159行,library/global-register.csv
-GL159,Bamble Nikkelverk (Bamble Nickel Works) 巴姆布勒(Bamble)镍厂,1859,投产,开始生产（底表投产年）,巴姆布勒(Bamble)镍厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。,全球普查底表 · NI-159 · 总表第160行,library/global-register.csv
 GL110,"American Nickel Works, Camden, New Jersey 美国镍业公司(卡姆登镍厂，约瑟夫·沃顿创办)",1863,投产,开始生产（底表投产年）,美国镍业公司(卡姆登镍厂，约瑟夫·沃顿创办)的底表投产年份；试产、商业投产及前身设施的区分见历史正文。,全球普查底表 · NI-110 · 总表第111行,library/global-register.csv
 GL007,Evje Nikkelverk (Flåt Nickel Smelter) 埃夫耶镍冶炼厂（弗洛特矿配套冶炼厂）,1872,投产,开始生产（底表投产年）,埃夫耶镍冶炼厂（弗洛特矿配套冶炼厂）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。,全球普查底表 · NI-007 · 总表第8行,library/global-register.csv
-GL012,Septèmes-les-Vallons Nickel Foundry (Marbeau & Garnier) 塞普泰姆莱瓦隆镍冶炼厂(马尔博与加尼耶创办),1875,投产,开始生产（底表投产年）,塞普泰姆莱瓦隆镍冶炼厂(马尔博与加尼耶创办)的底表投产年份；试产、商业投产及前身设施的区分见历史正文。,全球普查底表 · NI-012 · 总表第13行,library/global-register.csv
 GL162,Schladming-Hopfriesen Nickel Smelter (Gersdorff Nickel Works) 施拉德明-霍普夫里森镍冶炼厂(格斯多夫镍业),1876,运营变化,永久关闭,"1876年因新喀里多尼亚及加拿大萨德伯里新发现的大规模优质镍矿冲击国际市场,镍价格崩盘,施拉德明地区传统硫化矿镍冶炼彻底丧失经济性而全面停产(创办人格斯多夫已于1849年去世,此后经营已趋衰落多年)",全球普查底表 · NI-162 · 总表第163行,library/global-register.csv
 GL071,Pointe Chaleix Smelter 沙莱克斯角(Pointe Chaleix)冶炼厂（新喀里多尼亚第一座镍冶炼厂）,1879,投产,开始生产（底表投产年）,沙莱克斯角(Pointe Chaleix)冶炼厂（新喀里多尼亚第一座镍冶炼厂）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。,全球普查底表 · NI-071 · 总表第72行,library/global-register.csv
 GL071,Pointe Chaleix Smelter 沙莱克斯角(Pointe Chaleix)冶炼厂（新喀里多尼亚第一座镍冶炼厂）,1879,运营变化,已拆除,推测因1910年Doniambo厂建成及产能整合而被取代，但具体关闭年份及原因未在本轮检索中查实,全球普查底表 · NI-071 · 总表第72行,library/global-register.csv
@@ -22,9 +18,7 @@ GL111,"Orford Copper Company Refinery (Constable Hook, Bayonne, NJ) 奥福德铜
 GL161,Dominion Nickel Company Blezard Mine Smelter 多米尼恩镍业公司布莱扎德矿冶炼厂,1893,运营变化,已拆除,"资金链断裂/财务困难导致DNC公司1893年停止运营(仅维持3年);冶炼炉设施其后转供邻近沃辛顿矿继续使用一段时间,该延续使用阶段的具体终止年份本轮检索未查实",全球普查底表 · NI-161 · 总表第162行,library/global-register.csv
 GL008,Senjen Nickel Works (Senjens Nikkelverk) 塞尼亚(Senjen)镍矿冶炼厂,1894,运营变化,永久关闭,"存疑;具体关闭年份未直接查实,1894年为推断值——据H.H. Vivian & Co.同期(1889-1894年)转向经营加拿大萨德伯里Murray矿并以其矿石替代挪威矿源的时间点反推,请谨慎使用",全球普查底表 · NI-008 · 总表第9行,library/global-register.csv
 GL020,Hafod Isha Nickel and Cobalt Works (H.H. Vivian & Co. Ltd.) 哈福德伊沙(Hafod Isha)镍钴厂(维维安父子公司),1894,运营变化,永久关闭,"存疑;推测为萨德伯里矿石大量涌现后,原料就地在北美加工(经由奥福德""上下层分离法""及加拿大铜业公司/国际镍公司体系)更具经济性,英国斯旺西精炼环节逐步失去竞争力而停止,具体关闭年份及决策细节本轮检索未能独立核实一手资料,1894年为参照该公司萨德伯里矿权终止年份的推断值",全球普查底表 · NI-020 · 总表第21行,library/global-register.csv
-GL014,"Szklary Nickel Mine & Smelter (German era: ""Nickelwerke Frankenstein""; Polish era: Zakłady Górniczo-Hutnicze Szklary) 什克拉雷(Szklary)镍矿与冶炼厂【德国时期称""法兰肯施泰因镍厂""，波兰时期称什克拉雷矿冶联合企业】",1895,投产,开始生产（底表投产年）,"什克拉雷(Szklary)镍矿与冶炼厂【德国时期称""法兰肯施泰因镍厂""，波兰时期称什克拉雷矿冶联合企业】的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",全球普查底表 · NI-014 · 总表第15行,library/global-register.csv
 GL160,Drury Nickel Company Smelter (Chicago Mine) 德鲁里镍业公司芝加哥矿冶炼厂,1897,运营变化,已拆除,"存疑;矿床规模有限(安大略省地质调查现将其列为'已勘探但未见公开储量记录的成矿点'),推测因矿石枯竭或经济性不足而停产,具体决策细节及确切最终关闭年份未查实",全球普查底表 · NI-160 · 总表第161行,library/global-register.csv
-GL012,Septèmes-les-Vallons Nickel Foundry (Marbeau & Garnier) 塞普泰姆莱瓦隆镍冶炼厂(马尔博与加尼耶创办),1900,运营变化,永久关闭,"存疑;推测为SLN(1880年成立)整合法国本土及新喀里多尼亚当地冶炼产能后,该厂逐步被取代或关闭,具体年份及原因本轮检索未能独立核实一手资料",全球普查底表 · NI-012 · 总表第13行,library/global-register.csv
 GL096,Mond Nickel Company Victoria Mines Smelter 蒙德镍业公司维多利亚矿区冶炼厂,1901,投产,开始生产（底表投产年）,蒙德镍业公司维多利亚矿区冶炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。,全球普查底表 · NI-096 · 总表第97行,library/global-register.csv
 GL021,Vale Clydach Refinery 淡水河谷克莱达赫(Clydach)镍精炼厂,1902,投产,开始生产（底表投产年）,淡水河谷克莱达赫(Clydach)镍精炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。,全球普查底表 · NI-021 · 总表第22行,library/global-register.csv
 GL094,"Canadian Copper Company Copper Cliff Smelter (1888 original plant) 加拿大铜业公司科珀克利夫冶炼厂(1888年原始厂,萨德伯里首座冶炼厂)",1902,运营变化,已拆除,"1902年加拿大铜业公司、奥福德铜业公司与美国镍业公司合并组建国际镍公司(INCO)后,原始19世纪厂房设备历经INCO及后续Vale历代技术改造与重建(如1948-1963年运营的烧结厂、历次现代化熔炼技术更新等),1888年原始设施本身已不复存在;本记录状态年份(1902)仅标志加拿大铜业公司作为独立企业实体及其原始技术阶段的终结,厂址物理生产活动并未真正中断,而是由后继者(INCO、Vale)在同一场地持续经营至今(现状请参见本普查现行『Copper Cliff Smelter Complex』记录)",全球普查底表 · NI-094 · 总表第95行,library/global-register.csv
@@ -39,10 +33,7 @@ GL096,Mond Nickel Company Victoria Mines Smelter 蒙德镍业公司维多利亚�
 GL098,Coniston Smelter 科尼斯顿冶炼厂,1913,投产,开始生产（底表投产年）,科尼斯顿冶炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。,全球普查底表 · NI-098 · 总表第99行,library/global-register.csv
 GL099,"British America Nickel Corporation – Deschênes, Quebec Hybinette Refinery 英美镍业公司魁北克德申海宾内特法精炼厂",1916,投产,开始生产（底表投产年）,英美镍业公司魁北克德申海宾内特法精炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。,全球普查底表 · NI-099 · 总表第100行,library/global-register.csv
 GL100,Port Colborne Nickel Refinery 科尔本港镍精炼厂,1918,投产,开始生产（底表投产年）,科尔本港镍精炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。,全球普查底表 · NI-100 · 总表第101行,library/global-register.csv
-GL159,Bamble Nikkelverk (Bamble Nickel Works) 巴姆布勒(Bamble)镍厂,1919,运营变化,永久关闭,"存疑;未查得具体停产原因的一手资料。推测与19世纪末-20世纪初新喀里多尼亚/加拿大萨德伯里新镍矿冲击导致传统硫化矿镍冶炼经济性下降有关(参见同期挪威灵厄里克镍厂、瑞典克莱瓦镍矿、奥地利施拉德明镍厂均因类似原因关闭),但本记录未找到直接证据",全球普查底表 · NI-159 · 总表第160行,library/global-register.csv
-GL006,Ringerike Nikkelverk (Ringerike Nickel Works) 灵厄里克镍冶炼厂(Ringerike Nikkelverk),1920,运营变化,永久关闭,"埃尔特利恩主矿区自1880年前后开始产量下滑,1903年永久关闭;公司1913年曾尝试复产,仅维持数年后于1920年正式宣告破产，全面停产。停产背景与19世纪末新喀里多尼亚、加拿大萨德伯里新发现的大规模优质镍矿引发的国际镍价竞争压力有关(与同期瑞典克莱瓦镍矿、奥地利施拉德明镍厂关闭原因一致)，但挪威大百科全书原文未直接点明该因果关系，此处为本研究的合理推断。",全球普查底表 · NI-006 · 总表第7行,library/global-register.csv
 GL101,British America Nickel Corporation – Nickelton Smelter 英美镍业公司镍尔顿(Nickelton)冶炼厂(默里矿区),1920,投产,开始生产（底表投产年）,英美镍业公司镍尔顿(Nickelton)冶炼厂(默里矿区)的底表投产年份；试产、商业投产及前身设施的区分见历史正文。,全球普查底表 · NI-101 · 总表第102行,library/global-register.csv
-GL158,Kleva Nickel Mine & Smelter (Kleva gruva) 克莱瓦(Kleva)镍矿及冶炼厂,1920,运营变化,永久关闭,"1876-1877年产量见顶后,新喀里多尼亚发现规模更大、品位更优的红土镍矿引发国际镍价格崩盘,克莱瓦矿冶炼经济性丧失,历经间歇运营后于1920年最终关闭;二战期间曾短暂重新处理库存矿石服务军工需求,但未恢复常态化生产",全球普查底表 · NI-158 · 总表第159行,library/global-register.csv
 GL111,"Orford Copper Company Refinery (Constable Hook, Bayonne, NJ) 奥福德铜业公司炼厂（新泽西州贝永市）",1922,运营变化,永久关闭,1918年加拿大Port Colborne电解精炼厂建成后，出于产业本土化(避免一战式对美依赖的重演)及成本考虑，Inco决定将电解镍生产集中至加拿大，1922年正式关闭Bayonne(Orford)炼厂。,全球普查底表 · NI-111 · 总表第112行,library/global-register.csv
 GL099,"British America Nickel Corporation – Deschênes, Quebec Hybinette Refinery 英美镍业公司魁北克德申海宾内特法精炼厂",1923,运营变化,已拆除,"1923年加拿大总理麦肯齐·金下令关闭该厂,具体政策/经济原因来源未详述(推测与一战后镍价下跌、公司经营困难及国防/产业政策调整有关);翌年母公司清盘,厂房废墟保留至1985年被清除",全球普查底表 · NI-099 · 总表第100行,library/global-register.csv
 GL022,INCO / Vale Acton Refinery (London) 国际镍公司(INCO)/淡水河谷阿克顿(Acton)精炼厂（伦敦）,1924,投产,开始生产（底表投产年）,国际镍公司(INCO)/淡水河谷阿克顿(Acton)精炼厂（伦敦）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。,全球普查底表 · NI-022 · 总表第23行,library/global-register.csv
@@ -78,7 +69,6 @@ GL024,Pobuzhsky Ferronickel Plant (PFK) 波布日镍铁厂（PFK）,1965,投产,
 GL004,LARCO (GMM S.A.) Larymna Ferronickel Smelter 拉尔科(LARCO)拉里姆纳镍铁冶炼厂,1966,投产,开始生产（底表投产年）,拉尔科(LARCO)拉里姆纳镍铁冶炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。,全球普查底表 · NI-004 · 总表第5行,library/global-register.csv
 GL040,Harima Refinery 播磨精炼厂,1966,投产,开始生产（底表投产年）,播磨精炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。,全球普查底表 · NI-040 · 总表第41行,library/global-register.csv
 GL041,"Pacific Metals Co., Ltd. (PAMCO) Hachinohe Works 太平洋金属八户制炼所",1966,投产,开始生产（底表投产年）,太平洋金属八户制炼所的底表投产年份；试产、商业投产及前身设施的区分见历史正文。,全球普查底表 · NI-041 · 总表第42行,library/global-register.csv
-GL130,Morro do Níquel Plant 莫罗-多-尼克尔镍厂,1966,投产,开始生产（底表投产年）,莫罗-多-尼克尔镍厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。,全球普查底表 · NI-130 · 总表第131行,library/global-register.csv
 CN153,金川集团股份有限公司 金昌纯镍产线,1968,工艺发展,发展贵金属回收,集团历史中的综合回收扩展。,金川集团：发展历程,https://www.jnmc.com/index/about/fzlc.html
 GL152,Bindura Smelter & Refinery Complex (Bindura Nickel Corporation / Trojan Mine) 宾杜拉镍冶炼及精炼厂(宾杜拉镍业公司/特洛伊矿),1968,投产,开始生产（底表投产年）,宾杜拉镍冶炼及精炼厂(宾杜拉镍业公司/特洛伊矿)的底表投产年份；试产、商业投产及前身设施的区分见历史正文。,全球普查底表 · NI-152 · 总表第153行,library/global-register.csv
 GL153,Empress Nickel Refinery (ENR) 皇后镍精炼厂,1968,投产,开始生产（底表投产年）,皇后镍精炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。,全球普查底表 · NI-153 · 总表第154行,library/global-register.csv
@@ -104,7 +94,6 @@ GL001,Euronickel Industries (formerly FENI Industries) Kavadarci Ferronickel Pla
 GL036,Taiwan Nickel Refining Corporation 台湾镍业精炼股份有限公司,1982,投产,开始生产（底表投产年）,台湾镍业精炼股份有限公司的底表投产年份；试产、商业投产及前身设施的区分见历史正文。,全球普查底表 · NI-036 · 总表第37行,library/global-register.csv
 GL127,Cerro Matoso Ferronickel Mine and Smelter 塞罗马托索镍铁厂,1982,投产,开始生产（底表投产年）,塞罗马托索镍铁厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。,全球普查底表 · NI-127 · 总表第128行,library/global-register.csv
 GL132,Codemin Ferronickel Plant (Niquelândia) 科德明镍铁厂（尼克兰迪亚）,1982,投产,开始生产（底表投产年）,科德明镍铁厂（尼克兰迪亚）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。,全球普查底表 · NI-132 · 总表第133行,library/global-register.csv
-GL014,"Szklary Nickel Mine & Smelter (German era: ""Nickelwerke Frankenstein""; Polish era: Zakłady Górniczo-Hutnicze Szklary) 什克拉雷(Szklary)镍矿与冶炼厂【德国时期称""法兰肯施泰因镍厂""，波兰时期称什克拉雷矿冶联合企业】",1983,运营变化,已拆除,"存疑(据研究简报为矿藏枯竭/经济性下降,本轮检索未能独立核实一手资料)",全球普查底表 · NI-014 · 总表第15行,library/global-register.csv
 GL015,NewCo Ferronikeli Complex 纽科费罗尼克利(NewCo Ferronikeli)镍铁联合企业,1984,投产,开始生产（底表投产年）,纽科费罗尼克利(NewCo Ferronikeli)镍铁联合企业的底表投产年份；试产、商业投产及前身设施的区分见历史正文。,全球普查底表 · NI-015 · 总表第16行,library/global-register.csv
 GL100,Port Colborne Nickel Refinery 科尔本港镍精炼厂,1984,运营变化,减产或部分停产,多来源存在矛盾：一说'电解精炼于1984年停止'(Smith v. Inco判例文书称'in commission between 1918-1984')。本轮通过Vale官方现役业务页面(valebasemetals.com、vale.com)独立核实2024-2026年该厂当前业务范围，两份官网现均只描述该厂从事：电积钴(electro-cobalt)生产、贵金属及微量金属加工处理、以及镍'成品'的制造/包装/分销——均未提及任何形式的原生电解镍精炼或电积镍生产。这一现状描述与'电解镍精炼已于1984年停止'的判例记载相互印证，支持'该厂已从原生电解镍精炼转型为钴/贵金属精炼+镍产品加工分销'这一结论；但官网本身未直接给出转型的具体年份，故'1984年'仍为间接推断而非官网自证，两类信息未能完全调和，仍建议标注为'较大概率成立但未100%确证'。,全球普查底表 · NI-100 · 总表第101行,library/global-register.csv
 GL124,Ernesto Che Guevara Nickel Plant (Punta Gorda) 蓬塔戈尔达镍厂（切·格瓦拉镍厂）,1986,投产,开始生产（底表投产年）,蓬塔戈尔达镍厂（切·格瓦拉镍厂）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。,全球普查底表 · NI-124 · 总表第125行,library/global-register.csv
@@ -121,7 +110,6 @@ GL133,Mineração Serra da Fortaleza (Fortaleza de Minas Nickel Matte Smelter) �
 GL154,Hartley Platinum Mine PGM Base-Metals Refinery (byproduct nickel) 哈特利铂矿铂族金属贱金属精炼厂(副产镍),1997,投产,开始生产（底表投产年）,哈特利铂矿铂族金属贱金属精炼厂(副产镍)的底表投产年份；试产、商业投产及前身设施的区分见历史正文。,全球普查底表 · NI-154 · 总表第155行,library/global-register.csv
 GL154,Hartley Platinum Mine PGM Base-Metals Refinery (byproduct nickel) 哈特利铂矿铂族金属贱金属精炼厂(副产镍),1997,运营变化,不详,1997年10月首次发运后，仅见于当年USGS Minerals Yearbook记录，此后未见于任何后续版本，具体停产/退出的年份及原因本次调研未能独立核实，列为重要缺口。,全球普查底表 · NI-154 · 总表第155行,library/global-register.csv
 GL112,"Hanna Nickel Smelting Co. / Glenbrook Nickel Co. Smelter (Riddle, Oregon / Nickel Mountain) 汉纳镍冶炼公司/格伦布鲁克镍业公司里德尔冶炼厂（俄勒冈州镍山）",1998,运营变化,永久关闭,1987年首次关闭：红土矿资源枯竭及经济性下降。Glenbrook Nickel Co.其后收购该矿点(所有权登记年份，据Western Mining History为1992年；此前记录采用1990年，两者并列保留)，以消化约600万短吨库存低品位矿石为主。经本轮再次检索，1998年最终关闭年份(核查清单曾提示)仍未获得独立可核实来源确认，continues to be一个明确研究缺口——本研究未能推翻也未能证实这一年份，故按任务要求'两者皆保留'处理：一说该厂1998年前后最终停产(业内常见引用但缺乏一手来源)，另一说其停产时间与Glenbrook的矿石消化周期相关、未见明确终止年份的官方记录。,全球普查底表 · NI-112 · 总表第113行,library/global-register.csv
-GL130,Morro do Níquel Plant 莫罗-多-尼克尔镍厂,1998,运营变化,永久关闭,未在信源中明确说明具体关闭原因,全球普查底表 · NI-130 · 总表第131行,library/global-register.csv
 GL141,Nkomati Nickel Mine (MMZ & PCMZ concentrators) 恩科马蒂镍矿选矿厂,1998,投产,开始生产（底表投产年）,恩科马蒂镍矿选矿厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。,全球普查底表 · NI-141 · 总表第142行,library/global-register.csv
 MHP041,Norilsk Nickel Avalon Pty Ltd — Bulong 布隆阿瓦隆历史项目,1998,投产,开始生产（底表投产年）,布隆镍钴项目的底表投产年份；试产、商业投产及前身设施的区分见历史正文。,全球普查底表 · NI-081 · 总表第82行,library/global-register.csv
 MHP040,Norilsk Nickel Cawse Pty Ltd 考斯历史项目,1999,投产,开始生产（底表投产年）,科斯镍钴项目的底表投产年份；试产、商业投产及前身设施的区分见历史正文。,全球普查底表 · NI-082 · 总表第83行,library/global-register.csv
@@ -815,3 +803,34 @@ MHP023,PT Teluk Metal Industry (TMI) 海湾金属TMI湿法项目,2027年中,规�
 MHP026,PT Anugrah Neo Energy Materials 尼奥能源湿法项目,2029年底,规划,官网目标投运,Neo Energy官网把HPAL项目投运目标列为2029年底，并规划超过6.1万镍吨MHP能力；该日期属于目标，尚无首产或商业运营证据。,Neo Energy HPAL项目官网,https://neoenergy.co.id/hpal
 MHP043,Piauí Níquel Metais S.A. 皮奥伊镍项目,2030,规划,公司最新首产目标,公司采访把商业项目首产目标指向2030年，前十年平均约2.7万镍吨、900钴吨；该日期仍是规划，早期资料2029应视为旧目标。,CNN采访公司Piauí融资进度,https://www.cnnbrasil.com.br/infra/bndes-aprova-r-100-milhoes-para-projeto-da-brazilian-nickel-no-piaui/
 NPI011,PT Cosan Metal Industry (COSAN) 科赞金属工业,FY2024/25,经营,科赞开始形成营业收入,Jindal年报显示科赞在2024/25财年已有营业收入，而上一财年尚无收入，说明项目在这一阶段进入经营。年报同时把经营范围列为NPI和Nickel Matte制造。,Jindal Stainless 2024／25财年年度报告,https://nsearchives.nseindia.com/corporate/JSL_08082025214114_JSLAR08Aug2025.pdf
+GL006,Ringerike Nikkelverk 灵厄里克镍厂,1837,发现,矿石中发现镍,早于镍企业正式开采。,Ringerike Nikkelverk历史保护机构：企业沿革,https://nikkelverket.com/index.php/historien
+GL006,Ringerike Nikkelverk 灵厄里克镍厂,1849,投产,镍业务开始开采,与1688年的铜业活动分开记录。,Ringerike Nikkelverk历史保护机构：企业沿革,https://nikkelverket.com/index.php/historien
+GL006,Ringerike Nikkelverk 灵厄里克镍厂,1876,运营变化,企业发展高峰,进入当地镍业兴盛阶段。,挪威大百科全书：Ringerikes Nikkelverk,https://snl.no/Ringerikes_Nikkelverk
+GL006,Ringerike Nikkelverk 灵厄里克镍厂,1903,停产,再次停产,此前曾于1889年恢复运营。,Ringerike Nikkelverk历史保护机构：企业沿革,https://nikkelverket.com/index.php/historien
+GL006,Ringerike Nikkelverk 灵厄里克镍厂,1913,复产,重启开发及新冶炼设施,1912—1913年前后重启。,Ringerike Nikkelverk历史保护机构：企业沿革,https://nikkelverket.com/index.php/historien
+GL006,Ringerike Nikkelverk 灵厄里克镍厂,1920,运营变化,公司破产,破产节点依据挪威大百科全书。,挪威大百科全书：Ringerikes Nikkelverk,https://snl.no/Ringerikes_Nikkelverk
+GL006,Ringerike Nikkelverk 灵厄里克镍厂,1922,关闭,现场活动完全结束,当地遗产机构记载1921年逐步停工，1922年完全结束。,Ringerike Nikkelverk历史保护机构：企业沿革,https://nikkelverket.com/index.php/historien
+GL159,Bamble Nikkelverk 巴姆布勒镍厂,1859,投产,早期镍矿冶经营开始,Bamble Nikkelverk早期经营阶段。,挪威大百科全书：Bamble nikkelverk,https://snl.no/Bamble_nikkelverk
+GL159,Bamble Nikkelverk 巴姆布勒镍厂,1916,复产,重新开发,A/S Bamle Nikkelkompani经营。,挪威地质调查局：Bamble矿区历史与冶炼记录,https://aps.ngu.no/pls/oradb/minres_deposit_fakta_NY_KS.Main?p_objid=18912&p_spraak=N
+GL159,Bamble Nikkelverk 巴姆布勒镍厂,1918,设备,安装电炉,次年投入熔炼。,挪威统计局：Norges bergverksdrift 1919 og 1920，第21*、11*—12*页,https://www.ssb.no/a/histstat/nos/nos_vii_048.pdf
+GL159,Bamble Nikkelverk 巴姆布勒镍厂,1919-03-04,投产,电炉开始该轮运行,持续至7月5日；10月继续吹炼所得冰镍。,挪威统计局：Norges bergverksdrift 1919 og 1920，第21*、11*—12*页,https://www.ssb.no/a/histstat/nos/nos_vii_048.pdf
+GL159,Bamble Nikkelverk 巴姆布勒镍厂,1920-01-05,试验,示范精炼设施运行,至7月10日结束；不能视为整座冶炼厂全年正常生产。,挪威统计局：Norges bergverksdrift 1919 og 1920，第21*、11*—12*页,https://www.ssb.no/a/histstat/nos/nos_vii_048.pdf
+GL159,Bamble Nikkelverk 巴姆布勒镍厂,1921-01-28,运营变化,取得暂时停矿许可,许可有效期不超过1922年底。,挪威统计局：Norges bergverksdrift 1919 og 1920，第21*、11*—12*页,https://www.ssb.no/a/histstat/nos/nos_vii_048.pdf
+GL158,Kleva gruva 克莱瓦镍矿与历史冶炼业务,1691,发现,发现矿床,最初开发铜矿。,瑞典地质调查局SGU，K61：延雪平省区域基岩图说明，第46页,https://resource.sgu.se/dokument/publikation/k/k61beskrivning/k61-beskrivning.pdf
+GL158,Kleva gruva 克莱瓦镍矿与历史冶炼业务,1838,发现,矿石中确认镍,Berzelius化验识别镍。,瑞典地质调查局SGU，K61：延雪平省区域基岩图说明，第46页,https://resource.sgu.se/dokument/publikation/k/k61beskrivning/k61-beskrivning.pdf
+GL158,Kleva gruva 克莱瓦镍矿与历史冶炼业务,1860年代中期,产品,形成可售镍产品,概略年代：冰镍及颗粒镍产品。,瑞典地质调查局SGU，K61：延雪平省区域基岩图说明，第46页,https://resource.sgu.se/dokument/publikation/k/k61beskrivning/k61-beskrivning.pdf
+GL158,Kleva gruva 克莱瓦镍矿与历史冶炼业务,1889,停产,停止经营,国际镍价下跌影响经济性。,瑞典地质调查局SGU，K61：延雪平省区域基岩图说明，第46页,https://resource.sgu.se/dokument/publikation/k/k61beskrivning/k61-beskrivning.pdf
+GL158,Kleva gruva 克莱瓦镍矿与历史冶炼业务,1914,复产,战时复产,矿石和旧炉渣送Ädelfors加工。,瑞典地质调查局SGU，K61：延雪平省区域基岩图说明，第46页,https://resource.sgu.se/dokument/publikation/k/k61beskrivning/k61-beskrivning.pdf
+GL158,Kleva gruva 克莱瓦镍矿与历史冶炼业务,1919,关闭,矿山与冶炼厂关闭,瑞典地质调查局记载于年初结束。,瑞典地质调查局SGU，K61：延雪平省区域基岩图说明，第46页,https://resource.sgu.se/dokument/publikation/k/k61beskrivning/k61-beskrivning.pdf
+GL130,Morro do Níquel 莫罗镍铁厂,1962,投产,镍铁投产并向钢厂供货,1964年ABM论文及买方讨论回溯1962年供货。,Ernest Langer：巴西镍铁的生产与应用，1964年ABM论文及讨论,https://abmproceedings.com.br/ptbr/article/download-pdf/produo-e-aplicao-do-ferro-nquel-no-brasil
+GL130,Morro do Níquel 莫罗镍铁厂,1978,股权,Anglo American收购,以集团官方历史回顾为准。,Anglo American：巴西业务40年回顾，1978年收购Morro do Níquel,https://brasil.angloamerican.com/pt-pt/imprensa/noticias/year2013/04-11-2013
+GL130,Morro do Níquel 莫罗镍铁厂,1998,关闭,工厂关闭,巴西行业回顾记录的关闭年份。,In The Mine：巴西镍生产体系，历史关闭年份,https://www.inthemine.com.br/site/estrutura-produtiva-do-niquel-no-brasil/
+GL014,Zakłady Górniczo-Hutnicze Szklary 什克拉雷矿冶厂,1894,设立,成立Schlesische Nickelwerke,随后建设小型冶炼设施。,Furmankiewicz、Krzyżanowski：Szklary镍矿地下遗迹与历史，2008，第52—55页,https://geopark.org.pl/Badania/Historia/Furmankiewicz_Podziemne.pdf
+GL014,Zakłady Górniczo-Hutnicze Szklary 什克拉雷矿冶厂,1901,投产,扩建新厂开始处理矿石,与早期小型设施分开记录。,Furmankiewicz、Krzyżanowski：Szklary镍矿地下遗迹与历史，2008，第52—55页,https://geopark.org.pl/Badania/Historia/Furmankiewicz_Podziemne.pdf
+GL014,Zakłady Górniczo-Hutnicze Szklary 什克拉雷矿冶厂,1905,原料,掺用进口富矿,进口新喀里多尼亚矿石与本地矿混配。,Furmankiewicz、Krzyżanowski：Szklary镍矿地下遗迹与历史，2008，第52—55页,https://geopark.org.pl/Badania/Historia/Furmankiewicz_Podziemne.pdf
+GL014,Zakłady Górniczo-Hutnicze Szklary 什克拉雷矿冶厂,1915,股权,Krupp成为主要股东,收购比利时股东股份。,Furmankiewicz、Krzyżanowski：Szklary镍矿地下遗迹与历史，2008，第52—55页,https://geopark.org.pl/Badania/Historia/Furmankiewicz_Podziemne.pdf
+GL014,Zakłady Górniczo-Hutnicze Szklary 什克拉雷矿冶厂,1934,设备,建设两台回转窑的新厂,配套粒化及分离。,Furmankiewicz、Krzyżanowski：Szklary镍矿地下遗迹与历史，2008，第52—55页,https://geopark.org.pl/Badania/Historia/Furmankiewicz_Podziemne.pdf
+GL014,Zakłady Górniczo-Hutnicze Szklary 什克拉雷矿冶厂,1950,复产,战后恢复生产,1950—1953年共启用3台回转窑。,Furmankiewicz、Krzyżanowski：Szklary镍矿地下遗迹与历史，2008，第52—55页,https://geopark.org.pl/Badania/Historia/Furmankiewicz_Podziemne.pdf
+GL014,Zakłady Górniczo-Hutnicze Szklary 什克拉雷矿冶厂,1982,停产,冶炼停止,矿业终止另有1983年记载。,Furmankiewicz、Krzyżanowski：Szklary镍矿地下遗迹与历史，2008，第52—55页,https://geopark.org.pl/Badania/Historia/Furmankiewicz_Podziemne.pdf
+GL012,Septèmes-les-Vallons 塞普泰姆历史镍精炼厂,1877,产业链,前端Pointe Chaleix熔炼厂建设,为运往Septèmes精炼的镍铁提供上游环节；不是本厂精确投产日。,L’industrie minière calédonienne face aux crises，e-Phaïstos，2023，第33—35段,https://journals.openedition.org/ephaistos/pdf/11874
+GL012,Septèmes-les-Vallons 塞普泰姆历史镍精炼厂,1888,产业链,Le Nickel购入Le Havre厂,后续转向冰镍精炼体系；Septèmes租赁工厂此前已归还。,L’industrie minière calédonienne face aux crises，e-Phaïstos，2023，第33—35段,https://journals.openedition.org/ephaistos/pdf/11874

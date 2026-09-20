@@ -234,13 +234,31 @@
   ],
   "events": [
     {
-      "date": "1688",
-      "label": "开始生产（底表投产年）",
-      "detail": "灵厄里克镍冶炼厂(Ringerike Nikkelverk)的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
-      "kind": "投产",
+      "date": "1691",
+      "label": "发现矿床",
+      "detail": "最初开发铜矿。",
+      "kind": "发现",
+      "project_id": "GL158",
+      "source_url": "https://resource.sgu.se/dokument/publikation/k/k61beskrivning/k61-beskrivning.pdf",
+      "source_title": "瑞典地质调查局SGU，K61：延雪平省区域基岩图说明，第46页"
+    },
+    {
+      "date": "1837",
+      "label": "矿石中发现镍",
+      "detail": "早于镍企业正式开采。",
+      "kind": "发现",
       "project_id": "GL006",
-      "source_url": "library/global-register.csv",
-      "source_title": "全球普查底表 · NI-006 · 总表第7行"
+      "source_url": "https://nikkelverket.com/index.php/historien",
+      "source_title": "Ringerike Nikkelverk历史保护机构：企业沿革"
+    },
+    {
+      "date": "1838",
+      "label": "矿石中确认镍",
+      "detail": "Berzelius化验识别镍。",
+      "kind": "发现",
+      "project_id": "GL158",
+      "source_url": "https://resource.sgu.se/dokument/publikation/k/k61beskrivning/k61-beskrivning.pdf",
+      "source_title": "瑞典地质调查局SGU，K61：延雪平省区域基岩图说明，第46页"
     },
     {
       "date": "1840",
@@ -252,22 +270,31 @@
       "source_title": "全球普查底表 · NI-162 · 总表第163行"
     },
     {
-      "date": "1845",
-      "label": "开始生产（底表投产年）",
-      "detail": "克莱瓦(Kleva)镍矿及冶炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "date": "1849",
+      "label": "镍业务开始开采",
+      "detail": "与1688年的铜业活动分开记录。",
       "kind": "投产",
-      "project_id": "GL158",
-      "source_url": "library/global-register.csv",
-      "source_title": "全球普查底表 · NI-158 · 总表第159行"
+      "project_id": "GL006",
+      "source_url": "https://nikkelverket.com/index.php/historien",
+      "source_title": "Ringerike Nikkelverk历史保护机构：企业沿革"
     },
     {
       "date": "1859",
-      "label": "开始生产（底表投产年）",
-      "detail": "巴姆布勒(Bamble)镍厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "label": "早期镍矿冶经营开始",
+      "detail": "Bamble Nikkelverk早期经营阶段。",
       "kind": "投产",
       "project_id": "GL159",
-      "source_url": "library/global-register.csv",
-      "source_title": "全球普查底表 · NI-159 · 总表第160行"
+      "source_url": "https://snl.no/Bamble_nikkelverk",
+      "source_title": "挪威大百科全书：Bamble nikkelverk"
+    },
+    {
+      "date": "1860年代中期",
+      "label": "形成可售镍产品",
+      "detail": "概略年代：冰镍及颗粒镍产品。",
+      "kind": "产品",
+      "project_id": "GL158",
+      "source_url": "https://resource.sgu.se/dokument/publikation/k/k61beskrivning/k61-beskrivning.pdf",
+      "source_title": "瑞典地质调查局SGU，K61：延雪平省区域基岩图说明，第46页"
     },
     {
       "date": "1863",
@@ -288,13 +315,13 @@
       "source_title": "全球普查底表 · NI-007 · 总表第8行"
     },
     {
-      "date": "1875",
-      "label": "开始生产（底表投产年）",
-      "detail": "塞普泰姆莱瓦隆镍冶炼厂(马尔博与加尼耶创办)的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
-      "kind": "投产",
-      "project_id": "GL012",
-      "source_url": "library/global-register.csv",
-      "source_title": "全球普查底表 · NI-012 · 总表第13行"
+      "date": "1876",
+      "label": "企业发展高峰",
+      "detail": "进入当地镍业兴盛阶段。",
+      "kind": "运营变化",
+      "project_id": "GL006",
+      "source_url": "https://snl.no/Ringerikes_Nikkelverk",
+      "source_title": "挪威大百科全书：Ringerikes Nikkelverk"
     },
     {
       "date": "1876",
@@ -304,6 +331,15 @@
       "project_id": "GL162",
       "source_url": "library/global-register.csv",
       "source_title": "全球普查底表 · NI-162 · 总表第163行"
+    },
+    {
+      "date": "1877",
+      "label": "前端Pointe Chaleix熔炼厂建设",
+      "detail": "为运往Septèmes精炼的镍铁提供上游环节；不是本厂精确投产日。",
+      "kind": "产业链",
+      "project_id": "GL012",
+      "source_url": "https://journals.openedition.org/ephaistos/pdf/11874",
+      "source_title": "L’industrie minière calédonienne face aux crises，e-Phaïstos，2023，第33—35段"
     },
     {
       "date": "1879",
@@ -343,6 +379,15 @@
     },
     {
       "date": "1888",
+      "label": "Le Nickel购入Le Havre厂",
+      "detail": "后续转向冰镍精炼体系；Septèmes租赁工厂此前已归还。",
+      "kind": "产业链",
+      "project_id": "GL012",
+      "source_url": "https://journals.openedition.org/ephaistos/pdf/11874",
+      "source_title": "L’industrie minière calédonienne face aux crises，e-Phaïstos，2023，第33—35段"
+    },
+    {
+      "date": "1888",
       "label": "开始生产（底表投产年）",
       "detail": "加拿大铜业公司科珀克利夫冶炼厂(1888年原始厂,萨德伯里首座冶炼厂)的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
       "kind": "投产",
@@ -367,6 +412,15 @@
       "project_id": "GL072",
       "source_url": "library/global-register.csv",
       "source_title": "全球普查底表 · NI-072 · 总表第73行"
+    },
+    {
+      "date": "1889",
+      "label": "停止经营",
+      "detail": "国际镍价下跌影响经济性。",
+      "kind": "停产",
+      "project_id": "GL158",
+      "source_url": "https://resource.sgu.se/dokument/publikation/k/k61beskrivning/k61-beskrivning.pdf",
+      "source_title": "瑞典地质调查局SGU，K61：延雪平省区域基岩图说明，第46页"
     },
     {
       "date": "1890",
@@ -433,21 +487,21 @@
     },
     {
       "date": "1894",
+      "label": "成立Schlesische Nickelwerke",
+      "detail": "随后建设小型冶炼设施。",
+      "kind": "设立",
+      "project_id": "GL014",
+      "source_url": "https://geopark.org.pl/Badania/Historia/Furmankiewicz_Podziemne.pdf",
+      "source_title": "Furmankiewicz、Krzyżanowski：Szklary镍矿地下遗迹与历史，2008，第52—55页"
+    },
+    {
+      "date": "1894",
       "label": "永久关闭",
       "detail": "存疑;推测为萨德伯里矿石大量涌现后,原料就地在北美加工(经由奥福德\"上下层分离法\"及加拿大铜业公司/国际镍公司体系)更具经济性,英国斯旺西精炼环节逐步失去竞争力而停止,具体关闭年份及决策细节本轮检索未能独立核实一手资料,1894年为参照该公司萨德伯里矿权终止年份的推断值",
       "kind": "运营变化",
       "project_id": "GL020",
       "source_url": "library/global-register.csv",
       "source_title": "全球普查底表 · NI-020 · 总表第21行"
-    },
-    {
-      "date": "1895",
-      "label": "开始生产（底表投产年）",
-      "detail": "什克拉雷(Szklary)镍矿与冶炼厂【德国时期称\"法兰肯施泰因镍厂\"，波兰时期称什克拉雷矿冶联合企业】的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
-      "kind": "投产",
-      "project_id": "GL014",
-      "source_url": "library/global-register.csv",
-      "source_title": "全球普查底表 · NI-014 · 总表第15行"
     },
     {
       "date": "1897",
@@ -459,13 +513,13 @@
       "source_title": "全球普查底表 · NI-160 · 总表第161行"
     },
     {
-      "date": "1900",
-      "label": "永久关闭",
-      "detail": "存疑;推测为SLN(1880年成立)整合法国本土及新喀里多尼亚当地冶炼产能后,该厂逐步被取代或关闭,具体年份及原因本轮检索未能独立核实一手资料",
-      "kind": "运营变化",
-      "project_id": "GL012",
-      "source_url": "library/global-register.csv",
-      "source_title": "全球普查底表 · NI-012 · 总表第13行"
+      "date": "1901",
+      "label": "扩建新厂开始处理矿石",
+      "detail": "与早期小型设施分开记录。",
+      "kind": "投产",
+      "project_id": "GL014",
+      "source_url": "https://geopark.org.pl/Badania/Historia/Furmankiewicz_Podziemne.pdf",
+      "source_title": "Furmankiewicz、Krzyżanowski：Szklary镍矿地下遗迹与历史，2008，第52—55页"
     },
     {
       "date": "1901",
@@ -502,6 +556,24 @@
       "project_id": "GL163",
       "source_url": "library/global-register.csv",
       "source_title": "全球普查底表 · NI-163 · 总表第164行"
+    },
+    {
+      "date": "1903",
+      "label": "再次停产",
+      "detail": "此前曾于1889年恢复运营。",
+      "kind": "停产",
+      "project_id": "GL006",
+      "source_url": "https://nikkelverket.com/index.php/historien",
+      "source_title": "Ringerike Nikkelverk历史保护机构：企业沿革"
+    },
+    {
+      "date": "1905",
+      "label": "掺用进口富矿",
+      "detail": "进口新喀里多尼亚矿石与本地矿混配。",
+      "kind": "原料",
+      "project_id": "GL014",
+      "source_url": "https://geopark.org.pl/Badania/Historia/Furmankiewicz_Podziemne.pdf",
+      "source_title": "Furmankiewicz、Krzyżanowski：Szklary镍矿地下遗迹与历史，2008，第52—55页"
     },
     {
       "date": "1905",
@@ -559,6 +631,15 @@
     },
     {
       "date": "1913",
+      "label": "重启开发及新冶炼设施",
+      "detail": "1912—1913年前后重启。",
+      "kind": "复产",
+      "project_id": "GL006",
+      "source_url": "https://nikkelverket.com/index.php/historien",
+      "source_title": "Ringerike Nikkelverk历史保护机构：企业沿革"
+    },
+    {
+      "date": "1913",
       "label": "已拆除",
       "detail": "加尔森(Garson)矿产量超过维多利亚矿,冶炼厂选址距新主力矿区过远,蒙德镍业公司决定在科尼斯顿新建冶炼厂承接产能;维多利亚矿区厂大部分建筑物被拆除并迁至科尼斯顿或沃辛顿(Worthington)",
       "kind": "运营变化",
@@ -576,6 +657,24 @@
       "source_title": "全球普查底表 · NI-098 · 总表第99行"
     },
     {
+      "date": "1914",
+      "label": "战时复产",
+      "detail": "矿石和旧炉渣送Ädelfors加工。",
+      "kind": "复产",
+      "project_id": "GL158",
+      "source_url": "https://resource.sgu.se/dokument/publikation/k/k61beskrivning/k61-beskrivning.pdf",
+      "source_title": "瑞典地质调查局SGU，K61：延雪平省区域基岩图说明，第46页"
+    },
+    {
+      "date": "1915",
+      "label": "Krupp成为主要股东",
+      "detail": "收购比利时股东股份。",
+      "kind": "股权",
+      "project_id": "GL014",
+      "source_url": "https://geopark.org.pl/Badania/Historia/Furmankiewicz_Podziemne.pdf",
+      "source_title": "Furmankiewicz、Krzyżanowski：Szklary镍矿地下遗迹与历史，2008，第52—55页"
+    },
+    {
       "date": "1916",
       "label": "开始生产（底表投产年）",
       "detail": "英美镍业公司魁北克德申海宾内特法精炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
@@ -583,6 +682,15 @@
       "project_id": "GL099",
       "source_url": "library/global-register.csv",
       "source_title": "全球普查底表 · NI-099 · 总表第100行"
+    },
+    {
+      "date": "1916",
+      "label": "重新开发",
+      "detail": "A/S Bamle Nikkelkompani经营。",
+      "kind": "复产",
+      "project_id": "GL159",
+      "source_url": "https://aps.ngu.no/pls/oradb/minres_deposit_fakta_NY_KS.Main?p_objid=18912&p_spraak=N",
+      "source_title": "挪威地质调查局：Bamble矿区历史与冶炼记录"
     },
     {
       "date": "1918",
@@ -594,22 +702,40 @@
       "source_title": "全球普查底表 · NI-100 · 总表第101行"
     },
     {
-      "date": "1919",
-      "label": "永久关闭",
-      "detail": "存疑;未查得具体停产原因的一手资料。推测与19世纪末-20世纪初新喀里多尼亚/加拿大萨德伯里新镍矿冲击导致传统硫化矿镍冶炼经济性下降有关(参见同期挪威灵厄里克镍厂、瑞典克莱瓦镍矿、奥地利施拉德明镍厂均因类似原因关闭),但本记录未找到直接证据",
-      "kind": "运营变化",
+      "date": "1918",
+      "label": "安装电炉",
+      "detail": "次年投入熔炼。",
+      "kind": "设备",
       "project_id": "GL159",
-      "source_url": "library/global-register.csv",
-      "source_title": "全球普查底表 · NI-159 · 总表第160行"
+      "source_url": "https://www.ssb.no/a/histstat/nos/nos_vii_048.pdf",
+      "source_title": "挪威统计局：Norges bergverksdrift 1919 og 1920，第21*、11*—12*页"
+    },
+    {
+      "date": "1919",
+      "label": "矿山与冶炼厂关闭",
+      "detail": "瑞典地质调查局记载于年初结束。",
+      "kind": "关闭",
+      "project_id": "GL158",
+      "source_url": "https://resource.sgu.se/dokument/publikation/k/k61beskrivning/k61-beskrivning.pdf",
+      "source_title": "瑞典地质调查局SGU，K61：延雪平省区域基岩图说明，第46页"
+    },
+    {
+      "date": "1919-03-04",
+      "label": "电炉开始该轮运行",
+      "detail": "持续至7月5日；10月继续吹炼所得冰镍。",
+      "kind": "投产",
+      "project_id": "GL159",
+      "source_url": "https://www.ssb.no/a/histstat/nos/nos_vii_048.pdf",
+      "source_title": "挪威统计局：Norges bergverksdrift 1919 og 1920，第21*、11*—12*页"
     },
     {
       "date": "1920",
-      "label": "永久关闭",
-      "detail": "埃尔特利恩主矿区自1880年前后开始产量下滑,1903年永久关闭;公司1913年曾尝试复产,仅维持数年后于1920年正式宣告破产，全面停产。停产背景与19世纪末新喀里多尼亚、加拿大萨德伯里新发现的大规模优质镍矿引发的国际镍价竞争压力有关(与同期瑞典克莱瓦镍矿、奥地利施拉德明镍厂关闭原因一致)，但挪威大百科全书原文未直接点明该因果关系，此处为本研究的合理推断。",
+      "label": "公司破产",
+      "detail": "破产节点依据挪威大百科全书。",
       "kind": "运营变化",
       "project_id": "GL006",
-      "source_url": "library/global-register.csv",
-      "source_title": "全球普查底表 · NI-006 · 总表第7行"
+      "source_url": "https://snl.no/Ringerikes_Nikkelverk",
+      "source_title": "挪威大百科全书：Ringerikes Nikkelverk"
     },
     {
       "date": "1920",
@@ -621,13 +747,31 @@
       "source_title": "全球普查底表 · NI-101 · 总表第102行"
     },
     {
-      "date": "1920",
-      "label": "永久关闭",
-      "detail": "1876-1877年产量见顶后,新喀里多尼亚发现规模更大、品位更优的红土镍矿引发国际镍价格崩盘,克莱瓦矿冶炼经济性丧失,历经间歇运营后于1920年最终关闭;二战期间曾短暂重新处理库存矿石服务军工需求,但未恢复常态化生产",
+      "date": "1920-01-05",
+      "label": "示范精炼设施运行",
+      "detail": "至7月10日结束；不能视为整座冶炼厂全年正常生产。",
+      "kind": "试验",
+      "project_id": "GL159",
+      "source_url": "https://www.ssb.no/a/histstat/nos/nos_vii_048.pdf",
+      "source_title": "挪威统计局：Norges bergverksdrift 1919 og 1920，第21*、11*—12*页"
+    },
+    {
+      "date": "1921-01-28",
+      "label": "取得暂时停矿许可",
+      "detail": "许可有效期不超过1922年底。",
       "kind": "运营变化",
-      "project_id": "GL158",
-      "source_url": "library/global-register.csv",
-      "source_title": "全球普查底表 · NI-158 · 总表第159行"
+      "project_id": "GL159",
+      "source_url": "https://www.ssb.no/a/histstat/nos/nos_vii_048.pdf",
+      "source_title": "挪威统计局：Norges bergverksdrift 1919 og 1920，第21*、11*—12*页"
+    },
+    {
+      "date": "1922",
+      "label": "现场活动完全结束",
+      "detail": "当地遗产机构记载1921年逐步停工，1922年完全结束。",
+      "kind": "关闭",
+      "project_id": "GL006",
+      "source_url": "https://nikkelverket.com/index.php/historien",
+      "source_title": "Ringerike Nikkelverk历史保护机构：企业沿革"
     },
     {
       "date": "1922",
@@ -700,6 +844,15 @@
       "project_id": "GL025",
       "source_url": "library/global-register.csv",
       "source_title": "全球普查底表 · NI-025 · 总表第26行"
+    },
+    {
+      "date": "1934",
+      "label": "建设两台回转窑的新厂",
+      "detail": "配套粒化及分离。",
+      "kind": "设备",
+      "project_id": "GL014",
+      "source_url": "https://geopark.org.pl/Badania/Historia/Furmankiewicz_Podziemne.pdf",
+      "source_title": "Furmankiewicz、Krzyżanowski：Szklary镍矿地下遗迹与历史，2008，第52—55页"
     },
     {
       "date": "1936",
@@ -781,6 +934,15 @@
       "project_id": "GL030",
       "source_url": "library/global-register.csv",
       "source_title": "全球普查底表 · NI-030 · 总表第31行"
+    },
+    {
+      "date": "1950",
+      "label": "战后恢复生产",
+      "detail": "1950—1953年共启用3台回转窑。",
+      "kind": "复产",
+      "project_id": "GL014",
+      "source_url": "https://geopark.org.pl/Badania/Historia/Furmankiewicz_Podziemne.pdf",
+      "source_title": "Furmankiewicz、Krzyżanowski：Szklary镍矿地下遗迹与历史，2008，第52—55页"
     },
     {
       "date": "1951",
@@ -900,6 +1062,15 @@
       "source_title": "全球普查底表 · NI-105 · 总表第106行"
     },
     {
+      "date": "1962",
+      "label": "镍铁投产并向钢厂供货",
+      "detail": "1964年ABM论文及买方讨论回溯1962年供货。",
+      "kind": "投产",
+      "project_id": "GL130",
+      "source_url": "https://abmproceedings.com.br/ptbr/article/download-pdf/produo-e-aplicao-do-ferro-nquel-no-brasil",
+      "source_title": "Ernest Langer：巴西镍铁的生产与应用，1964年ABM论文及讨论"
+    },
+    {
       "date": "1964-09",
       "label": "首次产出高冰镍和电解镍",
       "detail": "集团年表记载金属镍工业化的重要节点。",
@@ -943,15 +1114,6 @@
       "project_id": "GL041",
       "source_url": "library/global-register.csv",
       "source_title": "全球普查底表 · NI-041 · 总表第42行"
-    },
-    {
-      "date": "1966",
-      "label": "开始生产（底表投产年）",
-      "detail": "莫罗-多-尼克尔镍厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
-      "kind": "投产",
-      "project_id": "GL130",
-      "source_url": "library/global-register.csv",
-      "source_title": "全球普查底表 · NI-130 · 总表第131行"
     },
     {
       "date": "1968",
@@ -1108,6 +1270,15 @@
     },
     {
       "date": "1978",
+      "label": "Anglo American收购",
+      "detail": "以集团官方历史回顾为准。",
+      "kind": "股权",
+      "project_id": "GL130",
+      "source_url": "https://brasil.angloamerican.com/pt-pt/imprensa/noticias/year2013/04-11-2013",
+      "source_title": "Anglo American：巴西业务40年回顾，1978年收购Morro do Níquel"
+    },
+    {
+      "date": "1978",
       "label": "Sorowako冶炼厂开始运行",
       "detail": "Vale披露Sorowako火法冶炼厂自1978年运行，矿石经电炉和转炉加工为高冰镍；这是老厂投运节点，与后来炉体重建分开记录。",
       "kind": "投产",
@@ -1153,6 +1324,15 @@
     },
     {
       "date": "1982",
+      "label": "冶炼停止",
+      "detail": "矿业终止另有1983年记载。",
+      "kind": "停产",
+      "project_id": "GL014",
+      "source_url": "https://geopark.org.pl/Badania/Historia/Furmankiewicz_Podziemne.pdf",
+      "source_title": "Furmankiewicz、Krzyżanowski：Szklary镍矿地下遗迹与历史，2008，第52—55页"
+    },
+    {
+      "date": "1982",
       "label": "开始生产（底表投产年）",
       "detail": "台湾镍业精炼股份有限公司的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
       "kind": "投产",
@@ -1177,15 +1357,6 @@
       "project_id": "GL132",
       "source_url": "library/global-register.csv",
       "source_title": "全球普查底表 · NI-132 · 总表第133行"
-    },
-    {
-      "date": "1983",
-      "label": "已拆除",
-      "detail": "存疑(据研究简报为矿藏枯竭/经济性下降,本轮检索未能独立核实一手资料)",
-      "kind": "运营变化",
-      "project_id": "GL014",
-      "source_url": "library/global-register.csv",
-      "source_title": "全球普查底表 · NI-014 · 总表第15行"
     },
     {
       "date": "1984",
@@ -1333,12 +1504,12 @@
     },
     {
       "date": "1998",
-      "label": "永久关闭",
-      "detail": "未在信源中明确说明具体关闭原因",
-      "kind": "运营变化",
+      "label": "工厂关闭",
+      "detail": "巴西行业回顾记录的关闭年份。",
+      "kind": "关闭",
       "project_id": "GL130",
-      "source_url": "library/global-register.csv",
-      "source_title": "全球普查底表 · NI-130 · 总表第131行"
+      "source_url": "https://www.inthemine.com.br/site/estrutura-produtiva-do-niquel-no-brasil/",
+      "source_title": "In The Mine：巴西镍生产体系，历史关闭年份"
     },
     {
       "date": "1998",
@@ -48905,6 +49076,246 @@
         {
           "type": "project",
           "id": "CN169"
+        }
+      ]
+    },
+    {
+      "title": "Ringerike地方历史年刊（1994），第37页：矿石焙烧、熔炼与国外精炼",
+      "url": "https://www.heftet-ringerike.com/images/heftene/1994_heftet.pdf",
+      "id": "UC1777",
+      "titles": [
+        "Ringerike地方历史年刊（1994），第37页：矿石焙烧、熔炼与国外精炼"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "GL006"
+        }
+      ]
+    },
+    {
+      "title": "Ringerike Nikkelverk历史保护机构：企业沿革",
+      "url": "https://nikkelverket.com/index.php/historien",
+      "id": "UC1778",
+      "titles": [
+        "Ringerike Nikkelverk历史保护机构：企业沿革"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "GL006"
+        }
+      ]
+    },
+    {
+      "title": "Engineering and Mining Journal，1897年9月25日，第364页：挪威镍工业",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/The_Engineering_and_Mining_Journal_1897-09-25-_Vol_64_Iss_13_%28IA_sim_engineering-and-mining-journal_1897-09-25_64_13%29.pdf",
+      "id": "UC1779",
+      "titles": [
+        "Engineering and Mining Journal，1897年9月25日，第364页：挪威镍工业"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "GL006"
+        }
+      ]
+    },
+    {
+      "title": "挪威统计局：Norges bergverksdrift 1919 og 1920，第21*、11*—12*页",
+      "url": "https://www.ssb.no/a/histstat/nos/nos_vii_048.pdf",
+      "id": "UC1780",
+      "titles": [
+        "挪威统计局：Norges bergverksdrift 1919 og 1920，第21*、11*—12*页"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "GL159"
+        }
+      ]
+    },
+    {
+      "title": "挪威地质调查局：Bamble矿区历史与冶炼记录",
+      "url": "https://aps.ngu.no/pls/oradb/minres_deposit_fakta_NY_KS.Main?p_objid=18912&p_spraak=N",
+      "id": "UC1781",
+      "titles": [
+        "挪威地质调查局：Bamble矿区历史与冶炼记录"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "GL159"
+        }
+      ]
+    },
+    {
+      "title": "瑞典地质调查局SGU，K61：延雪平省区域基岩图说明，第46页",
+      "url": "https://resource.sgu.se/dokument/publikation/k/k61beskrivning/k61-beskrivning.pdf",
+      "id": "UC1782",
+      "titles": [
+        "瑞典地质调查局SGU，K61：延雪平省区域基岩图说明，第46页"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "GL158"
+        }
+      ]
+    },
+    {
+      "title": "Kleva Gruva：矿址与访问位置",
+      "url": "https://www.klevagruva.se/sv/",
+      "id": "UC1783",
+      "titles": [
+        "Kleva Gruva：矿址与访问位置"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "GL158"
+        }
+      ]
+    },
+    {
+      "title": "瑞典地质调查局：Nickel，瑞典历史镍矿介绍",
+      "url": "https://www.sgu.se/mineralnaring/kritiska-ravaror/nickel/",
+      "id": "UC1784",
+      "titles": [
+        "瑞典地质调查局：Nickel，瑞典历史镍矿介绍"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "GL158"
+        }
+      ]
+    },
+    {
+      "title": "J.-C. Griffon、H. Richter：Morro do Níquel矿床、采矿与处理技术，Geologia e Metalurgia第40辑，第392—394页",
+      "url": "https://sites.poli.usp.br/geologiaemetalurgia/Revistas/Edi%C3%A7%C3%A3o%2040/artigo40.6.pdf",
+      "id": "UC1785",
+      "titles": [
+        "J.-C. Griffon、H. Richter：Morro do Níquel矿床、采矿与处理技术，Geologia e Metalurgia第40辑，第392—394页"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "GL130"
+        }
+      ]
+    },
+    {
+      "title": "Ernest Langer：巴西镍铁的生产与应用，1964年ABM论文及讨论",
+      "url": "https://abmproceedings.com.br/ptbr/article/download-pdf/produo-e-aplicao-do-ferro-nquel-no-brasil",
+      "id": "UC1786",
+      "titles": [
+        "Ernest Langer：巴西镍铁的生产与应用，1964年ABM论文及讨论"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "GL130"
+        }
+      ]
+    },
+    {
+      "title": "Anglo American：巴西业务40年回顾，1978年收购Morro do Níquel",
+      "url": "https://brasil.angloamerican.com/pt-pt/imprensa/noticias/year2013/04-11-2013",
+      "id": "UC1787",
+      "titles": [
+        "Anglo American：巴西业务40年回顾，1978年收购Morro do Níquel"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "GL130"
+        }
+      ]
+    },
+    {
+      "title": "Furmankiewicz、Krzyżanowski：Szklary镍矿地下遗迹与历史，2008，第52—55页",
+      "url": "https://geopark.org.pl/Badania/Historia/Furmankiewicz_Podziemne.pdf",
+      "id": "UC1788",
+      "titles": [
+        "Furmankiewicz、Krzyżanowski：Szklary镍矿地下遗迹与历史，2008，第52—55页"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "GL014"
+        }
+      ]
+    },
+    {
+      "title": "Kaczan等：Szklary镍矿历史与湿法处理研究，Mineral Economics，2021",
+      "url": "https://link.springer.com/article/10.1007/s13563-021-00269-0",
+      "id": "UC1789",
+      "titles": [
+        "Kaczan等：Szklary镍矿历史与湿法处理研究，Mineral Economics，2021"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "GL014"
+        }
+      ]
+    },
+    {
+      "title": "L’industrie minière calédonienne face aux crises，e-Phaïstos，2023，第33—35段",
+      "url": "https://journals.openedition.org/ephaistos/pdf/11874",
+      "id": "UC1790",
+      "titles": [
+        "L’industrie minière calédonienne face aux crises，e-Phaïstos，2023，第33—35段"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "GL012"
+        }
+      ]
+    },
+    {
+      "title": "新喀里多尼亚镍工业的形成（1875—1914），Journal de la Société des Océanistes，2014",
+      "url": "https://shs.cairn.info/revue-journal-de-la-societe-des-oceanistes-2014-1-page-137?lang=fr",
+      "id": "UC1791",
+      "titles": [
+        "新喀里多尼亚镍工业的形成（1875—1914），Journal de la Société des Océanistes，2014"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "GL012"
         }
       ]
     }

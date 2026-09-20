@@ -1574,15 +1574,17 @@
     ]
   },
   "GL006": {
-    "title": "Ringerike Nikkelverk (Ringerike Nickel Works) 灵厄里克镍冶炼厂(Ringerike Nikkelverk)",
-    "english": "Ringerike Nikkelverk (Ringerike Nickel Works)",
-    "chinese": "灵厄里克镍冶炼厂(Ringerike Nikkelverk)",
+    "title": "Ringerike Nikkelverk 灵厄里克镍厂",
+    "english": "Ringerike Nikkelverk",
+    "chinese": "灵厄里克镍厂",
     "chinese_basis": "用户全球普查底表",
     "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
     "aliases": [
       "Ringerike Nikkelverk (Ringerike Nickel Works)",
       "灵厄里克镍冶炼厂(Ringerike Nikkelverk)",
-      "NI-006"
+      "NI-006",
+      "Ringerike Nikkelverk (Ringerike Nickel Works) 灵厄里克镍冶炼厂(Ringerike Nikkelverk)",
+      "Ringerike Nikkelverk 灵厄里克镍厂"
     ]
   },
   "GL007": {
@@ -1646,15 +1648,17 @@
     ]
   },
   "GL012": {
-    "title": "Septèmes-les-Vallons Nickel Foundry (Marbeau & Garnier) 塞普泰姆莱瓦隆镍冶炼厂(马尔博与加尼耶创办)",
-    "english": "Septèmes-les-Vallons Nickel Foundry (Marbeau & Garnier)",
-    "chinese": "塞普泰姆莱瓦隆镍冶炼厂(马尔博与加尼耶创办)",
+    "title": "Septèmes-les-Vallons 塞普泰姆历史镍精炼厂",
+    "english": "Septèmes-les-Vallons",
+    "chinese": "塞普泰姆历史镍精炼厂",
     "chinese_basis": "用户全球普查底表",
     "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
     "aliases": [
       "Septèmes-les-Vallons Nickel Foundry (Marbeau & Garnier)",
       "塞普泰姆莱瓦隆镍冶炼厂(马尔博与加尼耶创办)",
-      "NI-012"
+      "NI-012",
+      "Septèmes-les-Vallons Nickel Foundry (Marbeau & Garnier) 塞普泰姆莱瓦隆镍冶炼厂(马尔博与加尼耶创办)",
+      "Septèmes-les-Vallons 塞普泰姆历史镍精炼厂"
     ]
   },
   "GL013": {
@@ -1670,15 +1674,17 @@
     ]
   },
   "GL014": {
-    "title": "Szklary Nickel Mine & Smelter (German era: \"Nickelwerke Frankenstein\"; Polish era: Zakłady Górniczo-Hutnicze Szklary) 什克拉雷(Szklary)镍矿与冶炼厂【德国时期称\"法兰肯施泰因镍厂\"，波兰时期称什克拉雷矿冶联合企业】",
-    "english": "Szklary Nickel Mine & Smelter (German era: \"Nickelwerke Frankenstein\"; Polish era: Zakłady Górniczo-Hutnicze Szklary)",
-    "chinese": "什克拉雷(Szklary)镍矿与冶炼厂【德国时期称\"法兰肯施泰因镍厂\"，波兰时期称什克拉雷矿冶联合企业】",
+    "title": "Zakłady Górniczo-Hutnicze Szklary 什克拉雷矿冶厂",
+    "english": "Zakłady Górniczo-Hutnicze Szklary",
+    "chinese": "什克拉雷矿冶厂",
     "chinese_basis": "用户全球普查底表",
     "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
     "aliases": [
       "Szklary Nickel Mine & Smelter (German era: \"Nickelwerke Frankenstein\"; Polish era: Zakłady Górniczo-Hutnicze Szklary)",
       "什克拉雷(Szklary)镍矿与冶炼厂【德国时期称\"法兰肯施泰因镍厂\"，波兰时期称什克拉雷矿冶联合企业】",
-      "NI-014"
+      "NI-014",
+      "Szklary Nickel Mine & Smelter (German era: \"Nickelwerke Frankenstein\"; Polish era: Zakłady Górniczo-Hutnicze Szklary) 什克拉雷(Szklary)镍矿与冶炼厂【德国时期称\"法兰肯施泰因镍厂\"，波兰时期称什克拉雷矿冶联合企业】",
+      "Zakłady Górniczo-Hutnicze Szklary 什克拉雷矿冶厂"
     ]
   },
   "GL015": {
@@ -2954,15 +2960,17 @@
     ]
   },
   "GL130": {
-    "title": "Morro do Níquel Plant 莫罗-多-尼克尔镍厂",
-    "english": "Morro do Níquel Plant",
-    "chinese": "莫罗-多-尼克尔镍厂",
+    "title": "Morro do Níquel 莫罗镍铁厂",
+    "english": "Morro do Níquel",
+    "chinese": "莫罗镍铁厂",
     "chinese_basis": "用户全球普查底表",
     "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
     "aliases": [
       "Morro do Níquel Plant",
       "莫罗-多-尼克尔镍厂",
-      "NI-130"
+      "NI-130",
+      "Morro do Níquel Plant 莫罗-多-尼克尔镍厂",
+      "Morro do Níquel 莫罗镍铁厂"
     ]
   },
   "GL131": {
@@ -3266,27 +3274,31 @@
     ]
   },
   "GL158": {
-    "title": "Kleva Nickel Mine & Smelter (Kleva gruva) 克莱瓦(Kleva)镍矿及冶炼厂",
-    "english": "Kleva Nickel Mine & Smelter (Kleva gruva)",
-    "chinese": "克莱瓦(Kleva)镍矿及冶炼厂",
+    "title": "Kleva gruva 克莱瓦镍矿与历史冶炼业务",
+    "english": "Kleva gruva",
+    "chinese": "克莱瓦镍矿与历史冶炼业务",
     "chinese_basis": "用户全球普查底表",
     "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
     "aliases": [
       "Kleva Nickel Mine & Smelter (Kleva gruva)",
       "克莱瓦(Kleva)镍矿及冶炼厂",
-      "NI-158"
+      "NI-158",
+      "Kleva Nickel Mine & Smelter (Kleva gruva) 克莱瓦(Kleva)镍矿及冶炼厂",
+      "Kleva gruva 克莱瓦镍矿与历史冶炼业务"
     ]
   },
   "GL159": {
-    "title": "Bamble Nikkelverk (Bamble Nickel Works) 巴姆布勒(Bamble)镍厂",
-    "english": "Bamble Nikkelverk (Bamble Nickel Works)",
-    "chinese": "巴姆布勒(Bamble)镍厂",
+    "title": "Bamble Nikkelverk 巴姆布勒镍厂",
+    "english": "Bamble Nikkelverk",
+    "chinese": "巴姆布勒镍厂",
     "chinese_basis": "用户全球普查底表",
     "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
     "aliases": [
       "Bamble Nikkelverk (Bamble Nickel Works)",
       "巴姆布勒(Bamble)镍厂",
-      "NI-159"
+      "NI-159",
+      "Bamble Nikkelverk (Bamble Nickel Works) 巴姆布勒(Bamble)镍厂",
+      "Bamble Nikkelverk 巴姆布勒镍厂"
     ]
   },
   "GL160": {

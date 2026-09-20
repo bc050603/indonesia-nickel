@@ -1913,14 +1913,26 @@
     "GL006": {
       "key": "closed",
       "label": "永久关闭",
-      "period": "底表核实年份：1920；状态始于1920年",
-      "note": "该记录按全球普查底表列为永久关闭。停产及变化背景见正文。",
-      "reviewed_at": "2026-09-18",
+      "period": "永久关闭；20世纪20年代初结束运营",
+      "note": "经历镍价下降、多次停复产及1920年破产，1922年现场活动结束。",
+      "reviewed_at": "2026-09-21",
       "article_id": "GL006",
       "sources": [
         {
-          "title": "全球普查底表 · NI-006 · 总表第7行",
-          "url": "library/global-register.csv"
+          "title": "Ringerike地方历史年刊（1994），第37页：矿石焙烧、熔炼与国外精炼",
+          "url": "https://www.heftet-ringerike.com/images/heftene/1994_heftet.pdf"
+        },
+        {
+          "title": "Ringerike Nikkelverk历史保护机构：企业沿革",
+          "url": "https://nikkelverket.com/index.php/historien"
+        },
+        {
+          "title": "挪威大百科全书：Ringerikes Nikkelverk",
+          "url": "https://snl.no/Ringerikes_Nikkelverk"
+        },
+        {
+          "title": "Engineering and Mining Journal，1897年9月25日，第364页：挪威镍工业",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/The_Engineering_and_Mining_Journal_1897-09-25-_Vol_64_Iss_13_%28IA_sim_engineering-and-mining-journal_1897-09-25_64_13%29.pdf"
         }
       ],
       "products": []
@@ -2003,14 +2015,18 @@
     "GL012": {
       "key": "closed",
       "label": "永久关闭",
-      "period": "底表核实年份：1900；状态始于1900年",
-      "note": "该记录按全球普查底表列为永久关闭。停产及变化背景见正文。",
-      "reviewed_at": "2026-09-18",
+      "period": "历史设施，已关闭",
+      "note": "精炼阶段未能稳定生产合适质量的商品镍，随后产业链转向其他技术与厂址。",
+      "reviewed_at": "2026-09-21",
       "article_id": "GL012",
       "sources": [
         {
-          "title": "全球普查底表 · NI-012 · 总表第13行",
-          "url": "library/global-register.csv"
+          "title": "L’industrie minière calédonienne face aux crises，e-Phaïstos，2023，第33—35段",
+          "url": "https://journals.openedition.org/ephaistos/pdf/11874"
+        },
+        {
+          "title": "新喀里多尼亚镍工业的形成（1875—1914），Journal de la Société des Océanistes，2014",
+          "url": "https://shs.cairn.info/revue-journal-de-la-societe-des-oceanistes-2014-1-page-137?lang=fr"
         }
       ],
       "products": []
@@ -2031,16 +2047,20 @@
       "products": []
     },
     "GL014": {
-      "key": "demolished",
-      "label": "已拆除",
-      "period": "底表核实年份：1983；状态始于1983年",
-      "note": "该记录按全球普查底表列为已拆除。停产及变化背景见正文。",
-      "reviewed_at": "2026-09-18",
+      "key": "closed",
+      "label": "永久关闭",
+      "period": "镍冶炼1982年停止；采矿终止另有1983年记载",
+      "note": "富矿不足、处理成本和工作环境问题；1982年冶炼停止，矿业终止另有1983年记载。",
+      "reviewed_at": "2026-09-21",
       "article_id": "GL014",
       "sources": [
         {
-          "title": "全球普查底表 · NI-014 · 总表第15行",
-          "url": "library/global-register.csv"
+          "title": "Furmankiewicz、Krzyżanowski：Szklary镍矿地下遗迹与历史，2008，第52—55页",
+          "url": "https://geopark.org.pl/Badania/Historia/Furmankiewicz_Podziemne.pdf"
+        },
+        {
+          "title": "Kaczan等：Szklary镍矿历史与湿法处理研究，Mineral Economics，2021",
+          "url": "https://link.springer.com/article/10.1007/s13563-021-00269-0"
         }
       ],
       "products": []
@@ -3638,14 +3658,26 @@
     "GL130": {
       "key": "closed",
       "label": "永久关闭",
-      "period": "底表核实年份：1998；状态始于1998年",
-      "note": "该记录按全球普查底表列为永久关闭。停产及变化背景见正文。",
-      "reviewed_at": "2026-09-18",
+      "period": "1998年关闭",
+      "note": "1998年关闭；关闭决定的具体原因继续查档。",
+      "reviewed_at": "2026-09-21",
       "article_id": "GL130",
       "sources": [
         {
-          "title": "全球普查底表 · NI-130 · 总表第131行",
-          "url": "library/global-register.csv"
+          "title": "J.-C. Griffon、H. Richter：Morro do Níquel矿床、采矿与处理技术，Geologia e Metalurgia第40辑，第392—394页",
+          "url": "https://sites.poli.usp.br/geologiaemetalurgia/Revistas/Edi%C3%A7%C3%A3o%2040/artigo40.6.pdf"
+        },
+        {
+          "title": "Ernest Langer：巴西镍铁的生产与应用，1964年ABM论文及讨论",
+          "url": "https://abmproceedings.com.br/ptbr/article/download-pdf/produo-e-aplicao-do-ferro-nquel-no-brasil"
+        },
+        {
+          "title": "Anglo American：巴西业务40年回顾，1978年收购Morro do Níquel",
+          "url": "https://brasil.angloamerican.com/pt-pt/imprensa/noticias/year2013/04-11-2013"
+        },
+        {
+          "title": "In The Mine：巴西镍生产体系，历史关闭年份",
+          "url": "https://www.inthemine.com.br/site/estrutura-produtiva-do-niquel-no-brasil/"
         }
       ],
       "products": []
@@ -4028,14 +4060,22 @@
     "GL158": {
       "key": "closed",
       "label": "永久关闭",
-      "period": "底表核实年份：1920；状态始于1920年",
-      "note": "该记录按全球普查底表列为永久关闭。停产及变化背景见正文。",
-      "reviewed_at": "2026-09-18",
+      "period": "1919年初矿山和冶炼厂关闭",
+      "note": "早期受镍价下跌影响于1889年停产；1914—1918年复产后于1919年初结束。",
+      "reviewed_at": "2026-09-21",
       "article_id": "GL158",
       "sources": [
         {
-          "title": "全球普查底表 · NI-158 · 总表第159行",
-          "url": "library/global-register.csv"
+          "title": "瑞典地质调查局SGU，K61：延雪平省区域基岩图说明，第46页",
+          "url": "https://resource.sgu.se/dokument/publikation/k/k61beskrivning/k61-beskrivning.pdf"
+        },
+        {
+          "title": "Kleva Gruva：矿址与访问位置",
+          "url": "https://www.klevagruva.se/sv/"
+        },
+        {
+          "title": "瑞典地质调查局：Nickel，瑞典历史镍矿介绍",
+          "url": "https://www.sgu.se/mineralnaring/kritiska-ravaror/nickel/"
         }
       ],
       "products": []
@@ -4043,14 +4083,22 @@
     "GL159": {
       "key": "closed",
       "label": "永久关闭",
-      "period": "底表核实年份：1919；状态始于1919年",
-      "note": "该记录按全球普查底表列为永久关闭。停产及变化背景见正文。",
-      "reviewed_at": "2026-09-18",
+      "period": "永久关闭；矿冶及试验活动在1919—1920年先后停止",
+      "note": "1919年结束该轮电炉熔炼；1920年示范精炼试验结束，矿山设备拆除。",
+      "reviewed_at": "2026-09-21",
       "article_id": "GL159",
       "sources": [
         {
-          "title": "全球普查底表 · NI-159 · 总表第160行",
-          "url": "library/global-register.csv"
+          "title": "挪威统计局：Norges bergverksdrift 1919 og 1920，第21*、11*—12*页",
+          "url": "https://www.ssb.no/a/histstat/nos/nos_vii_048.pdf"
+        },
+        {
+          "title": "挪威地质调查局：Bamble矿区历史与冶炼记录",
+          "url": "https://aps.ngu.no/pls/oradb/minres_deposit_fakta_NY_KS.Main?p_objid=18912&p_spraak=N"
+        },
+        {
+          "title": "挪威大百科全书：Bamble nikkelverk",
+          "url": "https://snl.no/Bamble_nikkelverk"
         }
       ],
       "products": []

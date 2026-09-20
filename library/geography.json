@@ -4822,16 +4822,17 @@
       "island": "挪威",
       "province": "",
       "regency": "",
-      "locality": "布斯克吕郡(Buskerud,现属Viken/Innlandet) 灵厄里克(Ringerike)地区",
+      "locality": "挪威布斯克吕郡（Buskerud），灵厄里克Holleia地区",
       "country_codes": [
         "NO"
       ],
       "source_urls": [
-        "https://en.wikipedia.org/wiki/Nickel",
+        "https://www.heftet-ringerike.com/images/heftene/1994_heftet.pdf",
+        "https://nikkelverket.com/index.php/historien",
         "https://snl.no/Ringerikes_Nikkelverk",
-        "https://snl.no/Ertelien_gruve"
+        "https://upload.wikimedia.org/wikipedia/commons/0/08/The_Engineering_and_Mining_Journal_1897-09-25-_Vol_64_Iss_13_%28IA_sim_engineering-and-mining-journal_1897-09-25_64_13%29.pdf"
       ],
-      "location_basis": "底表列示地点；地图显示国家／地区范围，未标厂区坐标"
+      "location_basis": "根据项目历史及地质资料更新地点；地图仍为国家范围，非精确厂址"
     },
     "GL007": {
       "project_id": "GL007",
@@ -4946,9 +4947,10 @@
         "FR"
       ],
       "source_urls": [
-        "https://fr.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_Le_Nickel"
+        "https://journals.openedition.org/ephaistos/pdf/11874",
+        "https://shs.cairn.info/revue-journal-de-la-societe-des-oceanistes-2014-1-page-137?lang=fr"
       ],
-      "location_basis": "底表列示地点；地图显示国家／地区范围，未标厂区坐标"
+      "location_basis": "根据项目历史及地质资料更新地点；地图仍为国家范围，非精确厂址"
     },
     "GL013": {
       "project_id": "GL013",
@@ -4986,9 +4988,10 @@
         "PL"
       ],
       "source_urls": [
-        "https://de.wikipedia.org/wiki/Frankenstein_(Schlesien)"
+        "https://geopark.org.pl/Badania/Historia/Furmankiewicz_Podziemne.pdf",
+        "https://link.springer.com/article/10.1007/s13563-021-00269-0"
       ],
-      "location_basis": "底表列示地点；地图显示国家／地区范围，未标厂区坐标"
+      "location_basis": "根据项目历史及地质资料更新地点；地图仍为国家范围，非精确厂址"
     },
     "GL015": {
       "project_id": "GL015",
@@ -7311,9 +7314,12 @@
         "BR"
       ],
       "source_urls": [
+        "https://sites.poli.usp.br/geologiaemetalurgia/Revistas/Edi%C3%A7%C3%A3o%2040/artigo40.6.pdf",
+        "https://abmproceedings.com.br/ptbr/article/download-pdf/produo-e-aplicao-do-ferro-nquel-no-brasil",
+        "https://brasil.angloamerican.com/pt-pt/imprensa/noticias/year2013/04-11-2013",
         "https://www.inthemine.com.br/site/estrutura-produtiva-do-niquel-no-brasil/"
       ],
-      "location_basis": "底表列示地点；地图显示国家／地区范围，未标厂区坐标"
+      "location_basis": "根据项目历史及地质资料更新地点；地图仍为国家范围，非精确厂址"
     },
     "GL131": {
       "project_id": "GL131",
@@ -7837,14 +7843,16 @@
       "island": "瑞典",
       "province": "",
       "regency": "",
-      "locality": "小兰(Småland)地区 卡尔马省(Kalmar län) 温梅尔比市(Vimmerby kommun) 克莱瓦(Kleva)",
+      "locality": "瑞典延雪平省（Jönköpings län），Vetlanda附近的Kleva；末期加工点为Ädelfors",
       "country_codes": [
         "SE"
       ],
       "source_urls": [
-        "https://www.klevagruva.se/en/history/"
+        "https://resource.sgu.se/dokument/publikation/k/k61beskrivning/k61-beskrivning.pdf",
+        "https://www.klevagruva.se/sv/",
+        "https://www.sgu.se/mineralnaring/kritiska-ravaror/nickel/"
       ],
-      "location_basis": "底表列示地点；地图显示国家／地区范围，未标厂区坐标"
+      "location_basis": "根据项目历史及地质资料更新地点；地图仍为国家范围，非精确厂址"
     },
     "GL159": {
       "project_id": "GL159",
@@ -7853,14 +7861,16 @@
       "island": "挪威",
       "province": "",
       "regency": "",
-      "locality": "泰勒马克郡(现属Vestfold og Telemark) 巴姆布勒市(Bamble kommune)",
+      "locality": "挪威泰勒马克郡Bamble，Prisgrunn冶炼点",
       "country_codes": [
         "NO"
       ],
       "source_urls": [
+        "https://www.ssb.no/a/histstat/nos/nos_vii_048.pdf",
+        "https://aps.ngu.no/pls/oradb/minres_deposit_fakta_NY_KS.Main?p_objid=18912&p_spraak=N",
         "https://snl.no/Bamble_nikkelverk"
       ],
-      "location_basis": "底表列示地点；地图显示国家／地区范围，未标厂区坐标"
+      "location_basis": "根据项目历史及地质资料更新地点；地图仍为国家范围，非精确厂址"
     },
     "GL160": {
       "project_id": "GL160",
