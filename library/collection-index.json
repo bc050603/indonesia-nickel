@@ -7776,6 +7776,10 @@
         {
           "type": "npi-parent",
           "id": "catl-brunp"
+        },
+        {
+          "type": "group",
+          "id": "catl-brunp"
         }
       ],
       "id": "UC0001"
@@ -7804,6 +7808,10 @@
         },
         {
           "type": "npi-parent",
+          "id": "walsin-lihwa"
+        },
+        {
+          "type": "group",
           "id": "walsin-lihwa"
         }
       ],
@@ -7834,6 +7842,10 @@
         {
           "type": "park",
           "id": "global-madagascar"
+        },
+        {
+          "type": "group",
+          "id": "ambatovy"
         }
       ],
       "id": "UC0003"
@@ -7931,6 +7943,18 @@
         {
           "type": "project",
           "id": "MHP024"
+        },
+        {
+          "type": "group",
+          "id": "catl-brunp"
+        },
+        {
+          "type": "group",
+          "id": "lygend-resources"
+        },
+        {
+          "type": "group",
+          "id": "antam-mind-id"
         }
       ],
       "id": "UC0007"
@@ -7952,6 +7976,14 @@
         {
           "type": "park",
           "id": "obi-harita"
+        },
+        {
+          "type": "group",
+          "id": "harita-nickel"
+        },
+        {
+          "type": "group",
+          "id": "lygend-resources"
         }
       ],
       "id": "UC0008"
@@ -7968,6 +8000,14 @@
         {
           "type": "project",
           "id": "MHP003"
+        },
+        {
+          "type": "group",
+          "id": "harita-nickel"
+        },
+        {
+          "type": "group",
+          "id": "lygend-resources"
         }
       ],
       "id": "UC0009"
@@ -8021,6 +8061,22 @@
         {
           "type": "project",
           "id": "MHP007"
+        },
+        {
+          "type": "group",
+          "id": "huayou"
+        },
+        {
+          "type": "group",
+          "id": "nickel-industries"
+        },
+        {
+          "type": "group",
+          "id": "tsingshan"
+        },
+        {
+          "type": "group",
+          "id": "merdeka-battery-materials"
         }
       ],
       "id": "UC0011"
@@ -8049,6 +8105,10 @@
         },
         {
           "type": "npi-parent",
+          "id": "merdeka-battery-materials"
+        },
+        {
+          "type": "group",
           "id": "merdeka-battery-materials"
         }
       ],
@@ -8100,6 +8160,14 @@
         {
           "type": "npi-dossier",
           "id": "tsingshan-customer"
+        },
+        {
+          "type": "group",
+          "id": "tsingshan"
+        },
+        {
+          "type": "group",
+          "id": "merdeka-battery-materials"
         }
       ],
       "id": "UC0013"
@@ -8137,6 +8205,18 @@
         {
           "type": "project",
           "id": "P01"
+        },
+        {
+          "type": "group",
+          "id": "huayou"
+        },
+        {
+          "type": "group",
+          "id": "tsingshan"
+        },
+        {
+          "type": "group",
+          "id": "merdeka-battery-materials"
         }
       ],
       "id": "UC0014"
@@ -8183,6 +8263,14 @@
         {
           "type": "npi-dossier",
           "id": "tsingshan-customer"
+        },
+        {
+          "type": "group",
+          "id": "tsingshan"
+        },
+        {
+          "type": "group",
+          "id": "merdeka-battery-materials"
         }
       ],
       "id": "UC0015"
@@ -8225,6 +8313,14 @@
         {
           "type": "npi-dossier",
           "id": "tsingshan-customer"
+        },
+        {
+          "type": "group",
+          "id": "tsingshan"
+        },
+        {
+          "type": "group",
+          "id": "merdeka-battery-materials"
         }
       ],
       "id": "UC0016"
@@ -8255,6 +8351,10 @@
         {
           "type": "project",
           "id": "NPI030"
+        },
+        {
+          "type": "group",
+          "id": "merdeka-battery-materials"
         }
       ],
       "id": "UC0017"
@@ -8309,6 +8409,30 @@
         {
           "type": "npi-parent",
           "id": "merdeka-battery-materials"
+        },
+        {
+          "type": "group",
+          "id": "catl-brunp"
+        },
+        {
+          "type": "group",
+          "id": "huayou"
+        },
+        {
+          "type": "group",
+          "id": "tsingshan"
+        },
+        {
+          "type": "group",
+          "id": "merdeka-battery-materials"
+        },
+        {
+          "type": "group",
+          "id": "gem"
+        },
+        {
+          "type": "group",
+          "id": "ecopro"
         }
       ],
       "id": "UC0018"
@@ -8388,6 +8512,22 @@
         {
           "type": "npi-dossier",
           "id": "tsingshan-customer"
+        },
+        {
+          "type": "group",
+          "id": "huayou"
+        },
+        {
+          "type": "group",
+          "id": "nickel-industries"
+        },
+        {
+          "type": "group",
+          "id": "tsingshan"
+        },
+        {
+          "type": "group",
+          "id": "merdeka-battery-materials"
         }
       ],
       "id": "UC0019"
@@ -8413,6 +8553,18 @@
         {
           "type": "project",
           "id": "MHP007"
+        },
+        {
+          "type": "group",
+          "id": "huayou"
+        },
+        {
+          "type": "group",
+          "id": "tsingshan"
+        },
+        {
+          "type": "group",
+          "id": "merdeka-battery-materials"
         }
       ],
       "id": "UC0020"
@@ -8481,6 +8633,14 @@
         {
           "type": "npi-dossier",
           "id": "tsingshan-customer"
+        },
+        {
+          "type": "group",
+          "id": "tsingshan"
+        },
+        {
+          "type": "group",
+          "id": "merdeka-battery-materials"
         }
       ],
       "id": "UC0022"
@@ -8532,6 +8692,14 @@
         {
           "type": "npi-parent",
           "id": "kalla-bukaka"
+        },
+        {
+          "type": "group",
+          "id": "kalla-bukaka"
+        },
+        {
+          "type": "group",
+          "id": "posco-holdings-nicole"
         }
       ],
       "id": "UC0024"
@@ -8561,6 +8729,10 @@
         {
           "type": "npi-parent",
           "id": "kfi-investment-group"
+        },
+        {
+          "type": "group",
+          "id": "kfi-investment-group"
         }
       ],
       "id": "UC0025"
@@ -8589,6 +8761,10 @@
         },
         {
           "type": "npi-parent",
+          "id": "huadi-unity"
+        },
+        {
+          "type": "group",
           "id": "huadi-unity"
         }
       ],
@@ -8663,6 +8839,10 @@
         {
           "type": "project",
           "id": "P25"
+        },
+        {
+          "type": "group",
+          "id": "hanrui"
         }
       ],
       "id": "UC0029"
@@ -8766,6 +8946,10 @@
         {
           "type": "npi-parent",
           "id": "cngr"
+        },
+        {
+          "type": "group",
+          "id": "cngr"
         }
       ],
       "id": "UC0033"
@@ -8790,6 +8974,10 @@
         {
           "type": "project",
           "id": "MHP033"
+        },
+        {
+          "type": "group",
+          "id": "ceria-corp"
         }
       ],
       "id": "UC0034"
@@ -8828,6 +9016,14 @@
         {
           "type": "npi-dossier",
           "id": "tsingshan-customer"
+        },
+        {
+          "type": "group",
+          "id": "tsingshan"
+        },
+        {
+          "type": "group",
+          "id": "antam-mind-id"
         }
       ],
       "id": "UC0035"
@@ -8866,6 +9062,14 @@
         {
           "type": "npi-dossier",
           "id": "tsingshan-customer"
+        },
+        {
+          "type": "group",
+          "id": "tsingshan"
+        },
+        {
+          "type": "group",
+          "id": "antam-mind-id"
         }
       ],
       "id": "UC0036"
@@ -8939,6 +9143,18 @@
         {
           "type": "project",
           "id": "MHP032"
+        },
+        {
+          "type": "group",
+          "id": "harita-nickel"
+        },
+        {
+          "type": "group",
+          "id": "lygend-resources"
+        },
+        {
+          "type": "group",
+          "id": "excellen-silo"
         }
       ],
       "id": "UC0039"
@@ -8973,6 +9189,10 @@
         },
         {
           "type": "npi-parent",
+          "id": "weiming"
+        },
+        {
+          "type": "group",
           "id": "weiming"
         }
       ],
@@ -9023,6 +9243,10 @@
         {
           "type": "npi-dossier",
           "id": "tsingshan-customer"
+        },
+        {
+          "type": "group",
+          "id": "tsingshan"
         }
       ],
       "id": "UC0041"
@@ -9129,6 +9353,14 @@
         {
           "type": "npi-dossier",
           "id": "guizhou-cngr-resource-recycling"
+        },
+        {
+          "type": "group",
+          "id": "cngr"
+        },
+        {
+          "type": "group",
+          "id": "delong"
         }
       ],
       "id": "UC0043"
@@ -9147,6 +9379,14 @@
         {
           "type": "project",
           "id": "MHP011"
+        },
+        {
+          "type": "group",
+          "id": "catl-brunp"
+        },
+        {
+          "type": "group",
+          "id": "tsingshan"
         }
       ],
       "id": "UC0044"
@@ -9180,6 +9420,10 @@
         },
         {
           "type": "npi-parent",
+          "id": "kfi-investment-group"
+        },
+        {
+          "type": "group",
           "id": "kfi-investment-group"
         }
       ],
@@ -9234,6 +9478,10 @@
         {
           "type": "park",
           "id": "java"
+        },
+        {
+          "type": "group",
+          "id": "gebe"
         }
       ],
       "id": "UC0047"
@@ -9262,6 +9510,10 @@
         },
         {
           "type": "npi-parent",
+          "id": "kfi-investment-group"
+        },
+        {
+          "type": "group",
           "id": "kfi-investment-group"
         }
       ],
@@ -9292,6 +9544,10 @@
         {
           "type": "npi-parent",
           "id": "kfi-investment-group"
+        },
+        {
+          "type": "group",
+          "id": "kfi-investment-group"
         }
       ],
       "id": "UC0049"
@@ -9312,6 +9568,10 @@
       "links": [
         {
           "type": "npi-parent",
+          "id": "harita-nickel"
+        },
+        {
+          "type": "group",
           "id": "harita-nickel"
         }
       ],
@@ -9426,6 +9686,10 @@
         {
           "type": "npi-parent",
           "id": "kfi-investment-group"
+        },
+        {
+          "type": "group",
+          "id": "kfi-investment-group"
         }
       ],
       "id": "UC0054"
@@ -9465,6 +9729,14 @@
         {
           "type": "topic",
           "id": "nickel-sulphate"
+        },
+        {
+          "type": "group",
+          "id": "catl-brunp"
+        },
+        {
+          "type": "group",
+          "id": "tsingshan"
         }
       ],
       "id": "UC0056"
@@ -9487,6 +9759,14 @@
         {
           "type": "topic",
           "id": "refined-nickel"
+        },
+        {
+          "type": "group",
+          "id": "catl-brunp"
+        },
+        {
+          "type": "group",
+          "id": "tsingshan"
         }
       ],
       "id": "UC0057"
@@ -9513,6 +9793,18 @@
         {
           "type": "project",
           "id": "CN154"
+        },
+        {
+          "type": "group",
+          "id": "catl-brunp"
+        },
+        {
+          "type": "group",
+          "id": "tsingshan"
+        },
+        {
+          "type": "group",
+          "id": "gem"
         }
       ],
       "id": "UC0058"
@@ -9531,6 +9823,14 @@
         {
           "type": "project",
           "id": "MHP011"
+        },
+        {
+          "type": "group",
+          "id": "catl-brunp"
+        },
+        {
+          "type": "group",
+          "id": "tsingshan"
         }
       ],
       "id": "UC0059"
@@ -9547,6 +9847,14 @@
         {
           "type": "project",
           "id": "MHP011"
+        },
+        {
+          "type": "group",
+          "id": "catl-brunp"
+        },
+        {
+          "type": "group",
+          "id": "tsingshan"
         }
       ],
       "id": "UC0060"
@@ -9598,6 +9906,10 @@
         {
           "type": "npi-dossier",
           "id": "zhenshi-customer"
+        },
+        {
+          "type": "group",
+          "id": "zhenshi"
         }
       ],
       "id": "UC0062"
@@ -9671,6 +9983,14 @@
         {
           "type": "npi-dossier",
           "id": "cfhi-customer"
+        },
+        {
+          "type": "group",
+          "id": "delong"
+        },
+        {
+          "type": "group",
+          "id": "cfhi"
         }
       ],
       "id": "UC0065"
@@ -9728,6 +10048,18 @@
         {
           "type": "project",
           "id": "RF003"
+        },
+        {
+          "type": "group",
+          "id": "huayou"
+        },
+        {
+          "type": "group",
+          "id": "gundrak-perlux"
+        },
+        {
+          "type": "group",
+          "id": "strive"
         }
       ],
       "id": "UC0068"
@@ -9802,6 +10134,10 @@
         {
           "type": "source",
           "id": "S116"
+        },
+        {
+          "type": "group",
+          "id": "ceria-corp"
         }
       ],
       "id": "UC0071"
@@ -9859,6 +10195,10 @@
         {
           "type": "park",
           "id": "north-morowali-other"
+        },
+        {
+          "type": "group",
+          "id": "everde"
         }
       ],
       "id": "UC0073"
@@ -9897,6 +10237,10 @@
         {
           "type": "npi-dossier",
           "id": "huayou-hongkong"
+        },
+        {
+          "type": "group",
+          "id": "huayou"
         }
       ],
       "id": "UC0074"
@@ -9952,6 +10296,10 @@
         {
           "type": "npi-dossier",
           "id": "zhenshi-customer"
+        },
+        {
+          "type": "group",
+          "id": "zhenshi"
         }
       ],
       "id": "UC0075"
@@ -9994,6 +10342,10 @@
         {
           "type": "npi-dossier",
           "id": "weiming-shengqing"
+        },
+        {
+          "type": "group",
+          "id": "weiming"
         }
       ],
       "id": "UC0076"
@@ -10024,6 +10376,22 @@
         {
           "type": "project",
           "id": "MHP015"
+        },
+        {
+          "type": "group",
+          "id": "catl-brunp"
+        },
+        {
+          "type": "group",
+          "id": "tsingshan"
+        },
+        {
+          "type": "group",
+          "id": "gem"
+        },
+        {
+          "type": "group",
+          "id": "ecopro"
         }
       ],
       "id": "UC0077"
@@ -10061,6 +10429,26 @@
         {
           "type": "project",
           "id": "MHP015"
+        },
+        {
+          "type": "group",
+          "id": "catl-brunp"
+        },
+        {
+          "type": "group",
+          "id": "tsingshan"
+        },
+        {
+          "type": "group",
+          "id": "merdeka-battery-materials"
+        },
+        {
+          "type": "group",
+          "id": "gem"
+        },
+        {
+          "type": "group",
+          "id": "ecopro"
         }
       ],
       "id": "UC0078"
@@ -10077,6 +10465,14 @@
         {
           "type": "project",
           "id": "MHP011"
+        },
+        {
+          "type": "group",
+          "id": "catl-brunp"
+        },
+        {
+          "type": "group",
+          "id": "tsingshan"
         }
       ],
       "id": "UC0079"
@@ -10109,6 +10505,10 @@
         {
           "type": "park",
           "id": "global-philippines"
+        },
+        {
+          "type": "group",
+          "id": "smm"
         }
       ],
       "id": "UC0080"
@@ -10143,6 +10543,10 @@
         },
         {
           "type": "npi-parent",
+          "id": "weiming"
+        },
+        {
+          "type": "group",
           "id": "weiming"
         }
       ],
@@ -10199,6 +10603,10 @@
         {
           "type": "npi-dossier",
           "id": "weiming-shengqing"
+        },
+        {
+          "type": "group",
+          "id": "weiming"
         }
       ],
       "id": "UC0083"
@@ -10241,6 +10649,10 @@
         {
           "type": "project",
           "id": "P11"
+        },
+        {
+          "type": "group",
+          "id": "jinchuan"
         }
       ],
       "id": "UC0085"
@@ -10275,6 +10687,10 @@
         {
           "type": "npi-parent",
           "id": "antam-mind-id"
+        },
+        {
+          "type": "group",
+          "id": "antam-mind-id"
         }
       ],
       "id": "UC0086"
@@ -10305,6 +10721,10 @@
         {
           "type": "npi-parent",
           "id": "antam-mind-id"
+        },
+        {
+          "type": "group",
+          "id": "antam-mind-id"
         }
       ],
       "id": "UC0087"
@@ -10333,6 +10753,10 @@
         },
         {
           "type": "npi-parent",
+          "id": "kalla-bukaka"
+        },
+        {
+          "type": "group",
           "id": "kalla-bukaka"
         }
       ],
@@ -10363,6 +10787,10 @@
         {
           "type": "park",
           "id": "global-new-caledonia"
+        },
+        {
+          "type": "group",
+          "id": "prony"
         }
       ],
       "id": "UC0089"
@@ -10379,6 +10807,14 @@
         {
           "type": "project",
           "id": "MHP003"
+        },
+        {
+          "type": "group",
+          "id": "harita-nickel"
+        },
+        {
+          "type": "group",
+          "id": "lygend-resources"
         }
       ],
       "id": "UC0090"
@@ -10408,6 +10844,26 @@
         {
           "type": "project",
           "id": "MHP014"
+        },
+        {
+          "type": "group",
+          "id": "catl-brunp"
+        },
+        {
+          "type": "group",
+          "id": "tsingshan"
+        },
+        {
+          "type": "group",
+          "id": "merdeka-battery-materials"
+        },
+        {
+          "type": "group",
+          "id": "gem"
+        },
+        {
+          "type": "group",
+          "id": "ecopro"
         }
       ],
       "id": "UC0091"
@@ -10451,6 +10907,10 @@
         {
           "type": "npi-parent",
           "id": "delong"
+        },
+        {
+          "type": "group",
+          "id": "delong"
         }
       ],
       "id": "UC0092"
@@ -10485,6 +10945,10 @@
         {
           "type": "npi-parent",
           "id": "delong"
+        },
+        {
+          "type": "group",
+          "id": "delong"
         }
       ],
       "id": "UC0093"
@@ -10516,6 +10980,10 @@
         },
         {
           "type": "npi-parent",
+          "id": "huadi-unity"
+        },
+        {
+          "type": "group",
           "id": "huadi-unity"
         }
       ],
@@ -10559,6 +11027,10 @@
         },
         {
           "type": "npi-parent",
+          "id": "huadi-unity"
+        },
+        {
+          "type": "group",
           "id": "huadi-unity"
         }
       ],
@@ -10653,6 +11125,10 @@
         {
           "type": "park",
           "id": "wolo"
+        },
+        {
+          "type": "group",
+          "id": "ceria-corp"
         }
       ],
       "id": "UC0099"
@@ -10689,6 +11165,14 @@
         },
         {
           "type": "npi-parent",
+          "id": "delong"
+        },
+        {
+          "type": "group",
+          "id": "xiangyu"
+        },
+        {
+          "type": "group",
           "id": "delong"
         }
       ],
@@ -10765,6 +11249,10 @@
         {
           "type": "npi-parent",
           "id": "qingdao-city-investment"
+        },
+        {
+          "type": "group",
+          "id": "qingdao-city-investment"
         }
       ],
       "id": "UC0103"
@@ -10826,6 +11314,14 @@
         {
           "type": "npi-parent",
           "id": "delong"
+        },
+        {
+          "type": "group",
+          "id": "cngr"
+        },
+        {
+          "type": "group",
+          "id": "delong"
         }
       ],
       "id": "UC0105"
@@ -10854,6 +11350,10 @@
         },
         {
           "type": "npi-parent",
+          "id": "catl-brunp"
+        },
+        {
+          "type": "group",
           "id": "catl-brunp"
         }
       ],
@@ -10896,6 +11396,18 @@
         {
           "type": "project",
           "id": "RF003"
+        },
+        {
+          "type": "group",
+          "id": "huayou"
+        },
+        {
+          "type": "group",
+          "id": "gundrak-perlux"
+        },
+        {
+          "type": "group",
+          "id": "strive"
         }
       ],
       "id": "UC0108"
@@ -10937,6 +11449,18 @@
         {
           "type": "project",
           "id": "RF002"
+        },
+        {
+          "type": "group",
+          "id": "huayou"
+        },
+        {
+          "type": "group",
+          "id": "gundrak-perlux"
+        },
+        {
+          "type": "group",
+          "id": "seah"
         }
       ],
       "id": "UC0110"
@@ -10971,6 +11495,10 @@
         {
           "type": "project",
           "id": "NPI055"
+        },
+        {
+          "type": "group",
+          "id": "shengtun-mining"
         }
       ],
       "id": "UC0111"
@@ -11003,6 +11531,14 @@
         {
           "type": "project",
           "id": "RF001"
+        },
+        {
+          "type": "group",
+          "id": "cngr"
+        },
+        {
+          "type": "group",
+          "id": "rigqueza"
         }
       ],
       "id": "UC0113"
@@ -11069,6 +11605,10 @@
         {
           "type": "npi-dossier",
           "id": "tsingshan-customer"
+        },
+        {
+          "type": "group",
+          "id": "tsingshan"
         }
       ],
       "id": "UC0116"
@@ -11134,6 +11674,10 @@
         {
           "type": "npi-dossier",
           "id": "tsingshan-customer"
+        },
+        {
+          "type": "group",
+          "id": "tsingshan"
         }
       ],
       "id": "UC0118"
@@ -11209,6 +11753,10 @@
         {
           "type": "npi-dossier",
           "id": "tsingshan-customer"
+        },
+        {
+          "type": "group",
+          "id": "tsingshan"
         }
       ],
       "id": "UC0120"
@@ -11253,6 +11801,10 @@
         },
         {
           "type": "npi-parent",
+          "id": "kalla-bukaka"
+        },
+        {
+          "type": "group",
           "id": "kalla-bukaka"
         }
       ],
@@ -11338,6 +11890,10 @@
         {
           "type": "project",
           "id": "MHP016"
+        },
+        {
+          "type": "group",
+          "id": "gebe"
         }
       ],
       "id": "UC0124"
@@ -11367,6 +11923,10 @@
         },
         {
           "type": "npi-parent",
+          "id": "cngr"
+        },
+        {
+          "type": "group",
           "id": "cngr"
         }
       ],
@@ -11406,6 +11966,10 @@
         {
           "type": "project",
           "id": "NPI008"
+        },
+        {
+          "type": "group",
+          "id": "huayou"
         }
       ],
       "id": "UC0126"
@@ -11670,6 +12234,22 @@
         {
           "type": "npi-dossier",
           "id": "zhenshi-customer"
+        },
+        {
+          "type": "group",
+          "id": "catl-brunp"
+        },
+        {
+          "type": "group",
+          "id": "zhenshi"
+        },
+        {
+          "type": "group",
+          "id": "cngr"
+        },
+        {
+          "type": "group",
+          "id": "huayou"
         }
       ],
       "id": "UC0127"
@@ -11698,6 +12278,10 @@
         },
         {
           "type": "npi-parent",
+          "id": "kfi-investment-group"
+        },
+        {
+          "type": "group",
           "id": "kfi-investment-group"
         }
       ],
@@ -11736,6 +12320,14 @@
         {
           "type": "npi-dossier",
           "id": "tsingshan-customer"
+        },
+        {
+          "type": "group",
+          "id": "tsingshan"
+        },
+        {
+          "type": "group",
+          "id": "antam-mind-id"
         }
       ],
       "id": "UC0129"
@@ -11760,6 +12352,10 @@
         {
           "type": "project",
           "id": "NPI053"
+        },
+        {
+          "type": "group",
+          "id": "vale-gem-bnsi"
         }
       ],
       "id": "UC0130"
@@ -11792,6 +12388,10 @@
         {
           "type": "park",
           "id": "global-australia"
+        },
+        {
+          "type": "group",
+          "id": "wingstar"
         }
       ],
       "id": "UC0131"
@@ -11820,6 +12420,10 @@
         {
           "type": "project",
           "id": "MHP033"
+        },
+        {
+          "type": "group",
+          "id": "ceria-corp"
         }
       ],
       "id": "UC0132"
@@ -11838,6 +12442,10 @@
         {
           "type": "source",
           "id": "S120"
+        },
+        {
+          "type": "group",
+          "id": "antam-mind-id"
         }
       ],
       "id": "UC0133"
@@ -11880,6 +12488,14 @@
         {
           "type": "npi-parent",
           "id": "lygend-resources"
+        },
+        {
+          "type": "group",
+          "id": "harita-nickel"
+        },
+        {
+          "type": "group",
+          "id": "lygend-resources"
         }
       ],
       "id": "UC0134"
@@ -11904,6 +12520,10 @@
         {
           "type": "project",
           "id": "MHP009"
+        },
+        {
+          "type": "group",
+          "id": "gebe"
         }
       ],
       "id": "UC0135"
@@ -11937,6 +12557,10 @@
         {
           "type": "npi-dossier",
           "id": "zhenshi-customer"
+        },
+        {
+          "type": "group",
+          "id": "zhenshi"
         }
       ],
       "id": "UC0136"
@@ -11958,6 +12582,14 @@
         {
           "type": "project",
           "id": "NPI062"
+        },
+        {
+          "type": "group",
+          "id": "kalla-bukaka"
+        },
+        {
+          "type": "group",
+          "id": "posco-holdings-nicole"
         }
       ],
       "id": "UC0137"
@@ -11974,6 +12606,14 @@
         {
           "type": "project",
           "id": "NPI062"
+        },
+        {
+          "type": "group",
+          "id": "kalla-bukaka"
+        },
+        {
+          "type": "group",
+          "id": "posco-holdings-nicole"
         }
       ],
       "id": "UC0138"
@@ -12003,6 +12643,10 @@
         {
           "type": "npi-parent",
           "id": "huayou"
+        },
+        {
+          "type": "group",
+          "id": "huayou"
         }
       ],
       "id": "UC0139"
@@ -12029,6 +12673,14 @@
         {
           "type": "park",
           "id": "luwu"
+        },
+        {
+          "type": "group",
+          "id": "kalla-bukaka"
+        },
+        {
+          "type": "group",
+          "id": "posco-holdings-nicole"
         }
       ],
       "id": "UC0140"
@@ -12054,6 +12706,14 @@
         {
           "type": "project",
           "id": "MHP015"
+        },
+        {
+          "type": "group",
+          "id": "gem"
+        },
+        {
+          "type": "group",
+          "id": "ecopro"
         }
       ],
       "id": "UC0141"
@@ -12197,6 +12857,10 @@
         {
           "type": "npi-dossier",
           "id": "shanghai-decent"
+        },
+        {
+          "type": "group",
+          "id": "nickel-industries"
         }
       ],
       "id": "UC0146"
@@ -12366,6 +13030,10 @@
         {
           "type": "project",
           "id": "MHP010"
+        },
+        {
+          "type": "group",
+          "id": "tgem"
         }
       ],
       "id": "UC0153"
@@ -12389,6 +13057,10 @@
         {
           "type": "project",
           "id": "P31"
+        },
+        {
+          "type": "group",
+          "id": "dowstone"
         }
       ],
       "id": "UC0154"
@@ -12423,6 +13095,10 @@
         },
         {
           "type": "npi-parent",
+          "id": "shengtun-mining"
+        },
+        {
+          "type": "group",
           "id": "shengtun-mining"
         }
       ],
@@ -12508,6 +13184,14 @@
         {
           "type": "npi-dossier",
           "id": "tsingshan-customer"
+        },
+        {
+          "type": "group",
+          "id": "tsingshan"
+        },
+        {
+          "type": "group",
+          "id": "merdeka-battery-materials"
         }
       ],
       "id": "UC0158"
@@ -12571,6 +13255,14 @@
         {
           "type": "npi-dossier",
           "id": "tsingshan-customer"
+        },
+        {
+          "type": "group",
+          "id": "tsingshan"
+        },
+        {
+          "type": "group",
+          "id": "merdeka-battery-materials"
         }
       ],
       "id": "UC0160"
@@ -12617,6 +13309,14 @@
         {
           "type": "npi-dossier",
           "id": "tsingshan-customer"
+        },
+        {
+          "type": "group",
+          "id": "tsingshan"
+        },
+        {
+          "type": "group",
+          "id": "merdeka-battery-materials"
         }
       ],
       "id": "UC0161"
@@ -12643,6 +13343,10 @@
         {
           "type": "park",
           "id": "global-turkey"
+        },
+        {
+          "type": "group",
+          "id": "zorlu"
         }
       ],
       "id": "UC0162"
@@ -12671,6 +13375,10 @@
         },
         {
           "type": "npi-parent",
+          "id": "antam-mind-id"
+        },
+        {
+          "type": "group",
           "id": "antam-mind-id"
         }
       ],
@@ -12706,6 +13414,10 @@
         },
         {
           "type": "npi-parent",
+          "id": "antam-mind-id"
+        },
+        {
+          "type": "group",
           "id": "antam-mind-id"
         }
       ],
@@ -12751,6 +13463,10 @@
         },
         {
           "type": "npi-parent",
+          "id": "vale-gem-bnsi"
+        },
+        {
+          "type": "group",
           "id": "vale-gem-bnsi"
         }
       ],
@@ -12844,6 +13560,14 @@
         {
           "type": "npi-dossier",
           "id": "cfhi-customer"
+        },
+        {
+          "type": "group",
+          "id": "delong"
+        },
+        {
+          "type": "group",
+          "id": "cfhi"
         }
       ],
       "id": "UC0169"
@@ -12929,6 +13653,10 @@
         {
           "type": "project",
           "id": "P38"
+        },
+        {
+          "type": "group",
+          "id": "shengtun-mining"
         }
       ],
       "id": "UC0173"
@@ -12980,6 +13708,14 @@
         {
           "type": "npi-dossier",
           "id": "huayou-hongkong"
+        },
+        {
+          "type": "group",
+          "id": "huayou"
+        },
+        {
+          "type": "group",
+          "id": "shengtun-mining"
         }
       ],
       "id": "UC0174"
@@ -13010,6 +13746,10 @@
         {
           "type": "mhp-source",
           "id": "MS107"
+        },
+        {
+          "type": "group",
+          "id": "huayou"
         }
       ],
       "id": "UC0175"
@@ -13035,6 +13775,14 @@
         {
           "type": "project",
           "id": "MHP008"
+        },
+        {
+          "type": "group",
+          "id": "huayou"
+        },
+        {
+          "type": "group",
+          "id": "tsingshan"
         }
       ],
       "id": "UC0176"
@@ -13077,6 +13825,14 @@
         {
           "type": "npi-parent",
           "id": "lygend-resources"
+        },
+        {
+          "type": "group",
+          "id": "harita-nickel"
+        },
+        {
+          "type": "group",
+          "id": "lygend-resources"
         }
       ],
       "id": "UC0177"
@@ -13111,6 +13867,10 @@
         },
         {
           "type": "npi-parent",
+          "id": "cngr"
+        },
+        {
+          "type": "group",
           "id": "cngr"
         }
       ],
@@ -13234,6 +13994,10 @@
         {
           "type": "npi-parent",
           "id": "shengtun-mining"
+        },
+        {
+          "type": "group",
+          "id": "shengtun-mining"
         }
       ],
       "id": "UC0184"
@@ -13276,6 +14040,10 @@
         {
           "type": "project",
           "id": "MHP026"
+        },
+        {
+          "type": "group",
+          "id": "neo-energy"
         }
       ],
       "id": "UC0186"
@@ -13305,6 +14073,10 @@
         {
           "type": "park",
           "id": "nemie"
+        },
+        {
+          "type": "group",
+          "id": "neo-energy"
         }
       ],
       "id": "UC0187"
@@ -13321,6 +14093,10 @@
         {
           "type": "source",
           "id": "S118"
+        },
+        {
+          "type": "group",
+          "id": "ceria-corp"
         }
       ],
       "id": "UC0188"
@@ -13359,6 +14135,10 @@
         {
           "type": "npi-dossier",
           "id": "zhenshi-customer"
+        },
+        {
+          "type": "group",
+          "id": "zhenshi"
         }
       ],
       "id": "UC0189"
@@ -13436,6 +14216,10 @@
         {
           "type": "npi-parent",
           "id": "posco-holdings-nicole"
+        },
+        {
+          "type": "group",
+          "id": "posco-holdings-nicole"
         }
       ],
       "id": "UC0192"
@@ -13456,6 +14240,10 @@
         {
           "type": "park",
           "id": "global-png"
+        },
+        {
+          "type": "group",
+          "id": "mcc-ramu"
         }
       ],
       "id": "UC0193"
@@ -13504,6 +14292,10 @@
         {
           "type": "park",
           "id": "global-png"
+        },
+        {
+          "type": "group",
+          "id": "mcc-ramu"
         }
       ],
       "id": "UC0195"
@@ -13561,6 +14353,10 @@
         {
           "type": "park",
           "id": "global-philippines"
+        },
+        {
+          "type": "group",
+          "id": "smm"
         }
       ],
       "id": "UC0197"
@@ -13584,6 +14380,14 @@
         {
           "type": "topic",
           "id": "wet-refining"
+        },
+        {
+          "type": "group",
+          "id": "nickel-industries"
+        },
+        {
+          "type": "group",
+          "id": "tsingshan"
         }
       ],
       "id": "UC0198"
@@ -13600,6 +14404,14 @@
         {
           "type": "project",
           "id": "MHP017"
+        },
+        {
+          "type": "group",
+          "id": "nickel-industries"
+        },
+        {
+          "type": "group",
+          "id": "tsingshan"
         }
       ],
       "id": "UC0199"
@@ -13685,6 +14497,22 @@
         {
           "type": "npi-dossier",
           "id": "tsingshan-customer"
+        },
+        {
+          "type": "group",
+          "id": "huayou"
+        },
+        {
+          "type": "group",
+          "id": "nickel-industries"
+        },
+        {
+          "type": "group",
+          "id": "tsingshan"
+        },
+        {
+          "type": "group",
+          "id": "ls-mnm"
         }
       ],
       "id": "UC0200"
@@ -13709,6 +14537,14 @@
         {
           "type": "project",
           "id": "MHP006"
+        },
+        {
+          "type": "group",
+          "id": "huayou"
+        },
+        {
+          "type": "group",
+          "id": "nickel-industries"
         }
       ],
       "id": "UC0201"
@@ -13745,6 +14581,10 @@
         {
           "type": "npi-parent",
           "id": "nickel-industries"
+        },
+        {
+          "type": "group",
+          "id": "nickel-industries"
         }
       ],
       "id": "UC0202"
@@ -13773,6 +14613,18 @@
         {
           "type": "project",
           "id": "MHP029"
+        },
+        {
+          "type": "group",
+          "id": "nickel-industries"
+        },
+        {
+          "type": "group",
+          "id": "tsingshan"
+        },
+        {
+          "type": "group",
+          "id": "ls-mnm"
         }
       ],
       "id": "UC0203"
@@ -13797,6 +14649,14 @@
         {
           "type": "project",
           "id": "MHP028"
+        },
+        {
+          "type": "group",
+          "id": "nickel-industries"
+        },
+        {
+          "type": "group",
+          "id": "tsingshan"
         }
       ],
       "id": "UC0204"
@@ -13823,6 +14683,14 @@
         {
           "type": "project",
           "id": "MHP017"
+        },
+        {
+          "type": "group",
+          "id": "nickel-industries"
+        },
+        {
+          "type": "group",
+          "id": "tsingshan"
         }
       ],
       "id": "UC0205"
@@ -13878,6 +14746,10 @@
         {
           "type": "npi-parent",
           "id": "nickel-industries"
+        },
+        {
+          "type": "group",
+          "id": "nickel-industries"
         }
       ],
       "id": "UC0206"
@@ -13904,6 +14776,14 @@
         {
           "type": "project",
           "id": "MHP017"
+        },
+        {
+          "type": "group",
+          "id": "nickel-industries"
+        },
+        {
+          "type": "group",
+          "id": "tsingshan"
         }
       ],
       "id": "UC0207"
@@ -13928,6 +14808,14 @@
         {
           "type": "project",
           "id": "MHP006"
+        },
+        {
+          "type": "group",
+          "id": "huayou"
+        },
+        {
+          "type": "group",
+          "id": "nickel-industries"
         }
       ],
       "id": "UC0208"
@@ -13955,6 +14843,14 @@
         {
           "type": "project",
           "id": "MHP017"
+        },
+        {
+          "type": "group",
+          "id": "nickel-industries"
+        },
+        {
+          "type": "group",
+          "id": "tsingshan"
         }
       ],
       "id": "UC0209"
@@ -13984,6 +14880,10 @@
         {
           "type": "npi-parent",
           "id": "nickel-industries"
+        },
+        {
+          "type": "group",
+          "id": "nickel-industries"
         }
       ],
       "id": "UC0210"
@@ -14009,6 +14909,10 @@
         {
           "type": "npi-dossier",
           "id": "angel-capital"
+        },
+        {
+          "type": "group",
+          "id": "nickel-industries"
         }
       ],
       "id": "UC0211"
@@ -14044,6 +14948,10 @@
         {
           "type": "npi-parent",
           "id": "nickel-industries"
+        },
+        {
+          "type": "group",
+          "id": "nickel-industries"
         }
       ],
       "id": "UC0212"
@@ -14069,6 +14977,14 @@
         {
           "type": "project",
           "id": "MHP006"
+        },
+        {
+          "type": "group",
+          "id": "huayou"
+        },
+        {
+          "type": "group",
+          "id": "nickel-industries"
         }
       ],
       "id": "UC0213"
@@ -14104,6 +15020,10 @@
         {
           "type": "npi-parent",
           "id": "nickel-industries"
+        },
+        {
+          "type": "group",
+          "id": "nickel-industries"
         }
       ],
       "id": "UC0214"
@@ -14120,6 +15040,14 @@
         {
           "type": "project",
           "id": "MHP017"
+        },
+        {
+          "type": "group",
+          "id": "nickel-industries"
+        },
+        {
+          "type": "group",
+          "id": "tsingshan"
         }
       ],
       "id": "UC0215"
@@ -14136,6 +15064,14 @@
         {
           "type": "project",
           "id": "MHP017"
+        },
+        {
+          "type": "group",
+          "id": "nickel-industries"
+        },
+        {
+          "type": "group",
+          "id": "tsingshan"
         }
       ],
       "id": "UC0216"
@@ -14154,6 +15090,10 @@
         {
           "type": "source",
           "id": "S136"
+        },
+        {
+          "type": "group",
+          "id": "nickel-industries"
         }
       ],
       "id": "UC0217"
@@ -14219,6 +15159,10 @@
         {
           "type": "npi-parent",
           "id": "nickel-industries"
+        },
+        {
+          "type": "group",
+          "id": "nickel-industries"
         }
       ],
       "id": "UC0219"
@@ -14264,6 +15208,14 @@
         {
           "type": "topic",
           "id": "wet-refining"
+        },
+        {
+          "type": "group",
+          "id": "nickel-industries"
+        },
+        {
+          "type": "group",
+          "id": "tsingshan"
         }
       ],
       "id": "UC0221"
@@ -14292,6 +15244,10 @@
         },
         {
           "type": "npi-parent",
+          "id": "kfi-investment-group"
+        },
+        {
+          "type": "group",
           "id": "kfi-investment-group"
         }
       ],
@@ -14325,6 +15281,10 @@
         {
           "type": "park",
           "id": "global-australia"
+        },
+        {
+          "type": "group",
+          "id": "wingstar"
         }
       ],
       "id": "UC0223"
@@ -14402,6 +15362,10 @@
         {
           "type": "npi-dossier",
           "id": "jindal-stainless-customer"
+        },
+        {
+          "type": "group",
+          "id": "jindal-stainless"
         }
       ],
       "id": "UC0225"
@@ -14443,6 +15407,10 @@
         {
           "type": "npi-dossier",
           "id": "xiangsheng"
+        },
+        {
+          "type": "group",
+          "id": "xiangyu"
         }
       ],
       "id": "UC0227"
@@ -14491,6 +15459,14 @@
         {
           "type": "npi-dossier",
           "id": "xiangzheng"
+        },
+        {
+          "type": "group",
+          "id": "xiangyu"
+        },
+        {
+          "type": "group",
+          "id": "delong"
         }
       ],
       "id": "UC0228"
@@ -14572,6 +15548,14 @@
         {
           "type": "npi-dossier",
           "id": "cfhi-customer"
+        },
+        {
+          "type": "group",
+          "id": "delong"
+        },
+        {
+          "type": "group",
+          "id": "cfhi"
         }
       ],
       "id": "UC0231"
@@ -14608,6 +15592,10 @@
         {
           "type": "npi-dossier",
           "id": "hongkong-brunp-catl"
+        },
+        {
+          "type": "group",
+          "id": "catl-brunp"
         }
       ],
       "id": "UC0232"
@@ -14681,6 +15669,10 @@
         {
           "type": "npi-parent",
           "id": "qingdao-city-investment"
+        },
+        {
+          "type": "group",
+          "id": "qingdao-city-investment"
         }
       ],
       "id": "UC0235"
@@ -14737,6 +15729,10 @@
         {
           "type": "npi-dossier",
           "id": "zhenshi-customer"
+        },
+        {
+          "type": "group",
+          "id": "zhenshi"
         }
       ],
       "id": "UC0236"
@@ -14805,6 +15801,14 @@
         {
           "type": "npi-parent",
           "id": "delong"
+        },
+        {
+          "type": "group",
+          "id": "xiangyu"
+        },
+        {
+          "type": "group",
+          "id": "delong"
         }
       ],
       "id": "UC0238"
@@ -14846,6 +15850,14 @@
         {
           "type": "project",
           "id": "MHP003"
+        },
+        {
+          "type": "group",
+          "id": "harita-nickel"
+        },
+        {
+          "type": "group",
+          "id": "lygend-resources"
         }
       ],
       "id": "UC0240"
@@ -14924,6 +15936,14 @@
         {
           "type": "npi-dossier",
           "id": "zhenshi-customer"
+        },
+        {
+          "type": "group",
+          "id": "catl-brunp"
+        },
+        {
+          "type": "group",
+          "id": "zhenshi"
         }
       ],
       "id": "UC0243"
@@ -14952,6 +15972,10 @@
         },
         {
           "type": "npi-parent",
+          "id": "qingdao-city-investment"
+        },
+        {
+          "type": "group",
           "id": "qingdao-city-investment"
         }
       ],
@@ -15073,6 +16097,10 @@
         {
           "type": "npi-dossier",
           "id": "ruipu-eternal"
+        },
+        {
+          "type": "group",
+          "id": "tsingshan"
         }
       ],
       "id": "UC0249"
@@ -15240,6 +16268,34 @@
         {
           "type": "npi-dossier",
           "id": "zhenshi-customer"
+        },
+        {
+          "type": "group",
+          "id": "zhenshi"
+        },
+        {
+          "type": "group",
+          "id": "cngr"
+        },
+        {
+          "type": "group",
+          "id": "huayou"
+        },
+        {
+          "type": "group",
+          "id": "tsingshan"
+        },
+        {
+          "type": "group",
+          "id": "jinchuan"
+        },
+        {
+          "type": "group",
+          "id": "antam-mind-id"
+        },
+        {
+          "type": "group",
+          "id": "jindal-stainless"
         }
       ],
       "id": "UC0252"
@@ -15334,6 +16390,10 @@
         {
           "type": "project",
           "id": "GL103"
+        },
+        {
+          "type": "group",
+          "id": "sherritt-moa"
         }
       ],
       "id": "UC0255"
@@ -15371,6 +16431,10 @@
         {
           "type": "project",
           "id": "GL123"
+        },
+        {
+          "type": "group",
+          "id": "sherritt-moa"
         }
       ],
       "id": "UC0256"
@@ -15425,6 +16489,10 @@
         {
           "type": "npi-parent",
           "id": "harita-nickel"
+        },
+        {
+          "type": "group",
+          "id": "harita-nickel"
         }
       ],
       "id": "UC0258"
@@ -15454,6 +16522,10 @@
         {
           "type": "npi-dossier",
           "id": "qingdao-chengtai"
+        },
+        {
+          "type": "group",
+          "id": "qingdao-city-investment"
         }
       ],
       "id": "UC0259"
@@ -15482,6 +16554,10 @@
         },
         {
           "type": "npi-parent",
+          "id": "qingdao-city-investment"
+        },
+        {
+          "type": "group",
           "id": "qingdao-city-investment"
         }
       ],
@@ -15517,6 +16593,10 @@
         },
         {
           "type": "npi-parent",
+          "id": "weiming"
+        },
+        {
+          "type": "group",
           "id": "weiming"
         }
       ],
@@ -15556,6 +16636,10 @@
         },
         {
           "type": "npi-parent",
+          "id": "cngr"
+        },
+        {
+          "type": "group",
           "id": "cngr"
         }
       ],
@@ -15612,6 +16696,10 @@
         {
           "type": "npi-dossier",
           "id": "weiming-shengqing"
+        },
+        {
+          "type": "group",
+          "id": "weiming"
         }
       ],
       "id": "UC0264"
@@ -15643,6 +16731,10 @@
         {
           "type": "topic",
           "id": "nickel-sulphate"
+        },
+        {
+          "type": "group",
+          "id": "huayou"
         }
       ],
       "id": "UC0265"
@@ -15666,6 +16758,10 @@
         {
           "type": "project",
           "id": "P25"
+        },
+        {
+          "type": "group",
+          "id": "hanrui"
         }
       ],
       "id": "UC0266"
@@ -15718,6 +16814,10 @@
         {
           "type": "project",
           "id": "MHP027"
+        },
+        {
+          "type": "group",
+          "id": "cngr"
         }
       ],
       "id": "UC0268"
@@ -15759,6 +16859,10 @@
         {
           "type": "npi-dossier",
           "id": "guangxi-bamo"
+        },
+        {
+          "type": "group",
+          "id": "huayou"
         }
       ],
       "id": "UC0269"
@@ -15844,6 +16948,10 @@
         {
           "type": "npi-dossier",
           "id": "xiangzheng"
+        },
+        {
+          "type": "group",
+          "id": "xiangyu"
         }
       ],
       "id": "UC0273"
@@ -15880,6 +16988,18 @@
         {
           "type": "project",
           "id": "RF003"
+        },
+        {
+          "type": "group",
+          "id": "huayou"
+        },
+        {
+          "type": "group",
+          "id": "gundrak-perlux"
+        },
+        {
+          "type": "group",
+          "id": "strive"
         }
       ],
       "id": "UC0275"
@@ -15968,6 +17088,10 @@
         {
           "type": "project",
           "id": "P31"
+        },
+        {
+          "type": "group",
+          "id": "dowstone"
         }
       ],
       "id": "UC0279"
@@ -15990,6 +17114,10 @@
         {
           "type": "project",
           "id": "P25"
+        },
+        {
+          "type": "group",
+          "id": "hanrui"
         }
       ],
       "id": "UC0280"
@@ -16041,6 +17169,10 @@
         {
           "type": "npi-dossier",
           "id": "qingdao-city-trade"
+        },
+        {
+          "type": "group",
+          "id": "qingdao-city-investment"
         }
       ],
       "id": "UC0282"
@@ -16095,6 +17227,10 @@
         {
           "type": "npi-dossier",
           "id": "jinchuan-customer"
+        },
+        {
+          "type": "group",
+          "id": "jinchuan"
         }
       ],
       "id": "UC0284"
@@ -16155,6 +17291,10 @@
         {
           "type": "npi-dossier",
           "id": "guizhou-cngr-resource-recycling"
+        },
+        {
+          "type": "group",
+          "id": "cngr"
         }
       ],
       "id": "UC0286"
@@ -16193,6 +17333,14 @@
         {
           "type": "project",
           "id": "MHP003"
+        },
+        {
+          "type": "group",
+          "id": "harita-nickel"
+        },
+        {
+          "type": "group",
+          "id": "lygend-resources"
         }
       ],
       "id": "UC0288"
@@ -16228,6 +17376,10 @@
         {
           "type": "group",
           "id": "seah"
+        },
+        {
+          "type": "group",
+          "id": "huayou"
         }
       ],
       "id": "UC0289"
@@ -16363,6 +17515,14 @@
         {
           "type": "npi-parent",
           "id": "harita-nickel"
+        },
+        {
+          "type": "group",
+          "id": "harita-nickel"
+        },
+        {
+          "type": "group",
+          "id": "lygend-resources"
         }
       ],
       "id": "UC0295"
@@ -16424,6 +17584,10 @@
         {
           "type": "npi-parent",
           "id": "harita-nickel"
+        },
+        {
+          "type": "group",
+          "id": "harita-nickel"
         }
       ],
       "id": "UC0298"
@@ -16468,6 +17632,10 @@
         {
           "type": "project",
           "id": "MHP010"
+        },
+        {
+          "type": "group",
+          "id": "tgem"
         }
       ],
       "id": "UC0300"
@@ -16517,6 +17685,10 @@
         {
           "type": "npi-parent",
           "id": "vale-gem-bnsi"
+        },
+        {
+          "type": "group",
+          "id": "vale-gem-bnsi"
         }
       ],
       "id": "UC0302"
@@ -16558,6 +17730,14 @@
         {
           "type": "project",
           "id": "MHP022"
+        },
+        {
+          "type": "group",
+          "id": "huayou"
+        },
+        {
+          "type": "group",
+          "id": "vale-gem-bnsi"
         }
       ],
       "id": "UC0304"
@@ -16595,6 +17775,10 @@
         {
           "type": "project",
           "id": "P12"
+        },
+        {
+          "type": "group",
+          "id": "vale-gem-bnsi"
         }
       ],
       "id": "UC0306"
@@ -16611,6 +17795,10 @@
         {
           "type": "source",
           "id": "S094"
+        },
+        {
+          "type": "group",
+          "id": "vale-gem-bnsi"
         }
       ],
       "id": "UC0307"
@@ -16661,6 +17849,10 @@
         {
           "type": "park",
           "id": "bahodopi-vale"
+        },
+        {
+          "type": "group",
+          "id": "vale-gem-bnsi"
         }
       ],
       "id": "UC0309"
@@ -16685,6 +17877,14 @@
         {
           "type": "project",
           "id": "MHP018"
+        },
+        {
+          "type": "group",
+          "id": "huayou"
+        },
+        {
+          "type": "group",
+          "id": "vale-gem-bnsi"
         }
       ],
       "id": "UC0310"
@@ -16715,6 +17915,14 @@
         {
           "type": "park",
           "id": "sorowako"
+        },
+        {
+          "type": "group",
+          "id": "huayou"
+        },
+        {
+          "type": "group",
+          "id": "vale-gem-bnsi"
         }
       ],
       "id": "UC0311"
@@ -16740,6 +17948,14 @@
         {
           "type": "project",
           "id": "MHP018"
+        },
+        {
+          "type": "group",
+          "id": "huayou"
+        },
+        {
+          "type": "group",
+          "id": "vale-gem-bnsi"
         }
       ],
       "id": "UC0312"
@@ -16780,6 +17996,14 @@
         },
         {
           "type": "npi-parent",
+          "id": "shengtun-mining"
+        },
+        {
+          "type": "group",
+          "id": "huayou"
+        },
+        {
+          "type": "group",
           "id": "shengtun-mining"
         }
       ],
@@ -16825,6 +18049,18 @@
         {
           "type": "project",
           "id": "MHP008"
+        },
+        {
+          "type": "group",
+          "id": "huayou"
+        },
+        {
+          "type": "group",
+          "id": "nickel-industries"
+        },
+        {
+          "type": "group",
+          "id": "tsingshan"
         }
       ],
       "id": "UC0315"
@@ -16865,6 +18101,10 @@
         {
           "type": "project",
           "id": "MHP031"
+        },
+        {
+          "type": "group",
+          "id": "huayou"
         }
       ],
       "id": "UC0317"
@@ -16888,6 +18128,10 @@
         {
           "type": "project",
           "id": "P31"
+        },
+        {
+          "type": "group",
+          "id": "dowstone"
         }
       ],
       "id": "UC0318"
@@ -16916,6 +18160,10 @@
         },
         {
           "type": "npi-parent",
+          "id": "huadi-unity"
+        },
+        {
+          "type": "group",
           "id": "huadi-unity"
         }
       ],
@@ -16960,6 +18208,10 @@
         {
           "type": "npi-parent",
           "id": "shengtun-mining"
+        },
+        {
+          "type": "group",
+          "id": "shengtun-mining"
         }
       ],
       "id": "UC0321"
@@ -16992,6 +18244,10 @@
         },
         {
           "type": "npi-parent",
+          "id": "huadi-unity"
+        },
+        {
+          "type": "group",
           "id": "huadi-unity"
         }
       ],
@@ -17032,6 +18288,10 @@
         {
           "type": "project",
           "id": "CN169"
+        },
+        {
+          "type": "group",
+          "id": "shengtun-mining"
         }
       ],
       "id": "UC0323"
@@ -17058,6 +18318,10 @@
         },
         {
           "type": "npi-parent",
+          "id": "weiming"
+        },
+        {
+          "type": "group",
           "id": "weiming"
         }
       ],
@@ -17146,6 +18410,10 @@
         {
           "type": "npi-dossier",
           "id": "tsingshan-customer"
+        },
+        {
+          "type": "group",
+          "id": "tsingshan"
         }
       ],
       "id": "UC0328"
@@ -17171,6 +18439,14 @@
         {
           "type": "project",
           "id": "MHP006"
+        },
+        {
+          "type": "group",
+          "id": "huayou"
+        },
+        {
+          "type": "group",
+          "id": "nickel-industries"
         }
       ],
       "id": "UC0329"
@@ -17187,6 +18463,10 @@
         {
           "type": "source",
           "id": "S122"
+        },
+        {
+          "type": "group",
+          "id": "antam-mind-id"
         }
       ],
       "id": "UC0330"
@@ -17208,6 +18488,10 @@
         {
           "type": "project",
           "id": "P41"
+        },
+        {
+          "type": "group",
+          "id": "antam-mind-id"
         }
       ],
       "id": "UC0331"
@@ -17246,6 +18530,14 @@
         {
           "type": "npi-dossier",
           "id": "tsingshan-customer"
+        },
+        {
+          "type": "group",
+          "id": "tsingshan"
+        },
+        {
+          "type": "group",
+          "id": "antam-mind-id"
         }
       ],
       "id": "UC0332"
@@ -17280,6 +18572,10 @@
         {
           "type": "npi-parent",
           "id": "antam-mind-id"
+        },
+        {
+          "type": "group",
+          "id": "antam-mind-id"
         }
       ],
       "id": "UC0333"
@@ -17296,6 +18592,10 @@
         {
           "type": "source",
           "id": "S119"
+        },
+        {
+          "type": "group",
+          "id": "antam-mind-id"
         }
       ],
       "id": "UC0334"
@@ -17330,6 +18630,10 @@
         {
           "type": "npi-parent",
           "id": "antam-mind-id"
+        },
+        {
+          "type": "group",
+          "id": "antam-mind-id"
         }
       ],
       "id": "UC0335"
@@ -17359,6 +18663,10 @@
         },
         {
           "type": "npi-parent",
+          "id": "antam-mind-id"
+        },
+        {
+          "type": "group",
           "id": "antam-mind-id"
         }
       ],
@@ -17392,6 +18700,10 @@
         },
         {
           "type": "npi-parent",
+          "id": "ceria-corp"
+        },
+        {
+          "type": "group",
           "id": "ceria-corp"
         }
       ],
@@ -17447,6 +18759,10 @@
         {
           "type": "npi-parent",
           "id": "huayou"
+        },
+        {
+          "type": "group",
+          "id": "huayou"
         }
       ],
       "id": "UC0339"
@@ -17481,6 +18797,10 @@
         {
           "type": "npi-parent",
           "id": "delong"
+        },
+        {
+          "type": "group",
+          "id": "delong"
         }
       ],
       "id": "UC0340"
@@ -17506,6 +18826,10 @@
         {
           "type": "project",
           "id": "MHP032"
+        },
+        {
+          "type": "group",
+          "id": "excellen-silo"
         }
       ],
       "id": "UC0341"
@@ -17545,6 +18869,10 @@
         {
           "type": "npi-parent",
           "id": "shengtun-mining"
+        },
+        {
+          "type": "group",
+          "id": "shengtun-mining"
         }
       ],
       "id": "UC0342"
@@ -17576,6 +18904,10 @@
         {
           "type": "npi-parent",
           "id": "huadi-unity"
+        },
+        {
+          "type": "group",
+          "id": "huadi-unity"
         }
       ],
       "id": "UC0343"
@@ -17605,6 +18937,10 @@
         },
         {
           "type": "npi-parent",
+          "id": "huadi-unity"
+        },
+        {
+          "type": "group",
           "id": "huadi-unity"
         }
       ],
@@ -17636,6 +18972,10 @@
         {
           "type": "npi-parent",
           "id": "huadi-unity"
+        },
+        {
+          "type": "group",
+          "id": "huadi-unity"
         }
       ],
       "id": "UC0345"
@@ -17664,6 +19004,10 @@
         {
           "type": "park",
           "id": "global-brazil"
+        },
+        {
+          "type": "group",
+          "id": "brazilian-nickel"
         }
       ],
       "id": "UC0346"
@@ -17690,6 +19034,10 @@
         {
           "type": "park",
           "id": "global-brazil"
+        },
+        {
+          "type": "group",
+          "id": "brazilian-nickel"
         }
       ],
       "id": "UC0347"
@@ -17759,6 +19107,10 @@
         {
           "type": "npi-parent",
           "id": "kalla-bukaka"
+        },
+        {
+          "type": "group",
+          "id": "kalla-bukaka"
         }
       ],
       "id": "UC0350"
@@ -17775,6 +19127,14 @@
         {
           "type": "project",
           "id": "NPI062"
+        },
+        {
+          "type": "group",
+          "id": "kalla-bukaka"
+        },
+        {
+          "type": "group",
+          "id": "posco-holdings-nicole"
         }
       ],
       "id": "UC0351"
@@ -17811,6 +19171,10 @@
         {
           "type": "npi-parent",
           "id": "kalla-bukaka"
+        },
+        {
+          "type": "group",
+          "id": "kalla-bukaka"
         }
       ],
       "id": "UC0352"
@@ -17839,6 +19203,10 @@
         },
         {
           "type": "npi-parent",
+          "id": "kalla-bukaka"
+        },
+        {
+          "type": "group",
           "id": "kalla-bukaka"
         }
       ],
@@ -17898,6 +19266,10 @@
         {
           "type": "npi-dossier",
           "id": "hongkong-brunp-catl"
+        },
+        {
+          "type": "group",
+          "id": "catl-brunp"
         }
       ],
       "id": "UC0355"
@@ -17922,6 +19294,18 @@
         {
           "type": "project",
           "id": "MHP024"
+        },
+        {
+          "type": "group",
+          "id": "catl-brunp"
+        },
+        {
+          "type": "group",
+          "id": "lygend-resources"
+        },
+        {
+          "type": "group",
+          "id": "antam-mind-id"
         }
       ],
       "id": "UC0356"
@@ -17990,6 +19374,10 @@
         {
           "type": "npi-parent",
           "id": "central-omega-resources"
+        },
+        {
+          "type": "group",
+          "id": "central-omega-resources"
         }
       ],
       "id": "UC0359"
@@ -18018,6 +19406,10 @@
         },
         {
           "type": "npi-parent",
+          "id": "central-omega-resources"
+        },
+        {
+          "type": "group",
           "id": "central-omega-resources"
         }
       ],
@@ -18223,6 +19615,10 @@
         {
           "type": "project",
           "id": "CN164"
+        },
+        {
+          "type": "group",
+          "id": "cngr"
         }
       ],
       "id": "UC0369"
@@ -18268,6 +19664,14 @@
         {
           "type": "topic",
           "id": "wet-refining"
+        },
+        {
+          "type": "group",
+          "id": "cngr"
+        },
+        {
+          "type": "group",
+          "id": "rigqueza"
         }
       ],
       "id": "UC0371"
@@ -18313,6 +19717,14 @@
         {
           "type": "npi-parent",
           "id": "delong"
+        },
+        {
+          "type": "group",
+          "id": "cngr"
+        },
+        {
+          "type": "group",
+          "id": "delong"
         }
       ],
       "id": "UC0372"
@@ -18349,6 +19761,10 @@
         {
           "type": "project",
           "id": "CN164"
+        },
+        {
+          "type": "group",
+          "id": "cngr"
         }
       ],
       "id": "UC0373"
@@ -18395,6 +19811,10 @@
         {
           "type": "park",
           "id": "global-brazil"
+        },
+        {
+          "type": "group",
+          "id": "brazilian-nickel"
         }
       ],
       "id": "UC0375"
@@ -18529,6 +19949,10 @@
         {
           "type": "npi-dossier",
           "id": "tsingshan-customer"
+        },
+        {
+          "type": "group",
+          "id": "tsingshan"
         }
       ],
       "id": "UC0381"
@@ -18548,6 +19972,10 @@
         {
           "type": "npi-dossier",
           "id": "yieh-united-buyer"
+        },
+        {
+          "type": "group",
+          "id": "yieh-united"
         }
       ],
       "id": "UC0382"
@@ -18625,6 +20053,18 @@
         {
           "type": "npi-dossier",
           "id": "eramet-customer"
+        },
+        {
+          "type": "group",
+          "id": "tsingshan"
+        },
+        {
+          "type": "group",
+          "id": "antam-mind-id"
+        },
+        {
+          "type": "group",
+          "id": "eramet"
         }
       ],
       "id": "UC0385"
@@ -18670,6 +20110,18 @@
         {
           "type": "npi-dossier",
           "id": "eramet-customer"
+        },
+        {
+          "type": "group",
+          "id": "tsingshan"
+        },
+        {
+          "type": "group",
+          "id": "antam-mind-id"
+        },
+        {
+          "type": "group",
+          "id": "eramet"
         }
       ],
       "id": "UC0386"
@@ -18729,6 +20181,18 @@
         {
           "type": "npi-dossier",
           "id": "tsingshan-customer"
+        },
+        {
+          "type": "group",
+          "id": "catl-brunp"
+        },
+        {
+          "type": "group",
+          "id": "tsingshan"
+        },
+        {
+          "type": "group",
+          "id": "antam-mind-id"
         }
       ],
       "id": "UC0387"
@@ -18785,6 +20249,10 @@
         {
           "type": "npi-parent",
           "id": "huadi-unity"
+        },
+        {
+          "type": "group",
+          "id": "huadi-unity"
         }
       ],
       "id": "UC0389"
@@ -18817,6 +20285,10 @@
         {
           "type": "source",
           "id": "S115"
+        },
+        {
+          "type": "group",
+          "id": "ceria-corp"
         }
       ],
       "id": "UC0391"
@@ -18882,6 +20354,10 @@
         {
           "type": "npi-parent",
           "id": "kfi-investment-group"
+        },
+        {
+          "type": "group",
+          "id": "kfi-investment-group"
         }
       ],
       "id": "UC0393"
@@ -18911,6 +20387,10 @@
         {
           "type": "park",
           "id": "global-cyprus"
+        },
+        {
+          "type": "group",
+          "id": "hellenic-arrow"
         }
       ],
       "id": "UC0394"
@@ -18939,6 +20419,14 @@
         {
           "type": "park",
           "id": "global-australia"
+        },
+        {
+          "type": "group",
+          "id": "posco-holdings-nicole"
+        },
+        {
+          "type": "group",
+          "id": "first-quantum"
         }
       ],
       "id": "UC0395"
@@ -18966,6 +20454,14 @@
         {
           "type": "park",
           "id": "global-australia"
+        },
+        {
+          "type": "group",
+          "id": "posco-holdings-nicole"
+        },
+        {
+          "type": "group",
+          "id": "first-quantum"
         }
       ],
       "id": "UC0396"
@@ -18994,6 +20490,14 @@
         {
           "type": "park",
           "id": "global-australia"
+        },
+        {
+          "type": "group",
+          "id": "posco-holdings-nicole"
+        },
+        {
+          "type": "group",
+          "id": "first-quantum"
         }
       ],
       "id": "UC0397"
@@ -19018,6 +20522,14 @@
         {
           "type": "project",
           "id": "MHP020"
+        },
+        {
+          "type": "group",
+          "id": "tsingshan"
+        },
+        {
+          "type": "group",
+          "id": "guangxin"
         }
       ],
       "id": "UC0398"
@@ -19148,6 +20660,10 @@
         {
           "type": "npi-dossier",
           "id": "glencore"
+        },
+        {
+          "type": "group",
+          "id": "glencore"
         }
       ],
       "id": "UC0404"
@@ -19191,6 +20707,10 @@
         {
           "type": "npi-dossier",
           "id": "qingdao-chengtai"
+        },
+        {
+          "type": "group",
+          "id": "qingdao-city-investment"
         }
       ],
       "id": "UC0406"
@@ -19223,6 +20743,10 @@
         {
           "type": "npi-parent",
           "id": "growth-steel-group"
+        },
+        {
+          "type": "group",
+          "id": "growth-steel-group"
         }
       ],
       "id": "UC0407"
@@ -19241,6 +20765,10 @@
         {
           "type": "source",
           "id": "S038"
+        },
+        {
+          "type": "group",
+          "id": "shengtun-mining"
         }
       ],
       "id": "UC0408"
@@ -19307,6 +20835,14 @@
         {
           "type": "npi-parent",
           "id": "harum-energy"
+        },
+        {
+          "type": "group",
+          "id": "tsingshan"
+        },
+        {
+          "type": "group",
+          "id": "harum-energy"
         }
       ],
       "id": "UC0410"
@@ -19357,6 +20893,14 @@
         {
           "type": "npi-parent",
           "id": "harum-energy"
+        },
+        {
+          "type": "group",
+          "id": "tsingshan"
+        },
+        {
+          "type": "group",
+          "id": "harum-energy"
         }
       ],
       "id": "UC0411"
@@ -19377,6 +20921,10 @@
       "links": [
         {
           "type": "npi-parent",
+          "id": "harum-energy"
+        },
+        {
+          "type": "group",
           "id": "harum-energy"
         }
       ],
@@ -19410,6 +20958,10 @@
         {
           "type": "npi-parent",
           "id": "harum-energy"
+        },
+        {
+          "type": "group",
+          "id": "harum-energy"
         }
       ],
       "id": "UC0413"
@@ -19430,6 +20982,10 @@
         {
           "type": "project",
           "id": "NPI021"
+        },
+        {
+          "type": "group",
+          "id": "harum-energy"
         }
       ],
       "id": "UC0414"
@@ -19474,6 +21030,14 @@
         {
           "type": "npi-parent",
           "id": "walsin-lihwa"
+        },
+        {
+          "type": "group",
+          "id": "harum-energy"
+        },
+        {
+          "type": "group",
+          "id": "walsin-lihwa"
         }
       ],
       "id": "UC0415"
@@ -19492,6 +21056,10 @@
       "links": [
         {
           "type": "npi-parent",
+          "id": "harum-energy"
+        },
+        {
+          "type": "group",
           "id": "harum-energy"
         }
       ],
@@ -19520,6 +21088,10 @@
         {
           "type": "park",
           "id": "global-cyprus"
+        },
+        {
+          "type": "group",
+          "id": "hellenic-arrow"
         }
       ],
       "id": "UC0417"
@@ -19548,6 +21120,10 @@
         {
           "type": "npi-dossier",
           "id": "lygend-wisdom-buyer"
+        },
+        {
+          "type": "group",
+          "id": "lygend-resources"
         }
       ],
       "id": "UC0418"
@@ -19578,6 +21154,10 @@
         {
           "type": "npi-parent",
           "id": "catl-brunp"
+        },
+        {
+          "type": "group",
+          "id": "catl-brunp"
         }
       ],
       "id": "UC0419"
@@ -19606,6 +21186,10 @@
         {
           "type": "group",
           "id": "rigqueza"
+        },
+        {
+          "type": "group",
+          "id": "cngr"
         }
       ],
       "id": "UC0420"
@@ -19678,6 +21262,10 @@
         },
         {
           "type": "npi-parent",
+          "id": "cngr"
+        },
+        {
+          "type": "group",
           "id": "cngr"
         }
       ],
@@ -19752,6 +21340,18 @@
         {
           "type": "project",
           "id": "CN155"
+        },
+        {
+          "type": "group",
+          "id": "huayou"
+        },
+        {
+          "type": "group",
+          "id": "gundrak-perlux"
+        },
+        {
+          "type": "group",
+          "id": "seah"
         }
       ],
       "id": "UC0427"
@@ -19793,6 +21393,18 @@
         {
           "type": "project",
           "id": "RF003"
+        },
+        {
+          "type": "group",
+          "id": "huayou"
+        },
+        {
+          "type": "group",
+          "id": "gundrak-perlux"
+        },
+        {
+          "type": "group",
+          "id": "strive"
         }
       ],
       "id": "UC0429"
@@ -19822,6 +21434,18 @@
         {
           "type": "project",
           "id": "MHP008"
+        },
+        {
+          "type": "group",
+          "id": "huayou"
+        },
+        {
+          "type": "group",
+          "id": "nickel-industries"
+        },
+        {
+          "type": "group",
+          "id": "tsingshan"
         }
       ],
       "id": "UC0430"
@@ -19875,6 +21499,18 @@
         {
           "type": "project",
           "id": "P27"
+        },
+        {
+          "type": "group",
+          "id": "huayou"
+        },
+        {
+          "type": "group",
+          "id": "gundrak-perlux"
+        },
+        {
+          "type": "group",
+          "id": "strive"
         }
       ],
       "id": "UC0433"
@@ -19913,6 +21549,10 @@
         {
           "type": "npi-dossier",
           "id": "huayou-hongkong"
+        },
+        {
+          "type": "group",
+          "id": "huayou"
         }
       ],
       "id": "UC0434"
@@ -19953,6 +21593,10 @@
         {
           "type": "project",
           "id": "MHP031"
+        },
+        {
+          "type": "group",
+          "id": "huayou"
         }
       ],
       "id": "UC0436"
@@ -20002,6 +21646,10 @@
         },
         {
           "type": "npi-parent",
+          "id": "huayou"
+        },
+        {
+          "type": "group",
           "id": "huayou"
         }
       ],
@@ -20067,6 +21715,18 @@
         {
           "type": "project",
           "id": "RF003"
+        },
+        {
+          "type": "group",
+          "id": "huayou"
+        },
+        {
+          "type": "group",
+          "id": "gundrak-perlux"
+        },
+        {
+          "type": "group",
+          "id": "strive"
         }
       ],
       "id": "UC0442"
@@ -20085,6 +21745,18 @@
         {
           "type": "project",
           "id": "RF003"
+        },
+        {
+          "type": "group",
+          "id": "huayou"
+        },
+        {
+          "type": "group",
+          "id": "gundrak-perlux"
+        },
+        {
+          "type": "group",
+          "id": "strive"
         }
       ],
       "id": "UC0443"
@@ -20152,6 +21824,10 @@
         },
         {
           "type": "npi-parent",
+          "id": "mms-group-indonesia"
+        },
+        {
+          "type": "group",
           "id": "mms-group-indonesia"
         }
       ],
@@ -20221,6 +21897,10 @@
         {
           "type": "npi-dossier",
           "id": "jindal-stainless-customer"
+        },
+        {
+          "type": "group",
+          "id": "jindal-stainless"
         }
       ],
       "id": "UC0448"
@@ -20339,6 +22019,10 @@
         {
           "type": "npi-dossier",
           "id": "jinchuan-customer"
+        },
+        {
+          "type": "group",
+          "id": "jinchuan"
         }
       ],
       "id": "UC0453"
@@ -20377,6 +22061,10 @@
         {
           "type": "npi-dossier",
           "id": "jindal-stainless-customer"
+        },
+        {
+          "type": "group",
+          "id": "jindal-stainless"
         }
       ],
       "id": "UC0454"
@@ -20393,6 +22081,10 @@
         {
           "type": "source",
           "id": "S101"
+        },
+        {
+          "type": "group",
+          "id": "jinchuan"
         }
       ],
       "id": "UC0455"
@@ -20409,6 +22101,10 @@
         {
           "type": "source",
           "id": "S098"
+        },
+        {
+          "type": "group",
+          "id": "jinchuan"
         }
       ],
       "id": "UC0456"
@@ -20437,6 +22133,10 @@
         {
           "type": "project",
           "id": "P11"
+        },
+        {
+          "type": "group",
+          "id": "jinchuan"
         }
       ],
       "id": "UC0457"
@@ -20479,6 +22179,10 @@
         {
           "type": "source",
           "id": "S052"
+        },
+        {
+          "type": "group",
+          "id": "jinchuan"
         }
       ],
       "id": "UC0459"
@@ -20511,6 +22215,10 @@
         {
           "type": "project",
           "id": "CN153"
+        },
+        {
+          "type": "group",
+          "id": "jinchuan"
         }
       ],
       "id": "UC0460"
@@ -20534,6 +22242,10 @@
         {
           "type": "npi-dossier",
           "id": "jinchuan-customer"
+        },
+        {
+          "type": "group",
+          "id": "jinchuan"
         }
       ],
       "id": "UC0461"
@@ -20600,6 +22312,10 @@
         {
           "type": "project",
           "id": "MHP021"
+        },
+        {
+          "type": "group",
+          "id": "ceria-corp"
         }
       ],
       "id": "UC0464"
@@ -20626,6 +22342,10 @@
         {
           "type": "park",
           "id": "wolo"
+        },
+        {
+          "type": "group",
+          "id": "ceria-corp"
         }
       ],
       "id": "UC0465"
@@ -20659,6 +22379,10 @@
         {
           "type": "npi-parent",
           "id": "ceria-corp"
+        },
+        {
+          "type": "group",
+          "id": "ceria-corp"
         }
       ],
       "id": "UC0466"
@@ -20691,6 +22415,10 @@
         },
         {
           "type": "npi-parent",
+          "id": "ceria-corp"
+        },
+        {
+          "type": "group",
           "id": "ceria-corp"
         }
       ],
@@ -20755,6 +22483,18 @@
         {
           "type": "project",
           "id": "RF002"
+        },
+        {
+          "type": "group",
+          "id": "huayou"
+        },
+        {
+          "type": "group",
+          "id": "gundrak-perlux"
+        },
+        {
+          "type": "group",
+          "id": "seah"
         }
       ],
       "id": "UC0470"
@@ -20773,6 +22513,14 @@
         {
           "type": "project",
           "id": "MHP011"
+        },
+        {
+          "type": "group",
+          "id": "catl-brunp"
+        },
+        {
+          "type": "group",
+          "id": "tsingshan"
         }
       ],
       "id": "UC0471"
@@ -20797,6 +22545,18 @@
         {
           "type": "topic",
           "id": "refined-nickel"
+        },
+        {
+          "type": "group",
+          "id": "huayou"
+        },
+        {
+          "type": "group",
+          "id": "gundrak-perlux"
+        },
+        {
+          "type": "group",
+          "id": "seah"
         }
       ],
       "id": "UC0472"
@@ -20833,6 +22593,14 @@
         {
           "type": "topic",
           "id": "refined-nickel"
+        },
+        {
+          "type": "group",
+          "id": "cngr"
+        },
+        {
+          "type": "group",
+          "id": "rigqueza"
         }
       ],
       "id": "UC0474"
@@ -20861,6 +22629,10 @@
         {
           "type": "park",
           "id": "global-korea"
+        },
+        {
+          "type": "group",
+          "id": "ls-mnm"
         }
       ],
       "id": "UC0475"
@@ -20887,6 +22659,10 @@
         {
           "type": "park",
           "id": "global-korea"
+        },
+        {
+          "type": "group",
+          "id": "ls-mnm"
         }
       ],
       "id": "UC0476"
@@ -20956,6 +22732,10 @@
         {
           "type": "park",
           "id": "global-turkey"
+        },
+        {
+          "type": "group",
+          "id": "zorlu"
         }
       ],
       "id": "UC0479"
@@ -21021,6 +22801,10 @@
         {
           "type": "npi-parent",
           "id": "mms-group-indonesia"
+        },
+        {
+          "type": "group",
+          "id": "mms-group-indonesia"
         }
       ],
       "id": "UC0481"
@@ -21073,6 +22857,10 @@
         {
           "type": "npi-parent",
           "id": "mms-group-indonesia"
+        },
+        {
+          "type": "group",
+          "id": "mms-group-indonesia"
         }
       ],
       "id": "UC0483"
@@ -21089,6 +22877,10 @@
         {
           "type": "source",
           "id": "S106"
+        },
+        {
+          "type": "group",
+          "id": "mms-group-indonesia"
         }
       ],
       "id": "UC0484"
@@ -21119,6 +22911,10 @@
         {
           "type": "npi-parent",
           "id": "huadi-unity"
+        },
+        {
+          "type": "group",
+          "id": "huadi-unity"
         }
       ],
       "id": "UC0485"
@@ -21139,6 +22935,10 @@
         {
           "type": "park",
           "id": "global-png"
+        },
+        {
+          "type": "group",
+          "id": "mcc-ramu"
         }
       ],
       "id": "UC0486"
@@ -21167,6 +22967,10 @@
         {
           "type": "park",
           "id": "global-png"
+        },
+        {
+          "type": "group",
+          "id": "mcc-ramu"
         }
       ],
       "id": "UC0487"
@@ -21231,6 +23035,10 @@
         {
           "type": "park",
           "id": "global-new-caledonia"
+        },
+        {
+          "type": "group",
+          "id": "prony"
         }
       ],
       "id": "UC0490"
@@ -21258,6 +23066,10 @@
         {
           "type": "park",
           "id": "global-new-caledonia"
+        },
+        {
+          "type": "group",
+          "id": "prony"
         }
       ],
       "id": "UC0491"
@@ -21303,6 +23115,10 @@
         {
           "type": "project",
           "id": "MHP032"
+        },
+        {
+          "type": "group",
+          "id": "excellen-silo"
         }
       ],
       "id": "UC0493"
@@ -21330,6 +23146,10 @@
         {
           "type": "npi-dossier",
           "id": "qingdao-city-trade"
+        },
+        {
+          "type": "group",
+          "id": "qingdao-city-investment"
         }
       ],
       "id": "UC0494"
@@ -21352,6 +23172,10 @@
         {
           "type": "project",
           "id": "NPI062"
+        },
+        {
+          "type": "group",
+          "id": "kalla-bukaka"
         }
       ],
       "id": "UC0495"
@@ -21400,6 +23224,10 @@
         {
           "type": "npi-parent",
           "id": "huadi-unity"
+        },
+        {
+          "type": "group",
+          "id": "huadi-unity"
         }
       ],
       "id": "UC0497"
@@ -21435,6 +23263,10 @@
         {
           "type": "npi-parent",
           "id": "posco-holdings-nicole"
+        },
+        {
+          "type": "group",
+          "id": "posco-holdings-nicole"
         }
       ],
       "id": "UC0498"
@@ -21456,6 +23288,10 @@
         {
           "type": "project",
           "id": "NPI004"
+        },
+        {
+          "type": "group",
+          "id": "posco-holdings-nicole"
         }
       ],
       "id": "UC0499"
@@ -21490,6 +23326,10 @@
         {
           "type": "npi-parent",
           "id": "posco-holdings-nicole"
+        },
+        {
+          "type": "group",
+          "id": "posco-holdings-nicole"
         }
       ],
       "id": "UC0500"
@@ -21507,6 +23347,18 @@
         {
           "type": "project",
           "id": "RF002"
+        },
+        {
+          "type": "group",
+          "id": "huayou"
+        },
+        {
+          "type": "group",
+          "id": "gundrak-perlux"
+        },
+        {
+          "type": "group",
+          "id": "seah"
         }
       ],
       "id": "UC0501"
@@ -21577,6 +23429,10 @@
         {
           "type": "source",
           "id": "S096"
+        },
+        {
+          "type": "group",
+          "id": "smm"
         }
       ],
       "id": "UC0505"
@@ -21610,6 +23466,10 @@
         {
           "type": "park",
           "id": "global-philippines"
+        },
+        {
+          "type": "group",
+          "id": "smm"
         }
       ],
       "id": "UC0506"
@@ -21630,6 +23490,10 @@
         {
           "type": "project",
           "id": "GL046"
+        },
+        {
+          "type": "group",
+          "id": "smm"
         }
       ],
       "id": "UC0507"
@@ -21659,6 +23523,10 @@
         {
           "type": "park",
           "id": "global-philippines"
+        },
+        {
+          "type": "group",
+          "id": "smm"
         }
       ],
       "id": "UC0508"
@@ -21683,6 +23551,14 @@
         {
           "type": "project",
           "id": "P12"
+        },
+        {
+          "type": "group",
+          "id": "vale-gem-bnsi"
+        },
+        {
+          "type": "group",
+          "id": "smm"
         }
       ],
       "id": "UC0509"
@@ -21701,6 +23577,10 @@
         {
           "type": "source",
           "id": "S050"
+        },
+        {
+          "type": "group",
+          "id": "smm"
         }
       ],
       "id": "UC0510"
@@ -21717,6 +23597,14 @@
         {
           "type": "project",
           "id": "RF001"
+        },
+        {
+          "type": "group",
+          "id": "cngr"
+        },
+        {
+          "type": "group",
+          "id": "rigqueza"
         }
       ],
       "id": "UC0511"
@@ -21889,6 +23777,10 @@
         {
           "type": "npi-dossier",
           "id": "qingdao-city-trade"
+        },
+        {
+          "type": "group",
+          "id": "qingdao-city-investment"
         }
       ],
       "id": "UC0519"
@@ -21971,6 +23863,10 @@
         {
           "type": "park",
           "id": "global-finland"
+        },
+        {
+          "type": "group",
+          "id": "terrafame"
         }
       ],
       "id": "UC0522"
@@ -22032,6 +23928,10 @@
         {
           "type": "source",
           "id": "S158"
+        },
+        {
+          "type": "group",
+          "id": "tsingshan"
         }
       ],
       "id": "UC0525"
@@ -22060,6 +23960,10 @@
         {
           "type": "npi-dossier",
           "id": "tsingshan-customer"
+        },
+        {
+          "type": "group",
+          "id": "tsingshan"
         }
       ],
       "id": "UC0526"
@@ -22196,6 +24100,10 @@
         {
           "type": "project",
           "id": "P12"
+        },
+        {
+          "type": "group",
+          "id": "vale-gem-bnsi"
         }
       ],
       "id": "UC0533"
@@ -22229,6 +24137,10 @@
         },
         {
           "type": "npi-parent",
+          "id": "vale-gem-bnsi"
+        },
+        {
+          "type": "group",
           "id": "vale-gem-bnsi"
         }
       ],
@@ -22280,6 +24192,10 @@
         {
           "type": "npi-parent",
           "id": "walsin-lihwa"
+        },
+        {
+          "type": "group",
+          "id": "walsin-lihwa"
         }
       ],
       "id": "UC0536"
@@ -22298,6 +24214,10 @@
       "links": [
         {
           "type": "npi-parent",
+          "id": "walsin-lihwa"
+        },
+        {
+          "type": "group",
           "id": "walsin-lihwa"
         }
       ],
@@ -22328,6 +24248,10 @@
         {
           "type": "npi-parent",
           "id": "walsin-lihwa"
+        },
+        {
+          "type": "group",
+          "id": "walsin-lihwa"
         }
       ],
       "id": "UC0538"
@@ -22346,6 +24270,10 @@
         {
           "type": "source",
           "id": "S040"
+        },
+        {
+          "type": "group",
+          "id": "walsin-lihwa"
         }
       ],
       "id": "UC0539"
@@ -22366,6 +24294,10 @@
         {
           "type": "project",
           "id": "P05"
+        },
+        {
+          "type": "group",
+          "id": "walsin-lihwa"
         }
       ],
       "id": "UC0540"
@@ -22394,6 +24326,10 @@
         },
         {
           "type": "npi-parent",
+          "id": "walsin-lihwa"
+        },
+        {
+          "type": "group",
           "id": "walsin-lihwa"
         }
       ],
@@ -22432,6 +24368,14 @@
         },
         {
           "type": "npi-parent",
+          "id": "walsin-lihwa"
+        },
+        {
+          "type": "group",
+          "id": "harum-energy"
+        },
+        {
+          "type": "group",
           "id": "walsin-lihwa"
         }
       ],
@@ -22484,6 +24428,14 @@
         },
         {
           "type": "npi-parent",
+          "id": "walsin-lihwa"
+        },
+        {
+          "type": "group",
+          "id": "harum-energy"
+        },
+        {
+          "type": "group",
           "id": "walsin-lihwa"
         }
       ],
@@ -22620,6 +24572,10 @@
         {
           "type": "npi-dossier",
           "id": "zhenshi-customer"
+        },
+        {
+          "type": "group",
+          "id": "zhenshi"
         }
       ],
       "id": "UC0549"
@@ -22657,6 +24613,10 @@
         {
           "type": "npi-dossier",
           "id": "zhenshi-customer"
+        },
+        {
+          "type": "group",
+          "id": "zhenshi"
         }
       ],
       "id": "UC0550"
@@ -22686,6 +24646,10 @@
         {
           "type": "park",
           "id": "huabao"
+        },
+        {
+          "type": "group",
+          "id": "hanrui"
         }
       ],
       "id": "UC0551"
@@ -22795,6 +24759,10 @@
         {
           "type": "npi-dossier",
           "id": "zmd"
+        },
+        {
+          "type": "group",
+          "id": "delong"
         }
       ],
       "id": "UC0556"
@@ -22876,6 +24844,10 @@
         {
           "type": "npi-dossier",
           "id": "zhenshi-customer"
+        },
+        {
+          "type": "group",
+          "id": "zhenshi"
         }
       ],
       "id": "UC0559"
@@ -22921,6 +24893,10 @@
         {
           "type": "npi-dossier",
           "id": "topway-xingda"
+        },
+        {
+          "type": "group",
+          "id": "xiangyu"
         }
       ],
       "id": "UC0561"
@@ -23043,6 +25019,14 @@
         {
           "type": "npi-parent",
           "id": "lygend-resources"
+        },
+        {
+          "type": "group",
+          "id": "harita-nickel"
+        },
+        {
+          "type": "group",
+          "id": "lygend-resources"
         }
       ],
       "id": "UC0566"
@@ -23090,6 +25074,10 @@
         {
           "type": "park",
           "id": "global-turkey"
+        },
+        {
+          "type": "group",
+          "id": "zorlu"
         }
       ],
       "id": "UC0568"
@@ -23153,6 +25141,22 @@
         {
           "type": "topic",
           "id": "refined-nickel"
+        },
+        {
+          "type": "group",
+          "id": "rigqueza"
+        },
+        {
+          "type": "group",
+          "id": "gundrak-perlux"
+        },
+        {
+          "type": "group",
+          "id": "seah"
+        },
+        {
+          "type": "group",
+          "id": "strive"
         }
       ],
       "id": "UC0569"
@@ -23605,6 +25609,10 @@
         {
           "type": "project",
           "id": "MHP016"
+        },
+        {
+          "type": "group",
+          "id": "tgem"
         }
       ],
       "titles": [
@@ -23759,6 +25767,10 @@
         {
           "type": "project",
           "id": "MHP040"
+        },
+        {
+          "type": "group",
+          "id": "wingstar"
         }
       ]
     },
@@ -23875,6 +25887,10 @@
         {
           "type": "project",
           "id": "MHP025"
+        },
+        {
+          "type": "group",
+          "id": "everde"
         }
       ]
     },
@@ -23891,6 +25907,10 @@
         {
           "type": "project",
           "id": "MHP032"
+        },
+        {
+          "type": "group",
+          "id": "excellen-silo"
         }
       ]
     },
@@ -24003,6 +26023,10 @@
         {
           "type": "project",
           "id": "MHP009"
+        },
+        {
+          "type": "group",
+          "id": "gebe"
         }
       ]
     },
@@ -24019,6 +26043,10 @@
         {
           "type": "project",
           "id": "MHP009"
+        },
+        {
+          "type": "group",
+          "id": "gebe"
         }
       ]
     },
@@ -24099,6 +26127,10 @@
         {
           "type": "project",
           "id": "MHP036"
+        },
+        {
+          "type": "group",
+          "id": "first-quantum"
         }
       ]
     },
@@ -24779,6 +26811,58 @@
         {
           "type": "project",
           "id": "GL166"
+        },
+        {
+          "type": "group",
+          "id": "ls-mnm"
+        },
+        {
+          "type": "group",
+          "id": "zorlu"
+        },
+        {
+          "type": "group",
+          "id": "prony"
+        },
+        {
+          "type": "group",
+          "id": "first-quantum"
+        },
+        {
+          "type": "group",
+          "id": "wingstar"
+        },
+        {
+          "type": "group",
+          "id": "brazilian-nickel"
+        },
+        {
+          "type": "group",
+          "id": "umicore"
+        },
+        {
+          "type": "group",
+          "id": "boliden"
+        },
+        {
+          "type": "group",
+          "id": "vedanta"
+        },
+        {
+          "type": "group",
+          "id": "solway"
+        },
+        {
+          "type": "group",
+          "id": "wyloo"
+        },
+        {
+          "type": "group",
+          "id": "canada-nickel"
+        },
+        {
+          "type": "group",
+          "id": "lifezone"
         }
       ]
     },
@@ -24967,6 +27051,10 @@
         {
           "type": "project",
           "id": "MHP034"
+        },
+        {
+          "type": "group",
+          "id": "zorlu"
         }
       ]
     },
@@ -24987,6 +27075,10 @@
         {
           "type": "project",
           "id": "MHP034"
+        },
+        {
+          "type": "group",
+          "id": "zorlu"
         }
       ]
     },
@@ -25847,6 +27939,10 @@
         {
           "type": "project",
           "id": "GL011"
+        },
+        {
+          "type": "group",
+          "id": "umicore"
         }
       ]
     },
@@ -25867,6 +27963,10 @@
         {
           "type": "project",
           "id": "GL011"
+        },
+        {
+          "type": "group",
+          "id": "umicore"
         }
       ]
     },
@@ -25887,6 +27987,10 @@
         {
           "type": "project",
           "id": "GL011"
+        },
+        {
+          "type": "group",
+          "id": "umicore"
         }
       ]
     },
@@ -25907,6 +28011,10 @@
         {
           "type": "project",
           "id": "GL011"
+        },
+        {
+          "type": "group",
+          "id": "umicore"
         }
       ]
     },
@@ -25927,6 +28035,10 @@
         {
           "type": "project",
           "id": "GL011"
+        },
+        {
+          "type": "group",
+          "id": "umicore"
         }
       ]
     },
@@ -25951,6 +28063,10 @@
         {
           "type": "project",
           "id": "GL018"
+        },
+        {
+          "type": "group",
+          "id": "umicore"
         }
       ]
     },
@@ -26103,6 +28219,10 @@
         {
           "type": "project",
           "id": "GL013"
+        },
+        {
+          "type": "group",
+          "id": "sibanye"
         }
       ]
     },
@@ -26343,6 +28463,10 @@
         {
           "type": "project",
           "id": "GL016"
+        },
+        {
+          "type": "group",
+          "id": "boliden"
         }
       ]
     },
@@ -26363,6 +28487,10 @@
         {
           "type": "project",
           "id": "GL016"
+        },
+        {
+          "type": "group",
+          "id": "boliden"
         }
       ]
     },
@@ -26383,6 +28511,10 @@
         {
           "type": "project",
           "id": "GL016"
+        },
+        {
+          "type": "group",
+          "id": "boliden"
         }
       ]
     },
@@ -26403,6 +28535,10 @@
         {
           "type": "project",
           "id": "GL016"
+        },
+        {
+          "type": "group",
+          "id": "boliden"
         }
       ]
     },
@@ -26827,6 +28963,10 @@
         {
           "type": "project",
           "id": "GL018"
+        },
+        {
+          "type": "group",
+          "id": "umicore"
         }
       ]
     },
@@ -26847,6 +28987,10 @@
         {
           "type": "project",
           "id": "GL018"
+        },
+        {
+          "type": "group",
+          "id": "umicore"
         }
       ]
     },
@@ -26867,6 +29011,10 @@
         {
           "type": "project",
           "id": "GL018"
+        },
+        {
+          "type": "group",
+          "id": "umicore"
         }
       ]
     },
@@ -26887,6 +29035,10 @@
         {
           "type": "project",
           "id": "GL018"
+        },
+        {
+          "type": "group",
+          "id": "umicore"
         }
       ]
     },
@@ -26907,6 +29059,10 @@
         {
           "type": "project",
           "id": "GL018"
+        },
+        {
+          "type": "group",
+          "id": "umicore"
         }
       ]
     },
@@ -27823,6 +29979,10 @@
         {
           "type": "project",
           "id": "GL024"
+        },
+        {
+          "type": "group",
+          "id": "solway"
         }
       ]
     },
@@ -27843,6 +30003,10 @@
         {
           "type": "project",
           "id": "GL024"
+        },
+        {
+          "type": "group",
+          "id": "solway"
         }
       ]
     },
@@ -27863,6 +30027,10 @@
         {
           "type": "project",
           "id": "GL024"
+        },
+        {
+          "type": "group",
+          "id": "solway"
         }
       ]
     },
@@ -27883,6 +30051,10 @@
         {
           "type": "project",
           "id": "GL024"
+        },
+        {
+          "type": "group",
+          "id": "solway"
         }
       ]
     },
@@ -27903,6 +30075,10 @@
         {
           "type": "project",
           "id": "GL024"
+        },
+        {
+          "type": "group",
+          "id": "solway"
         }
       ]
     },
@@ -27923,6 +30099,10 @@
         {
           "type": "project",
           "id": "GL024"
+        },
+        {
+          "type": "group",
+          "id": "solway"
         }
       ]
     },
@@ -27943,6 +30123,10 @@
         {
           "type": "project",
           "id": "GL024"
+        },
+        {
+          "type": "group",
+          "id": "solway"
         }
       ]
     },
@@ -28623,6 +30807,10 @@
         {
           "type": "project",
           "id": "GL031"
+        },
+        {
+          "type": "group",
+          "id": "nornickel"
         }
       ]
     },
@@ -29943,6 +32131,10 @@
         {
           "type": "project",
           "id": "GL039"
+        },
+        {
+          "type": "group",
+          "id": "nippon-yakin"
         }
       ]
     },
@@ -30163,6 +32355,10 @@
         {
           "type": "project",
           "id": "GL041"
+        },
+        {
+          "type": "group",
+          "id": "pacific-metals"
         }
       ]
     },
@@ -30207,6 +32403,10 @@
         {
           "type": "project",
           "id": "GL045"
+        },
+        {
+          "type": "group",
+          "id": "pacific-metals"
         }
       ]
     },
@@ -31527,6 +33727,10 @@
         {
           "type": "project",
           "id": "GL053"
+        },
+        {
+          "type": "group",
+          "id": "korea-zinc"
         }
       ]
     },
@@ -31791,6 +33995,10 @@
         {
           "type": "project",
           "id": "GL057"
+        },
+        {
+          "type": "group",
+          "id": "vedanta"
         }
       ]
     },
@@ -31851,6 +34059,10 @@
         {
           "type": "project",
           "id": "GL057"
+        },
+        {
+          "type": "group",
+          "id": "vedanta"
         }
       ]
     },
@@ -31871,6 +34083,10 @@
         {
           "type": "project",
           "id": "GL057"
+        },
+        {
+          "type": "group",
+          "id": "vedanta"
         }
       ]
     },
@@ -31891,6 +34107,10 @@
         {
           "type": "project",
           "id": "GL057"
+        },
+        {
+          "type": "group",
+          "id": "vedanta"
         }
       ]
     },
@@ -31911,6 +34131,10 @@
         {
           "type": "project",
           "id": "GL057"
+        },
+        {
+          "type": "group",
+          "id": "vedanta"
         }
       ]
     },
@@ -31931,6 +34155,10 @@
         {
           "type": "project",
           "id": "GL057"
+        },
+        {
+          "type": "group",
+          "id": "vedanta"
         }
       ]
     },
@@ -31951,6 +34179,10 @@
         {
           "type": "project",
           "id": "GL057"
+        },
+        {
+          "type": "group",
+          "id": "vedanta"
         }
       ]
     },
@@ -31971,6 +34203,10 @@
         {
           "type": "project",
           "id": "GL057"
+        },
+        {
+          "type": "group",
+          "id": "vedanta"
         }
       ]
     },
@@ -31991,6 +34227,10 @@
         {
           "type": "project",
           "id": "GL057"
+        },
+        {
+          "type": "group",
+          "id": "vedanta"
         }
       ]
     },
@@ -32011,6 +34251,10 @@
         {
           "type": "project",
           "id": "GL057"
+        },
+        {
+          "type": "group",
+          "id": "vedanta"
         }
       ]
     },
@@ -33691,6 +35935,10 @@
         {
           "type": "project",
           "id": "MHP035"
+        },
+        {
+          "type": "group",
+          "id": "prony"
         }
       ]
     },
@@ -33711,6 +35959,10 @@
         {
           "type": "project",
           "id": "MHP035"
+        },
+        {
+          "type": "group",
+          "id": "prony"
         }
       ]
     },
@@ -34439,6 +36691,10 @@
         {
           "type": "project",
           "id": "MHP040"
+        },
+        {
+          "type": "group",
+          "id": "wingstar"
         }
       ]
     },
@@ -34459,6 +36715,10 @@
         {
           "type": "project",
           "id": "MHP040"
+        },
+        {
+          "type": "group",
+          "id": "wingstar"
         }
       ]
     },
@@ -34539,6 +36799,10 @@
         {
           "type": "project",
           "id": "MHP036"
+        },
+        {
+          "type": "group",
+          "id": "first-quantum"
         }
       ]
     },
@@ -34859,6 +37123,10 @@
         {
           "type": "project",
           "id": "GL088"
+        },
+        {
+          "type": "group",
+          "id": "wyloo"
         }
       ]
     },
@@ -34879,6 +37147,10 @@
         {
           "type": "project",
           "id": "GL088"
+        },
+        {
+          "type": "group",
+          "id": "wyloo"
         }
       ]
     },
@@ -34899,6 +37171,10 @@
         {
           "type": "project",
           "id": "GL088"
+        },
+        {
+          "type": "group",
+          "id": "wyloo"
         }
       ]
     },
@@ -34919,6 +37195,10 @@
         {
           "type": "project",
           "id": "GL088"
+        },
+        {
+          "type": "group",
+          "id": "wyloo"
         }
       ]
     },
@@ -35955,6 +38235,10 @@
         {
           "type": "project",
           "id": "GL102"
+        },
+        {
+          "type": "group",
+          "id": "glencore"
         }
       ]
     },
@@ -36495,6 +38779,10 @@
         {
           "type": "project",
           "id": "GL123"
+        },
+        {
+          "type": "group",
+          "id": "sherritt-moa"
         }
       ]
     },
@@ -36851,6 +39139,10 @@
         {
           "type": "project",
           "id": "GL109"
+        },
+        {
+          "type": "group",
+          "id": "canada-nickel"
         }
       ]
     },
@@ -36871,6 +39163,10 @@
         {
           "type": "project",
           "id": "GL109"
+        },
+        {
+          "type": "group",
+          "id": "canada-nickel"
         }
       ]
     },
@@ -36891,6 +39187,10 @@
         {
           "type": "project",
           "id": "GL109"
+        },
+        {
+          "type": "group",
+          "id": "canada-nickel"
         }
       ]
     },
@@ -36911,6 +39211,10 @@
         {
           "type": "project",
           "id": "GL109"
+        },
+        {
+          "type": "group",
+          "id": "canada-nickel"
         }
       ]
     },
@@ -36931,6 +39235,10 @@
         {
           "type": "project",
           "id": "GL109"
+        },
+        {
+          "type": "group",
+          "id": "canada-nickel"
         }
       ]
     },
@@ -36951,6 +39259,10 @@
         {
           "type": "project",
           "id": "GL109"
+        },
+        {
+          "type": "group",
+          "id": "canada-nickel"
         }
       ]
     },
@@ -36971,6 +39283,10 @@
         {
           "type": "project",
           "id": "GL109"
+        },
+        {
+          "type": "group",
+          "id": "canada-nickel"
         }
       ]
     },
@@ -36991,6 +39307,10 @@
         {
           "type": "project",
           "id": "GL109"
+        },
+        {
+          "type": "group",
+          "id": "canada-nickel"
         }
       ]
     },
@@ -37011,6 +39331,10 @@
         {
           "type": "project",
           "id": "GL109"
+        },
+        {
+          "type": "group",
+          "id": "canada-nickel"
         }
       ]
     },
@@ -37031,6 +39355,10 @@
         {
           "type": "project",
           "id": "GL109"
+        },
+        {
+          "type": "group",
+          "id": "canada-nickel"
         }
       ]
     },
@@ -37051,6 +39379,10 @@
         {
           "type": "project",
           "id": "GL109"
+        },
+        {
+          "type": "group",
+          "id": "canada-nickel"
         }
       ]
     },
@@ -37071,6 +39403,10 @@
         {
           "type": "project",
           "id": "GL109"
+        },
+        {
+          "type": "group",
+          "id": "canada-nickel"
         }
       ]
     },
@@ -37091,6 +39427,10 @@
         {
           "type": "project",
           "id": "GL109"
+        },
+        {
+          "type": "group",
+          "id": "canada-nickel"
         }
       ]
     },
@@ -37111,6 +39451,10 @@
         {
           "type": "project",
           "id": "GL109"
+        },
+        {
+          "type": "group",
+          "id": "canada-nickel"
         }
       ]
     },
@@ -37131,6 +39475,10 @@
         {
           "type": "project",
           "id": "GL109"
+        },
+        {
+          "type": "group",
+          "id": "canada-nickel"
         }
       ]
     },
@@ -37151,6 +39499,10 @@
         {
           "type": "project",
           "id": "GL109"
+        },
+        {
+          "type": "group",
+          "id": "canada-nickel"
         }
       ]
     },
@@ -37171,6 +39523,10 @@
         {
           "type": "project",
           "id": "GL109"
+        },
+        {
+          "type": "group",
+          "id": "canada-nickel"
         }
       ]
     },
@@ -40083,6 +42439,10 @@
         {
           "type": "project",
           "id": "MHP043"
+        },
+        {
+          "type": "group",
+          "id": "brazilian-nickel"
         }
       ]
     },
@@ -40871,6 +43231,10 @@
         {
           "type": "project",
           "id": "GL145"
+        },
+        {
+          "type": "group",
+          "id": "valterra"
         }
       ]
     },
@@ -40951,6 +43315,10 @@
         {
           "type": "project",
           "id": "GL148"
+        },
+        {
+          "type": "group",
+          "id": "lifezone"
         }
       ]
     },
@@ -40971,6 +43339,10 @@
         {
           "type": "project",
           "id": "GL148"
+        },
+        {
+          "type": "group",
+          "id": "lifezone"
         }
       ]
     },
@@ -40991,6 +43363,10 @@
         {
           "type": "project",
           "id": "GL148"
+        },
+        {
+          "type": "group",
+          "id": "lifezone"
         }
       ]
     },
@@ -41011,6 +43387,10 @@
         {
           "type": "project",
           "id": "GL148"
+        },
+        {
+          "type": "group",
+          "id": "lifezone"
         }
       ]
     },
@@ -41031,6 +43411,10 @@
         {
           "type": "project",
           "id": "GL148"
+        },
+        {
+          "type": "group",
+          "id": "lifezone"
         }
       ]
     },
@@ -41051,6 +43435,10 @@
         {
           "type": "project",
           "id": "GL148"
+        },
+        {
+          "type": "group",
+          "id": "lifezone"
         }
       ]
     },
@@ -42151,6 +44539,10 @@
         {
           "type": "project",
           "id": "GL165"
+        },
+        {
+          "type": "group",
+          "id": "wyloo"
         }
       ]
     },
@@ -42171,6 +44563,10 @@
         {
           "type": "project",
           "id": "GL165"
+        },
+        {
+          "type": "group",
+          "id": "wyloo"
         }
       ]
     },
@@ -42191,6 +44587,10 @@
         {
           "type": "project",
           "id": "GL165"
+        },
+        {
+          "type": "group",
+          "id": "wyloo"
         }
       ]
     },
@@ -42211,6 +44611,10 @@
         {
           "type": "project",
           "id": "GL165"
+        },
+        {
+          "type": "group",
+          "id": "wyloo"
         }
       ]
     },
@@ -42985,6 +45389,10 @@
         {
           "type": "project",
           "id": "CN109"
+        },
+        {
+          "type": "group",
+          "id": "jutaitech"
         }
       ]
     },
@@ -44122,6 +46530,10 @@
         {
           "type": "project",
           "id": "CN031"
+        },
+        {
+          "type": "group",
+          "id": "yieh-united"
         }
       ]
     },
@@ -44140,6 +46552,10 @@
         {
           "type": "project",
           "id": "CN031"
+        },
+        {
+          "type": "group",
+          "id": "yieh-united"
         }
       ]
     },
@@ -44158,6 +46574,10 @@
         {
           "type": "project",
           "id": "CN031"
+        },
+        {
+          "type": "group",
+          "id": "yieh-united"
         }
       ]
     },
@@ -44248,6 +46668,10 @@
         {
           "type": "project",
           "id": "CN033"
+        },
+        {
+          "type": "group",
+          "id": "baowu"
         }
       ]
     },
@@ -44266,6 +46690,10 @@
         {
           "type": "project",
           "id": "CN033"
+        },
+        {
+          "type": "group",
+          "id": "baowu"
         }
       ]
     },
@@ -44284,6 +46712,10 @@
         {
           "type": "project",
           "id": "CN033"
+        },
+        {
+          "type": "group",
+          "id": "baowu"
         }
       ]
     },
@@ -44302,6 +46734,10 @@
         {
           "type": "project",
           "id": "CN033"
+        },
+        {
+          "type": "group",
+          "id": "baowu"
         }
       ]
     },
@@ -45204,6 +47640,10 @@
         {
           "type": "project",
           "id": "CN065"
+        },
+        {
+          "type": "group",
+          "id": "guangxin"
         }
       ]
     },
@@ -45222,6 +47662,10 @@
         {
           "type": "project",
           "id": "CN065"
+        },
+        {
+          "type": "group",
+          "id": "guangxin"
         }
       ]
     },
@@ -45240,6 +47684,10 @@
         {
           "type": "project",
           "id": "CN065"
+        },
+        {
+          "type": "group",
+          "id": "guangxin"
         }
       ]
     },
@@ -45258,6 +47706,10 @@
         {
           "type": "project",
           "id": "CN065"
+        },
+        {
+          "type": "group",
+          "id": "guangxin"
         }
       ]
     },
@@ -45443,6 +47895,10 @@
         {
           "type": "project",
           "id": "CN069"
+        },
+        {
+          "type": "group",
+          "id": "beibu-gulf"
         }
       ]
     },
@@ -45461,6 +47917,10 @@
         {
           "type": "project",
           "id": "CN069"
+        },
+        {
+          "type": "group",
+          "id": "beibu-gulf"
         }
       ]
     },
@@ -45479,6 +47939,10 @@
         {
           "type": "project",
           "id": "CN069"
+        },
+        {
+          "type": "group",
+          "id": "beibu-gulf"
         }
       ]
     },
@@ -45497,6 +47961,10 @@
         {
           "type": "project",
           "id": "CN069"
+        },
+        {
+          "type": "group",
+          "id": "beibu-gulf"
         }
       ]
     },
@@ -46546,6 +49014,10 @@
         {
           "type": "project",
           "id": "CN166"
+        },
+        {
+          "type": "group",
+          "id": "jutaitech"
         }
       ]
     },
@@ -46569,6 +49041,10 @@
         {
           "type": "project",
           "id": "CN166"
+        },
+        {
+          "type": "group",
+          "id": "jutaitech"
         }
       ]
     },
@@ -46641,6 +49117,10 @@
         {
           "type": "project",
           "id": "CN112"
+        },
+        {
+          "type": "group",
+          "id": "greatpower"
         }
       ]
     },
@@ -46659,6 +49139,10 @@
         {
           "type": "project",
           "id": "CN112"
+        },
+        {
+          "type": "group",
+          "id": "greatpower"
         }
       ]
     },
@@ -46677,6 +49161,10 @@
         {
           "type": "project",
           "id": "CN112"
+        },
+        {
+          "type": "group",
+          "id": "greatpower"
         }
       ]
     },
@@ -46695,6 +49183,10 @@
         {
           "type": "project",
           "id": "CN112"
+        },
+        {
+          "type": "group",
+          "id": "greatpower"
         }
       ]
     },
@@ -48280,6 +50772,14 @@
         {
           "type": "project",
           "id": "CN087"
+        },
+        {
+          "type": "group",
+          "id": "mcc-ramu"
+        },
+        {
+          "type": "group",
+          "id": "minmetals-materials"
         }
       ]
     },
@@ -48303,6 +50803,10 @@
         {
           "type": "project",
           "id": "CN106"
+        },
+        {
+          "type": "group",
+          "id": "minmetals-materials"
         }
       ]
     },
@@ -48393,6 +50897,10 @@
         {
           "type": "project",
           "id": "CN092"
+        },
+        {
+          "type": "group",
+          "id": "hezon"
         }
       ]
     },
@@ -48411,6 +50919,10 @@
         {
           "type": "project",
           "id": "CN092"
+        },
+        {
+          "type": "group",
+          "id": "hezon"
         }
       ]
     },
@@ -48555,6 +51067,10 @@
         {
           "type": "project",
           "id": "CN106"
+        },
+        {
+          "type": "group",
+          "id": "minmetals-materials"
         }
       ]
     },
@@ -48573,6 +51089,10 @@
         {
           "type": "project",
           "id": "CN106"
+        },
+        {
+          "type": "group",
+          "id": "minmetals-materials"
         }
       ]
     },
@@ -48631,6 +51151,10 @@
         {
           "type": "project",
           "id": "CN170"
+        },
+        {
+          "type": "group",
+          "id": "feinan"
         }
       ]
     },
@@ -48653,6 +51177,10 @@
         {
           "type": "project",
           "id": "CN170"
+        },
+        {
+          "type": "group",
+          "id": "feinan"
         }
       ]
     },
@@ -48671,6 +51199,10 @@
         {
           "type": "project",
           "id": "CN137"
+        },
+        {
+          "type": "group",
+          "id": "tianqi-recycling"
         }
       ]
     },
@@ -48689,6 +51221,10 @@
         {
           "type": "project",
           "id": "CN137"
+        },
+        {
+          "type": "group",
+          "id": "tianqi-recycling"
         }
       ]
     },
@@ -48707,6 +51243,10 @@
         {
           "type": "project",
           "id": "CN137"
+        },
+        {
+          "type": "group",
+          "id": "tianqi-recycling"
         }
       ]
     },
@@ -49040,6 +51580,10 @@
         {
           "type": "project",
           "id": "CN168"
+        },
+        {
+          "type": "group",
+          "id": "greatpower"
         }
       ]
     },
@@ -49058,6 +51602,10 @@
         {
           "type": "project",
           "id": "CN168"
+        },
+        {
+          "type": "group",
+          "id": "greatpower"
         }
       ]
     },
@@ -49316,6 +51864,1082 @@
         {
           "type": "project",
           "id": "GL012"
+        }
+      ]
+    },
+    {
+      "id": "UC1792",
+      "url": "https://www.ecopro.co.kr/eng/sub010101",
+      "title": "EcoPro官方企业沿革（英文）",
+      "titles": [
+        "EcoPro官方企业沿革（英文）"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "ecopro"
+        }
+      ]
+    },
+    {
+      "id": "UC1793",
+      "url": "https://www.lsmnm.com/en/histroy_museum/corporate06",
+      "title": "LS MnM官方公司历史",
+      "titles": [
+        "LS MnM官方公司历史"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "ls-mnm"
+        }
+      ]
+    },
+    {
+      "id": "UC1794",
+      "url": "https://www.nickel28.com/_resources/pdfs/NI-43-101-Ramu-NiCo-Project-240719.pdf",
+      "title": "Ramu项目技术报告",
+      "titles": [
+        "Ramu项目技术报告"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "mcc-ramu"
+        }
+      ]
+    },
+    {
+      "id": "UC1795",
+      "url": "https://braziliannickel.com/news.php?id=65",
+      "title": "Brazilian Nickel官方品牌与项目更新",
+      "titles": [
+        "Brazilian Nickel官方品牌与项目更新"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "brazilian-nickel"
+        }
+      ]
+    },
+    {
+      "id": "UC1796",
+      "url": "https://www.terrafame.com/media/mediamateriaali/raportointi/taloudelliset-katsaukset/2025/terrafame_sustainability_report_2025.pdf",
+      "title": "Terrafame 2025可持续发展报告",
+      "titles": [
+        "Terrafame 2025可持续发展报告"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "terrafame"
+        }
+      ]
+    },
+    {
+      "id": "UC1797",
+      "url": "https://ambatovy.com/en/who-we-are/about-us/",
+      "title": "Ambatovy官方项目介绍",
+      "titles": [
+        "Ambatovy官方项目介绍"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "ambatovy"
+        }
+      ]
+    },
+    {
+      "id": "UC1798",
+      "url": "https://ambatovy.com/en/who-we-are/history/",
+      "title": "Ambatovy官方历史",
+      "titles": [
+        "Ambatovy官方历史"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "ambatovy"
+        }
+      ]
+    },
+    {
+      "id": "UC1799",
+      "url": "https://ambatovy.com/en/wp-content/uploads/2025/06/2024-Ambatovy-Due-Diligence-Step-Five-Annual-report.pdf",
+      "title": "Ambatovy 2024 OECD Step 5报告",
+      "titles": [
+        "Ambatovy 2024 OECD Step 5报告"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "ambatovy"
+        }
+      ]
+    },
+    {
+      "id": "UC1800",
+      "url": "https://www.glencore.com/.rest/api/v1/documents/static/9b103e11-72e7-40bf-ae7c-eabe57361522/GLEN-2025-Annual-Report.pdf",
+      "title": "Glencore 2025年报",
+      "titles": [
+        "Glencore 2025年报"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "glencore"
+        }
+      ]
+    },
+    {
+      "id": "UC1801",
+      "url": "https://www.glencore.com/gl-timeline/index.html",
+      "title": "Glencore：集团发展时间线",
+      "titles": [
+        "Glencore：集团发展时间线"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "glencore"
+        }
+      ]
+    },
+    {
+      "id": "UC1802",
+      "url": "https://senspdf.jse.co.za/documents/SENS_20240212_S485486.pdf",
+      "title": "Glencore：Koniambo停产维护公告",
+      "titles": [
+        "Glencore：Koniambo停产维护公告"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "glencore"
+        }
+      ]
+    },
+    {
+      "id": "UC1803",
+      "url": "https://www.seahcss.co.kr/eng/about/history-seah.asp",
+      "title": "SeAH Changwon：企业发展历史",
+      "titles": [
+        "SeAH Changwon：企业发展历史"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "seah"
+        }
+      ]
+    },
+    {
+      "id": "UC1804",
+      "url": "https://nornickel.com/business/products/nickel/harjavalta/",
+      "title": "Nornickel Harjavalta镍阴极官方产品页",
+      "titles": [
+        "Nornickel Harjavalta镍阴极官方产品页"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "nornickel"
+        }
+      ]
+    },
+    {
+      "id": "UC1805",
+      "url": "https://ar2023.nornickel.com/ru/business-overview/operational-performance.html",
+      "title": "Nornickel 运营概览",
+      "titles": [
+        "Nornickel 运营概览"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "nornickel"
+        }
+      ]
+    },
+    {
+      "id": "UC1806",
+      "url": "https://www.ar2017.nornickel.com/en/business-group/production/performance/index.html",
+      "title": "Nornickel：Harjavalta并入集团与产品",
+      "titles": [
+        "Nornickel：Harjavalta并入集团与产品"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "nornickel"
+        }
+      ]
+    },
+    {
+      "id": "UC1807",
+      "url": "https://www.bhp.com/ar2025_note4",
+      "title": "BHP 2025年报Western Australia Nickel",
+      "titles": [
+        "BHP 2025年报Western Australia Nickel"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "bhp"
+        }
+      ]
+    },
+    {
+      "id": "UC1808",
+      "url": "https://www.bhp.com/about/our-businesses/western-australia-nickel",
+      "title": "BHP Western Australia Nickel官方页面",
+      "titles": [
+        "BHP Western Australia Nickel官方页面"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "bhp"
+        }
+      ]
+    },
+    {
+      "id": "UC1809",
+      "url": "https://ir.lifezonemetals.com/news/press-releases/news-details/2025/Lifezone-Metals-Consolidates-Control-of-the-World-Class-Kabanga-Nickel-Copper-Cobalt-Sulfide-Project/default.aspx",
+      "title": "Lifezone 2025-07-18 Kabanga股权交易公告",
+      "titles": [
+        "Lifezone 2025-07-18 Kabanga股权交易公告"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "bhp"
+        },
+        {
+          "type": "group",
+          "id": "lifezone"
+        }
+      ]
+    },
+    {
+      "id": "UC1810",
+      "url": "https://www.bhp.com/about/our-history",
+      "title": "BHP：公司历史",
+      "titles": [
+        "BHP：公司历史"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "bhp"
+        }
+      ]
+    },
+    {
+      "id": "UC1811",
+      "url": "https://www.yildirimgroup.com/",
+      "title": "Yıldırım Group官方镍业务资料（项目来源索引）",
+      "titles": [
+        "Yıldırım Group官方镍业务资料（项目来源索引）"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "yildirim"
+        }
+      ]
+    },
+    {
+      "id": "UC1812",
+      "url": "https://corexholding.com/media/CoreX-Annual-Report-2025.pdf",
+      "title": "CoreX：2025年年度报告",
+      "titles": [
+        "CoreX：2025年年度报告"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "yildirim"
+        }
+      ]
+    },
+    {
+      "id": "UC1813",
+      "url": "https://cerromatoso.com.co/",
+      "title": "Cerro Matoso：现行运营与集团归属",
+      "titles": [
+        "Cerro Matoso：现行运营与集团归属"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "yildirim"
+        }
+      ]
+    },
+    {
+      "id": "UC1814",
+      "url": "https://www.koreazinc.co.kr/en/company/troika-drive/secondary/nickel/",
+      "title": "Korea Zinc硫酸镍官方页面",
+      "titles": [
+        "Korea Zinc硫酸镍官方页面"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "korea-zinc"
+        }
+      ]
+    },
+    {
+      "id": "UC1815",
+      "url": "https://investors.koreazinc.co.kr/media/khicv1gi/2025-korea-zinc-progress-report-on-value-up-plan.pdf",
+      "title": "Korea Zinc 2025进度报告",
+      "titles": [
+        "Korea Zinc 2025进度报告"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "korea-zinc"
+        }
+      ]
+    },
+    {
+      "id": "UC1816",
+      "url": "https://reports.sibanyestillwater.com/2025/download/SSW-AFR25.pdf",
+      "title": "Sibanye-Stillwater 2025年报",
+      "titles": [
+        "Sibanye-Stillwater 2025年报"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "sibanye"
+        }
+      ]
+    },
+    {
+      "id": "UC1817",
+      "url": "https://www.sibanyestillwater.com/about-us/history/",
+      "title": "Sibanye-Stillwater：企业沿革",
+      "titles": [
+        "Sibanye-Stillwater：企业沿革"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "sibanye"
+        }
+      ]
+    },
+    {
+      "id": "UC1818",
+      "url": "https://www.implats.co.za/implats-at-a-glance.php",
+      "title": "Implats公司概览与IRS",
+      "titles": [
+        "Implats公司概览与IRS"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "impala"
+        }
+      ]
+    },
+    {
+      "id": "UC1819",
+      "url": "https://www.valterraplatinum.com/~/media/Files/V/Valterra-Platinum/Platinum/report-archive/2025/integrated-report-2025.pdf",
+      "title": "Valterra 2025综合报告",
+      "titles": [
+        "Valterra 2025综合报告"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "valterra"
+        }
+      ]
+    },
+    {
+      "id": "UC1820",
+      "url": "https://www.pacific-metals.co.jp/file/news/260512_1098_Consolidated_Financial_Results_for_the_Fiscal_Year_Ended_March_31_2026.pdf",
+      "title": "Pacific Metals 2026年3月期业绩资料",
+      "titles": [
+        "Pacific Metals 2026年3月期业绩资料"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "pacific-metals"
+        }
+      ]
+    },
+    {
+      "id": "UC1821",
+      "url": "https://www.nyk.co.jp/en/pdf/investors/nipponyakin_integrated_report_2025_single.pdf",
+      "title": "Nippon Yakin 2025综合报告：Krupp-Renn工艺",
+      "titles": [
+        "Nippon Yakin 2025综合报告：Krupp-Renn工艺"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "nippon-yakin"
+        }
+      ]
+    },
+    {
+      "id": "UC1822",
+      "url": "https://www.nyk.co.jp/en/pdf/sustainability/NYKSR2022_single_en.pdf",
+      "title": "Nippon Yakin 2022可持续报告：大江山流程",
+      "titles": [
+        "Nippon Yakin 2022可持续报告：大江山流程"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "nippon-yakin"
+        }
+      ]
+    },
+    {
+      "id": "UC1823",
+      "url": "https://www.nyk.co.jp/en/about/history.html",
+      "title": "日本冶金工業：公司历史",
+      "titles": [
+        "日本冶金工業：公司历史"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "nippon-yakin"
+        }
+      ]
+    },
+    {
+      "id": "UC1824",
+      "url": "https://www.nyk.co.jp/about/stories/chronicle/",
+      "title": "日本冶金工業：大江山与不锈钢发展纪事",
+      "titles": [
+        "日本冶金工業：大江山与不锈钢发展纪事"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "nippon-yakin"
+        }
+      ]
+    },
+    {
+      "id": "UC1825",
+      "url": "https://www.umicore.be/en/about/our-sites/olen/start/",
+      "title": "Umicore Olen official site",
+      "titles": [
+        "Umicore Olen official site"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "umicore"
+        }
+      ]
+    },
+    {
+      "id": "UC1826",
+      "url": "https://www.umicore.com/storage/eom/iso9001-olen.pdf",
+      "title": "Umicore ISO scope Olen",
+      "titles": [
+        "Umicore ISO scope Olen"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "umicore"
+        }
+      ]
+    },
+    {
+      "id": "UC1827",
+      "url": "https://www.umicore.com/en/about/history",
+      "title": "Umicore：集团发展史",
+      "titles": [
+        "Umicore：集团发展史"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "umicore"
+        }
+      ]
+    },
+    {
+      "id": "UC1828",
+      "url": "https://www.boliden.com/products/our-products/nickel/",
+      "title": "Boliden Nickel official",
+      "titles": [
+        "Boliden Nickel official"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "boliden"
+        }
+      ]
+    },
+    {
+      "id": "UC1829",
+      "url": "https://www.boliden.com/fi/operations/smelters/boliden-harjavalta/",
+      "title": "Boliden Harjavalta",
+      "titles": [
+        "Boliden Harjavalta"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "boliden"
+        }
+      ]
+    },
+    {
+      "id": "UC1830",
+      "url": "https://www.boliden.com/operations/smelters/boliden-harjavalta",
+      "title": "www.boliden.com · 波利登哈尔亚瓦尔塔冶炼厂（镍线）参考资料",
+      "titles": [
+        "www.boliden.com · 波利登哈尔亚瓦尔塔冶炼厂（镍线）参考资料"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "boliden"
+        }
+      ]
+    },
+    {
+      "id": "UC1831",
+      "url": "https://www.boliden.com/operations/about-boliden/bolidens-history/",
+      "title": "Boliden：百年企业沿革",
+      "titles": [
+        "Boliden：百年企业沿革"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "boliden"
+        }
+      ]
+    },
+    {
+      "id": "UC1832",
+      "url": "https://www.vedantalimited.com/eng/who-we-are-founders-journey.php",
+      "title": "Vedanta：创办人与集团起源",
+      "titles": [
+        "Vedanta：创办人与集团起源"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "vedanta"
+        }
+      ]
+    },
+    {
+      "id": "UC1833",
+      "url": "https://solwaygroup.com/2026/05/21/solway-investment-group-announces-sale-of-its-pobuzhsky-ferronickel-plant-following-strategic-review/",
+      "title": "Solway sale announcement",
+      "titles": [
+        "Solway sale announcement"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "solway"
+        }
+      ]
+    },
+    {
+      "id": "UC1834",
+      "url": "https://solwaygroup.com/",
+      "title": "Solway：公司业务与资产介绍",
+      "titles": [
+        "Solway：公司业务与资产介绍"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "solway"
+        }
+      ]
+    },
+    {
+      "id": "UC1835",
+      "url": "https://pfk.com.ua/pobuzhsky-ferronickel-plant-pfp-9m-2021-financial-and-operational-results/?lang=en",
+      "title": "Pobuzhsky工厂：2021年运营及回转窑、电炉检修",
+      "titles": [
+        "Pobuzhsky工厂：2021年运营及回转窑、电炉检修"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "solway"
+        }
+      ]
+    },
+    {
+      "id": "UC1836",
+      "url": "https://wyloo.com/about/",
+      "title": "Wyloo：发展历史与资产收购",
+      "titles": [
+        "Wyloo：发展历史与资产收购"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "wyloo"
+        }
+      ]
+    },
+    {
+      "id": "UC1837",
+      "url": "https://canadanickel.com/investors/technical-reports/",
+      "title": "Canada Nickel technical reports（含2023 Crawford NI 43-101）",
+      "titles": [
+        "Canada Nickel technical reports（含2023 Crawford NI 43-101）"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "canada-nickel"
+        }
+      ]
+    },
+    {
+      "id": "UC1838",
+      "url": "https://www.canada.ca/en/privy-council/major-projects-office/projects/national/crawford.html",
+      "title": "Government of Canada Crawford project",
+      "titles": [
+        "Government of Canada Crawford project"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "canada-nickel"
+        }
+      ]
+    },
+    {
+      "id": "UC1839",
+      "url": "https://canadanickel.com/wp-content/uploads/2023/11/Crawford-NI-43-101-FINAL-REPORT_Nov24_R2.pdf",
+      "title": "Crawford 2023 NI 43-101可行性研究",
+      "titles": [
+        "Crawford 2023 NI 43-101可行性研究"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "canada-nickel"
+        }
+      ]
+    },
+    {
+      "id": "UC1840",
+      "url": "https://www.sec.gov/Archives/edgar/data/1958217/000121390025065317/ea024921401ex96-1_lifezone.htm",
+      "title": "SEC Kabanga technical report",
+      "titles": [
+        "SEC Kabanga technical report"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "lifezone"
+        }
+      ]
+    },
+    {
+      "id": "UC1841",
+      "url": "https://s201.q4cdn.com/375092174/files/doc_financials/2025/q4/LZM-2025-Full-Year-Results-March-19-2026.pdf",
+      "title": "Lifezone 2025 full-year results",
+      "titles": [
+        "Lifezone 2025 full-year results"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "lifezone"
+        }
+      ]
+    },
+    {
+      "id": "UC1842",
+      "url": "https://www.feinanresources.com/",
+      "title": "飞南资源官网",
+      "titles": [
+        "飞南资源官网"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "feinan"
+        }
+      ]
+    },
+    {
+      "id": "UC1843",
+      "url": "https://disc.static.szse.cn/disc/disk03/finalpage/2026-04-11/fbe17365-cf53-434e-bebe-6eae11246719.PDF",
+      "title": "飞南资源2025年年度报告",
+      "titles": [
+        "飞南资源2025年年度报告"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "feinan"
+        }
+      ]
+    },
+    {
+      "id": "UC1844",
+      "url": "https://www.szse.cn/disclosure/notice/company/t20230920_603613.html",
+      "title": "深圳证券交易所：飞南资源上市",
+      "titles": [
+        "深圳证券交易所：飞南资源上市"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "feinan"
+        }
+      ]
+    },
+    {
+      "id": "UC1845",
+      "url": "https://www.greatpowercn.com/en/index.php?catid=15",
+      "title": "格派集团英文沿革",
+      "titles": [
+        "格派集团英文沿革"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "greatpower"
+        }
+      ]
+    },
+    {
+      "id": "UC1846",
+      "url": "https://www.greatpowercn.com/index.php?catid=3",
+      "title": "格派集团业务页",
+      "titles": [
+        "格派集团业务页"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "greatpower"
+        }
+      ]
+    },
+    {
+      "id": "UC1847",
+      "url": "https://www.jutaitech.com/",
+      "title": "聚泰科技官网",
+      "titles": [
+        "聚泰科技官网"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "jutaitech"
+        }
+      ]
+    },
+    {
+      "id": "UC1848",
+      "url": "https://www.mcc.com.cn/",
+      "title": "企业官方网站",
+      "titles": [
+        "企业官方网站"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "minmetals-materials"
+        }
+      ]
+    },
+    {
+      "id": "UC1849",
+      "url": "https://www.minmetals.com.cn/",
+      "title": "企业官方网站",
+      "titles": [
+        "企业官方网站"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "minmetals-materials"
+        }
+      ]
+    },
+    {
+      "id": "UC1850",
+      "url": "https://www.minmetals.com.cn/xwzx/wkxw/201512/t20151209_290127.html",
+      "title": "中国五矿：与中冶集团战略重组",
+      "titles": [
+        "中国五矿：与中冶集团战略重组"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "minmetals-materials"
+        }
+      ]
+    },
+    {
+      "id": "UC1851",
+      "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=11059454&stockid=300477",
+      "title": "合纵科技2024年年度报告",
+      "titles": [
+        "合纵科技2024年年度报告"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "hezon"
+        }
+      ]
+    },
+    {
+      "id": "UC1852",
+      "url": "https://findbiz.nat.gov.tw/fts/company/23218395?fhl=en",
+      "title": "台湾经济部公司登记（烨联）",
+      "titles": [
+        "台湾经济部公司登记（烨联）"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "yieh-united"
+        }
+      ]
+    },
+    {
+      "id": "UC1853",
+      "url": "https://zh.yieh.com/",
+      "title": "义联集团贸易平台Yieh.com介绍",
+      "titles": [
+        "义联集团贸易平台Yieh.com介绍"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "yieh-united"
+        }
+      ]
+    },
+    {
+      "id": "UC1854",
+      "url": "https://static.sse.com.cn/disclosure/bond/announcement/company/c/new/2024-04-30/240550_20240430_0MKR.pdf",
+      "title": "中国宝武债券披露（子企业表）",
+      "titles": [
+        "中国宝武债券披露（子企业表）"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "baowu"
+        }
+      ]
+    },
+    {
+      "id": "UC1855",
+      "url": "https://www.sasac.gov.cn/n2588030/n2588924/c7873223/content.html",
+      "title": "国务院国资委：中国宝武重组沿革",
+      "titles": [
+        "国务院国资委：中国宝武重组沿革"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "baowu"
+        }
+      ]
+    },
+    {
+      "id": "UC1856",
+      "url": "https://www.sasac.gov.cn/n2588025/n4423279/n4517386/n13941296/c13992663/content.html",
+      "title": "国务院国资委：中国宝武产业布局与罗源湾规划",
+      "titles": [
+        "国务院国资委：中国宝武产业布局与罗源湾规划"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "baowu"
+        }
+      ]
+    },
+    {
+      "id": "UC1857",
+      "url": "https://www.bwport.com/",
+      "title": "企业官方网站",
+      "titles": [
+        "企业官方网站"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "beibu-gulf"
+        }
+      ]
+    },
+    {
+      "id": "UC1858",
+      "url": "https://www.bbwgw.com/bbwport/document?columnsId=2070&documentId=606",
+      "title": "北部湾港集团：发展沿革",
+      "titles": [
+        "北部湾港集团：发展沿革"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "group",
+          "id": "beibu-gulf"
         }
       ]
     }
