@@ -3372,5 +3372,1730 @@
       "额尔齐斯(Ertis)铁镍联合企业有限公司（存疑，或为集团内部筹备型壳公司）",
       "NI-166"
     ]
+  },
+  "CN001": {
+    "title": "扬州一川镍业有限公司",
+    "english": "",
+    "chinese": "扬州一川镍业有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "扬州一川镍业有限公司"
+    ]
+  },
+  "CN002": {
+    "title": "宿迁翔翔实业有限公司",
+    "english": "",
+    "chinese": "宿迁翔翔实业有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "宿迁翔翔实业有限公司"
+    ]
+  },
+  "CN003": {
+    "title": "连云港海赣科技有限公司",
+    "english": "",
+    "chinese": "连云港海赣科技有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "连云港海赣科技有限公司"
+    ]
+  },
+  "CN004": {
+    "title": "连云港科创不锈钢新材料有限公司",
+    "english": "",
+    "chinese": "连云港科创不锈钢新材料有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "连云港科创不锈钢新材料有限公司"
+    ]
+  },
+  "CN005": {
+    "title": "江苏德龙镍业有限公司",
+    "english": "",
+    "chinese": "江苏德龙镍业有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "江苏德龙镍业有限公司"
+    ]
+  },
+  "CN006": {
+    "title": "赣榆县金成镍业有限公司",
+    "english": "",
+    "chinese": "赣榆县金成镍业有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "赣榆县金成镍业有限公司"
+    ]
+  },
+  "CN007": {
+    "title": "连云港天乙金属制品有限公司",
+    "english": "",
+    "chinese": "连云港天乙金属制品有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "连云港天乙金属制品有限公司"
+    ]
+  },
+  "CN008": {
+    "title": "江苏宝通镍业有限公司",
+    "english": "",
+    "chinese": "江苏宝通镍业有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "江苏宝通镍业有限公司"
+    ]
+  },
+  "CN009": {
+    "title": "荣阳钢铁",
+    "english": "",
+    "chinese": "荣阳钢铁",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "荣阳钢铁"
+    ]
+  },
+  "CN010": {
+    "title": "营口宁丰镁业（宁丰集团）",
+    "english": "",
+    "chinese": "营口宁丰镁业（宁丰集团）",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "营口宁丰镁业（宁丰集团）"
+    ]
+  },
+  "CN011": {
+    "title": "辽宁晟运实业有限公司",
+    "english": "",
+    "chinese": "辽宁晟运实业有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "辽宁晟运实业有限公司"
+    ]
+  },
+  "CN012": {
+    "title": "营口广大实业有限公司",
+    "english": "",
+    "chinese": "营口广大实业有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "营口广大实业有限公司"
+    ]
+  },
+  "CN013": {
+    "title": "光大冶金发展（大连）有限公司",
+    "english": "",
+    "chinese": "光大冶金发展（大连）有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "光大冶金发展（大连）有限公司",
+      "光大冶金发展（大连）有限公司（现：鑫峰科技新材料有限公司）"
+    ]
+  },
+  "CN014": {
+    "title": "辽宁宝铂科技有限公司",
+    "english": "",
+    "chinese": "辽宁宝铂科技有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "辽宁宝铂科技有限公司",
+      "辽宁宝铂科技有限公司-A",
+      "辽宁宝铂科技有限公司-B"
+    ]
+  },
+  "CN015": {
+    "title": "朝阳昊天有色金属有限公司-朝阳利鑫有色金属有限公司（北方兄弟）",
+    "english": "",
+    "chinese": "朝阳昊天有色金属有限公司-朝阳利鑫有色金属有限公司（北方兄弟）",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "朝阳昊天有色金属有限公司-朝阳利鑫有色金属有限公司（北方兄弟）"
+    ]
+  },
+  "CN016": {
+    "title": "海城市腾发耐火材料有限公司",
+    "english": "",
+    "chinese": "海城市腾发耐火材料有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "海城市腾发耐火材料有限公司"
+    ]
+  },
+  "CN017": {
+    "title": "凌源市瑞丰铸造有限公司",
+    "english": "",
+    "chinese": "凌源市瑞丰铸造有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "凌源市瑞丰铸造有限公司"
+    ]
+  },
+  "CN018": {
+    "title": "辽宁垚鑫铸业有限公司",
+    "english": "",
+    "chinese": "辽宁垚鑫铸业有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "辽宁垚鑫铸业有限公司"
+    ]
+  },
+  "CN019": {
+    "title": "鞍山旭辰耐火材料有限公司",
+    "english": "",
+    "chinese": "鞍山旭辰耐火材料有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "鞍山旭辰耐火材料有限公司"
+    ]
+  },
+  "CN020": {
+    "title": "辽宁国润金属集团",
+    "english": "",
+    "chinese": "辽宁国润金属集团",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "辽宁国润金属集团"
+    ]
+  },
+  "CN021": {
+    "title": "锦州市鑫泽锰业有限公司（义县应盛金属实业有限公司）",
+    "english": "",
+    "chinese": "锦州市鑫泽锰业有限公司（义县应盛金属实业有限公司）",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "锦州市鑫泽锰业有限公司（义县应盛金属实业有限公司）"
+    ]
+  },
+  "CN022": {
+    "title": "锦州鑫雨铁合金",
+    "english": "",
+    "chinese": "锦州鑫雨铁合金",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "锦州鑫雨铁合金"
+    ]
+  },
+  "CN023": {
+    "title": "山东鑫海科技有限公司",
+    "english": "",
+    "chinese": "山东鑫海科技有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "山东鑫海科技有限公司"
+    ]
+  },
+  "CN024": {
+    "title": "临沂金海汇科技有限公司",
+    "english": "",
+    "chinese": "临沂金海汇科技有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "临沂金海汇科技有限公司"
+    ]
+  },
+  "CN025": {
+    "title": "茌平爱得信新材料有限公司",
+    "english": "",
+    "chinese": "茌平爱得信新材料有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "茌平爱得信新材料有限公司"
+    ]
+  },
+  "CN026": {
+    "title": "日照铸福",
+    "english": "",
+    "chinese": "日照铸福",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "日照铸福"
+    ]
+  },
+  "CN027": {
+    "title": "沾化县炜烨镍业有限公司",
+    "english": "",
+    "chinese": "沾化县炜烨镍业有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "沾化县炜烨镍业有限公司"
+    ]
+  },
+  "CN028": {
+    "title": "山西曲沃县三鑫铸造有限公司",
+    "english": "",
+    "chinese": "山西曲沃县三鑫铸造有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "山西曲沃县三鑫铸造有限公司"
+    ]
+  },
+  "CN029": {
+    "title": "青州天泰德隆冶金科技有限公司",
+    "english": "",
+    "chinese": "青州天泰德隆冶金科技有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "青州天泰德隆冶金科技有限公司"
+    ]
+  },
+  "CN030": {
+    "title": "冠县顺丰金属制品有限公司",
+    "english": "",
+    "chinese": "冠县顺丰金属制品有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "冠县顺丰金属制品有限公司"
+    ]
+  },
+  "CN031": {
+    "title": "福建联德镍铁合金",
+    "english": "",
+    "chinese": "福建联德镍铁合金",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "福建联德镍铁合金"
+    ]
+  },
+  "CN032": {
+    "title": "福建鼎信实业有限公司",
+    "english": "",
+    "chinese": "福建鼎信实业有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "福建鼎信实业有限公司",
+      "福建鼎信实业有限公司-A",
+      "福建鼎信实业有限公司-B"
+    ]
+  },
+  "CN033": {
+    "title": "宝钢德盛不锈钢有限公司",
+    "english": "",
+    "chinese": "宝钢德盛不锈钢有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "宝钢德盛不锈钢有限公司",
+      "宝钢德盛不锈钢有限公司-A",
+      "宝钢德盛不锈钢有限公司-B"
+    ]
+  },
+  "CN034": {
+    "title": "五洲镍业有限公司/化德县五洲钢业有限公司",
+    "english": "",
+    "chinese": "五洲镍业有限公司/化德县五洲钢业有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "五洲镍业有限公司/化德县五洲钢业有限公司"
+    ]
+  },
+  "CN035": {
+    "title": "内蒙古察右前旗鑫扬冶金化工有限公司",
+    "english": "",
+    "chinese": "内蒙古察右前旗鑫扬冶金化工有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "内蒙古察右前旗鑫扬冶金化工有限公司"
+    ]
+  },
+  "CN036": {
+    "title": "内蒙古商都县永鑫公司（原瑞泰冶金）",
+    "english": "",
+    "chinese": "内蒙古商都县永鑫公司（原瑞泰冶金）",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "内蒙古商都县永鑫公司（原瑞泰冶金）"
+    ]
+  },
+  "CN037": {
+    "title": "内蒙古硕丰实业有限公司",
+    "english": "",
+    "chinese": "内蒙古硕丰实业有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "内蒙古硕丰实业有限公司"
+    ]
+  },
+  "CN038": {
+    "title": "内蒙古上泰实业有限公司",
+    "english": "",
+    "chinese": "内蒙古上泰实业有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "内蒙古上泰实业有限公司"
+    ]
+  },
+  "CN039": {
+    "title": "内蒙古商都县中建金马冶金化工有限公司",
+    "english": "",
+    "chinese": "内蒙古商都县中建金马冶金化工有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "内蒙古商都县中建金马冶金化工有限公司"
+    ]
+  },
+  "CN040": {
+    "title": "内蒙古天润特种铁合金有限公司",
+    "english": "",
+    "chinese": "内蒙古天润特种铁合金有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "内蒙古天润特种铁合金有限公司",
+      "内蒙古天润特种铁合金有限公司-A",
+      "内蒙古天润特种铁合金有限公司-B"
+    ]
+  },
+  "CN041": {
+    "title": "内蒙古隆盛特钢有限公司",
+    "english": "",
+    "chinese": "内蒙古隆盛特钢有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "内蒙古隆盛特钢有限公司"
+    ]
+  },
+  "CN042": {
+    "title": "内蒙古和谊镍铬复合材料有限公司",
+    "english": "",
+    "chinese": "内蒙古和谊镍铬复合材料有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "内蒙古和谊镍铬复合材料有限公司"
+    ]
+  },
+  "CN043": {
+    "title": "化德县嘉铭钢业有限公司",
+    "english": "",
+    "chinese": "化德县嘉铭钢业有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "化德县嘉铭钢业有限公司"
+    ]
+  },
+  "CN044": {
+    "title": "内蒙古察右前旗辰东化工有限责任公司",
+    "english": "",
+    "chinese": "内蒙古察右前旗辰东化工有限责任公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "内蒙古察右前旗辰东化工有限责任公司",
+      "辰东化工"
+    ]
+  },
+  "CN045": {
+    "title": "瑞泰冶金有限公司",
+    "english": "",
+    "chinese": "瑞泰冶金有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "瑞泰冶金有限公司"
+    ]
+  },
+  "CN046": {
+    "title": "瑞泰",
+    "english": "",
+    "chinese": "瑞泰",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "瑞泰"
+    ]
+  },
+  "CN047": {
+    "title": "化德县中泰镍铁有限公司",
+    "english": "",
+    "chinese": "化德县中泰镍铁有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "化德县中泰镍铁有限公司"
+    ]
+  },
+  "CN048": {
+    "title": "化德县鑫泽镍业有限公司",
+    "english": "",
+    "chinese": "化德县鑫泽镍业有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "化德县鑫泽镍业有限公司"
+    ]
+  },
+  "CN049": {
+    "title": "化德县同盛铁合金有限公司(昌盛泰)",
+    "english": "",
+    "chinese": "化德县同盛铁合金有限公司(昌盛泰)",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "化德县同盛铁合金有限公司(昌盛泰)"
+    ]
+  },
+  "CN050": {
+    "title": "永盛铁合金",
+    "english": "",
+    "chinese": "永盛铁合金",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "永盛铁合金"
+    ]
+  },
+  "CN051": {
+    "title": "光达冶金（烨兆）",
+    "english": "",
+    "chinese": "光达冶金（烨兆）",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "光达冶金（烨兆）"
+    ]
+  },
+  "CN052": {
+    "title": "化德县鑫盛铁合金有限公司",
+    "english": "",
+    "chinese": "化德县鑫盛铁合金有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "化德县鑫盛铁合金有限公司"
+    ]
+  },
+  "CN053": {
+    "title": "唐山凯源实业有限公司",
+    "english": "",
+    "chinese": "唐山凯源实业有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "唐山凯源实业有限公司",
+      "唐山凯源实业有限公司-A",
+      "唐山凯源实业有限公司-B"
+    ]
+  },
+  "CN054": {
+    "title": "唐山腾达科技有限公司",
+    "english": "",
+    "chinese": "唐山腾达科技有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "唐山腾达科技有限公司"
+    ]
+  },
+  "CN055": {
+    "title": "丰润区长明不锈钢制品厂",
+    "english": "",
+    "chinese": "丰润区长明不锈钢制品厂",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "丰润区长明不锈钢制品厂"
+    ]
+  },
+  "CN056": {
+    "title": "河北春风铸造有限责任公司",
+    "english": "",
+    "chinese": "河北春风铸造有限责任公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "河北春风铸造有限责任公司"
+    ]
+  },
+  "CN057": {
+    "title": "偏关县晋电化工有限责任公司",
+    "english": "",
+    "chinese": "偏关县晋电化工有限责任公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "偏关县晋电化工有限责任公司"
+    ]
+  },
+  "CN058": {
+    "title": "山西众泰陆洋冶炼实业有限公司",
+    "english": "",
+    "chinese": "山西众泰陆洋冶炼实业有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "山西众泰陆洋冶炼实业有限公司"
+    ]
+  },
+  "CN059": {
+    "title": "山西达康集团",
+    "english": "",
+    "chinese": "山西达康集团",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "山西达康集团"
+    ]
+  },
+  "CN060": {
+    "title": "河南省煜晟镍业有限责任公司",
+    "english": "",
+    "chinese": "河南省煜晟镍业有限责任公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "河南省煜晟镍业有限责任公司"
+    ]
+  },
+  "CN061": {
+    "title": "福佳不锈钢制品有限公司",
+    "english": "",
+    "chinese": "福佳不锈钢制品有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "福佳不锈钢制品有限公司"
+    ]
+  },
+  "CN062": {
+    "title": "河南宝泰盛商贸有限公司",
+    "english": "",
+    "chinese": "河南宝泰盛商贸有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "河南宝泰盛商贸有限公司"
+    ]
+  },
+  "CN063": {
+    "title": "阳江翌川金属科技有限公司",
+    "english": "",
+    "chinese": "阳江翌川金属科技有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "阳江翌川金属科技有限公司"
+    ]
+  },
+  "CN064": {
+    "title": "广东世纪青山镍业有限公司",
+    "english": "",
+    "chinese": "广东世纪青山镍业有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "广东世纪青山镍业有限公司"
+    ]
+  },
+  "CN065": {
+    "title": "广东广青金属科技有限公司",
+    "english": "",
+    "chinese": "广东广青金属科技有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "广东广青金属科技有限公司",
+      "广东广青金属科技有限公司-A",
+      "广东广青金属科技有限公司-B"
+    ]
+  },
+  "CN066": {
+    "title": "中金金属科技有限公司",
+    "english": "",
+    "chinese": "中金金属科技有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "中金金属科技有限公司"
+    ]
+  },
+  "CN067": {
+    "title": "广西戎鑫达资源有限公司",
+    "english": "",
+    "chinese": "广西戎鑫达资源有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "广西戎鑫达资源有限公司"
+    ]
+  },
+  "CN068": {
+    "title": "广西金源镍业有限公司",
+    "english": "",
+    "chinese": "广西金源镍业有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "广西金源镍业有限公司"
+    ]
+  },
+  "CN069": {
+    "title": "北海诚德镍业有限公司",
+    "english": "",
+    "chinese": "北海诚德镍业有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "北海诚德镍业有限公司",
+      "北海诚德镍业有限公司-A",
+      "北海诚德镍业有限公司-B"
+    ]
+  },
+  "CN070": {
+    "title": "广西龙州中恒万华实业有限公司",
+    "english": "",
+    "chinese": "广西龙州中恒万华实业有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "广西龙州中恒万华实业有限公司"
+    ]
+  },
+  "CN071": {
+    "title": "连云港华乐合金",
+    "english": "",
+    "chinese": "连云港华乐合金",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "连云港华乐合金"
+    ]
+  },
+  "CN072": {
+    "title": "山东临港有色金属有限公司（盛阳）",
+    "english": "",
+    "chinese": "山东临港有色金属有限公司（盛阳）",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "山东临港有色金属有限公司（盛阳）"
+    ]
+  },
+  "CN073": {
+    "title": "中亿金属科技有限公司（亿利达钢铁）",
+    "english": "",
+    "chinese": "中亿金属科技有限公司（亿利达钢铁）",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "中亿金属科技有限公司（亿利达钢铁）"
+    ]
+  },
+  "CN074": {
+    "title": "福建青拓镍业有限公司",
+    "english": "",
+    "chinese": "福建青拓镍业有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "福建青拓镍业有限公司"
+    ]
+  },
+  "CN075": {
+    "title": "河南鑫金汇特钢有限公司",
+    "english": "",
+    "chinese": "河南鑫金汇特钢有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "河南鑫金汇特钢有限公司"
+    ]
+  },
+  "CN076": {
+    "title": "内蒙古和谊镍铬复合材料有限公司(租给万汇) 和恒",
+    "english": "",
+    "chinese": "内蒙古和谊镍铬复合材料有限公司(租给万汇) 和恒",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "内蒙古和谊镍铬复合材料有限公司(租给万汇) 和恒"
+    ]
+  },
+  "CN077": {
+    "title": "亿晨镍铬合金（临沂钢投）",
+    "english": "",
+    "chinese": "亿晨镍铬合金（临沂钢投）",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "亿晨镍铬合金（临沂钢投）"
+    ]
+  },
+  "CN078": {
+    "title": "奈曼经安有限公司",
+    "english": "",
+    "chinese": "奈曼经安有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "奈曼经安有限公司"
+    ]
+  },
+  "CN079": {
+    "title": "大连富力镍基合金新材料有限公司",
+    "english": "",
+    "chinese": "大连富力镍基合金新材料有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "大连富力镍基合金新材料有限公司"
+    ]
+  },
+  "CN080": {
+    "title": "湖南中伟新材料有限公司",
+    "english": "",
+    "chinese": "湖南中伟新材料有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "湖南中伟新材料有限公司"
+    ]
+  },
+  "CN081": {
+    "title": "浙江华友钴业股份有限公司",
+    "english": "",
+    "chinese": "浙江华友钴业股份有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "浙江华友钴业股份有限公司"
+    ]
+  },
+  "CN082": {
+    "title": "荆门格林美新材料有限公司",
+    "english": "",
+    "chinese": "荆门格林美新材料有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "荆门格林美新材料有限公司"
+    ]
+  },
+  "CN083": {
+    "title": "金川集团镍盐有限公司",
+    "english": "",
+    "chinese": "金川集团镍盐有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "金川集团镍盐有限公司"
+    ]
+  },
+  "CN084": {
+    "title": "宁波长江能源科技有限公司",
+    "english": "",
+    "chinese": "宁波长江能源科技有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "宁波长江能源科技有限公司"
+    ]
+  },
+  "CN085": {
+    "title": "湖南邦普循环科技有限公司",
+    "english": "",
+    "chinese": "湖南邦普循环科技有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "湖南邦普循环科技有限公司"
+    ]
+  },
+  "CN086": {
+    "title": "广东佳纳能源科技有限公司",
+    "english": "",
+    "chinese": "广东佳纳能源科技有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "广东佳纳能源科技有限公司"
+    ]
+  },
+  "CN087": {
+    "title": "中冶瑞木新能源科技有限公司",
+    "english": "",
+    "chinese": "中冶瑞木新能源科技有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "中冶瑞木新能源科技有限公司"
+    ]
+  },
+  "CN088": {
+    "title": "Guangxi Yinyi New Materials Co., Ltd. 广西银亿新材料有限公司",
+    "english": "Guangxi Yinyi New Materials Co., Ltd.",
+    "chinese": "广西银亿新材料有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "广西银亿新材料有限公司"
+    ]
+  },
+  "CN089": {
+    "title": "广东芳源环保股份有限公司",
+    "english": "",
+    "chinese": "广东芳源环保股份有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "广东芳源环保股份有限公司"
+    ]
+  },
+  "CN090": {
+    "title": "广西智亮新材料股份有限公司",
+    "english": "",
+    "chinese": "广西智亮新材料股份有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "广西智亮新材料股份有限公司"
+    ]
+  },
+  "CN091": {
+    "title": "金柯有色金属有限公司",
+    "english": "",
+    "chinese": "金柯有色金属有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "金柯有色金属有限公司"
+    ]
+  },
+  "CN092": {
+    "title": "Tianjin Maolian Technology Co., Ltd. 天津市茂联科技有限公司",
+    "english": "Tianjin Maolian Technology Co., Ltd.",
+    "chinese": "天津市茂联科技有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "天津市茂联科技有限公司"
+    ]
+  },
+  "CN093": {
+    "title": "江门市长优实业有限公司",
+    "english": "",
+    "chinese": "江门市长优实业有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "江门市长优实业有限公司"
+    ]
+  },
+  "CN094": {
+    "title": "Jilin Jien Nickel Industry Co., Ltd. 吉林吉恩镍业股份有限公司",
+    "english": "Jilin Jien Nickel Industry Co., Ltd.",
+    "chinese": "吉林吉恩镍业股份有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "吉林吉恩镍业股份有限公司"
+    ]
+  },
+  "CN095": {
+    "title": "眉山顺应动力电池材料有限公司",
+    "english": "",
+    "chinese": "眉山顺应动力电池材料有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "眉山顺应动力电池材料有限公司"
+    ]
+  },
+  "CN096": {
+    "title": "赣州吉锐新能源科技有限公司（江西力道）",
+    "english": "",
+    "chinese": "赣州吉锐新能源科技有限公司（江西力道）",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "赣州吉锐新能源科技有限公司（江西力道）"
+    ]
+  },
+  "CN097": {
+    "title": "万华化学电池产业公司",
+    "english": "",
+    "chinese": "万华化学电池产业公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "万华化学电池产业公司"
+    ]
+  },
+  "CN098": {
+    "title": "Ganzhou Tengyuan Cobalt New Materials Co., Ltd. 赣州腾远钴业",
+    "english": "Ganzhou Tengyuan Cobalt New Materials Co., Ltd.",
+    "chinese": "赣州腾远钴业",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "赣州腾远钴业",
+      "赣州腾远钴业新材料股份有限公司"
+    ]
+  },
+  "CN099": {
+    "title": "浙江路加新能源有限公司",
+    "english": "",
+    "chinese": "浙江路加新能源有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "浙江路加新能源有限公司"
+    ]
+  },
+  "CN100": {
+    "title": "Chizhou CN Material New Materials Technology Co., Ltd. 池州西恩新材料科技有限公司",
+    "english": "Chizhou CN Material New Materials Technology Co., Ltd.",
+    "chinese": "池州西恩新材料科技有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "池州西恩新材料科技有限公司"
+    ]
+  },
+  "CN101": {
+    "title": "Zhejiang New Era Zhongneng Technology Co., Ltd. 浙江新时代中能循环科技有限公司",
+    "english": "Zhejiang New Era Zhongneng Technology Co., Ltd.",
+    "chinese": "浙江新时代中能循环科技有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "浙江新时代中能循环科技有限公司",
+      "浙江新时代中能科技股份有限公司"
+    ]
+  },
+  "CN102": {
+    "title": "广东威马新材料股份有限公司",
+    "english": "",
+    "chinese": "广东威马新材料股份有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "广东威马新材料股份有限公司"
+    ]
+  },
+  "CN103": {
+    "title": "福建常青新能源科技有限公司",
+    "english": "",
+    "chinese": "福建常青新能源科技有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "福建常青新能源科技有限公司"
+    ]
+  },
+  "CN104": {
+    "title": "Yantai Kaishi Industry Co., Ltd. 烟台凯实工业有限公司",
+    "english": "Yantai Kaishi Industry Co., Ltd.",
+    "chinese": "烟台凯实工业有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "烟台凯实工业有限公司"
+    ]
+  },
+  "CN105": {
+    "title": "河南科隆新能源股份有限公司",
+    "english": "",
+    "chinese": "河南科隆新能源股份有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "河南科隆新能源股份有限公司"
+    ]
+  },
+  "CN106": {
+    "title": "湖南金驰能源材料有限公司",
+    "english": "",
+    "chinese": "湖南金驰能源材料有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "湖南金驰能源材料有限公司"
+    ]
+  },
+  "CN107": {
+    "title": "浙江三晟化工有限公司",
+    "english": "",
+    "chinese": "浙江三晟化工有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "浙江三晟化工有限公司"
+    ]
+  },
+  "CN108": {
+    "title": "江西睿达环保有限公司",
+    "english": "",
+    "chinese": "江西睿达环保有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "江西睿达环保有限公司"
+    ]
+  },
+  "CN109": {
+    "title": "陕西聚泰新材料科技有限公司",
+    "english": "",
+    "chinese": "陕西聚泰新材料科技有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "陕西聚泰新材料科技有限公司"
+    ]
+  },
+  "CN110": {
+    "title": "肇庆市金晟金属实业有限公司",
+    "english": "",
+    "chinese": "肇庆市金晟金属实业有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "肇庆市金晟金属实业有限公司"
+    ]
+  },
+  "CN111": {
+    "title": "Jiangxi Province Guangde Environmental Protection Technology Co., Ltd. 江西省广德环保科技股份有限公司",
+    "english": "Jiangxi Province Guangde Environmental Protection Technology Co., Ltd.",
+    "chinese": "江西省广德环保科技股份有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "江西省广德环保科技股份有限公司"
+    ]
+  },
+  "CN112": {
+    "title": "上海格派镍钴能源技术集团有限公司",
+    "english": "",
+    "chinese": "上海格派镍钴能源技术集团有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "上海格派镍钴能源技术集团有限公司"
+    ]
+  },
+  "CN113": {
+    "title": "辽宁华信钴业科技有限公司",
+    "english": "",
+    "chinese": "辽宁华信钴业科技有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "辽宁华信钴业科技有限公司"
+    ]
+  },
+  "CN114": {
+    "title": "湖北长宸锂能循环科技有限公司",
+    "english": "",
+    "chinese": "湖北长宸锂能循环科技有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "湖北长宸锂能循环科技有限公司"
+    ]
+  },
+  "CN115": {
+    "title": "全南县瑞隆科技有限公司",
+    "english": "",
+    "chinese": "全南县瑞隆科技有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "全南县瑞隆科技有限公司"
+    ]
+  },
+  "CN116": {
+    "title": "湖南金源新材料股份有限公司",
+    "english": "",
+    "chinese": "湖南金源新材料股份有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "湖南金源新材料股份有限公司"
+    ]
+  },
+  "CN117": {
+    "title": "余姚市环科再生资源有限公司",
+    "english": "",
+    "chinese": "余姚市环科再生资源有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "余姚市环科再生资源有限公司"
+    ]
+  },
+  "CN118": {
+    "title": "江西自立环保科技有限公司",
+    "english": "",
+    "chinese": "江西自立环保科技有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "江西自立环保科技有限公司"
+    ]
+  },
+  "CN119": {
+    "title": "启东市北新无机化工有限公司",
+    "english": "",
+    "chinese": "启东市北新无机化工有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "启东市北新无机化工有限公司"
+    ]
+  },
+  "CN120": {
+    "title": "桑顿新能源科技有限公司",
+    "english": "",
+    "chinese": "桑顿新能源科技有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "桑顿新能源科技有限公司"
+    ]
+  },
+  "CN121": {
+    "title": "南通新玮镍钴科技发展有限公司",
+    "english": "",
+    "chinese": "南通新玮镍钴科技发展有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "南通新玮镍钴科技发展有限公司"
+    ]
+  },
+  "CN122": {
+    "title": "吉林亚融科技股份有限公司",
+    "english": "",
+    "chinese": "吉林亚融科技股份有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "吉林亚融科技股份有限公司"
+    ]
+  },
+  "CN123": {
+    "title": "浙江升阳再生资源科技股份有限公司",
+    "english": "",
+    "chinese": "浙江升阳再生资源科技股份有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "浙江升阳再生资源科技股份有限公司"
+    ]
+  },
+  "CN124": {
+    "title": "宁波华吉新材料科技有限公司",
+    "english": "",
+    "chinese": "宁波华吉新材料科技有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "宁波华吉新材料科技有限公司"
+    ]
+  },
+  "CN125": {
+    "title": "广东飞南资源利用股份有限公司",
+    "english": "",
+    "chinese": "广东飞南资源利用股份有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "广东飞南资源利用股份有限公司"
+    ]
+  },
+  "CN126": {
+    "title": "浙江天能新材料有限公司",
+    "english": "",
+    "chinese": "浙江天能新材料有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "浙江天能新材料有限公司"
+    ]
+  },
+  "CN127": {
+    "title": "广东光华科技股份有限公司",
+    "english": "",
+    "chinese": "广东光华科技股份有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "广东光华科技股份有限公司"
+    ]
+  },
+  "CN128": {
+    "title": "阳江市绿森工贸有限公司",
+    "english": "",
+    "chinese": "阳江市绿森工贸有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "阳江市绿森工贸有限公司"
+    ]
+  },
+  "CN129": {
+    "title": "上饶市鼎鑫金属化工有限公司",
+    "english": "",
+    "chinese": "上饶市鼎鑫金属化工有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "上饶市鼎鑫金属化工有限公司"
+    ]
+  },
+  "CN130": {
+    "title": "赣州市豪鹏科技有限公司",
+    "english": "",
+    "chinese": "赣州市豪鹏科技有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "赣州市豪鹏科技有限公司"
+    ]
+  },
+  "CN131": {
+    "title": "包头锐博新能源材料有限公司",
+    "english": "",
+    "chinese": "包头锐博新能源材料有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "包头锐博新能源材料有限公司"
+    ]
+  },
+  "CN132": {
+    "title": "大连瑞源动力股份有限公司",
+    "english": "",
+    "chinese": "大连瑞源动力股份有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "大连瑞源动力股份有限公司"
+    ]
+  },
+  "CN133": {
+    "title": "江西江钨钴业有限公司",
+    "english": "",
+    "chinese": "江西江钨钴业有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "江西江钨钴业有限公司"
+    ]
+  },
+  "CN134": {
+    "title": "江西赣峰锂业",
+    "english": "",
+    "chinese": "江西赣峰锂业",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "江西赣峰锂业"
+    ]
+  },
+  "CN135": {
+    "title": "贵州鹏程新材料有限公司",
+    "english": "",
+    "chinese": "贵州鹏程新材料有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "贵州鹏程新材料有限公司"
+    ]
+  },
+  "CN136": {
+    "title": "山西正兴有色金属有限公司",
+    "english": "",
+    "chinese": "山西正兴有色金属有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "山西正兴有色金属有限公司"
+    ]
+  },
+  "CN137": {
+    "title": "江西天奇金泰阁钴业有限公司",
+    "english": "",
+    "chinese": "江西天奇金泰阁钴业有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "江西天奇金泰阁钴业有限公司"
+    ]
+  },
+  "CN138": {
+    "title": "蜀矿环锂科技公司",
+    "english": "",
+    "chinese": "蜀矿环锂科技公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "蜀矿环锂科技公司"
+    ]
+  },
+  "CN139": {
+    "title": "盛屯矿业",
+    "english": "",
+    "chinese": "盛屯矿业",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "盛屯矿业"
+    ]
+  },
+  "CN140": {
+    "title": "韶关中弘金属实业有限公司",
+    "english": "",
+    "chinese": "韶关中弘金属实业有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "韶关中弘金属实业有限公司"
+    ]
+  },
+  "CN141": {
+    "title": "宁波容百新能源科技股份有限公司",
+    "english": "",
+    "chinese": "宁波容百新能源科技股份有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "宁波容百新能源科技股份有限公司"
+    ]
+  },
+  "CN142": {
+    "title": "江苏领先再生资源科技有限公司",
+    "english": "",
+    "chinese": "江苏领先再生资源科技有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "江苏领先再生资源科技有限公司"
+    ]
+  },
+  "CN143": {
+    "title": "浙江帕瓦新能源股份有限公司",
+    "english": "",
+    "chinese": "浙江帕瓦新能源股份有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "浙江帕瓦新能源股份有限公司"
+    ]
+  },
+  "CN144": {
+    "title": "宜宾光原锂电材料有限公司",
+    "english": "",
+    "chinese": "宜宾光原锂电材料有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "宜宾光原锂电材料有限公司"
+    ]
+  },
+  "CN145": {
+    "title": "盐城星创资源循环利用有限公司",
+    "english": "",
+    "chinese": "盐城星创资源循环利用有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "盐城星创资源循环利用有限公司"
+    ]
+  },
+  "CN146": {
+    "title": "华泽钴镍材料股份有限公司",
+    "english": "",
+    "chinese": "华泽钴镍材料股份有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "华泽钴镍材料股份有限公司"
+    ]
+  },
+  "CN147": {
+    "title": "余姚市鑫和电池材料有限公司",
+    "english": "",
+    "chinese": "余姚市鑫和电池材料有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "余姚市鑫和电池材料有限公司"
+    ]
+  },
+  "CN148": {
+    "title": "新乡超能电源有限公司（新乡帝龙）",
+    "english": "",
+    "chinese": "新乡超能电源有限公司（新乡帝龙）",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "新乡超能电源有限公司（新乡帝龙）"
+    ]
+  },
+  "CN149": {
+    "title": "伟明盛青能源新材料有限公司",
+    "english": "",
+    "chinese": "伟明盛青能源新材料有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "伟明盛青能源新材料有限公司"
+    ]
+  },
+  "CN150": {
+    "title": "湖南金凯循环科技股份有限公司",
+    "english": "",
+    "chinese": "湖南金凯循环科技股份有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "湖南金凯循环科技股份有限公司"
+    ]
+  },
+  "CN151": {
+    "title": "湖北睿勤新能源科技有限公司",
+    "english": "",
+    "chinese": "湖北睿勤新能源科技有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "湖北睿勤新能源科技有限公司"
+    ]
+  },
+  "CN152": {
+    "title": "贵州星茂新材料有限公司",
+    "english": "",
+    "chinese": "贵州星茂新材料有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "贵州星茂新材料有限公司"
+    ]
+  },
+  "CN153": {
+    "title": "金川集团股份有限公司 金昌纯镍产线",
+    "english": "",
+    "chinese": "金川集团股份有限公司（金昌纯镍产线）",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "金川集团股份有限公司（金昌纯镍产线）",
+      "金川电解",
+      "金川电积"
+    ]
+  },
+  "CN154": {
+    "title": "GEM Co., Ltd. 格林美股份有限公司",
+    "english": "GEM Co., Ltd.",
+    "chinese": "格林美股份有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "格林美股份有限公司"
+    ]
+  },
+  "CN155": {
+    "title": "Guangxi Huayou 广西华友新材料有限公司 广西华友",
+    "english": "Guangxi Huayou",
+    "chinese": "广西华友新材料有限公司 广西华友",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "广西华友新材料有限公司 广西华友",
+      "广西华友"
+    ]
+  },
+  "CN156": {
+    "title": "Quzhou Huayou 衢州华友钴新材料有限公司 衢州华友",
+    "english": "Quzhou Huayou",
+    "chinese": "衢州华友钴新材料有限公司 衢州华友",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "衢州华友钴新材料有限公司 衢州华友",
+      "衢州华友"
+    ]
+  },
+  "CN157": {
+    "title": "Guangxi Huaze 广西华泽",
+    "english": "Guangxi Huaze",
+    "chinese": "广西华泽",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "广西华泽"
+    ]
+  },
+  "CN158": {
+    "title": "Jiangxi Huaze 江西华泽",
+    "english": "Jiangxi Huaze",
+    "chinese": "江西华泽",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "江西华泽"
+    ]
+  },
+  "CN159": {
+    "title": "Xinjiang Xinxin Mining 新疆新鑫矿业",
+    "english": "Xinjiang Xinxin Mining",
+    "chinese": "新疆新鑫矿业",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "新疆新鑫矿业"
+    ]
+  },
+  "CN160": {
+    "title": "Yunxi Group Yuanjiang Nickel Industry Co., Ltd. 云锡集团元江镍业有限责任公司",
+    "english": "Yunxi Group Yuanjiang Nickel Industry Co., Ltd.",
+    "chinese": "云锡集团元江镍业有限责任公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "云锡集团元江镍业有限责任公司"
+    ]
+  },
+  "CN161": {
+    "title": "Zhejiang Yuanli Renewable Resources Co., Ltd. 浙江元力再生资源有限公司",
+    "english": "Zhejiang Yuanli Renewable Resources Co., Ltd.",
+    "chinese": "浙江元力再生资源有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "浙江元力再生资源有限公司"
+    ]
+  },
+  "CN162": {
+    "title": "Zhejiang Lujia New Materials Co., Ltd. 浙江路加新材料有限公司",
+    "english": "Zhejiang Lujia New Materials Co., Ltd.",
+    "chinese": "浙江路加新材料有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "浙江路加新材料有限公司"
+    ]
+  },
+  "CN163": {
+    "title": "Jiangsu Qisheng Metal Technology Co., Ltd. 江苏祺生金属科技有限公司",
+    "english": "Jiangsu Qisheng Metal Technology Co., Ltd.",
+    "chinese": "江苏祺生金属科技有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "江苏祺生金属科技有限公司"
+    ]
+  },
+  "CN164": {
+    "title": "广西中伟新能源科技有限公司 钦州纯镍产线",
+    "english": "",
+    "chinese": "广西中伟新能源科技有限公司（钦州纯镍产线）",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "广西中伟新能源科技有限公司（钦州纯镍产线）",
+      "中伟一期",
+      "中伟二期"
+    ]
+  },
+  "CN165": {
+    "title": "Zhejiang Weiming Environmental Protection Co., Ltd. 浙江伟明环保股份有限公司",
+    "english": "Zhejiang Weiming Environmental Protection Co., Ltd.",
+    "chinese": "浙江伟明环保股份有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "浙江伟明环保股份有限公司"
+    ]
+  },
+  "CN166": {
+    "title": "Shaanxi Jutai New Materials Technology Co., Ltd. 陕西聚泰新材料科技有限公司（浙江统计项目）",
+    "english": "Shaanxi Jutai New Materials Technology Co., Ltd.",
+    "chinese": "陕西聚泰新材料科技有限公司（浙江统计项目）",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "陕西聚泰新材料科技有限公司（浙江统计项目）",
+      "陕西聚泰新材料科技有限公司"
+    ]
+  },
+  "CN167": {
+    "title": "Nanjing Hanrui Cobalt Co., Ltd. 南京寒锐钴业股份有限公司",
+    "english": "Nanjing Hanrui Cobalt Co., Ltd.",
+    "chinese": "南京寒锐钴业股份有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "南京寒锐钴业股份有限公司"
+    ]
+  },
+  "CN168": {
+    "title": "Shanghai Greatpower Technology Co., Ltd. 上海格派镍钴材料股份有限公司",
+    "english": "Shanghai Greatpower Technology Co., Ltd.",
+    "chinese": "上海格派镍钴材料股份有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "上海格派镍钴材料股份有限公司"
+    ]
+  },
+  "CN169": {
+    "title": "Chengtun Mining 盛屯矿业",
+    "english": "Chengtun Mining",
+    "chinese": "盛屯矿业",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "盛屯矿业"
+    ]
+  },
+  "CN170": {
+    "title": "Guangdong Feinan Resources Utilization Co., Ltd. 广东飞南资源利用股份有限公司",
+    "english": "Guangdong Feinan Resources Utilization Co., Ltd.",
+    "chinese": "广东飞南资源利用股份有限公司",
+    "chinese_basis": "用户提供的中国项目表",
+    "identity_kind": "原表企业／产品／产线研究对象",
+    "aliases": [
+      "广东飞南资源利用股份有限公司"
+    ]
   }
 }

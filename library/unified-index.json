@@ -8,7 +8,8 @@
       "project_ids": [
         "NPI006",
         "MHP011",
-        "MHP024"
+        "MHP024",
+        "CN085"
       ],
       "intro": "宁德时代的核心业务是动力电池和储能电池，邦普位于其电池材料与资源循环链条。与不锈钢企业为钢厂寻找镍铁不同，这一体系向印尼上游延伸，可以增加对含镍原料的控制和供应选择。这个产业动机有集团业务基础，但不能反过来把其控制的每一座RKEF都归为电池原料厂。蓝天PT Langit Metal Industry是最典型的例子：当前具名生产证据仍以NPI为主，尚未找到本厂低冰镍或高冰镍商业首产原件。",
       "aliases": [
@@ -66,7 +67,9 @@
         "P41",
         "P48",
         "MHP027",
-        "RF001"
+        "RF001",
+        "CN080",
+        "CN164"
       ],
       "intro": "中伟以新能源电池材料和镍钴原料精炼为业务基础，向印尼矿石冶炼延伸，目的在于增加原料自主供应，并与中国的硫酸镍、前驱体制造连接。其印尼工厂、国际贸易平台和中国加工法人承担不同工作，不能看到中伟买家就认定货物全部进入同一工厂。",
       "aliases": [
@@ -94,7 +97,9 @@
       "project_ids": [
         "P09",
         "P28",
-        "P29"
+        "P29",
+        "CN149",
+        "CN165"
       ],
       "intro": "伟明环保原有环保项目运营和装备制造基础，其镍业务是新材料布局的一部分。印尼冶炼与温州精炼相互连接，同时带来工业装备销售机会。公开项目介绍将嘉曼定位为温州锂电池材料的原料支撑，不能把它写成传统镍矿公司开发自有矿山。",
       "aliases": [
@@ -128,7 +133,10 @@
         "MHP031",
         "RF003",
         "RF002",
-        "P27"
+        "P27",
+        "CN081",
+        "CN155",
+        "CN156"
       ],
       "intro": "华友钴业以钴镍资源、精炼和新能源材料为基础，印尼项目为中国及海外材料业务提供上游镍来源。上市华友钴业与华友控股是不同层级：历史友山投资属于华友控股体系，不能直接改写成上市公司持有同样权益。",
       "aliases": [
@@ -279,7 +287,8 @@
         "NPI041",
         "NPI042",
         "NPI043",
-        "NPI044"
+        "NPI044",
+        "CN005"
       ],
       "intro": "“德龙一期至四期”是市场理解项目沿革的方便称呼，不能作为今天的共同股东或共同经营状态。对应VDNI、OSS、GNI和NNI的四家法人，有不同的合作出资人、产权变化和销售网络。德龙的镍铁—不锈钢业务构成这些项目的历史产业背景，但后续一重、象屿和中伟的进入，使各厂不能再按一个统一母公司处理。",
       "aliases": [
@@ -337,7 +346,9 @@
       "project_ids": [
         "NPI016",
         "NPI049",
-        "P11"
+        "P11",
+        "CN083",
+        "CN153"
       ],
       "intro": "金川业务覆盖镍钴资源、冶炼及材料，通过印尼合作项目增加原料来源，同时向其他印尼工厂采购。其需求可以服务镍钴金属和镍盐加工，不能把所有高冰镍统一分配给硫酸镍，也不能把上海贸易公司登记为新增冶炼装置。",
       "aliases": [
@@ -518,7 +529,9 @@
       "project_ids": [
         "NPI008",
         "NPI054",
-        "P38"
+        "P38",
+        "CN139",
+        "CN169"
       ],
       "intro": "盛屯经营有色资源、冶炼和贸易，印尼友山为其提供镍原料环节，中国贵州工厂承担后续精炼。它兼有产业投资和外部采购，不能因为一座项目名称写高冰镍，就把所有集团原料和规划能力都算成印尼高冰镍产量。",
       "aliases": [
@@ -838,7 +851,8 @@
       "npi_id": null,
       "matte_id": "hanrui",
       "project_ids": [
-        "P25"
+        "P25",
+        "CN167"
       ],
       "intro": "寒锐原有钴粉、钴盐及刚果（金）铜钴业务，赣州还涉及电积镍等金属加工。印尼投资是向镍资源端延伸，业务逻辑与集团材料及金属原料保障有关；集团已有镍收入不能直接当成印尼项目出货，更不能由国内产品倒推海外装置已经量产。",
       "aliases": [
@@ -915,7 +929,9 @@
         "MHP014",
         "MHP015",
         "NPI053",
-        "RF004"
+        "RF004",
+        "CN082",
+        "CN154"
       ],
       "aliases": [],
       "mhp_ids": [
@@ -1098,7 +1114,8 @@
       "npi_id": null,
       "matte_id": null,
       "project_ids": [
-        "MHP037"
+        "MHP037",
+        "CN087"
       ],
       "aliases": [],
       "mhp_ids": [
@@ -9479,6 +9496,4807 @@
       "global_scopes": [
         "other"
       ]
+    },
+    {
+      "id": "CN001",
+      "name": "扬州一川镍业有限公司",
+      "display_name": "扬州一川镍业有限公司",
+      "legal": "扬州一川镍业有限公司",
+      "region": "江苏",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · RKEF",
+      "aliases": [
+        "扬州一川镍业有限公司"
+      ],
+      "search_text": "扬州一川镍业有限公司 江苏  镍生铁／镍铁 扬州一川镍业有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN001",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN002",
+      "name": "宿迁翔翔实业有限公司",
+      "display_name": "宿迁翔翔实业有限公司",
+      "legal": "宿迁翔翔实业有限公司",
+      "region": "江苏",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · RKEF",
+      "aliases": [
+        "宿迁翔翔实业有限公司"
+      ],
+      "search_text": "宿迁翔翔实业有限公司 江苏  镍生铁／镍铁 宿迁翔翔实业有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN002",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN003",
+      "name": "连云港海赣科技有限公司",
+      "display_name": "连云港海赣科技有限公司",
+      "legal": "连云港海赣科技有限公司",
+      "region": "江苏",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · EF",
+      "aliases": [
+        "连云港海赣科技有限公司"
+      ],
+      "search_text": "连云港海赣科技有限公司 江苏  镍生铁／镍铁 连云港海赣科技有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN003",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN004",
+      "name": "连云港科创不锈钢新材料有限公司",
+      "display_name": "连云港科创不锈钢新材料有限公司",
+      "legal": "连云港科创不锈钢新材料有限公司",
+      "region": "江苏",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · EF",
+      "aliases": [
+        "连云港科创不锈钢新材料有限公司"
+      ],
+      "search_text": "连云港科创不锈钢新材料有限公司 江苏  镍生铁／镍铁 连云港科创不锈钢新材料有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN004",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN005",
+      "name": "江苏德龙镍业有限公司",
+      "display_name": "江苏德龙镍业有限公司",
+      "legal": "江苏德龙镍业有限公司",
+      "region": "江苏",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · RKEF",
+      "aliases": [
+        "江苏德龙镍业有限公司"
+      ],
+      "search_text": "江苏德龙镍业有限公司 江苏  镍生铁／镍铁 江苏德龙镍业有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN005",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN006",
+      "name": "赣榆县金成镍业有限公司",
+      "display_name": "赣榆县金成镍业有限公司",
+      "legal": "赣榆县金成镍业有限公司",
+      "region": "江苏",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · RKEF",
+      "aliases": [
+        "赣榆县金成镍业有限公司"
+      ],
+      "search_text": "赣榆县金成镍业有限公司 江苏  镍生铁／镍铁 赣榆县金成镍业有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN006",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN007",
+      "name": "连云港天乙金属制品有限公司",
+      "display_name": "连云港天乙金属制品有限公司",
+      "legal": "连云港天乙金属制品有限公司",
+      "region": "江苏",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · EF",
+      "aliases": [
+        "连云港天乙金属制品有限公司"
+      ],
+      "search_text": "连云港天乙金属制品有限公司 江苏  镍生铁／镍铁 连云港天乙金属制品有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN007",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN008",
+      "name": "江苏宝通镍业有限公司",
+      "display_name": "江苏宝通镍业有限公司",
+      "legal": "江苏宝通镍业有限公司",
+      "region": "江苏",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · EF",
+      "aliases": [
+        "江苏宝通镍业有限公司"
+      ],
+      "search_text": "江苏宝通镍业有限公司 江苏  镍生铁／镍铁 江苏宝通镍业有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN008",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN009",
+      "name": "荣阳钢铁",
+      "display_name": "荣阳钢铁",
+      "legal": "荣阳钢铁",
+      "region": "江苏",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · RKEF",
+      "aliases": [
+        "荣阳钢铁"
+      ],
+      "search_text": "荣阳钢铁 江苏  镍生铁／镍铁 荣阳钢铁",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN009",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN010",
+      "name": "营口宁丰镁业（宁丰集团）",
+      "display_name": "营口宁丰镁业（宁丰集团）",
+      "legal": "营口宁丰镁业（宁丰集团）",
+      "region": "辽宁",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · RKEF",
+      "aliases": [
+        "营口宁丰镁业（宁丰集团）"
+      ],
+      "search_text": "营口宁丰镁业（宁丰集团） 辽宁  镍生铁／镍铁 营口宁丰镁业（宁丰集团）",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN010",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN011",
+      "name": "辽宁晟运实业有限公司",
+      "display_name": "辽宁晟运实业有限公司",
+      "legal": "辽宁晟运实业有限公司",
+      "region": "辽宁",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · RKEF",
+      "aliases": [
+        "辽宁晟运实业有限公司"
+      ],
+      "search_text": "辽宁晟运实业有限公司 辽宁  镍生铁／镍铁 辽宁晟运实业有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN011",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN012",
+      "name": "营口广大实业有限公司",
+      "display_name": "营口广大实业有限公司",
+      "legal": "营口广大实业有限公司",
+      "region": "辽宁",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · BF",
+      "aliases": [
+        "营口广大实业有限公司"
+      ],
+      "search_text": "营口广大实业有限公司 辽宁  镍生铁／镍铁 营口广大实业有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN012",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN013",
+      "name": "光大冶金发展（大连）有限公司",
+      "display_name": "光大冶金发展（大连）有限公司",
+      "legal": "光大冶金发展（大连）有限公司",
+      "region": "辽宁",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · RKEF",
+      "aliases": [
+        "光大冶金发展（大连）有限公司",
+        "光大冶金发展（大连）有限公司（现：鑫峰科技新材料有限公司）"
+      ],
+      "search_text": "光大冶金发展（大连）有限公司 辽宁  镍生铁／镍铁 光大冶金发展（大连）有限公司 光大冶金发展（大连）有限公司（现：鑫峰科技新材料有限公司）",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN013",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN014",
+      "name": "辽宁宝铂科技有限公司",
+      "display_name": "辽宁宝铂科技有限公司",
+      "legal": "辽宁宝铂科技有限公司",
+      "region": "辽宁",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · RKEF、BF",
+      "aliases": [
+        "辽宁宝铂科技有限公司",
+        "辽宁宝铂科技有限公司-A",
+        "辽宁宝铂科技有限公司-B"
+      ],
+      "search_text": "辽宁宝铂科技有限公司 辽宁  镍生铁／镍铁 辽宁宝铂科技有限公司 辽宁宝铂科技有限公司-A 辽宁宝铂科技有限公司-B",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN014",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN015",
+      "name": "朝阳昊天有色金属有限公司-朝阳利鑫有色金属有限公司（北方兄弟）",
+      "display_name": "朝阳昊天有色金属有限公司-朝阳利鑫有色金属有限公司（北方兄弟）",
+      "legal": "朝阳昊天有色金属有限公司-朝阳利鑫有色金属有限公司（北方兄弟）",
+      "region": "辽宁",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · EF",
+      "aliases": [
+        "朝阳昊天有色金属有限公司-朝阳利鑫有色金属有限公司（北方兄弟）"
+      ],
+      "search_text": "朝阳昊天有色金属有限公司-朝阳利鑫有色金属有限公司（北方兄弟） 辽宁  镍生铁／镍铁 朝阳昊天有色金属有限公司-朝阳利鑫有色金属有限公司（北方兄弟）",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN015",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN016",
+      "name": "海城市腾发耐火材料有限公司",
+      "display_name": "海城市腾发耐火材料有限公司",
+      "legal": "海城市腾发耐火材料有限公司",
+      "region": "辽宁",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · EF",
+      "aliases": [
+        "海城市腾发耐火材料有限公司"
+      ],
+      "search_text": "海城市腾发耐火材料有限公司 辽宁  镍生铁／镍铁 海城市腾发耐火材料有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN016",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN017",
+      "name": "凌源市瑞丰铸造有限公司",
+      "display_name": "凌源市瑞丰铸造有限公司",
+      "legal": "凌源市瑞丰铸造有限公司",
+      "region": "辽宁",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · BF",
+      "aliases": [
+        "凌源市瑞丰铸造有限公司"
+      ],
+      "search_text": "凌源市瑞丰铸造有限公司 辽宁  镍生铁／镍铁 凌源市瑞丰铸造有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN017",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN018",
+      "name": "辽宁垚鑫铸业有限公司",
+      "display_name": "辽宁垚鑫铸业有限公司",
+      "legal": "辽宁垚鑫铸业有限公司",
+      "region": "辽宁",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · BF",
+      "aliases": [
+        "辽宁垚鑫铸业有限公司"
+      ],
+      "search_text": "辽宁垚鑫铸业有限公司 辽宁  镍生铁／镍铁 辽宁垚鑫铸业有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN018",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN019",
+      "name": "鞍山旭辰耐火材料有限公司",
+      "display_name": "鞍山旭辰耐火材料有限公司",
+      "legal": "鞍山旭辰耐火材料有限公司",
+      "region": "辽宁",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · EF",
+      "aliases": [
+        "鞍山旭辰耐火材料有限公司"
+      ],
+      "search_text": "鞍山旭辰耐火材料有限公司 辽宁  镍生铁／镍铁 鞍山旭辰耐火材料有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN019",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN020",
+      "name": "辽宁国润金属集团",
+      "display_name": "辽宁国润金属集团",
+      "legal": "辽宁国润金属集团",
+      "region": "辽宁",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · EF",
+      "aliases": [
+        "辽宁国润金属集团"
+      ],
+      "search_text": "辽宁国润金属集团 辽宁  镍生铁／镍铁 辽宁国润金属集团",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN020",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN021",
+      "name": "锦州市鑫泽锰业有限公司（义县应盛金属实业有限公司）",
+      "display_name": "锦州市鑫泽锰业有限公司（义县应盛金属实业有限公司）",
+      "legal": "锦州市鑫泽锰业有限公司（义县应盛金属实业有限公司）",
+      "region": "辽宁",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · BF",
+      "aliases": [
+        "锦州市鑫泽锰业有限公司（义县应盛金属实业有限公司）"
+      ],
+      "search_text": "锦州市鑫泽锰业有限公司（义县应盛金属实业有限公司） 辽宁  镍生铁／镍铁 锦州市鑫泽锰业有限公司（义县应盛金属实业有限公司）",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN021",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN022",
+      "name": "锦州鑫雨铁合金",
+      "display_name": "锦州鑫雨铁合金",
+      "legal": "锦州鑫雨铁合金",
+      "region": "辽宁",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · BF",
+      "aliases": [
+        "锦州鑫雨铁合金"
+      ],
+      "search_text": "锦州鑫雨铁合金 辽宁  镍生铁／镍铁 锦州鑫雨铁合金",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN022",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN023",
+      "name": "山东鑫海科技有限公司",
+      "display_name": "山东鑫海科技有限公司",
+      "legal": "山东鑫海科技有限公司",
+      "region": "山东",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · RKEF",
+      "aliases": [
+        "山东鑫海科技有限公司"
+      ],
+      "search_text": "山东鑫海科技有限公司 山东  镍生铁／镍铁 山东鑫海科技有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN023",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN024",
+      "name": "临沂金海汇科技有限公司",
+      "display_name": "临沂金海汇科技有限公司",
+      "legal": "临沂金海汇科技有限公司",
+      "region": "山东",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · RKEF",
+      "aliases": [
+        "临沂金海汇科技有限公司"
+      ],
+      "search_text": "临沂金海汇科技有限公司 山东  镍生铁／镍铁 临沂金海汇科技有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN024",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN025",
+      "name": "茌平爱得信新材料有限公司",
+      "display_name": "茌平爱得信新材料有限公司",
+      "legal": "茌平爱得信新材料有限公司",
+      "region": "山东",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · RKEF",
+      "aliases": [
+        "茌平爱得信新材料有限公司"
+      ],
+      "search_text": "茌平爱得信新材料有限公司 山东  镍生铁／镍铁 茌平爱得信新材料有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN025",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN026",
+      "name": "日照铸福",
+      "display_name": "日照铸福",
+      "legal": "日照铸福",
+      "region": "山东",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · BF",
+      "aliases": [
+        "日照铸福"
+      ],
+      "search_text": "日照铸福 山东  镍生铁／镍铁 日照铸福",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN026",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN027",
+      "name": "沾化县炜烨镍业有限公司",
+      "display_name": "沾化县炜烨镍业有限公司",
+      "legal": "沾化县炜烨镍业有限公司",
+      "region": "山东",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · EF",
+      "aliases": [
+        "沾化县炜烨镍业有限公司"
+      ],
+      "search_text": "沾化县炜烨镍业有限公司 山东  镍生铁／镍铁 沾化县炜烨镍业有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN027",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN028",
+      "name": "山西曲沃县三鑫铸造有限公司",
+      "display_name": "山西曲沃县三鑫铸造有限公司",
+      "legal": "山西曲沃县三鑫铸造有限公司",
+      "region": "山西",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · BF",
+      "aliases": [
+        "山西曲沃县三鑫铸造有限公司"
+      ],
+      "search_text": "山西曲沃县三鑫铸造有限公司 山西  镍生铁／镍铁 山西曲沃县三鑫铸造有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN028",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN029",
+      "name": "青州天泰德隆冶金科技有限公司",
+      "display_name": "青州天泰德隆冶金科技有限公司",
+      "legal": "青州天泰德隆冶金科技有限公司",
+      "region": "山东",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · BF",
+      "aliases": [
+        "青州天泰德隆冶金科技有限公司"
+      ],
+      "search_text": "青州天泰德隆冶金科技有限公司 山东  镍生铁／镍铁 青州天泰德隆冶金科技有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN029",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN030",
+      "name": "冠县顺丰金属制品有限公司",
+      "display_name": "冠县顺丰金属制品有限公司",
+      "legal": "冠县顺丰金属制品有限公司",
+      "region": "山东",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · BF",
+      "aliases": [
+        "冠县顺丰金属制品有限公司"
+      ],
+      "search_text": "冠县顺丰金属制品有限公司 山东  镍生铁／镍铁 冠县顺丰金属制品有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN030",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN031",
+      "name": "福建联德镍铁合金",
+      "display_name": "福建联德镍铁合金",
+      "legal": "福建联德镍铁合金",
+      "region": "福建",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · RKEF",
+      "aliases": [
+        "福建联德镍铁合金"
+      ],
+      "search_text": "福建联德镍铁合金 福建  镍生铁／镍铁 福建联德镍铁合金",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN031",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN032",
+      "name": "福建鼎信实业有限公司",
+      "display_name": "福建鼎信实业有限公司",
+      "legal": "福建鼎信实业有限公司",
+      "region": "福建",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · RKEF、BF",
+      "aliases": [
+        "福建鼎信实业有限公司",
+        "福建鼎信实业有限公司-A",
+        "福建鼎信实业有限公司-B"
+      ],
+      "search_text": "福建鼎信实业有限公司 福建  镍生铁／镍铁 福建鼎信实业有限公司 福建鼎信实业有限公司-A 福建鼎信实业有限公司-B",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN032",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN033",
+      "name": "宝钢德盛不锈钢有限公司",
+      "display_name": "宝钢德盛不锈钢有限公司",
+      "legal": "宝钢德盛不锈钢有限公司",
+      "region": "福建",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "国企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · RKEF、BF",
+      "aliases": [
+        "宝钢德盛不锈钢有限公司",
+        "宝钢德盛不锈钢有限公司-A",
+        "宝钢德盛不锈钢有限公司-B"
+      ],
+      "search_text": "宝钢德盛不锈钢有限公司 福建  镍生铁／镍铁 宝钢德盛不锈钢有限公司 宝钢德盛不锈钢有限公司-A 宝钢德盛不锈钢有限公司-B",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN033",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN034",
+      "name": "五洲镍业有限公司/化德县五洲钢业有限公司",
+      "display_name": "五洲镍业有限公司/化德县五洲钢业有限公司",
+      "legal": "五洲镍业有限公司/化德县五洲钢业有限公司",
+      "region": "内蒙古",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · EF",
+      "aliases": [
+        "五洲镍业有限公司/化德县五洲钢业有限公司"
+      ],
+      "search_text": "五洲镍业有限公司/化德县五洲钢业有限公司 内蒙古  镍生铁／镍铁 五洲镍业有限公司/化德县五洲钢业有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN034",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN035",
+      "name": "内蒙古察右前旗鑫扬冶金化工有限公司",
+      "display_name": "内蒙古察右前旗鑫扬冶金化工有限公司",
+      "legal": "内蒙古察右前旗鑫扬冶金化工有限公司",
+      "region": "内蒙古",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · EF",
+      "aliases": [
+        "内蒙古察右前旗鑫扬冶金化工有限公司"
+      ],
+      "search_text": "内蒙古察右前旗鑫扬冶金化工有限公司 内蒙古  镍生铁／镍铁 内蒙古察右前旗鑫扬冶金化工有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN035",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN036",
+      "name": "内蒙古商都县永鑫公司（原瑞泰冶金）",
+      "display_name": "内蒙古商都县永鑫公司（原瑞泰冶金）",
+      "legal": "内蒙古商都县永鑫公司（原瑞泰冶金）",
+      "region": "内蒙古",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · EF",
+      "aliases": [
+        "内蒙古商都县永鑫公司（原瑞泰冶金）"
+      ],
+      "search_text": "内蒙古商都县永鑫公司（原瑞泰冶金） 内蒙古  镍生铁／镍铁 内蒙古商都县永鑫公司（原瑞泰冶金）",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN036",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN037",
+      "name": "内蒙古硕丰实业有限公司",
+      "display_name": "内蒙古硕丰实业有限公司",
+      "legal": "内蒙古硕丰实业有限公司",
+      "region": "内蒙古",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · EF",
+      "aliases": [
+        "内蒙古硕丰实业有限公司"
+      ],
+      "search_text": "内蒙古硕丰实业有限公司 内蒙古  镍生铁／镍铁 内蒙古硕丰实业有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN037",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN038",
+      "name": "内蒙古上泰实业有限公司",
+      "display_name": "内蒙古上泰实业有限公司",
+      "legal": "内蒙古上泰实业有限公司",
+      "region": "内蒙古",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · RKEF",
+      "aliases": [
+        "内蒙古上泰实业有限公司"
+      ],
+      "search_text": "内蒙古上泰实业有限公司 内蒙古  镍生铁／镍铁 内蒙古上泰实业有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN038",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN039",
+      "name": "内蒙古商都县中建金马冶金化工有限公司",
+      "display_name": "内蒙古商都县中建金马冶金化工有限公司",
+      "legal": "内蒙古商都县中建金马冶金化工有限公司",
+      "region": "内蒙古",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · RKEF",
+      "aliases": [
+        "内蒙古商都县中建金马冶金化工有限公司"
+      ],
+      "search_text": "内蒙古商都县中建金马冶金化工有限公司 内蒙古  镍生铁／镍铁 内蒙古商都县中建金马冶金化工有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN039",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN040",
+      "name": "内蒙古天润特种铁合金有限公司",
+      "display_name": "内蒙古天润特种铁合金有限公司",
+      "legal": "内蒙古天润特种铁合金有限公司",
+      "region": "内蒙古",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · RKEF、EF",
+      "aliases": [
+        "内蒙古天润特种铁合金有限公司",
+        "内蒙古天润特种铁合金有限公司-A",
+        "内蒙古天润特种铁合金有限公司-B"
+      ],
+      "search_text": "内蒙古天润特种铁合金有限公司 内蒙古  镍生铁／镍铁 内蒙古天润特种铁合金有限公司 内蒙古天润特种铁合金有限公司-A 内蒙古天润特种铁合金有限公司-B",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN040",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN041",
+      "name": "内蒙古隆盛特钢有限公司",
+      "display_name": "内蒙古隆盛特钢有限公司",
+      "legal": "内蒙古隆盛特钢有限公司",
+      "region": "内蒙古",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · EF",
+      "aliases": [
+        "内蒙古隆盛特钢有限公司"
+      ],
+      "search_text": "内蒙古隆盛特钢有限公司 内蒙古  镍生铁／镍铁 内蒙古隆盛特钢有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN041",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN042",
+      "name": "内蒙古和谊镍铬复合材料有限公司",
+      "display_name": "内蒙古和谊镍铬复合材料有限公司",
+      "legal": "内蒙古和谊镍铬复合材料有限公司",
+      "region": "内蒙古",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · RKEF",
+      "aliases": [
+        "内蒙古和谊镍铬复合材料有限公司"
+      ],
+      "search_text": "内蒙古和谊镍铬复合材料有限公司 内蒙古  镍生铁／镍铁 内蒙古和谊镍铬复合材料有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN042",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN043",
+      "name": "化德县嘉铭钢业有限公司",
+      "display_name": "化德县嘉铭钢业有限公司",
+      "legal": "化德县嘉铭钢业有限公司",
+      "region": "内蒙古",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · EF",
+      "aliases": [
+        "化德县嘉铭钢业有限公司"
+      ],
+      "search_text": "化德县嘉铭钢业有限公司 内蒙古  镍生铁／镍铁 化德县嘉铭钢业有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN043",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN044",
+      "name": "内蒙古察右前旗辰东化工有限责任公司",
+      "display_name": "内蒙古察右前旗辰东化工有限责任公司",
+      "legal": "内蒙古察右前旗辰东化工有限责任公司",
+      "region": "内蒙古",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · EF",
+      "aliases": [
+        "内蒙古察右前旗辰东化工有限责任公司",
+        "辰东化工"
+      ],
+      "search_text": "内蒙古察右前旗辰东化工有限责任公司 内蒙古  镍生铁／镍铁 内蒙古察右前旗辰东化工有限责任公司 辰东化工",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN044",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN045",
+      "name": "瑞泰冶金有限公司",
+      "display_name": "瑞泰冶金有限公司",
+      "legal": "瑞泰冶金有限公司",
+      "region": "内蒙古",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · EF",
+      "aliases": [
+        "瑞泰冶金有限公司"
+      ],
+      "search_text": "瑞泰冶金有限公司 内蒙古  镍生铁／镍铁 瑞泰冶金有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN045",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN046",
+      "name": "瑞泰",
+      "display_name": "瑞泰",
+      "legal": "瑞泰",
+      "region": "内蒙古",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · EF",
+      "aliases": [
+        "瑞泰"
+      ],
+      "search_text": "瑞泰 内蒙古  镍生铁／镍铁 瑞泰",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN046",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN047",
+      "name": "化德县中泰镍铁有限公司",
+      "display_name": "化德县中泰镍铁有限公司",
+      "legal": "化德县中泰镍铁有限公司",
+      "region": "内蒙古",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · RKEF",
+      "aliases": [
+        "化德县中泰镍铁有限公司"
+      ],
+      "search_text": "化德县中泰镍铁有限公司 内蒙古  镍生铁／镍铁 化德县中泰镍铁有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN047",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN048",
+      "name": "化德县鑫泽镍业有限公司",
+      "display_name": "化德县鑫泽镍业有限公司",
+      "legal": "化德县鑫泽镍业有限公司",
+      "region": "内蒙古",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · EF",
+      "aliases": [
+        "化德县鑫泽镍业有限公司"
+      ],
+      "search_text": "化德县鑫泽镍业有限公司 内蒙古  镍生铁／镍铁 化德县鑫泽镍业有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN048",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN049",
+      "name": "化德县同盛铁合金有限公司(昌盛泰)",
+      "display_name": "化德县同盛铁合金有限公司(昌盛泰)",
+      "legal": "化德县同盛铁合金有限公司(昌盛泰)",
+      "region": "内蒙古",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · EF",
+      "aliases": [
+        "化德县同盛铁合金有限公司(昌盛泰)"
+      ],
+      "search_text": "化德县同盛铁合金有限公司(昌盛泰) 内蒙古  镍生铁／镍铁 化德县同盛铁合金有限公司(昌盛泰)",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN049",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN050",
+      "name": "永盛铁合金",
+      "display_name": "永盛铁合金",
+      "legal": "永盛铁合金",
+      "region": "内蒙古",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · EF",
+      "aliases": [
+        "永盛铁合金"
+      ],
+      "search_text": "永盛铁合金 内蒙古  镍生铁／镍铁 永盛铁合金",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN050",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN051",
+      "name": "光达冶金（烨兆）",
+      "display_name": "光达冶金（烨兆）",
+      "legal": "光达冶金（烨兆）",
+      "region": "内蒙古",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · EF",
+      "aliases": [
+        "光达冶金（烨兆）"
+      ],
+      "search_text": "光达冶金（烨兆） 内蒙古  镍生铁／镍铁 光达冶金（烨兆）",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN051",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN052",
+      "name": "化德县鑫盛铁合金有限公司",
+      "display_name": "化德县鑫盛铁合金有限公司",
+      "legal": "化德县鑫盛铁合金有限公司",
+      "region": "内蒙古",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · EF",
+      "aliases": [
+        "化德县鑫盛铁合金有限公司"
+      ],
+      "search_text": "化德县鑫盛铁合金有限公司 内蒙古  镍生铁／镍铁 化德县鑫盛铁合金有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN052",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN053",
+      "name": "唐山凯源实业有限公司",
+      "display_name": "唐山凯源实业有限公司",
+      "legal": "唐山凯源实业有限公司",
+      "region": "河北",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · RKEF、EF",
+      "aliases": [
+        "唐山凯源实业有限公司",
+        "唐山凯源实业有限公司-A",
+        "唐山凯源实业有限公司-B"
+      ],
+      "search_text": "唐山凯源实业有限公司 河北  镍生铁／镍铁 唐山凯源实业有限公司 唐山凯源实业有限公司-A 唐山凯源实业有限公司-B",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN053",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN054",
+      "name": "唐山腾达科技有限公司",
+      "display_name": "唐山腾达科技有限公司",
+      "legal": "唐山腾达科技有限公司",
+      "region": "河北",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · EF",
+      "aliases": [
+        "唐山腾达科技有限公司"
+      ],
+      "search_text": "唐山腾达科技有限公司 河北  镍生铁／镍铁 唐山腾达科技有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN054",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN055",
+      "name": "丰润区长明不锈钢制品厂",
+      "display_name": "丰润区长明不锈钢制品厂",
+      "legal": "丰润区长明不锈钢制品厂",
+      "region": "河北",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · BF",
+      "aliases": [
+        "丰润区长明不锈钢制品厂"
+      ],
+      "search_text": "丰润区长明不锈钢制品厂 河北  镍生铁／镍铁 丰润区长明不锈钢制品厂",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN055",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN056",
+      "name": "河北春风铸造有限责任公司",
+      "display_name": "河北春风铸造有限责任公司",
+      "legal": "河北春风铸造有限责任公司",
+      "region": "河北",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · BF",
+      "aliases": [
+        "河北春风铸造有限责任公司"
+      ],
+      "search_text": "河北春风铸造有限责任公司 河北  镍生铁／镍铁 河北春风铸造有限责任公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN056",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN057",
+      "name": "偏关县晋电化工有限责任公司",
+      "display_name": "偏关县晋电化工有限责任公司",
+      "legal": "偏关县晋电化工有限责任公司",
+      "region": "山西",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · RKEF",
+      "aliases": [
+        "偏关县晋电化工有限责任公司"
+      ],
+      "search_text": "偏关县晋电化工有限责任公司 山西  镍生铁／镍铁 偏关县晋电化工有限责任公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN057",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN058",
+      "name": "山西众泰陆洋冶炼实业有限公司",
+      "display_name": "山西众泰陆洋冶炼实业有限公司",
+      "legal": "山西众泰陆洋冶炼实业有限公司",
+      "region": "山西",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · BF",
+      "aliases": [
+        "山西众泰陆洋冶炼实业有限公司"
+      ],
+      "search_text": "山西众泰陆洋冶炼实业有限公司 山西  镍生铁／镍铁 山西众泰陆洋冶炼实业有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN058",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN059",
+      "name": "山西达康集团",
+      "display_name": "山西达康集团",
+      "legal": "山西达康集团",
+      "region": "山西",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · BF",
+      "aliases": [
+        "山西达康集团"
+      ],
+      "search_text": "山西达康集团 山西  镍生铁／镍铁 山西达康集团",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN059",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN060",
+      "name": "河南省煜晟镍业有限责任公司",
+      "display_name": "河南省煜晟镍业有限责任公司",
+      "legal": "河南省煜晟镍业有限责任公司",
+      "region": "河南",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · RKEF",
+      "aliases": [
+        "河南省煜晟镍业有限责任公司"
+      ],
+      "search_text": "河南省煜晟镍业有限责任公司 河南  镍生铁／镍铁 河南省煜晟镍业有限责任公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN060",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN061",
+      "name": "福佳不锈钢制品有限公司",
+      "display_name": "福佳不锈钢制品有限公司",
+      "legal": "福佳不锈钢制品有限公司",
+      "region": "河南",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · EF",
+      "aliases": [
+        "福佳不锈钢制品有限公司"
+      ],
+      "search_text": "福佳不锈钢制品有限公司 河南  镍生铁／镍铁 福佳不锈钢制品有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN061",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN062",
+      "name": "河南宝泰盛商贸有限公司",
+      "display_name": "河南宝泰盛商贸有限公司",
+      "legal": "河南宝泰盛商贸有限公司",
+      "region": "河南",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · EF",
+      "aliases": [
+        "河南宝泰盛商贸有限公司"
+      ],
+      "search_text": "河南宝泰盛商贸有限公司 河南  镍生铁／镍铁 河南宝泰盛商贸有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN062",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN063",
+      "name": "阳江翌川金属科技有限公司",
+      "display_name": "阳江翌川金属科技有限公司",
+      "legal": "阳江翌川金属科技有限公司",
+      "region": "广东",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · RKEF",
+      "aliases": [
+        "阳江翌川金属科技有限公司"
+      ],
+      "search_text": "阳江翌川金属科技有限公司 广东  镍生铁／镍铁 阳江翌川金属科技有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN063",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN064",
+      "name": "广东世纪青山镍业有限公司",
+      "display_name": "广东世纪青山镍业有限公司",
+      "legal": "广东世纪青山镍业有限公司",
+      "region": "广东",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "外企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · RKEF",
+      "aliases": [
+        "广东世纪青山镍业有限公司"
+      ],
+      "search_text": "广东世纪青山镍业有限公司 广东  镍生铁／镍铁 广东世纪青山镍业有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN064",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN065",
+      "name": "广东广青金属科技有限公司",
+      "display_name": "广东广青金属科技有限公司",
+      "legal": "广东广青金属科技有限公司",
+      "region": "广东",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "国企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · BF、RKEF",
+      "aliases": [
+        "广东广青金属科技有限公司",
+        "广东广青金属科技有限公司-A",
+        "广东广青金属科技有限公司-B"
+      ],
+      "search_text": "广东广青金属科技有限公司 广东  镍生铁／镍铁 广东广青金属科技有限公司 广东广青金属科技有限公司-A 广东广青金属科技有限公司-B",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN065",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN066",
+      "name": "中金金属科技有限公司",
+      "display_name": "中金金属科技有限公司",
+      "legal": "中金金属科技有限公司",
+      "region": "广西",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "国企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · BF",
+      "aliases": [
+        "中金金属科技有限公司"
+      ],
+      "search_text": "中金金属科技有限公司 广西  镍生铁／镍铁 中金金属科技有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN066",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN067",
+      "name": "广西戎鑫达资源有限公司",
+      "display_name": "广西戎鑫达资源有限公司",
+      "legal": "广西戎鑫达资源有限公司",
+      "region": "广西",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · BF",
+      "aliases": [
+        "广西戎鑫达资源有限公司"
+      ],
+      "search_text": "广西戎鑫达资源有限公司 广西  镍生铁／镍铁 广西戎鑫达资源有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN067",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN068",
+      "name": "广西金源镍业有限公司",
+      "display_name": "广西金源镍业有限公司",
+      "legal": "广西金源镍业有限公司",
+      "region": "广西",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · RKEF",
+      "aliases": [
+        "广西金源镍业有限公司"
+      ],
+      "search_text": "广西金源镍业有限公司 广西  镍生铁／镍铁 广西金源镍业有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN068",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN069",
+      "name": "北海诚德镍业有限公司",
+      "display_name": "北海诚德镍业有限公司",
+      "legal": "北海诚德镍业有限公司",
+      "region": "广西",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "国企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · BF、RKEF",
+      "aliases": [
+        "北海诚德镍业有限公司",
+        "北海诚德镍业有限公司-A",
+        "北海诚德镍业有限公司-B"
+      ],
+      "search_text": "北海诚德镍业有限公司 广西  镍生铁／镍铁 北海诚德镍业有限公司 北海诚德镍业有限公司-A 北海诚德镍业有限公司-B",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN069",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN070",
+      "name": "广西龙州中恒万华实业有限公司",
+      "display_name": "广西龙州中恒万华实业有限公司",
+      "legal": "广西龙州中恒万华实业有限公司",
+      "region": "广西",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · BF",
+      "aliases": [
+        "广西龙州中恒万华实业有限公司"
+      ],
+      "search_text": "广西龙州中恒万华实业有限公司 广西  镍生铁／镍铁 广西龙州中恒万华实业有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN070",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN071",
+      "name": "连云港华乐合金",
+      "display_name": "连云港华乐合金",
+      "legal": "连云港华乐合金",
+      "region": "江苏",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · BF",
+      "aliases": [
+        "连云港华乐合金"
+      ],
+      "search_text": "连云港华乐合金 江苏  镍生铁／镍铁 连云港华乐合金",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN071",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN072",
+      "name": "山东临港有色金属有限公司（盛阳）",
+      "display_name": "山东临港有色金属有限公司（盛阳）",
+      "legal": "山东临港有色金属有限公司（盛阳）",
+      "region": "山东",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · BF",
+      "aliases": [
+        "山东临港有色金属有限公司（盛阳）"
+      ],
+      "search_text": "山东临港有色金属有限公司（盛阳） 山东  镍生铁／镍铁 山东临港有色金属有限公司（盛阳）",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN072",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN073",
+      "name": "中亿金属科技有限公司（亿利达钢铁）",
+      "display_name": "中亿金属科技有限公司（亿利达钢铁）",
+      "legal": "中亿金属科技有限公司（亿利达钢铁）",
+      "region": "山东",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · BF",
+      "aliases": [
+        "中亿金属科技有限公司（亿利达钢铁）"
+      ],
+      "search_text": "中亿金属科技有限公司（亿利达钢铁） 山东  镍生铁／镍铁 中亿金属科技有限公司（亿利达钢铁）",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN073",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN074",
+      "name": "福建青拓镍业有限公司",
+      "display_name": "福建青拓镍业有限公司",
+      "legal": "福建青拓镍业有限公司",
+      "region": "福建",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · BF",
+      "aliases": [
+        "福建青拓镍业有限公司"
+      ],
+      "search_text": "福建青拓镍业有限公司 福建  镍生铁／镍铁 福建青拓镍业有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN074",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN075",
+      "name": "河南鑫金汇特钢有限公司",
+      "display_name": "河南鑫金汇特钢有限公司",
+      "legal": "河南鑫金汇特钢有限公司",
+      "region": "河南",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "国企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · BF",
+      "aliases": [
+        "河南鑫金汇特钢有限公司"
+      ],
+      "search_text": "河南鑫金汇特钢有限公司 河南  镍生铁／镍铁 河南鑫金汇特钢有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN075",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN076",
+      "name": "内蒙古和谊镍铬复合材料有限公司(租给万汇) 和恒",
+      "display_name": "内蒙古和谊镍铬复合材料有限公司(租给万汇) 和恒",
+      "legal": "内蒙古和谊镍铬复合材料有限公司(租给万汇) 和恒",
+      "region": "内蒙古",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · RKEF",
+      "aliases": [
+        "内蒙古和谊镍铬复合材料有限公司(租给万汇) 和恒"
+      ],
+      "search_text": "内蒙古和谊镍铬复合材料有限公司(租给万汇) 和恒 内蒙古  镍生铁／镍铁 内蒙古和谊镍铬复合材料有限公司(租给万汇) 和恒",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN076",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN077",
+      "name": "亿晨镍铬合金（临沂钢投）",
+      "display_name": "亿晨镍铬合金（临沂钢投）",
+      "legal": "亿晨镍铬合金（临沂钢投）",
+      "region": "山东",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · RKEF",
+      "aliases": [
+        "亿晨镍铬合金（临沂钢投）"
+      ],
+      "search_text": "亿晨镍铬合金（临沂钢投） 山东  镍生铁／镍铁 亿晨镍铬合金（临沂钢投）",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN077",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN078",
+      "name": "奈曼经安有限公司",
+      "display_name": "奈曼经安有限公司",
+      "legal": "奈曼经安有限公司",
+      "region": "内蒙古",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · RKEF",
+      "aliases": [
+        "奈曼经安有限公司"
+      ],
+      "search_text": "奈曼经安有限公司 内蒙古  镍生铁／镍铁 奈曼经安有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN078",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN079",
+      "name": "大连富力镍基合金新材料有限公司",
+      "display_name": "大连富力镍基合金新材料有限公司",
+      "legal": "大连富力镍基合金新材料有限公司",
+      "region": "辽宁",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "镍生铁／镍铁"
+      ],
+      "classification": "镍生铁／镍铁 · RKEF",
+      "aliases": [
+        "大连富力镍基合金新材料有限公司"
+      ],
+      "search_text": "大连富力镍基合金新材料有限公司 辽宁  镍生铁／镍铁 大连富力镍基合金新材料有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "npi"
+      ],
+      "china_id": "CN079",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN080",
+      "name": "湖南中伟新材料有限公司",
+      "display_name": "湖南中伟新材料有限公司",
+      "legal": "湖南中伟新材料有限公司",
+      "region": "湖南",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "硫酸镍"
+      ],
+      "classification": "硫酸镍 · 镍盐加工",
+      "aliases": [
+        "湖南中伟新材料有限公司"
+      ],
+      "search_text": "湖南中伟新材料有限公司 湖南 长沙市 硫酸镍 湖南中伟新材料有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate"
+      ],
+      "china_id": "CN080",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN081",
+      "name": "浙江华友钴业股份有限公司",
+      "display_name": "浙江华友钴业股份有限公司",
+      "legal": "浙江华友钴业股份有限公司",
+      "region": "浙江",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "硫酸镍"
+      ],
+      "classification": "硫酸镍 · 镍盐加工",
+      "aliases": [
+        "浙江华友钴业股份有限公司"
+      ],
+      "search_text": "浙江华友钴业股份有限公司 浙江 嘉兴市 硫酸镍 浙江华友钴业股份有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate"
+      ],
+      "china_id": "CN081",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN082",
+      "name": "荆门格林美新材料有限公司",
+      "display_name": "荆门格林美新材料有限公司",
+      "legal": "荆门格林美新材料有限公司",
+      "region": "湖北",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "硫酸镍"
+      ],
+      "classification": "硫酸镍 · 镍盐加工",
+      "aliases": [
+        "荆门格林美新材料有限公司"
+      ],
+      "search_text": "荆门格林美新材料有限公司 湖北 荆门市 硫酸镍 荆门格林美新材料有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate"
+      ],
+      "china_id": "CN082",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN083",
+      "name": "金川集团镍盐有限公司",
+      "display_name": "金川集团镍盐有限公司",
+      "legal": "金川集团镍盐有限公司",
+      "region": "甘肃",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "国企；股权资料见正文",
+      "products": [
+        "硫酸镍"
+      ],
+      "classification": "硫酸镍 · 镍盐加工",
+      "aliases": [
+        "金川集团镍盐有限公司"
+      ],
+      "search_text": "金川集团镍盐有限公司 甘肃 金昌市 硫酸镍 金川集团镍盐有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate"
+      ],
+      "china_id": "CN083",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN084",
+      "name": "宁波长江能源科技有限公司",
+      "display_name": "宁波长江能源科技有限公司",
+      "legal": "宁波长江能源科技有限公司",
+      "region": "浙江",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "硫酸镍"
+      ],
+      "classification": "硫酸镍 · 镍盐加工",
+      "aliases": [
+        "宁波长江能源科技有限公司"
+      ],
+      "search_text": "宁波长江能源科技有限公司 浙江 嘉兴市 硫酸镍 宁波长江能源科技有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate"
+      ],
+      "china_id": "CN084",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN085",
+      "name": "湖南邦普循环科技有限公司",
+      "display_name": "湖南邦普循环科技有限公司",
+      "legal": "湖南邦普循环科技有限公司",
+      "region": "湖南",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "硫酸镍"
+      ],
+      "classification": "硫酸镍 · 镍盐加工",
+      "aliases": [
+        "湖南邦普循环科技有限公司"
+      ],
+      "search_text": "湖南邦普循环科技有限公司 湖南 长沙市 硫酸镍 湖南邦普循环科技有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate"
+      ],
+      "china_id": "CN085",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN086",
+      "name": "广东佳纳能源科技有限公司",
+      "display_name": "广东佳纳能源科技有限公司",
+      "legal": "广东佳纳能源科技有限公司",
+      "region": "广东",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "硫酸镍"
+      ],
+      "classification": "硫酸镍 · 镍盐加工",
+      "aliases": [
+        "广东佳纳能源科技有限公司"
+      ],
+      "search_text": "广东佳纳能源科技有限公司 广东 清远市 硫酸镍 广东佳纳能源科技有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate"
+      ],
+      "china_id": "CN086",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN087",
+      "name": "中冶瑞木新能源科技有限公司",
+      "display_name": "中冶瑞木新能源科技有限公司",
+      "legal": "中冶瑞木新能源科技有限公司",
+      "region": "河北",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "央企；股权资料见正文",
+      "products": [
+        "硫酸镍"
+      ],
+      "classification": "硫酸镍 · 镍盐加工",
+      "aliases": [
+        "中冶瑞木新能源科技有限公司"
+      ],
+      "search_text": "中冶瑞木新能源科技有限公司 河北 唐山市 硫酸镍 中冶瑞木新能源科技有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate"
+      ],
+      "china_id": "CN087",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN088",
+      "name": "Guangxi Yinyi New Materials Co., Ltd. 广西银亿新材料有限公司",
+      "display_name": "Guangxi Yinyi New Materials Co., Ltd. 广西银亿新材料有限公司",
+      "legal": "广西银亿新材料有限公司",
+      "region": "广西",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "硫酸镍",
+        "纯镍"
+      ],
+      "classification": "硫酸镍、纯镍 · 镍盐加工、电积",
+      "aliases": [
+        "广西银亿新材料有限公司"
+      ],
+      "search_text": "Guangxi Yinyi New Materials Co., Ltd. 广西银亿新材料有限公司 广西 玉林市 硫酸镍、纯镍 广西银亿新材料有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate",
+        "refined"
+      ],
+      "china_id": "CN088",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN089",
+      "name": "广东芳源环保股份有限公司",
+      "display_name": "广东芳源环保股份有限公司",
+      "legal": "广东芳源环保股份有限公司",
+      "region": "广东",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "硫酸镍"
+      ],
+      "classification": "硫酸镍 · 镍盐加工",
+      "aliases": [
+        "广东芳源环保股份有限公司"
+      ],
+      "search_text": "广东芳源环保股份有限公司 广东 江门市 硫酸镍 广东芳源环保股份有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate"
+      ],
+      "china_id": "CN089",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN090",
+      "name": "广西智亮新材料股份有限公司",
+      "display_name": "广西智亮新材料股份有限公司",
+      "legal": "广西智亮新材料股份有限公司",
+      "region": "广西",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "硫酸镍"
+      ],
+      "classification": "硫酸镍 · 镍盐加工",
+      "aliases": [
+        "广西智亮新材料股份有限公司"
+      ],
+      "search_text": "广西智亮新材料股份有限公司 广西 南宁市 硫酸镍 广西智亮新材料股份有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate"
+      ],
+      "china_id": "CN090",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN091",
+      "name": "金柯有色金属有限公司",
+      "display_name": "金柯有色金属有限公司",
+      "legal": "金柯有色金属有限公司",
+      "region": "甘肃",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "外资；股权资料见正文",
+      "products": [
+        "硫酸镍"
+      ],
+      "classification": "硫酸镍 · 镍盐加工",
+      "aliases": [
+        "金柯有色金属有限公司"
+      ],
+      "search_text": "金柯有色金属有限公司 甘肃 金昌市 硫酸镍 金柯有色金属有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate"
+      ],
+      "china_id": "CN091",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN092",
+      "name": "Tianjin Maolian Technology Co., Ltd. 天津市茂联科技有限公司",
+      "display_name": "Tianjin Maolian Technology Co., Ltd. 天津市茂联科技有限公司",
+      "legal": "天津市茂联科技有限公司",
+      "region": "天津",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "硫酸镍",
+        "纯镍"
+      ],
+      "classification": "硫酸镍、纯镍 · 镍盐加工、电积",
+      "aliases": [
+        "天津市茂联科技有限公司"
+      ],
+      "search_text": "Tianjin Maolian Technology Co., Ltd. 天津市茂联科技有限公司 天津 天津市 硫酸镍、纯镍 天津市茂联科技有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate",
+        "refined"
+      ],
+      "china_id": "CN092",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN093",
+      "name": "江门市长优实业有限公司",
+      "display_name": "江门市长优实业有限公司",
+      "legal": "江门市长优实业有限公司",
+      "region": "广东",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "外资；股权资料见正文",
+      "products": [
+        "硫酸镍"
+      ],
+      "classification": "硫酸镍 · 镍盐加工",
+      "aliases": [
+        "江门市长优实业有限公司"
+      ],
+      "search_text": "江门市长优实业有限公司 广东 江门市 硫酸镍 江门市长优实业有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate"
+      ],
+      "china_id": "CN093",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN094",
+      "name": "Jilin Jien Nickel Industry Co., Ltd. 吉林吉恩镍业股份有限公司",
+      "display_name": "Jilin Jien Nickel Industry Co., Ltd. 吉林吉恩镍业股份有限公司",
+      "legal": "吉林吉恩镍业股份有限公司",
+      "region": "吉林",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "硫酸镍",
+        "纯镍"
+      ],
+      "classification": "硫酸镍、纯镍 · 镍盐加工、电解",
+      "aliases": [
+        "吉林吉恩镍业股份有限公司"
+      ],
+      "search_text": "Jilin Jien Nickel Industry Co., Ltd. 吉林吉恩镍业股份有限公司 吉林 吉林市 硫酸镍、纯镍 吉林吉恩镍业股份有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate",
+        "refined"
+      ],
+      "china_id": "CN094",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN095",
+      "name": "眉山顺应动力电池材料有限公司",
+      "display_name": "眉山顺应动力电池材料有限公司",
+      "legal": "眉山顺应动力电池材料有限公司",
+      "region": "四川",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "硫酸镍"
+      ],
+      "classification": "硫酸镍 · 镍盐加工",
+      "aliases": [
+        "眉山顺应动力电池材料有限公司"
+      ],
+      "search_text": "眉山顺应动力电池材料有限公司 四川 成都市 硫酸镍 眉山顺应动力电池材料有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate"
+      ],
+      "china_id": "CN095",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN096",
+      "name": "赣州吉锐新能源科技有限公司（江西力道）",
+      "display_name": "赣州吉锐新能源科技有限公司（江西力道）",
+      "legal": "赣州吉锐新能源科技有限公司（江西力道）",
+      "region": "江西",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "硫酸镍"
+      ],
+      "classification": "硫酸镍 · 镍盐加工",
+      "aliases": [
+        "赣州吉锐新能源科技有限公司（江西力道）"
+      ],
+      "search_text": "赣州吉锐新能源科技有限公司（江西力道） 江西 赣州市 硫酸镍 赣州吉锐新能源科技有限公司（江西力道）",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate"
+      ],
+      "china_id": "CN096",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN097",
+      "name": "万华化学电池产业公司",
+      "display_name": "万华化学电池产业公司",
+      "legal": "万华化学电池产业公司",
+      "region": "山东",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "国企；股权资料见正文",
+      "products": [
+        "硫酸镍"
+      ],
+      "classification": "硫酸镍 · 镍盐加工",
+      "aliases": [
+        "万华化学电池产业公司"
+      ],
+      "search_text": "万华化学电池产业公司 山东 烟台市 硫酸镍 万华化学电池产业公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate"
+      ],
+      "china_id": "CN097",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN098",
+      "name": "Ganzhou Tengyuan Cobalt New Materials Co., Ltd. 赣州腾远钴业",
+      "display_name": "Ganzhou Tengyuan Cobalt New Materials Co., Ltd. 赣州腾远钴业",
+      "legal": "赣州腾远钴业",
+      "region": "江西",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "硫酸镍",
+        "纯镍"
+      ],
+      "classification": "硫酸镍、纯镍 · 镍盐加工、电积",
+      "aliases": [
+        "赣州腾远钴业",
+        "赣州腾远钴业新材料股份有限公司"
+      ],
+      "search_text": "Ganzhou Tengyuan Cobalt New Materials Co., Ltd. 赣州腾远钴业 江西 赣州市 硫酸镍、纯镍 赣州腾远钴业 赣州腾远钴业新材料股份有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate",
+        "refined"
+      ],
+      "china_id": "CN098",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN099",
+      "name": "浙江路加新能源有限公司",
+      "display_name": "浙江路加新能源有限公司",
+      "legal": "浙江路加新能源有限公司",
+      "region": "浙江",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "硫酸镍"
+      ],
+      "classification": "硫酸镍 · 镍盐加工",
+      "aliases": [
+        "浙江路加新能源有限公司"
+      ],
+      "search_text": "浙江路加新能源有限公司 浙江 台州市 硫酸镍 浙江路加新能源有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate"
+      ],
+      "china_id": "CN099",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN100",
+      "name": "Chizhou CN Material New Materials Technology Co., Ltd. 池州西恩新材料科技有限公司",
+      "display_name": "Chizhou CN Material New Materials Technology Co., Ltd. 池州西恩新材料科技有限公司",
+      "legal": "池州西恩新材料科技有限公司",
+      "region": "安徽",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "硫酸镍",
+        "纯镍"
+      ],
+      "classification": "硫酸镍、纯镍 · 镍盐加工、电积",
+      "aliases": [
+        "池州西恩新材料科技有限公司"
+      ],
+      "search_text": "Chizhou CN Material New Materials Technology Co., Ltd. 池州西恩新材料科技有限公司 安徽 池州市 硫酸镍、纯镍 池州西恩新材料科技有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate",
+        "refined"
+      ],
+      "china_id": "CN100",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN101",
+      "name": "Zhejiang New Era Zhongneng Technology Co., Ltd. 浙江新时代中能循环科技有限公司",
+      "display_name": "Zhejiang New Era Zhongneng Technology Co., Ltd. 浙江新时代中能循环科技有限公司",
+      "legal": "浙江新时代中能循环科技有限公司",
+      "region": "浙江",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "硫酸镍",
+        "纯镍"
+      ],
+      "classification": "硫酸镍、纯镍 · 镍盐加工、电积",
+      "aliases": [
+        "浙江新时代中能循环科技有限公司",
+        "浙江新时代中能科技股份有限公司"
+      ],
+      "search_text": "Zhejiang New Era Zhongneng Technology Co., Ltd. 浙江新时代中能循环科技有限公司 浙江 绍兴市 硫酸镍、纯镍 浙江新时代中能循环科技有限公司 浙江新时代中能科技股份有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate",
+        "refined"
+      ],
+      "china_id": "CN101",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN102",
+      "name": "广东威马新材料股份有限公司",
+      "display_name": "广东威马新材料股份有限公司",
+      "legal": "广东威马新材料股份有限公司",
+      "region": "广东",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "硫酸镍"
+      ],
+      "classification": "硫酸镍 · 镍盐加工",
+      "aliases": [
+        "广东威马新材料股份有限公司"
+      ],
+      "search_text": "广东威马新材料股份有限公司 广东 韶关市 硫酸镍 广东威马新材料股份有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate"
+      ],
+      "china_id": "CN102",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN103",
+      "name": "福建常青新能源科技有限公司",
+      "display_name": "福建常青新能源科技有限公司",
+      "legal": "福建常青新能源科技有限公司",
+      "region": "福建",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "硫酸镍"
+      ],
+      "classification": "硫酸镍 · 镍盐加工",
+      "aliases": [
+        "福建常青新能源科技有限公司"
+      ],
+      "search_text": "福建常青新能源科技有限公司 福建 龙岩市 硫酸镍 福建常青新能源科技有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate"
+      ],
+      "china_id": "CN103",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN104",
+      "name": "Yantai Kaishi Industry Co., Ltd. 烟台凯实工业有限公司",
+      "display_name": "Yantai Kaishi Industry Co., Ltd. 烟台凯实工业有限公司",
+      "legal": "烟台凯实工业有限公司",
+      "region": "山东",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "硫酸镍",
+        "纯镍"
+      ],
+      "classification": "硫酸镍、纯镍 · 镍盐加工、电积",
+      "aliases": [
+        "烟台凯实工业有限公司"
+      ],
+      "search_text": "Yantai Kaishi Industry Co., Ltd. 烟台凯实工业有限公司 山东 烟台市 硫酸镍、纯镍 烟台凯实工业有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate",
+        "refined"
+      ],
+      "china_id": "CN104",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN105",
+      "name": "河南科隆新能源股份有限公司",
+      "display_name": "河南科隆新能源股份有限公司",
+      "legal": "河南科隆新能源股份有限公司",
+      "region": "河南",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "硫酸镍"
+      ],
+      "classification": "硫酸镍 · 镍盐加工",
+      "aliases": [
+        "河南科隆新能源股份有限公司"
+      ],
+      "search_text": "河南科隆新能源股份有限公司 河南 新乡市 硫酸镍 河南科隆新能源股份有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate"
+      ],
+      "china_id": "CN105",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN106",
+      "name": "湖南金驰能源材料有限公司",
+      "display_name": "湖南金驰能源材料有限公司",
+      "legal": "湖南金驰能源材料有限公司",
+      "region": "湖南",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "国企；股权资料见正文",
+      "products": [
+        "硫酸镍"
+      ],
+      "classification": "硫酸镍 · 镍盐加工",
+      "aliases": [
+        "湖南金驰能源材料有限公司"
+      ],
+      "search_text": "湖南金驰能源材料有限公司 湖南 长沙市 硫酸镍 湖南金驰能源材料有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate"
+      ],
+      "china_id": "CN106",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN107",
+      "name": "浙江三晟化工有限公司",
+      "display_name": "浙江三晟化工有限公司",
+      "legal": "浙江三晟化工有限公司",
+      "region": "浙江",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "国企；股权资料见正文",
+      "products": [
+        "硫酸镍"
+      ],
+      "classification": "硫酸镍 · 镍盐加工",
+      "aliases": [
+        "浙江三晟化工有限公司"
+      ],
+      "search_text": "浙江三晟化工有限公司 浙江 衢州市 硫酸镍 浙江三晟化工有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate"
+      ],
+      "china_id": "CN107",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN108",
+      "name": "江西睿达环保有限公司",
+      "display_name": "江西睿达环保有限公司",
+      "legal": "江西睿达环保有限公司",
+      "region": "江西",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "硫酸镍"
+      ],
+      "classification": "硫酸镍 · 镍盐加工",
+      "aliases": [
+        "江西睿达环保有限公司"
+      ],
+      "search_text": "江西睿达环保有限公司 江西 宜春市 硫酸镍 江西睿达环保有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate"
+      ],
+      "china_id": "CN108",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN109",
+      "name": "陕西聚泰新材料科技有限公司",
+      "display_name": "陕西聚泰新材料科技有限公司",
+      "legal": "陕西聚泰新材料科技有限公司",
+      "region": "陕西",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "硫酸镍"
+      ],
+      "classification": "硫酸镍 · 镍盐加工",
+      "aliases": [
+        "陕西聚泰新材料科技有限公司"
+      ],
+      "search_text": "陕西聚泰新材料科技有限公司 陕西 渭南市 硫酸镍 陕西聚泰新材料科技有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate"
+      ],
+      "china_id": "CN109",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN110",
+      "name": "肇庆市金晟金属实业有限公司",
+      "display_name": "肇庆市金晟金属实业有限公司",
+      "legal": "肇庆市金晟金属实业有限公司",
+      "region": "广东",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "硫酸镍"
+      ],
+      "classification": "硫酸镍 · 镍盐加工",
+      "aliases": [
+        "肇庆市金晟金属实业有限公司"
+      ],
+      "search_text": "肇庆市金晟金属实业有限公司 广东 深圳市 硫酸镍 肇庆市金晟金属实业有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate"
+      ],
+      "china_id": "CN110",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN111",
+      "name": "Jiangxi Province Guangde Environmental Protection Technology Co., Ltd. 江西省广德环保科技股份有限公司",
+      "display_name": "Jiangxi Province Guangde Environmental Protection Technology Co., Ltd. 江西省广德环保科技股份有限公司",
+      "legal": "江西省广德环保科技股份有限公司",
+      "region": "江西",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "硫酸镍",
+        "纯镍"
+      ],
+      "classification": "硫酸镍、纯镍 · 镍盐加工、电积",
+      "aliases": [
+        "江西省广德环保科技股份有限公司"
+      ],
+      "search_text": "Jiangxi Province Guangde Environmental Protection Technology Co., Ltd. 江西省广德环保科技股份有限公司 江西 抚州市 硫酸镍、纯镍 江西省广德环保科技股份有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate",
+        "refined"
+      ],
+      "china_id": "CN111",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN112",
+      "name": "上海格派镍钴能源技术集团有限公司",
+      "display_name": "上海格派镍钴能源技术集团有限公司",
+      "legal": "上海格派镍钴能源技术集团有限公司",
+      "region": "上海",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "硫酸镍"
+      ],
+      "classification": "硫酸镍 · 镍盐加工",
+      "aliases": [
+        "上海格派镍钴能源技术集团有限公司"
+      ],
+      "search_text": "上海格派镍钴能源技术集团有限公司 上海 徐汇区 硫酸镍 上海格派镍钴能源技术集团有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate"
+      ],
+      "china_id": "CN112",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN113",
+      "name": "辽宁华信钴业科技有限公司",
+      "display_name": "辽宁华信钴业科技有限公司",
+      "legal": "辽宁华信钴业科技有限公司",
+      "region": "辽宁",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "硫酸镍"
+      ],
+      "classification": "硫酸镍 · 镍盐加工",
+      "aliases": [
+        "辽宁华信钴业科技有限公司"
+      ],
+      "search_text": "辽宁华信钴业科技有限公司 辽宁 葫芦岛市 硫酸镍 辽宁华信钴业科技有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate"
+      ],
+      "china_id": "CN113",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN114",
+      "name": "湖北长宸锂能循环科技有限公司",
+      "display_name": "湖北长宸锂能循环科技有限公司",
+      "legal": "湖北长宸锂能循环科技有限公司",
+      "region": "湖北",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "硫酸镍"
+      ],
+      "classification": "硫酸镍 · 镍盐加工",
+      "aliases": [
+        "湖北长宸锂能循环科技有限公司"
+      ],
+      "search_text": "湖北长宸锂能循环科技有限公司 湖北 枝江市 硫酸镍 湖北长宸锂能循环科技有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate"
+      ],
+      "china_id": "CN114",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN115",
+      "name": "全南县瑞隆科技有限公司",
+      "display_name": "全南县瑞隆科技有限公司",
+      "legal": "全南县瑞隆科技有限公司",
+      "region": "江西",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "硫酸镍"
+      ],
+      "classification": "硫酸镍 · 镍盐加工",
+      "aliases": [
+        "全南县瑞隆科技有限公司"
+      ],
+      "search_text": "全南县瑞隆科技有限公司 江西 全南县 硫酸镍 全南县瑞隆科技有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate"
+      ],
+      "china_id": "CN115",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN116",
+      "name": "湖南金源新材料股份有限公司",
+      "display_name": "湖南金源新材料股份有限公司",
+      "legal": "湖南金源新材料股份有限公司",
+      "region": "湖南",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "硫酸镍"
+      ],
+      "classification": "硫酸镍 · 镍盐加工",
+      "aliases": [
+        "湖南金源新材料股份有限公司"
+      ],
+      "search_text": "湖南金源新材料股份有限公司 湖南 益阳市 硫酸镍 湖南金源新材料股份有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate"
+      ],
+      "china_id": "CN116",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN117",
+      "name": "余姚市环科再生资源有限公司",
+      "display_name": "余姚市环科再生资源有限公司",
+      "legal": "余姚市环科再生资源有限公司",
+      "region": "浙江",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "硫酸镍"
+      ],
+      "classification": "硫酸镍 · 镍盐加工",
+      "aliases": [
+        "余姚市环科再生资源有限公司"
+      ],
+      "search_text": "余姚市环科再生资源有限公司 浙江 余姚市 硫酸镍 余姚市环科再生资源有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate"
+      ],
+      "china_id": "CN117",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN118",
+      "name": "江西自立环保科技有限公司",
+      "display_name": "江西自立环保科技有限公司",
+      "legal": "江西自立环保科技有限公司",
+      "region": "江西",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "硫酸镍"
+      ],
+      "classification": "硫酸镍 · 镍盐加工",
+      "aliases": [
+        "江西自立环保科技有限公司"
+      ],
+      "search_text": "江西自立环保科技有限公司 江西 抚州市 硫酸镍 江西自立环保科技有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate"
+      ],
+      "china_id": "CN118",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN119",
+      "name": "启东市北新无机化工有限公司",
+      "display_name": "启东市北新无机化工有限公司",
+      "legal": "启东市北新无机化工有限公司",
+      "region": "江苏",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "硫酸镍"
+      ],
+      "classification": "硫酸镍 · 镍盐加工",
+      "aliases": [
+        "启东市北新无机化工有限公司"
+      ],
+      "search_text": "启东市北新无机化工有限公司 江苏 南通市 硫酸镍 启东市北新无机化工有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate"
+      ],
+      "china_id": "CN119",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN120",
+      "name": "桑顿新能源科技有限公司",
+      "display_name": "桑顿新能源科技有限公司",
+      "legal": "桑顿新能源科技有限公司",
+      "region": "湖南",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "硫酸镍"
+      ],
+      "classification": "硫酸镍 · 镍盐加工",
+      "aliases": [
+        "桑顿新能源科技有限公司"
+      ],
+      "search_text": "桑顿新能源科技有限公司 湖南 湘潭市 硫酸镍 桑顿新能源科技有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate"
+      ],
+      "china_id": "CN120",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN121",
+      "name": "南通新玮镍钴科技发展有限公司",
+      "display_name": "南通新玮镍钴科技发展有限公司",
+      "legal": "南通新玮镍钴科技发展有限公司",
+      "region": "江苏",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "外资；股权资料见正文",
+      "products": [
+        "硫酸镍"
+      ],
+      "classification": "硫酸镍 · 镍盐加工",
+      "aliases": [
+        "南通新玮镍钴科技发展有限公司"
+      ],
+      "search_text": "南通新玮镍钴科技发展有限公司 江苏 张家港 硫酸镍 南通新玮镍钴科技发展有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate"
+      ],
+      "china_id": "CN121",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN122",
+      "name": "吉林亚融科技股份有限公司",
+      "display_name": "吉林亚融科技股份有限公司",
+      "legal": "吉林亚融科技股份有限公司",
+      "region": "吉林",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "硫酸镍"
+      ],
+      "classification": "硫酸镍 · 镍盐加工",
+      "aliases": [
+        "吉林亚融科技股份有限公司"
+      ],
+      "search_text": "吉林亚融科技股份有限公司 吉林 吉林市 硫酸镍 吉林亚融科技股份有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate"
+      ],
+      "china_id": "CN122",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN123",
+      "name": "浙江升阳再生资源科技股份有限公司",
+      "display_name": "浙江升阳再生资源科技股份有限公司",
+      "legal": "浙江升阳再生资源科技股份有限公司",
+      "region": "浙江",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "硫酸镍"
+      ],
+      "classification": "硫酸镍 · 镍盐加工",
+      "aliases": [
+        "浙江升阳再生资源科技股份有限公司"
+      ],
+      "search_text": "浙江升阳再生资源科技股份有限公司 浙江 金华市 硫酸镍 浙江升阳再生资源科技股份有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate"
+      ],
+      "china_id": "CN123",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN124",
+      "name": "宁波华吉新材料科技有限公司",
+      "display_name": "宁波华吉新材料科技有限公司",
+      "legal": "宁波华吉新材料科技有限公司",
+      "region": "浙江",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "硫酸镍"
+      ],
+      "classification": "硫酸镍 · 镍盐加工",
+      "aliases": [
+        "宁波华吉新材料科技有限公司"
+      ],
+      "search_text": "宁波华吉新材料科技有限公司 浙江 慈溪市 硫酸镍 宁波华吉新材料科技有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate"
+      ],
+      "china_id": "CN124",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN125",
+      "name": "广东飞南资源利用股份有限公司",
+      "display_name": "广东飞南资源利用股份有限公司",
+      "legal": "广东飞南资源利用股份有限公司",
+      "region": "广东",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "硫酸镍"
+      ],
+      "classification": "硫酸镍 · 镍盐加工",
+      "aliases": [
+        "广东飞南资源利用股份有限公司"
+      ],
+      "search_text": "广东飞南资源利用股份有限公司 广东 肇庆市 硫酸镍 广东飞南资源利用股份有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate"
+      ],
+      "china_id": "CN125",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN126",
+      "name": "浙江天能新材料有限公司",
+      "display_name": "浙江天能新材料有限公司",
+      "legal": "浙江天能新材料有限公司",
+      "region": "浙江",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "硫酸镍"
+      ],
+      "classification": "硫酸镍 · 镍盐加工",
+      "aliases": [
+        "浙江天能新材料有限公司"
+      ],
+      "search_text": "浙江天能新材料有限公司 浙江 湖州市 硫酸镍 浙江天能新材料有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate"
+      ],
+      "china_id": "CN126",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN127",
+      "name": "广东光华科技股份有限公司",
+      "display_name": "广东光华科技股份有限公司",
+      "legal": "广东光华科技股份有限公司",
+      "region": "广东",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "硫酸镍"
+      ],
+      "classification": "硫酸镍 · 镍盐加工",
+      "aliases": [
+        "广东光华科技股份有限公司"
+      ],
+      "search_text": "广东光华科技股份有限公司 广东 汕头市 硫酸镍 广东光华科技股份有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate"
+      ],
+      "china_id": "CN127",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN128",
+      "name": "阳江市绿森工贸有限公司",
+      "display_name": "阳江市绿森工贸有限公司",
+      "legal": "阳江市绿森工贸有限公司",
+      "region": "广东",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "硫酸镍"
+      ],
+      "classification": "硫酸镍 · 镍盐加工",
+      "aliases": [
+        "阳江市绿森工贸有限公司"
+      ],
+      "search_text": "阳江市绿森工贸有限公司 广东 阳江市 硫酸镍 阳江市绿森工贸有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate"
+      ],
+      "china_id": "CN128",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN129",
+      "name": "上饶市鼎鑫金属化工有限公司",
+      "display_name": "上饶市鼎鑫金属化工有限公司",
+      "legal": "上饶市鼎鑫金属化工有限公司",
+      "region": "江西",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "外资；股权资料见正文",
+      "products": [
+        "硫酸镍"
+      ],
+      "classification": "硫酸镍 · 镍盐加工",
+      "aliases": [
+        "上饶市鼎鑫金属化工有限公司"
+      ],
+      "search_text": "上饶市鼎鑫金属化工有限公司 江西 上饶市 硫酸镍 上饶市鼎鑫金属化工有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate"
+      ],
+      "china_id": "CN129",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN130",
+      "name": "赣州市豪鹏科技有限公司",
+      "display_name": "赣州市豪鹏科技有限公司",
+      "legal": "赣州市豪鹏科技有限公司",
+      "region": "江西",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "硫酸镍"
+      ],
+      "classification": "硫酸镍 · 镍盐加工",
+      "aliases": [
+        "赣州市豪鹏科技有限公司"
+      ],
+      "search_text": "赣州市豪鹏科技有限公司 江西 赣州市 硫酸镍 赣州市豪鹏科技有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate"
+      ],
+      "china_id": "CN130",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN131",
+      "name": "包头锐博新能源材料有限公司",
+      "display_name": "包头锐博新能源材料有限公司",
+      "legal": "包头锐博新能源材料有限公司",
+      "region": "内蒙古",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "硫酸镍"
+      ],
+      "classification": "硫酸镍 · 镍盐加工",
+      "aliases": [
+        "包头锐博新能源材料有限公司"
+      ],
+      "search_text": "包头锐博新能源材料有限公司 内蒙古 包头市 硫酸镍 包头锐博新能源材料有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate"
+      ],
+      "china_id": "CN131",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN132",
+      "name": "大连瑞源动力股份有限公司",
+      "display_name": "大连瑞源动力股份有限公司",
+      "legal": "大连瑞源动力股份有限公司",
+      "region": "辽宁",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "硫酸镍"
+      ],
+      "classification": "硫酸镍 · 镍盐加工",
+      "aliases": [
+        "大连瑞源动力股份有限公司"
+      ],
+      "search_text": "大连瑞源动力股份有限公司 辽宁 大连市 硫酸镍 大连瑞源动力股份有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate"
+      ],
+      "china_id": "CN132",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN133",
+      "name": "江西江钨钴业有限公司",
+      "display_name": "江西江钨钴业有限公司",
+      "legal": "江西江钨钴业有限公司",
+      "region": "江西",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "国企；股权资料见正文",
+      "products": [
+        "硫酸镍"
+      ],
+      "classification": "硫酸镍 · 镍盐加工",
+      "aliases": [
+        "江西江钨钴业有限公司"
+      ],
+      "search_text": "江西江钨钴业有限公司 江西 赣州市 硫酸镍 江西江钨钴业有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate"
+      ],
+      "china_id": "CN133",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN134",
+      "name": "江西赣峰锂业",
+      "display_name": "江西赣峰锂业",
+      "legal": "江西赣峰锂业",
+      "region": "江西",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "硫酸镍"
+      ],
+      "classification": "硫酸镍 · 镍盐加工",
+      "aliases": [
+        "江西赣峰锂业"
+      ],
+      "search_text": "江西赣峰锂业 江西 赣州 硫酸镍 江西赣峰锂业",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate"
+      ],
+      "china_id": "CN134",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN135",
+      "name": "贵州鹏程新材料有限公司",
+      "display_name": "贵州鹏程新材料有限公司",
+      "legal": "贵州鹏程新材料有限公司",
+      "region": "贵州",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "硫酸镍"
+      ],
+      "classification": "硫酸镍 · 镍盐加工",
+      "aliases": [
+        "贵州鹏程新材料有限公司"
+      ],
+      "search_text": "贵州鹏程新材料有限公司 贵州 铜仁市 硫酸镍 贵州鹏程新材料有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate"
+      ],
+      "china_id": "CN135",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN136",
+      "name": "山西正兴有色金属有限公司",
+      "display_name": "山西正兴有色金属有限公司",
+      "legal": "山西正兴有色金属有限公司",
+      "region": "山西",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "硫酸镍"
+      ],
+      "classification": "硫酸镍 · 镍盐加工",
+      "aliases": [
+        "山西正兴有色金属有限公司"
+      ],
+      "search_text": "山西正兴有色金属有限公司 山西 阳泉市 硫酸镍 山西正兴有色金属有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate"
+      ],
+      "china_id": "CN136",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN137",
+      "name": "江西天奇金泰阁钴业有限公司",
+      "display_name": "江西天奇金泰阁钴业有限公司",
+      "legal": "江西天奇金泰阁钴业有限公司",
+      "region": "江西",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "硫酸镍"
+      ],
+      "classification": "硫酸镍 · 镍盐加工",
+      "aliases": [
+        "江西天奇金泰阁钴业有限公司"
+      ],
+      "search_text": "江西天奇金泰阁钴业有限公司 江西 赣州市 硫酸镍 江西天奇金泰阁钴业有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate"
+      ],
+      "china_id": "CN137",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN138",
+      "name": "蜀矿环锂科技公司",
+      "display_name": "蜀矿环锂科技公司",
+      "legal": "蜀矿环锂科技公司",
+      "region": "四川",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "国企；股权资料见正文",
+      "products": [
+        "硫酸镍"
+      ],
+      "classification": "硫酸镍 · 镍盐加工",
+      "aliases": [
+        "蜀矿环锂科技公司"
+      ],
+      "search_text": "蜀矿环锂科技公司 四川 遂宁市 硫酸镍 蜀矿环锂科技公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate"
+      ],
+      "china_id": "CN138",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN139",
+      "name": "盛屯矿业",
+      "display_name": "盛屯矿业",
+      "legal": "盛屯矿业",
+      "region": "福建",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "硫酸镍"
+      ],
+      "classification": "硫酸镍 · 镍盐加工",
+      "aliases": [
+        "盛屯矿业"
+      ],
+      "search_text": "盛屯矿业 福建 厦门市 硫酸镍 盛屯矿业",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate"
+      ],
+      "china_id": "CN139",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN140",
+      "name": "韶关中弘金属实业有限公司",
+      "display_name": "韶关中弘金属实业有限公司",
+      "legal": "韶关中弘金属实业有限公司",
+      "region": "广东",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "硫酸镍"
+      ],
+      "classification": "硫酸镍 · 镍盐加工",
+      "aliases": [
+        "韶关中弘金属实业有限公司"
+      ],
+      "search_text": "韶关中弘金属实业有限公司 广东 韶关市 硫酸镍 韶关中弘金属实业有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate"
+      ],
+      "china_id": "CN140",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN141",
+      "name": "宁波容百新能源科技股份有限公司",
+      "display_name": "宁波容百新能源科技股份有限公司",
+      "legal": "宁波容百新能源科技股份有限公司",
+      "region": "浙江",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "硫酸镍"
+      ],
+      "classification": "硫酸镍 · 镍盐加工",
+      "aliases": [
+        "宁波容百新能源科技股份有限公司"
+      ],
+      "search_text": "宁波容百新能源科技股份有限公司 浙江 宁波市 硫酸镍 宁波容百新能源科技股份有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate"
+      ],
+      "china_id": "CN141",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN142",
+      "name": "江苏领先再生资源科技有限公司",
+      "display_name": "江苏领先再生资源科技有限公司",
+      "legal": "江苏领先再生资源科技有限公司",
+      "region": "江苏",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "硫酸镍"
+      ],
+      "classification": "硫酸镍 · 镍盐加工",
+      "aliases": [
+        "江苏领先再生资源科技有限公司"
+      ],
+      "search_text": "江苏领先再生资源科技有限公司 江苏 常州市 硫酸镍 江苏领先再生资源科技有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate"
+      ],
+      "china_id": "CN142",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN143",
+      "name": "浙江帕瓦新能源股份有限公司",
+      "display_name": "浙江帕瓦新能源股份有限公司",
+      "legal": "浙江帕瓦新能源股份有限公司",
+      "region": "浙江",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "硫酸镍"
+      ],
+      "classification": "硫酸镍 · 镍盐加工",
+      "aliases": [
+        "浙江帕瓦新能源股份有限公司"
+      ],
+      "search_text": "浙江帕瓦新能源股份有限公司 浙江 诸暨市 硫酸镍 浙江帕瓦新能源股份有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate"
+      ],
+      "china_id": "CN143",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN144",
+      "name": "宜宾光原锂电材料有限公司",
+      "display_name": "宜宾光原锂电材料有限公司",
+      "legal": "宜宾光原锂电材料有限公司",
+      "region": "四川",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "国企；股权资料见正文",
+      "products": [
+        "硫酸镍"
+      ],
+      "classification": "硫酸镍 · 镍盐加工",
+      "aliases": [
+        "宜宾光原锂电材料有限公司"
+      ],
+      "search_text": "宜宾光原锂电材料有限公司 四川 宜宾市 硫酸镍 宜宾光原锂电材料有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate"
+      ],
+      "china_id": "CN144",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN145",
+      "name": "盐城星创资源循环利用有限公司",
+      "display_name": "盐城星创资源循环利用有限公司",
+      "legal": "盐城星创资源循环利用有限公司",
+      "region": "江苏",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "硫酸镍"
+      ],
+      "classification": "硫酸镍 · 镍盐加工",
+      "aliases": [
+        "盐城星创资源循环利用有限公司"
+      ],
+      "search_text": "盐城星创资源循环利用有限公司 江苏 东台市 硫酸镍 盐城星创资源循环利用有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate"
+      ],
+      "china_id": "CN145",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN146",
+      "name": "华泽钴镍材料股份有限公司",
+      "display_name": "华泽钴镍材料股份有限公司",
+      "legal": "华泽钴镍材料股份有限公司",
+      "region": "四川",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "硫酸镍"
+      ],
+      "classification": "硫酸镍 · 镍盐加工",
+      "aliases": [
+        "华泽钴镍材料股份有限公司"
+      ],
+      "search_text": "华泽钴镍材料股份有限公司 四川 成都市 硫酸镍 华泽钴镍材料股份有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate"
+      ],
+      "china_id": "CN146",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN147",
+      "name": "余姚市鑫和电池材料有限公司",
+      "display_name": "余姚市鑫和电池材料有限公司",
+      "legal": "余姚市鑫和电池材料有限公司",
+      "region": "浙江",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "硫酸镍"
+      ],
+      "classification": "硫酸镍 · 镍盐加工",
+      "aliases": [
+        "余姚市鑫和电池材料有限公司"
+      ],
+      "search_text": "余姚市鑫和电池材料有限公司 浙江 余姚市 硫酸镍 余姚市鑫和电池材料有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate"
+      ],
+      "china_id": "CN147",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN148",
+      "name": "新乡超能电源有限公司（新乡帝龙）",
+      "display_name": "新乡超能电源有限公司（新乡帝龙）",
+      "legal": "新乡超能电源有限公司（新乡帝龙）",
+      "region": "河南",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "硫酸镍"
+      ],
+      "classification": "硫酸镍 · 镍盐加工",
+      "aliases": [
+        "新乡超能电源有限公司（新乡帝龙）"
+      ],
+      "search_text": "新乡超能电源有限公司（新乡帝龙） 河南 新乡市 硫酸镍 新乡超能电源有限公司（新乡帝龙）",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate"
+      ],
+      "china_id": "CN148",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN149",
+      "name": "伟明盛青能源新材料有限公司",
+      "display_name": "伟明盛青能源新材料有限公司",
+      "legal": "伟明盛青能源新材料有限公司",
+      "region": "浙江",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "硫酸镍"
+      ],
+      "classification": "硫酸镍 · 镍盐加工",
+      "aliases": [
+        "伟明盛青能源新材料有限公司"
+      ],
+      "search_text": "伟明盛青能源新材料有限公司 浙江 温州市 硫酸镍 伟明盛青能源新材料有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate"
+      ],
+      "china_id": "CN149",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN150",
+      "name": "湖南金凯循环科技股份有限公司",
+      "display_name": "湖南金凯循环科技股份有限公司",
+      "legal": "湖南金凯循环科技股份有限公司",
+      "region": "湖南",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "硫酸镍"
+      ],
+      "classification": "硫酸镍 · 镍盐加工",
+      "aliases": [
+        "湖南金凯循环科技股份有限公司"
+      ],
+      "search_text": "湖南金凯循环科技股份有限公司 湖南 衡阳市 硫酸镍 湖南金凯循环科技股份有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate"
+      ],
+      "china_id": "CN150",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN151",
+      "name": "湖北睿勤新能源科技有限公司",
+      "display_name": "湖北睿勤新能源科技有限公司",
+      "legal": "湖北睿勤新能源科技有限公司",
+      "region": "湖北",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "硫酸镍"
+      ],
+      "classification": "硫酸镍 · 镍盐加工",
+      "aliases": [
+        "湖北睿勤新能源科技有限公司"
+      ],
+      "search_text": "湖北睿勤新能源科技有限公司 湖北 荆州市 硫酸镍 湖北睿勤新能源科技有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate"
+      ],
+      "china_id": "CN151",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN152",
+      "name": "贵州星茂新材料有限公司",
+      "display_name": "贵州星茂新材料有限公司",
+      "legal": "贵州星茂新材料有限公司",
+      "region": "贵州",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "硫酸镍"
+      ],
+      "classification": "硫酸镍 · 镍盐加工",
+      "aliases": [
+        "贵州星茂新材料有限公司"
+      ],
+      "search_text": "贵州星茂新材料有限公司 贵州 铜仁市 硫酸镍 贵州星茂新材料有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "sulfate"
+      ],
+      "china_id": "CN152",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN153",
+      "name": "金川集团股份有限公司 金昌纯镍产线",
+      "display_name": "金川集团股份有限公司 金昌纯镍产线",
+      "legal": "金川集团股份有限公司（金昌纯镍产线）",
+      "region": "甘肃",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "国企；股权资料见正文",
+      "products": [
+        "纯镍"
+      ],
+      "classification": "纯镍 · 电解、电积",
+      "aliases": [
+        "金川集团股份有限公司（金昌纯镍产线）",
+        "金川电解",
+        "金川电积"
+      ],
+      "search_text": "金川集团股份有限公司 金昌纯镍产线 甘肃  纯镍 金川集团股份有限公司（金昌纯镍产线） 金川电解 金川电积",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "refined"
+      ],
+      "china_id": "CN153",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN154",
+      "name": "GEM Co., Ltd. 格林美股份有限公司",
+      "display_name": "GEM Co., Ltd. 格林美股份有限公司",
+      "legal": "格林美股份有限公司",
+      "region": "湖北",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "纯镍"
+      ],
+      "classification": "纯镍 · 电积",
+      "aliases": [
+        "格林美股份有限公司"
+      ],
+      "search_text": "GEM Co., Ltd. 格林美股份有限公司 湖北  纯镍 格林美股份有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "refined"
+      ],
+      "china_id": "CN154",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN155",
+      "name": "Guangxi Huayou 广西华友新材料有限公司 广西华友",
+      "display_name": "Guangxi Huayou 广西华友新材料有限公司 广西华友",
+      "legal": "广西华友新材料有限公司 广西华友",
+      "region": "广西",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "纯镍"
+      ],
+      "classification": "纯镍 · 电积",
+      "aliases": [
+        "广西华友新材料有限公司 广西华友",
+        "广西华友"
+      ],
+      "search_text": "Guangxi Huayou 广西华友新材料有限公司 广西华友 广西 玉林市 纯镍 广西华友新材料有限公司 广西华友 广西华友",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "refined"
+      ],
+      "china_id": "CN155",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN156",
+      "name": "Quzhou Huayou 衢州华友钴新材料有限公司 衢州华友",
+      "display_name": "Quzhou Huayou 衢州华友钴新材料有限公司 衢州华友",
+      "legal": "衢州华友钴新材料有限公司 衢州华友",
+      "region": "浙江",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "纯镍"
+      ],
+      "classification": "纯镍 · 电积",
+      "aliases": [
+        "衢州华友钴新材料有限公司 衢州华友",
+        "衢州华友"
+      ],
+      "search_text": "Quzhou Huayou 衢州华友钴新材料有限公司 衢州华友 浙江 衢州市 纯镍 衢州华友钴新材料有限公司 衢州华友 衢州华友",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "refined"
+      ],
+      "china_id": "CN156",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN157",
+      "name": "Guangxi Huaze 广西华泽",
+      "display_name": "Guangxi Huaze 广西华泽",
+      "legal": "广西华泽",
+      "region": "广西",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "纯镍"
+      ],
+      "classification": "纯镍 · 电积",
+      "aliases": [
+        "广西华泽"
+      ],
+      "search_text": "Guangxi Huaze 广西华泽 广西  纯镍 广西华泽",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "refined"
+      ],
+      "china_id": "CN157",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN158",
+      "name": "Jiangxi Huaze 江西华泽",
+      "display_name": "Jiangxi Huaze 江西华泽",
+      "legal": "江西华泽",
+      "region": "江西",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "纯镍"
+      ],
+      "classification": "纯镍 · 电积",
+      "aliases": [
+        "江西华泽"
+      ],
+      "search_text": "Jiangxi Huaze 江西华泽 江西  纯镍 江西华泽",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "refined"
+      ],
+      "china_id": "CN158",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN159",
+      "name": "Xinjiang Xinxin Mining 新疆新鑫矿业",
+      "display_name": "Xinjiang Xinxin Mining 新疆新鑫矿业",
+      "legal": "新疆新鑫矿业",
+      "region": "新疆",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "国企；股权资料见正文",
+      "products": [
+        "纯镍"
+      ],
+      "classification": "纯镍 · 电积",
+      "aliases": [
+        "新疆新鑫矿业"
+      ],
+      "search_text": "Xinjiang Xinxin Mining 新疆新鑫矿业 新疆  纯镍 新疆新鑫矿业",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "refined"
+      ],
+      "china_id": "CN159",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN160",
+      "name": "Yunxi Group Yuanjiang Nickel Industry Co., Ltd. 云锡集团元江镍业有限责任公司",
+      "display_name": "Yunxi Group Yuanjiang Nickel Industry Co., Ltd. 云锡集团元江镍业有限责任公司",
+      "legal": "云锡集团元江镍业有限责任公司",
+      "region": "云南",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "国企；股权资料见正文",
+      "products": [
+        "纯镍"
+      ],
+      "classification": "纯镍 · 电积",
+      "aliases": [
+        "云锡集团元江镍业有限责任公司"
+      ],
+      "search_text": "Yunxi Group Yuanjiang Nickel Industry Co., Ltd. 云锡集团元江镍业有限责任公司 云南  纯镍 云锡集团元江镍业有限责任公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "refined"
+      ],
+      "china_id": "CN160",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN161",
+      "name": "Zhejiang Yuanli Renewable Resources Co., Ltd. 浙江元力再生资源有限公司",
+      "display_name": "Zhejiang Yuanli Renewable Resources Co., Ltd. 浙江元力再生资源有限公司",
+      "legal": "浙江元力再生资源有限公司",
+      "region": "浙江",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "纯镍"
+      ],
+      "classification": "纯镍 · 电积",
+      "aliases": [
+        "浙江元力再生资源有限公司"
+      ],
+      "search_text": "Zhejiang Yuanli Renewable Resources Co., Ltd. 浙江元力再生资源有限公司 浙江  纯镍 浙江元力再生资源有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "refined"
+      ],
+      "china_id": "CN161",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN162",
+      "name": "Zhejiang Lujia New Materials Co., Ltd. 浙江路加新材料有限公司",
+      "display_name": "Zhejiang Lujia New Materials Co., Ltd. 浙江路加新材料有限公司",
+      "legal": "浙江路加新材料有限公司",
+      "region": "浙江",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "纯镍"
+      ],
+      "classification": "纯镍 · 电积",
+      "aliases": [
+        "浙江路加新材料有限公司"
+      ],
+      "search_text": "Zhejiang Lujia New Materials Co., Ltd. 浙江路加新材料有限公司 浙江  纯镍 浙江路加新材料有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "refined"
+      ],
+      "china_id": "CN162",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN163",
+      "name": "Jiangsu Qisheng Metal Technology Co., Ltd. 江苏祺生金属科技有限公司",
+      "display_name": "Jiangsu Qisheng Metal Technology Co., Ltd. 江苏祺生金属科技有限公司",
+      "legal": "江苏祺生金属科技有限公司",
+      "region": "江苏",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "纯镍"
+      ],
+      "classification": "纯镍 · 电积",
+      "aliases": [
+        "江苏祺生金属科技有限公司"
+      ],
+      "search_text": "Jiangsu Qisheng Metal Technology Co., Ltd. 江苏祺生金属科技有限公司 江苏  纯镍 江苏祺生金属科技有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "refined"
+      ],
+      "china_id": "CN163",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN164",
+      "name": "广西中伟新能源科技有限公司 钦州纯镍产线",
+      "display_name": "广西中伟新能源科技有限公司 钦州纯镍产线",
+      "legal": "广西中伟新能源科技有限公司（钦州纯镍产线）",
+      "region": "广西",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "纯镍"
+      ],
+      "classification": "纯镍 · 电积",
+      "aliases": [
+        "广西中伟新能源科技有限公司（钦州纯镍产线）",
+        "中伟一期",
+        "中伟二期"
+      ],
+      "search_text": "广西中伟新能源科技有限公司 钦州纯镍产线 广西 钦州市 纯镍 广西中伟新能源科技有限公司（钦州纯镍产线） 中伟一期 中伟二期",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "refined"
+      ],
+      "china_id": "CN164",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN165",
+      "name": "Zhejiang Weiming Environmental Protection Co., Ltd. 浙江伟明环保股份有限公司",
+      "display_name": "Zhejiang Weiming Environmental Protection Co., Ltd. 浙江伟明环保股份有限公司",
+      "legal": "浙江伟明环保股份有限公司",
+      "region": "浙江",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "纯镍"
+      ],
+      "classification": "纯镍 · 电积",
+      "aliases": [
+        "浙江伟明环保股份有限公司"
+      ],
+      "search_text": "Zhejiang Weiming Environmental Protection Co., Ltd. 浙江伟明环保股份有限公司 浙江  纯镍 浙江伟明环保股份有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "refined"
+      ],
+      "china_id": "CN165",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN166",
+      "name": "Shaanxi Jutai New Materials Technology Co., Ltd. 陕西聚泰新材料科技有限公司（浙江统计项目）",
+      "display_name": "Shaanxi Jutai New Materials Technology Co., Ltd. 陕西聚泰新材料科技有限公司（浙江统计项目）",
+      "legal": "陕西聚泰新材料科技有限公司（浙江统计项目）",
+      "region": "浙江",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "纯镍"
+      ],
+      "classification": "纯镍 · 电积",
+      "aliases": [
+        "陕西聚泰新材料科技有限公司（浙江统计项目）",
+        "陕西聚泰新材料科技有限公司"
+      ],
+      "search_text": "Shaanxi Jutai New Materials Technology Co., Ltd. 陕西聚泰新材料科技有限公司（浙江统计项目） 浙江  纯镍 陕西聚泰新材料科技有限公司（浙江统计项目） 陕西聚泰新材料科技有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "refined"
+      ],
+      "china_id": "CN166",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN167",
+      "name": "Nanjing Hanrui Cobalt Co., Ltd. 南京寒锐钴业股份有限公司",
+      "display_name": "Nanjing Hanrui Cobalt Co., Ltd. 南京寒锐钴业股份有限公司",
+      "legal": "南京寒锐钴业股份有限公司",
+      "region": "江西",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "纯镍"
+      ],
+      "classification": "纯镍 · 电积",
+      "aliases": [
+        "南京寒锐钴业股份有限公司"
+      ],
+      "search_text": "Nanjing Hanrui Cobalt Co., Ltd. 南京寒锐钴业股份有限公司 江西  纯镍 南京寒锐钴业股份有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "refined"
+      ],
+      "china_id": "CN167",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN168",
+      "name": "Shanghai Greatpower Technology Co., Ltd. 上海格派镍钴材料股份有限公司",
+      "display_name": "Shanghai Greatpower Technology Co., Ltd. 上海格派镍钴材料股份有限公司",
+      "legal": "上海格派镍钴材料股份有限公司",
+      "region": "广西",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "纯镍"
+      ],
+      "classification": "纯镍 · 电积",
+      "aliases": [
+        "上海格派镍钴材料股份有限公司"
+      ],
+      "search_text": "Shanghai Greatpower Technology Co., Ltd. 上海格派镍钴材料股份有限公司 广西  纯镍 上海格派镍钴材料股份有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "refined"
+      ],
+      "china_id": "CN168",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN169",
+      "name": "Chengtun Mining 盛屯矿业",
+      "display_name": "Chengtun Mining 盛屯矿业",
+      "legal": "盛屯矿业",
+      "region": "贵州",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "纯镍"
+      ],
+      "classification": "纯镍 · 电积",
+      "aliases": [
+        "盛屯矿业"
+      ],
+      "search_text": "Chengtun Mining 盛屯矿业 贵州  纯镍 盛屯矿业",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "refined"
+      ],
+      "china_id": "CN169",
+      "record_type": "source-scope"
+    },
+    {
+      "id": "CN170",
+      "name": "Guangdong Feinan Resources Utilization Co., Ltd. 广东飞南资源利用股份有限公司",
+      "display_name": "Guangdong Feinan Resources Utilization Co., Ltd. 广东飞南资源利用股份有限公司",
+      "legal": "广东飞南资源利用股份有限公司",
+      "region": "江西",
+      "npi_id": null,
+      "matte_ids": [],
+      "related_matte_ids": [],
+      "mhp_ids": [],
+      "ownership": "民企；股权资料见正文",
+      "products": [
+        "纯镍"
+      ],
+      "classification": "纯镍 · 电积",
+      "aliases": [
+        "广东飞南资源利用股份有限公司"
+      ],
+      "search_text": "Guangdong Feinan Resources Utilization Co., Ltd. 广东飞南资源利用股份有限公司 江西  纯镍 广东飞南资源利用股份有限公司",
+      "country_codes": [
+        "CN"
+      ],
+      "global_scopes": [
+        "refined"
+      ],
+      "china_id": "CN170",
+      "record_type": "source-scope"
     }
   ],
   "customers": [
@@ -17358,7 +22176,7 @@
   },
   "summary": {
     "companies": 73,
-    "projects": 288,
+    "projects": 458,
     "customers": 535,
     "shared_projects": 28,
     "shared_customers": 23,
@@ -17366,6 +22184,7 @@
     "mhp_entities": 44,
     "mhp_buyers": 127,
     "global_records": 166,
-    "countries": 47
+    "countries": 48,
+    "china_projects": 170
   }
 }

@@ -918,6 +918,294 @@
       "level": "国家／地区范围",
       "source": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/110m-admin-0-countries/",
       "source_title": "Natural Earth 1:110m 国家与地区边界"
+    },
+    "cn-province-01": {
+      "bbox": [
+        73.5,
+        18.1,
+        135.1,
+        53.6
+      ],
+      "label": "上海项目 · 中国范围参考",
+      "level": "国家／地区范围",
+      "source": "https://www.openstreetmap.org/",
+      "source_title": "OpenStreetMap：中国范围参考"
+    },
+    "cn-province-02": {
+      "bbox": [
+        73.5,
+        18.1,
+        135.1,
+        53.6
+      ],
+      "label": "云南项目 · 中国范围参考",
+      "level": "国家／地区范围",
+      "source": "https://www.openstreetmap.org/",
+      "source_title": "OpenStreetMap：中国范围参考"
+    },
+    "cn-province-03": {
+      "bbox": [
+        73.5,
+        18.1,
+        135.1,
+        53.6
+      ],
+      "label": "内蒙古项目 · 中国范围参考",
+      "level": "国家／地区范围",
+      "source": "https://www.openstreetmap.org/",
+      "source_title": "OpenStreetMap：中国范围参考"
+    },
+    "cn-province-04": {
+      "bbox": [
+        73.5,
+        18.1,
+        135.1,
+        53.6
+      ],
+      "label": "吉林项目 · 中国范围参考",
+      "level": "国家／地区范围",
+      "source": "https://www.openstreetmap.org/",
+      "source_title": "OpenStreetMap：中国范围参考"
+    },
+    "cn-province-05": {
+      "bbox": [
+        73.5,
+        18.1,
+        135.1,
+        53.6
+      ],
+      "label": "四川项目 · 中国范围参考",
+      "level": "国家／地区范围",
+      "source": "https://www.openstreetmap.org/",
+      "source_title": "OpenStreetMap：中国范围参考"
+    },
+    "cn-province-06": {
+      "bbox": [
+        73.5,
+        18.1,
+        135.1,
+        53.6
+      ],
+      "label": "天津项目 · 中国范围参考",
+      "level": "国家／地区范围",
+      "source": "https://www.openstreetmap.org/",
+      "source_title": "OpenStreetMap：中国范围参考"
+    },
+    "cn-province-07": {
+      "bbox": [
+        73.5,
+        18.1,
+        135.1,
+        53.6
+      ],
+      "label": "安徽项目 · 中国范围参考",
+      "level": "国家／地区范围",
+      "source": "https://www.openstreetmap.org/",
+      "source_title": "OpenStreetMap：中国范围参考"
+    },
+    "cn-province-08": {
+      "bbox": [
+        73.5,
+        18.1,
+        135.1,
+        53.6
+      ],
+      "label": "山东项目 · 中国范围参考",
+      "level": "国家／地区范围",
+      "source": "https://www.openstreetmap.org/",
+      "source_title": "OpenStreetMap：中国范围参考"
+    },
+    "cn-province-09": {
+      "bbox": [
+        73.5,
+        18.1,
+        135.1,
+        53.6
+      ],
+      "label": "山西项目 · 中国范围参考",
+      "level": "国家／地区范围",
+      "source": "https://www.openstreetmap.org/",
+      "source_title": "OpenStreetMap：中国范围参考"
+    },
+    "cn-province-10": {
+      "bbox": [
+        73.5,
+        18.1,
+        135.1,
+        53.6
+      ],
+      "label": "广东项目 · 中国范围参考",
+      "level": "国家／地区范围",
+      "source": "https://www.openstreetmap.org/",
+      "source_title": "OpenStreetMap：中国范围参考"
+    },
+    "cn-province-11": {
+      "bbox": [
+        73.5,
+        18.1,
+        135.1,
+        53.6
+      ],
+      "label": "广西项目 · 中国范围参考",
+      "level": "国家／地区范围",
+      "source": "https://www.openstreetmap.org/",
+      "source_title": "OpenStreetMap：中国范围参考"
+    },
+    "cn-province-12": {
+      "bbox": [
+        73.5,
+        18.1,
+        135.1,
+        53.6
+      ],
+      "label": "新疆项目 · 中国范围参考",
+      "level": "国家／地区范围",
+      "source": "https://www.openstreetmap.org/",
+      "source_title": "OpenStreetMap：中国范围参考"
+    },
+    "cn-province-13": {
+      "bbox": [
+        73.5,
+        18.1,
+        135.1,
+        53.6
+      ],
+      "label": "江苏项目 · 中国范围参考",
+      "level": "国家／地区范围",
+      "source": "https://www.openstreetmap.org/",
+      "source_title": "OpenStreetMap：中国范围参考"
+    },
+    "cn-province-14": {
+      "bbox": [
+        73.5,
+        18.1,
+        135.1,
+        53.6
+      ],
+      "label": "江西项目 · 中国范围参考",
+      "level": "国家／地区范围",
+      "source": "https://www.openstreetmap.org/",
+      "source_title": "OpenStreetMap：中国范围参考"
+    },
+    "cn-province-15": {
+      "bbox": [
+        73.5,
+        18.1,
+        135.1,
+        53.6
+      ],
+      "label": "河北项目 · 中国范围参考",
+      "level": "国家／地区范围",
+      "source": "https://www.openstreetmap.org/",
+      "source_title": "OpenStreetMap：中国范围参考"
+    },
+    "cn-province-16": {
+      "bbox": [
+        73.5,
+        18.1,
+        135.1,
+        53.6
+      ],
+      "label": "河南项目 · 中国范围参考",
+      "level": "国家／地区范围",
+      "source": "https://www.openstreetmap.org/",
+      "source_title": "OpenStreetMap：中国范围参考"
+    },
+    "cn-province-17": {
+      "bbox": [
+        73.5,
+        18.1,
+        135.1,
+        53.6
+      ],
+      "label": "浙江项目 · 中国范围参考",
+      "level": "国家／地区范围",
+      "source": "https://www.openstreetmap.org/",
+      "source_title": "OpenStreetMap：中国范围参考"
+    },
+    "cn-province-18": {
+      "bbox": [
+        73.5,
+        18.1,
+        135.1,
+        53.6
+      ],
+      "label": "湖北项目 · 中国范围参考",
+      "level": "国家／地区范围",
+      "source": "https://www.openstreetmap.org/",
+      "source_title": "OpenStreetMap：中国范围参考"
+    },
+    "cn-province-19": {
+      "bbox": [
+        73.5,
+        18.1,
+        135.1,
+        53.6
+      ],
+      "label": "湖南项目 · 中国范围参考",
+      "level": "国家／地区范围",
+      "source": "https://www.openstreetmap.org/",
+      "source_title": "OpenStreetMap：中国范围参考"
+    },
+    "cn-province-20": {
+      "bbox": [
+        73.5,
+        18.1,
+        135.1,
+        53.6
+      ],
+      "label": "甘肃项目 · 中国范围参考",
+      "level": "国家／地区范围",
+      "source": "https://www.openstreetmap.org/",
+      "source_title": "OpenStreetMap：中国范围参考"
+    },
+    "cn-province-21": {
+      "bbox": [
+        73.5,
+        18.1,
+        135.1,
+        53.6
+      ],
+      "label": "福建项目 · 中国范围参考",
+      "level": "国家／地区范围",
+      "source": "https://www.openstreetmap.org/",
+      "source_title": "OpenStreetMap：中国范围参考"
+    },
+    "cn-province-22": {
+      "bbox": [
+        73.5,
+        18.1,
+        135.1,
+        53.6
+      ],
+      "label": "贵州项目 · 中国范围参考",
+      "level": "国家／地区范围",
+      "source": "https://www.openstreetmap.org/",
+      "source_title": "OpenStreetMap：中国范围参考"
+    },
+    "cn-province-23": {
+      "bbox": [
+        73.5,
+        18.1,
+        135.1,
+        53.6
+      ],
+      "label": "辽宁项目 · 中国范围参考",
+      "level": "国家／地区范围",
+      "source": "https://www.openstreetmap.org/",
+      "source_title": "OpenStreetMap：中国范围参考"
+    },
+    "cn-province-24": {
+      "bbox": [
+        73.5,
+        18.1,
+        135.1,
+        53.6
+      ],
+      "label": "陕西项目 · 中国范围参考",
+      "level": "国家／地区范围",
+      "source": "https://www.openstreetmap.org/",
+      "source_title": "OpenStreetMap：中国范围参考"
     }
   },
   "regions": {

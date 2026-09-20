@@ -2147,6 +2147,462 @@
       "sources": [],
       "pending": [],
       "country_code": "CY"
+    },
+    {
+      "id": "cn-province-01",
+      "name": "上海",
+      "kind": "area",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "上海",
+      "regency": "",
+      "country_code": "CN",
+      "intro": "上海镍产业统计项目，包括镍铁、镍盐与纯镍相关条目。",
+      "sections": [],
+      "sources": [
+        {
+          "title": "中国项目原表对照",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "pending": []
+    },
+    {
+      "id": "cn-province-02",
+      "name": "云南",
+      "kind": "area",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "云南",
+      "regency": "",
+      "country_code": "CN",
+      "intro": "云南镍产业统计项目，包括镍铁、镍盐与纯镍相关条目。",
+      "sections": [],
+      "sources": [
+        {
+          "title": "中国项目原表对照",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "pending": []
+    },
+    {
+      "id": "cn-province-03",
+      "name": "内蒙古",
+      "kind": "area",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "内蒙古",
+      "regency": "",
+      "country_code": "CN",
+      "intro": "内蒙古镍产业统计项目，包括镍铁、镍盐与纯镍相关条目。",
+      "sections": [],
+      "sources": [
+        {
+          "title": "中国项目原表对照",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "pending": []
+    },
+    {
+      "id": "cn-province-04",
+      "name": "吉林",
+      "kind": "area",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "吉林",
+      "regency": "",
+      "country_code": "CN",
+      "intro": "吉林镍产业统计项目，包括镍铁、镍盐与纯镍相关条目。",
+      "sections": [],
+      "sources": [
+        {
+          "title": "中国项目原表对照",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "pending": []
+    },
+    {
+      "id": "cn-province-05",
+      "name": "四川",
+      "kind": "area",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "四川",
+      "regency": "",
+      "country_code": "CN",
+      "intro": "四川镍产业统计项目，包括镍铁、镍盐与纯镍相关条目。",
+      "sections": [],
+      "sources": [
+        {
+          "title": "中国项目原表对照",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "pending": []
+    },
+    {
+      "id": "cn-province-06",
+      "name": "天津",
+      "kind": "area",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "天津",
+      "regency": "",
+      "country_code": "CN",
+      "intro": "天津镍产业统计项目，包括镍铁、镍盐与纯镍相关条目。",
+      "sections": [],
+      "sources": [
+        {
+          "title": "中国项目原表对照",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "pending": []
+    },
+    {
+      "id": "cn-province-07",
+      "name": "安徽",
+      "kind": "area",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "安徽",
+      "regency": "",
+      "country_code": "CN",
+      "intro": "安徽镍产业统计项目，包括镍铁、镍盐与纯镍相关条目。",
+      "sections": [],
+      "sources": [
+        {
+          "title": "中国项目原表对照",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "pending": []
+    },
+    {
+      "id": "cn-province-08",
+      "name": "山东",
+      "kind": "area",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "山东",
+      "regency": "",
+      "country_code": "CN",
+      "intro": "山东镍产业统计项目，包括镍铁、镍盐与纯镍相关条目。",
+      "sections": [],
+      "sources": [
+        {
+          "title": "中国项目原表对照",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "pending": []
+    },
+    {
+      "id": "cn-province-09",
+      "name": "山西",
+      "kind": "area",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "山西",
+      "regency": "",
+      "country_code": "CN",
+      "intro": "山西镍产业统计项目，包括镍铁、镍盐与纯镍相关条目。",
+      "sections": [],
+      "sources": [
+        {
+          "title": "中国项目原表对照",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "pending": []
+    },
+    {
+      "id": "cn-province-10",
+      "name": "广东",
+      "kind": "area",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "广东",
+      "regency": "",
+      "country_code": "CN",
+      "intro": "广东镍产业统计项目，包括镍铁、镍盐与纯镍相关条目。",
+      "sections": [],
+      "sources": [
+        {
+          "title": "中国项目原表对照",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "pending": []
+    },
+    {
+      "id": "cn-province-11",
+      "name": "广西",
+      "kind": "area",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "广西",
+      "regency": "",
+      "country_code": "CN",
+      "intro": "广西镍产业统计项目，包括镍铁、镍盐与纯镍相关条目。",
+      "sections": [],
+      "sources": [
+        {
+          "title": "中国项目原表对照",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "pending": []
+    },
+    {
+      "id": "cn-province-12",
+      "name": "新疆",
+      "kind": "area",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "新疆",
+      "regency": "",
+      "country_code": "CN",
+      "intro": "新疆镍产业统计项目，包括镍铁、镍盐与纯镍相关条目。",
+      "sections": [],
+      "sources": [
+        {
+          "title": "中国项目原表对照",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "pending": []
+    },
+    {
+      "id": "cn-province-13",
+      "name": "江苏",
+      "kind": "area",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "江苏",
+      "regency": "",
+      "country_code": "CN",
+      "intro": "江苏镍产业统计项目，包括镍铁、镍盐与纯镍相关条目。",
+      "sections": [],
+      "sources": [
+        {
+          "title": "中国项目原表对照",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "pending": []
+    },
+    {
+      "id": "cn-province-14",
+      "name": "江西",
+      "kind": "area",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "江西",
+      "regency": "",
+      "country_code": "CN",
+      "intro": "江西镍产业统计项目，包括镍铁、镍盐与纯镍相关条目。",
+      "sections": [],
+      "sources": [
+        {
+          "title": "中国项目原表对照",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "pending": []
+    },
+    {
+      "id": "cn-province-15",
+      "name": "河北",
+      "kind": "area",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "河北",
+      "regency": "",
+      "country_code": "CN",
+      "intro": "河北镍产业统计项目，包括镍铁、镍盐与纯镍相关条目。",
+      "sections": [],
+      "sources": [
+        {
+          "title": "中国项目原表对照",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "pending": []
+    },
+    {
+      "id": "cn-province-16",
+      "name": "河南",
+      "kind": "area",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "河南",
+      "regency": "",
+      "country_code": "CN",
+      "intro": "河南镍产业统计项目，包括镍铁、镍盐与纯镍相关条目。",
+      "sections": [],
+      "sources": [
+        {
+          "title": "中国项目原表对照",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "pending": []
+    },
+    {
+      "id": "cn-province-17",
+      "name": "浙江",
+      "kind": "area",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "浙江",
+      "regency": "",
+      "country_code": "CN",
+      "intro": "浙江镍产业统计项目，包括镍铁、镍盐与纯镍相关条目。",
+      "sections": [],
+      "sources": [
+        {
+          "title": "中国项目原表对照",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "pending": []
+    },
+    {
+      "id": "cn-province-18",
+      "name": "湖北",
+      "kind": "area",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "湖北",
+      "regency": "",
+      "country_code": "CN",
+      "intro": "湖北镍产业统计项目，包括镍铁、镍盐与纯镍相关条目。",
+      "sections": [],
+      "sources": [
+        {
+          "title": "中国项目原表对照",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "pending": []
+    },
+    {
+      "id": "cn-province-19",
+      "name": "湖南",
+      "kind": "area",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "湖南",
+      "regency": "",
+      "country_code": "CN",
+      "intro": "湖南镍产业统计项目，包括镍铁、镍盐与纯镍相关条目。",
+      "sections": [],
+      "sources": [
+        {
+          "title": "中国项目原表对照",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "pending": []
+    },
+    {
+      "id": "cn-province-20",
+      "name": "甘肃",
+      "kind": "area",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "甘肃",
+      "regency": "",
+      "country_code": "CN",
+      "intro": "甘肃镍产业统计项目，包括镍铁、镍盐与纯镍相关条目。",
+      "sections": [],
+      "sources": [
+        {
+          "title": "中国项目原表对照",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "pending": []
+    },
+    {
+      "id": "cn-province-21",
+      "name": "福建",
+      "kind": "area",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "福建",
+      "regency": "",
+      "country_code": "CN",
+      "intro": "福建镍产业统计项目，包括镍铁、镍盐与纯镍相关条目。",
+      "sections": [],
+      "sources": [
+        {
+          "title": "中国项目原表对照",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "pending": []
+    },
+    {
+      "id": "cn-province-22",
+      "name": "贵州",
+      "kind": "area",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "贵州",
+      "regency": "",
+      "country_code": "CN",
+      "intro": "贵州镍产业统计项目，包括镍铁、镍盐与纯镍相关条目。",
+      "sections": [],
+      "sources": [
+        {
+          "title": "中国项目原表对照",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "pending": []
+    },
+    {
+      "id": "cn-province-23",
+      "name": "辽宁",
+      "kind": "area",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "辽宁",
+      "regency": "",
+      "country_code": "CN",
+      "intro": "辽宁镍产业统计项目，包括镍铁、镍盐与纯镍相关条目。",
+      "sections": [],
+      "sources": [
+        {
+          "title": "中国项目原表对照",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "pending": []
+    },
+    {
+      "id": "cn-province-24",
+      "name": "陕西",
+      "kind": "area",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "陕西",
+      "regency": "",
+      "country_code": "CN",
+      "intro": "陕西镍产业统计项目，包括镍铁、镍盐与纯镍相关条目。",
+      "sections": [],
+      "sources": [
+        {
+          "title": "中国项目原表对照",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "pending": []
     }
   ],
   "locations": {
@@ -7530,6 +7986,2726 @@
         "http://reestr.curs.kz/ru/branch/TOO_FERRONIKELEVYY_KOMBINAT_ERTIS_2961/"
       ],
       "location_basis": "底表列示地点；地图显示国家／地区范围，未标厂区坐标"
+    },
+    "CN001": {
+      "project_id": "CN001",
+      "place_id": "cn-province-13",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "江苏",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN002": {
+      "project_id": "CN002",
+      "place_id": "cn-province-13",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "江苏",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN003": {
+      "project_id": "CN003",
+      "place_id": "cn-province-13",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "江苏",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN004": {
+      "project_id": "CN004",
+      "place_id": "cn-province-13",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "江苏",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN005": {
+      "project_id": "CN005",
+      "place_id": "cn-province-13",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "江苏",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN006": {
+      "project_id": "CN006",
+      "place_id": "cn-province-13",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "江苏",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN007": {
+      "project_id": "CN007",
+      "place_id": "cn-province-13",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "江苏",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN008": {
+      "project_id": "CN008",
+      "place_id": "cn-province-13",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "江苏",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN009": {
+      "project_id": "CN009",
+      "place_id": "cn-province-13",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "江苏",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN010": {
+      "project_id": "CN010",
+      "place_id": "cn-province-23",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "辽宁",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN011": {
+      "project_id": "CN011",
+      "place_id": "cn-province-23",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "辽宁",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN012": {
+      "project_id": "CN012",
+      "place_id": "cn-province-23",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "辽宁",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN013": {
+      "project_id": "CN013",
+      "place_id": "cn-province-23",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "辽宁",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN014": {
+      "project_id": "CN014",
+      "place_id": "cn-province-23",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "辽宁",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN015": {
+      "project_id": "CN015",
+      "place_id": "cn-province-23",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "辽宁",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN016": {
+      "project_id": "CN016",
+      "place_id": "cn-province-23",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "辽宁",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN017": {
+      "project_id": "CN017",
+      "place_id": "cn-province-23",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "辽宁",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN018": {
+      "project_id": "CN018",
+      "place_id": "cn-province-23",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "辽宁",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN019": {
+      "project_id": "CN019",
+      "place_id": "cn-province-23",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "辽宁",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN020": {
+      "project_id": "CN020",
+      "place_id": "cn-province-23",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "辽宁",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN021": {
+      "project_id": "CN021",
+      "place_id": "cn-province-23",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "辽宁",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN022": {
+      "project_id": "CN022",
+      "place_id": "cn-province-23",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "辽宁",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN023": {
+      "project_id": "CN023",
+      "place_id": "cn-province-08",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "山东",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN024": {
+      "project_id": "CN024",
+      "place_id": "cn-province-08",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "山东",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN025": {
+      "project_id": "CN025",
+      "place_id": "cn-province-08",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "山东",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN026": {
+      "project_id": "CN026",
+      "place_id": "cn-province-08",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "山东",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN027": {
+      "project_id": "CN027",
+      "place_id": "cn-province-08",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "山东",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN028": {
+      "project_id": "CN028",
+      "place_id": "cn-province-09",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "山西",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN029": {
+      "project_id": "CN029",
+      "place_id": "cn-province-08",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "山东",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN030": {
+      "project_id": "CN030",
+      "place_id": "cn-province-08",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "山东",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN031": {
+      "project_id": "CN031",
+      "place_id": "cn-province-21",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "福建",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN032": {
+      "project_id": "CN032",
+      "place_id": "cn-province-21",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "福建",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN033": {
+      "project_id": "CN033",
+      "place_id": "cn-province-21",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "福建",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN034": {
+      "project_id": "CN034",
+      "place_id": "cn-province-03",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "内蒙古",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN035": {
+      "project_id": "CN035",
+      "place_id": "cn-province-03",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "内蒙古",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN036": {
+      "project_id": "CN036",
+      "place_id": "cn-province-03",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "内蒙古",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN037": {
+      "project_id": "CN037",
+      "place_id": "cn-province-03",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "内蒙古",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN038": {
+      "project_id": "CN038",
+      "place_id": "cn-province-03",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "内蒙古",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN039": {
+      "project_id": "CN039",
+      "place_id": "cn-province-03",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "内蒙古",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN040": {
+      "project_id": "CN040",
+      "place_id": "cn-province-03",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "内蒙古",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN041": {
+      "project_id": "CN041",
+      "place_id": "cn-province-03",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "内蒙古",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN042": {
+      "project_id": "CN042",
+      "place_id": "cn-province-03",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "内蒙古",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN043": {
+      "project_id": "CN043",
+      "place_id": "cn-province-03",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "内蒙古",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN044": {
+      "project_id": "CN044",
+      "place_id": "cn-province-03",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "内蒙古",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN045": {
+      "project_id": "CN045",
+      "place_id": "cn-province-03",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "内蒙古",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN046": {
+      "project_id": "CN046",
+      "place_id": "cn-province-03",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "内蒙古",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN047": {
+      "project_id": "CN047",
+      "place_id": "cn-province-03",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "内蒙古",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN048": {
+      "project_id": "CN048",
+      "place_id": "cn-province-03",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "内蒙古",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN049": {
+      "project_id": "CN049",
+      "place_id": "cn-province-03",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "内蒙古",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN050": {
+      "project_id": "CN050",
+      "place_id": "cn-province-03",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "内蒙古",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN051": {
+      "project_id": "CN051",
+      "place_id": "cn-province-03",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "内蒙古",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN052": {
+      "project_id": "CN052",
+      "place_id": "cn-province-03",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "内蒙古",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN053": {
+      "project_id": "CN053",
+      "place_id": "cn-province-15",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "河北",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN054": {
+      "project_id": "CN054",
+      "place_id": "cn-province-15",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "河北",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN055": {
+      "project_id": "CN055",
+      "place_id": "cn-province-15",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "河北",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN056": {
+      "project_id": "CN056",
+      "place_id": "cn-province-15",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "河北",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN057": {
+      "project_id": "CN057",
+      "place_id": "cn-province-09",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "山西",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN058": {
+      "project_id": "CN058",
+      "place_id": "cn-province-09",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "山西",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN059": {
+      "project_id": "CN059",
+      "place_id": "cn-province-09",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "山西",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN060": {
+      "project_id": "CN060",
+      "place_id": "cn-province-16",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "河南",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN061": {
+      "project_id": "CN061",
+      "place_id": "cn-province-16",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "河南",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN062": {
+      "project_id": "CN062",
+      "place_id": "cn-province-16",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "河南",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN063": {
+      "project_id": "CN063",
+      "place_id": "cn-province-10",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "广东",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN064": {
+      "project_id": "CN064",
+      "place_id": "cn-province-10",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "广东",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN065": {
+      "project_id": "CN065",
+      "place_id": "cn-province-10",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "广东",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN066": {
+      "project_id": "CN066",
+      "place_id": "cn-province-11",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "广西",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN067": {
+      "project_id": "CN067",
+      "place_id": "cn-province-11",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "广西",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN068": {
+      "project_id": "CN068",
+      "place_id": "cn-province-11",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "广西",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN069": {
+      "project_id": "CN069",
+      "place_id": "cn-province-11",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "广西",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN070": {
+      "project_id": "CN070",
+      "place_id": "cn-province-11",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "广西",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN071": {
+      "project_id": "CN071",
+      "place_id": "cn-province-13",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "江苏",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN072": {
+      "project_id": "CN072",
+      "place_id": "cn-province-08",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "山东",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN073": {
+      "project_id": "CN073",
+      "place_id": "cn-province-08",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "山东",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN074": {
+      "project_id": "CN074",
+      "place_id": "cn-province-21",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "福建",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN075": {
+      "project_id": "CN075",
+      "place_id": "cn-province-16",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "河南",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN076": {
+      "project_id": "CN076",
+      "place_id": "cn-province-03",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "内蒙古",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN077": {
+      "project_id": "CN077",
+      "place_id": "cn-province-08",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "山东",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN078": {
+      "project_id": "CN078",
+      "place_id": "cn-province-03",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "内蒙古",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN079": {
+      "project_id": "CN079",
+      "place_id": "cn-province-23",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "辽宁",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN080": {
+      "project_id": "CN080",
+      "place_id": "cn-province-19",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "湖南",
+      "regency": "",
+      "locality": "长沙市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN081": {
+      "project_id": "CN081",
+      "place_id": "cn-province-17",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "浙江",
+      "regency": "",
+      "locality": "嘉兴市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN082": {
+      "project_id": "CN082",
+      "place_id": "cn-province-18",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "湖北",
+      "regency": "",
+      "locality": "荆门市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN083": {
+      "project_id": "CN083",
+      "place_id": "cn-province-20",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "甘肃",
+      "regency": "",
+      "locality": "金昌市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN084": {
+      "project_id": "CN084",
+      "place_id": "cn-province-17",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "浙江",
+      "regency": "",
+      "locality": "嘉兴市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN085": {
+      "project_id": "CN085",
+      "place_id": "cn-province-19",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "湖南",
+      "regency": "",
+      "locality": "长沙市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN086": {
+      "project_id": "CN086",
+      "place_id": "cn-province-10",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "广东",
+      "regency": "",
+      "locality": "清远市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN087": {
+      "project_id": "CN087",
+      "place_id": "cn-province-15",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "河北",
+      "regency": "",
+      "locality": "唐山市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN088": {
+      "project_id": "CN088",
+      "place_id": "cn-province-11",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "广西",
+      "regency": "",
+      "locality": "玉林市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN089": {
+      "project_id": "CN089",
+      "place_id": "cn-province-10",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "广东",
+      "regency": "",
+      "locality": "江门市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN090": {
+      "project_id": "CN090",
+      "place_id": "cn-province-11",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "广西",
+      "regency": "",
+      "locality": "南宁市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN091": {
+      "project_id": "CN091",
+      "place_id": "cn-province-20",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "甘肃",
+      "regency": "",
+      "locality": "金昌市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN092": {
+      "project_id": "CN092",
+      "place_id": "cn-province-06",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "天津",
+      "regency": "",
+      "locality": "天津市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN093": {
+      "project_id": "CN093",
+      "place_id": "cn-province-10",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "广东",
+      "regency": "",
+      "locality": "江门市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN094": {
+      "project_id": "CN094",
+      "place_id": "cn-province-04",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "吉林",
+      "regency": "",
+      "locality": "吉林市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN095": {
+      "project_id": "CN095",
+      "place_id": "cn-province-05",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "四川",
+      "regency": "",
+      "locality": "成都市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN096": {
+      "project_id": "CN096",
+      "place_id": "cn-province-14",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "江西",
+      "regency": "",
+      "locality": "赣州市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN097": {
+      "project_id": "CN097",
+      "place_id": "cn-province-08",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "山东",
+      "regency": "",
+      "locality": "烟台市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN098": {
+      "project_id": "CN098",
+      "place_id": "cn-province-14",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "江西",
+      "regency": "",
+      "locality": "赣州市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN099": {
+      "project_id": "CN099",
+      "place_id": "cn-province-17",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "浙江",
+      "regency": "",
+      "locality": "台州市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN100": {
+      "project_id": "CN100",
+      "place_id": "cn-province-07",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "安徽",
+      "regency": "",
+      "locality": "池州市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN101": {
+      "project_id": "CN101",
+      "place_id": "cn-province-17",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "浙江",
+      "regency": "",
+      "locality": "绍兴市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN102": {
+      "project_id": "CN102",
+      "place_id": "cn-province-10",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "广东",
+      "regency": "",
+      "locality": "韶关市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN103": {
+      "project_id": "CN103",
+      "place_id": "cn-province-21",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "福建",
+      "regency": "",
+      "locality": "龙岩市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN104": {
+      "project_id": "CN104",
+      "place_id": "cn-province-08",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "山东",
+      "regency": "",
+      "locality": "烟台市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN105": {
+      "project_id": "CN105",
+      "place_id": "cn-province-16",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "河南",
+      "regency": "",
+      "locality": "新乡市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN106": {
+      "project_id": "CN106",
+      "place_id": "cn-province-19",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "湖南",
+      "regency": "",
+      "locality": "长沙市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN107": {
+      "project_id": "CN107",
+      "place_id": "cn-province-17",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "浙江",
+      "regency": "",
+      "locality": "衢州市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN108": {
+      "project_id": "CN108",
+      "place_id": "cn-province-14",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "江西",
+      "regency": "",
+      "locality": "宜春市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN109": {
+      "project_id": "CN109",
+      "place_id": "cn-province-24",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "陕西",
+      "regency": "",
+      "locality": "渭南市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN110": {
+      "project_id": "CN110",
+      "place_id": "cn-province-10",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "广东",
+      "regency": "",
+      "locality": "深圳市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN111": {
+      "project_id": "CN111",
+      "place_id": "cn-province-14",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "江西",
+      "regency": "",
+      "locality": "抚州市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN112": {
+      "project_id": "CN112",
+      "place_id": "cn-province-01",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "上海",
+      "regency": "",
+      "locality": "徐汇区",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN113": {
+      "project_id": "CN113",
+      "place_id": "cn-province-23",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "辽宁",
+      "regency": "",
+      "locality": "葫芦岛市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN114": {
+      "project_id": "CN114",
+      "place_id": "cn-province-18",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "湖北",
+      "regency": "",
+      "locality": "枝江市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN115": {
+      "project_id": "CN115",
+      "place_id": "cn-province-14",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "江西",
+      "regency": "",
+      "locality": "全南县",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN116": {
+      "project_id": "CN116",
+      "place_id": "cn-province-19",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "湖南",
+      "regency": "",
+      "locality": "益阳市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN117": {
+      "project_id": "CN117",
+      "place_id": "cn-province-17",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "浙江",
+      "regency": "",
+      "locality": "余姚市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN118": {
+      "project_id": "CN118",
+      "place_id": "cn-province-14",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "江西",
+      "regency": "",
+      "locality": "抚州市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN119": {
+      "project_id": "CN119",
+      "place_id": "cn-province-13",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "江苏",
+      "regency": "",
+      "locality": "南通市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN120": {
+      "project_id": "CN120",
+      "place_id": "cn-province-19",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "湖南",
+      "regency": "",
+      "locality": "湘潭市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN121": {
+      "project_id": "CN121",
+      "place_id": "cn-province-13",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "江苏",
+      "regency": "",
+      "locality": "张家港",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN122": {
+      "project_id": "CN122",
+      "place_id": "cn-province-04",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "吉林",
+      "regency": "",
+      "locality": "吉林市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN123": {
+      "project_id": "CN123",
+      "place_id": "cn-province-17",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "浙江",
+      "regency": "",
+      "locality": "金华市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN124": {
+      "project_id": "CN124",
+      "place_id": "cn-province-17",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "浙江",
+      "regency": "",
+      "locality": "慈溪市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN125": {
+      "project_id": "CN125",
+      "place_id": "cn-province-10",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "广东",
+      "regency": "",
+      "locality": "肇庆市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN126": {
+      "project_id": "CN126",
+      "place_id": "cn-province-17",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "浙江",
+      "regency": "",
+      "locality": "湖州市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN127": {
+      "project_id": "CN127",
+      "place_id": "cn-province-10",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "广东",
+      "regency": "",
+      "locality": "汕头市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN128": {
+      "project_id": "CN128",
+      "place_id": "cn-province-10",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "广东",
+      "regency": "",
+      "locality": "阳江市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN129": {
+      "project_id": "CN129",
+      "place_id": "cn-province-14",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "江西",
+      "regency": "",
+      "locality": "上饶市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN130": {
+      "project_id": "CN130",
+      "place_id": "cn-province-14",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "江西",
+      "regency": "",
+      "locality": "赣州市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN131": {
+      "project_id": "CN131",
+      "place_id": "cn-province-03",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "内蒙古",
+      "regency": "",
+      "locality": "包头市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN132": {
+      "project_id": "CN132",
+      "place_id": "cn-province-23",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "辽宁",
+      "regency": "",
+      "locality": "大连市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN133": {
+      "project_id": "CN133",
+      "place_id": "cn-province-14",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "江西",
+      "regency": "",
+      "locality": "赣州市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN134": {
+      "project_id": "CN134",
+      "place_id": "cn-province-14",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "江西",
+      "regency": "",
+      "locality": "赣州",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN135": {
+      "project_id": "CN135",
+      "place_id": "cn-province-22",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "贵州",
+      "regency": "",
+      "locality": "铜仁市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN136": {
+      "project_id": "CN136",
+      "place_id": "cn-province-09",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "山西",
+      "regency": "",
+      "locality": "阳泉市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN137": {
+      "project_id": "CN137",
+      "place_id": "cn-province-14",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "江西",
+      "regency": "",
+      "locality": "赣州市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN138": {
+      "project_id": "CN138",
+      "place_id": "cn-province-05",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "四川",
+      "regency": "",
+      "locality": "遂宁市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN139": {
+      "project_id": "CN139",
+      "place_id": "cn-province-21",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "福建",
+      "regency": "",
+      "locality": "厦门市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN140": {
+      "project_id": "CN140",
+      "place_id": "cn-province-10",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "广东",
+      "regency": "",
+      "locality": "韶关市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN141": {
+      "project_id": "CN141",
+      "place_id": "cn-province-17",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "浙江",
+      "regency": "",
+      "locality": "宁波市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN142": {
+      "project_id": "CN142",
+      "place_id": "cn-province-13",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "江苏",
+      "regency": "",
+      "locality": "常州市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN143": {
+      "project_id": "CN143",
+      "place_id": "cn-province-17",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "浙江",
+      "regency": "",
+      "locality": "诸暨市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN144": {
+      "project_id": "CN144",
+      "place_id": "cn-province-05",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "四川",
+      "regency": "",
+      "locality": "宜宾市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN145": {
+      "project_id": "CN145",
+      "place_id": "cn-province-13",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "江苏",
+      "regency": "",
+      "locality": "东台市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN146": {
+      "project_id": "CN146",
+      "place_id": "cn-province-05",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "四川",
+      "regency": "",
+      "locality": "成都市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN147": {
+      "project_id": "CN147",
+      "place_id": "cn-province-17",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "浙江",
+      "regency": "",
+      "locality": "余姚市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN148": {
+      "project_id": "CN148",
+      "place_id": "cn-province-16",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "河南",
+      "regency": "",
+      "locality": "新乡市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN149": {
+      "project_id": "CN149",
+      "place_id": "cn-province-17",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "浙江",
+      "regency": "",
+      "locality": "温州市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN150": {
+      "project_id": "CN150",
+      "place_id": "cn-province-19",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "湖南",
+      "regency": "",
+      "locality": "衡阳市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN151": {
+      "project_id": "CN151",
+      "place_id": "cn-province-18",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "湖北",
+      "regency": "",
+      "locality": "荆州市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN152": {
+      "project_id": "CN152",
+      "place_id": "cn-province-22",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "贵州",
+      "regency": "",
+      "locality": "铜仁市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN153": {
+      "project_id": "CN153",
+      "place_id": "cn-province-20",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "甘肃",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN154": {
+      "project_id": "CN154",
+      "place_id": "cn-province-18",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "湖北",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN155": {
+      "project_id": "CN155",
+      "place_id": "cn-province-11",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "广西",
+      "regency": "",
+      "locality": "玉林市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN156": {
+      "project_id": "CN156",
+      "place_id": "cn-province-17",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "浙江",
+      "regency": "",
+      "locality": "衢州市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN157": {
+      "project_id": "CN157",
+      "place_id": "cn-province-11",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "广西",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN158": {
+      "project_id": "CN158",
+      "place_id": "cn-province-14",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "江西",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN159": {
+      "project_id": "CN159",
+      "place_id": "cn-province-12",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "新疆",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN160": {
+      "project_id": "CN160",
+      "place_id": "cn-province-02",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "云南",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN161": {
+      "project_id": "CN161",
+      "place_id": "cn-province-17",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "浙江",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN162": {
+      "project_id": "CN162",
+      "place_id": "cn-province-17",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "浙江",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN163": {
+      "project_id": "CN163",
+      "place_id": "cn-province-13",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "江苏",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN164": {
+      "project_id": "CN164",
+      "place_id": "cn-province-11",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "广西",
+      "regency": "",
+      "locality": "钦州市",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN165": {
+      "project_id": "CN165",
+      "place_id": "cn-province-17",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "浙江",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN166": {
+      "project_id": "CN166",
+      "place_id": "cn-province-17",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "浙江",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN167": {
+      "project_id": "CN167",
+      "place_id": "cn-province-14",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "江西",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN168": {
+      "project_id": "CN168",
+      "place_id": "cn-province-11",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "广西",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN169": {
+      "project_id": "CN169",
+      "place_id": "cn-province-22",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "贵州",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
+    },
+    "CN170": {
+      "project_id": "CN170",
+      "place_id": "cn-province-14",
+      "island_id": "china-mainland",
+      "island": "中国大陆",
+      "province": "江西",
+      "regency": "",
+      "locality": "",
+      "country_codes": [
+        "CN"
+      ],
+      "source_urls": [
+        "library/china-register.csv"
+      ],
+      "location_basis": "省市沿用原表统计位置；公司地址与具体厂址的区分见正文"
     }
   },
   "islands": [
@@ -7854,6 +11030,12 @@
       "name": "塞浦路斯",
       "intro": "本地区的镍产业项目、状态与历史记录。",
       "country_code": "CY"
+    },
+    {
+      "id": "china-mainland",
+      "name": "中国大陆",
+      "intro": "中国项目按省份与原表统计范围组织。",
+      "country_code": "CN"
     }
   ],
   "additional_entities": [

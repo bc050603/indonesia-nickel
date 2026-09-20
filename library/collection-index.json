@@ -1,5 +1,5 @@
 {
-  "asof": "2026-09-18",
+  "asof": "2026-09-21",
   "topics": [
     {
       "id": "nickel-sulphate",
@@ -6010,6 +6010,33 @@
       "project_id": "GL166",
       "source_url": "library/global-register.csv",
       "source_title": "全球普查底表 · NI-166 · 总表第167行"
+    },
+    {
+      "project_id": "CN164",
+      "date": "2024-12-20",
+      "label": "CNGR牌电解镍获上期所注册",
+      "detail": "钦州基地电积工艺电解镍注册；公司披露注册年产能2.5万吨。",
+      "kind": "品牌与市场",
+      "source_url": "https://www.cngrgf.com.cn/gsxw/1398.html",
+      "source_title": "中伟：钦州CNGR牌电解镍上期所注册"
+    },
+    {
+      "project_id": "CN155",
+      "date": "2024-04-12",
+      "label": "HUAYOUgx电解镍LME品牌注册",
+      "detail": "华友公司披露的品牌注册时间；保留独立生产主体。",
+      "kind": "品牌与市场",
+      "source_url": "https://www.huayou.com/news/corporate-news/291",
+      "source_title": "华友：广西与衢州电解镍品牌注册"
+    },
+    {
+      "project_id": "CN156",
+      "date": "2023-07",
+      "label": "HUAYOU电解镍LME品牌注册",
+      "detail": "华友公司披露的品牌注册时间；保留独立生产主体。",
+      "kind": "品牌与市场",
+      "source_url": "https://www.huayou.com/news/corporate-news/291",
+      "source_title": "华友：广西与衢州电解镍品牌注册"
     }
   ],
   "sources": [
@@ -18673,6 +18700,10 @@
         {
           "type": "mhp-source",
           "id": "MS099"
+        },
+        {
+          "type": "project",
+          "id": "CN083"
         }
       ],
       "id": "UC0458"
@@ -40474,6 +40505,776 @@
         {
           "type": "project",
           "id": "GL166"
+        }
+      ]
+    },
+    {
+      "id": "UC1445",
+      "url": "library/china-register.csv",
+      "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第28行 · 扬州一川镍业有限公司",
+      "titles": [
+        "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第28行 · 扬州一川镍业有限公司"
+      ],
+      "dates": [
+        "2026-09-21"
+      ],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN001"
+        },
+        {
+          "type": "project",
+          "id": "CN002"
+        },
+        {
+          "type": "project",
+          "id": "CN003"
+        },
+        {
+          "type": "project",
+          "id": "CN004"
+        },
+        {
+          "type": "project",
+          "id": "CN005"
+        },
+        {
+          "type": "project",
+          "id": "CN006"
+        },
+        {
+          "type": "project",
+          "id": "CN007"
+        },
+        {
+          "type": "project",
+          "id": "CN008"
+        },
+        {
+          "type": "project",
+          "id": "CN009"
+        },
+        {
+          "type": "project",
+          "id": "CN010"
+        },
+        {
+          "type": "project",
+          "id": "CN011"
+        },
+        {
+          "type": "project",
+          "id": "CN012"
+        },
+        {
+          "type": "project",
+          "id": "CN013"
+        },
+        {
+          "type": "project",
+          "id": "CN014"
+        },
+        {
+          "type": "project",
+          "id": "CN015"
+        },
+        {
+          "type": "project",
+          "id": "CN016"
+        },
+        {
+          "type": "project",
+          "id": "CN017"
+        },
+        {
+          "type": "project",
+          "id": "CN018"
+        },
+        {
+          "type": "project",
+          "id": "CN019"
+        },
+        {
+          "type": "project",
+          "id": "CN020"
+        },
+        {
+          "type": "project",
+          "id": "CN021"
+        },
+        {
+          "type": "project",
+          "id": "CN022"
+        },
+        {
+          "type": "project",
+          "id": "CN023"
+        },
+        {
+          "type": "project",
+          "id": "CN024"
+        },
+        {
+          "type": "project",
+          "id": "CN025"
+        },
+        {
+          "type": "project",
+          "id": "CN026"
+        },
+        {
+          "type": "project",
+          "id": "CN027"
+        },
+        {
+          "type": "project",
+          "id": "CN028"
+        },
+        {
+          "type": "project",
+          "id": "CN029"
+        },
+        {
+          "type": "project",
+          "id": "CN030"
+        },
+        {
+          "type": "project",
+          "id": "CN031"
+        },
+        {
+          "type": "project",
+          "id": "CN032"
+        },
+        {
+          "type": "project",
+          "id": "CN033"
+        },
+        {
+          "type": "project",
+          "id": "CN034"
+        },
+        {
+          "type": "project",
+          "id": "CN035"
+        },
+        {
+          "type": "project",
+          "id": "CN036"
+        },
+        {
+          "type": "project",
+          "id": "CN037"
+        },
+        {
+          "type": "project",
+          "id": "CN038"
+        },
+        {
+          "type": "project",
+          "id": "CN039"
+        },
+        {
+          "type": "project",
+          "id": "CN040"
+        },
+        {
+          "type": "project",
+          "id": "CN041"
+        },
+        {
+          "type": "project",
+          "id": "CN042"
+        },
+        {
+          "type": "project",
+          "id": "CN043"
+        },
+        {
+          "type": "project",
+          "id": "CN044"
+        },
+        {
+          "type": "project",
+          "id": "CN045"
+        },
+        {
+          "type": "project",
+          "id": "CN046"
+        },
+        {
+          "type": "project",
+          "id": "CN047"
+        },
+        {
+          "type": "project",
+          "id": "CN048"
+        },
+        {
+          "type": "project",
+          "id": "CN049"
+        },
+        {
+          "type": "project",
+          "id": "CN050"
+        },
+        {
+          "type": "project",
+          "id": "CN051"
+        },
+        {
+          "type": "project",
+          "id": "CN052"
+        },
+        {
+          "type": "project",
+          "id": "CN053"
+        },
+        {
+          "type": "project",
+          "id": "CN054"
+        },
+        {
+          "type": "project",
+          "id": "CN055"
+        },
+        {
+          "type": "project",
+          "id": "CN056"
+        },
+        {
+          "type": "project",
+          "id": "CN057"
+        },
+        {
+          "type": "project",
+          "id": "CN058"
+        },
+        {
+          "type": "project",
+          "id": "CN059"
+        },
+        {
+          "type": "project",
+          "id": "CN060"
+        },
+        {
+          "type": "project",
+          "id": "CN061"
+        },
+        {
+          "type": "project",
+          "id": "CN062"
+        },
+        {
+          "type": "project",
+          "id": "CN063"
+        },
+        {
+          "type": "project",
+          "id": "CN064"
+        },
+        {
+          "type": "project",
+          "id": "CN065"
+        },
+        {
+          "type": "project",
+          "id": "CN066"
+        },
+        {
+          "type": "project",
+          "id": "CN067"
+        },
+        {
+          "type": "project",
+          "id": "CN068"
+        },
+        {
+          "type": "project",
+          "id": "CN069"
+        },
+        {
+          "type": "project",
+          "id": "CN070"
+        },
+        {
+          "type": "project",
+          "id": "CN071"
+        },
+        {
+          "type": "project",
+          "id": "CN072"
+        },
+        {
+          "type": "project",
+          "id": "CN073"
+        },
+        {
+          "type": "project",
+          "id": "CN074"
+        },
+        {
+          "type": "project",
+          "id": "CN075"
+        },
+        {
+          "type": "project",
+          "id": "CN076"
+        },
+        {
+          "type": "project",
+          "id": "CN077"
+        },
+        {
+          "type": "project",
+          "id": "CN078"
+        },
+        {
+          "type": "project",
+          "id": "CN079"
+        },
+        {
+          "type": "project",
+          "id": "CN080"
+        },
+        {
+          "type": "project",
+          "id": "CN081"
+        },
+        {
+          "type": "project",
+          "id": "CN082"
+        },
+        {
+          "type": "project",
+          "id": "CN083"
+        },
+        {
+          "type": "project",
+          "id": "CN084"
+        },
+        {
+          "type": "project",
+          "id": "CN085"
+        },
+        {
+          "type": "project",
+          "id": "CN086"
+        },
+        {
+          "type": "project",
+          "id": "CN087"
+        },
+        {
+          "type": "project",
+          "id": "CN088"
+        },
+        {
+          "type": "project",
+          "id": "CN089"
+        },
+        {
+          "type": "project",
+          "id": "CN090"
+        },
+        {
+          "type": "project",
+          "id": "CN091"
+        },
+        {
+          "type": "project",
+          "id": "CN092"
+        },
+        {
+          "type": "project",
+          "id": "CN093"
+        },
+        {
+          "type": "project",
+          "id": "CN094"
+        },
+        {
+          "type": "project",
+          "id": "CN095"
+        },
+        {
+          "type": "project",
+          "id": "CN096"
+        },
+        {
+          "type": "project",
+          "id": "CN097"
+        },
+        {
+          "type": "project",
+          "id": "CN098"
+        },
+        {
+          "type": "project",
+          "id": "CN099"
+        },
+        {
+          "type": "project",
+          "id": "CN100"
+        },
+        {
+          "type": "project",
+          "id": "CN101"
+        },
+        {
+          "type": "project",
+          "id": "CN102"
+        },
+        {
+          "type": "project",
+          "id": "CN103"
+        },
+        {
+          "type": "project",
+          "id": "CN104"
+        },
+        {
+          "type": "project",
+          "id": "CN105"
+        },
+        {
+          "type": "project",
+          "id": "CN106"
+        },
+        {
+          "type": "project",
+          "id": "CN107"
+        },
+        {
+          "type": "project",
+          "id": "CN108"
+        },
+        {
+          "type": "project",
+          "id": "CN109"
+        },
+        {
+          "type": "project",
+          "id": "CN110"
+        },
+        {
+          "type": "project",
+          "id": "CN111"
+        },
+        {
+          "type": "project",
+          "id": "CN112"
+        },
+        {
+          "type": "project",
+          "id": "CN113"
+        },
+        {
+          "type": "project",
+          "id": "CN114"
+        },
+        {
+          "type": "project",
+          "id": "CN115"
+        },
+        {
+          "type": "project",
+          "id": "CN116"
+        },
+        {
+          "type": "project",
+          "id": "CN117"
+        },
+        {
+          "type": "project",
+          "id": "CN118"
+        },
+        {
+          "type": "project",
+          "id": "CN119"
+        },
+        {
+          "type": "project",
+          "id": "CN120"
+        },
+        {
+          "type": "project",
+          "id": "CN121"
+        },
+        {
+          "type": "project",
+          "id": "CN122"
+        },
+        {
+          "type": "project",
+          "id": "CN123"
+        },
+        {
+          "type": "project",
+          "id": "CN124"
+        },
+        {
+          "type": "project",
+          "id": "CN125"
+        },
+        {
+          "type": "project",
+          "id": "CN126"
+        },
+        {
+          "type": "project",
+          "id": "CN127"
+        },
+        {
+          "type": "project",
+          "id": "CN128"
+        },
+        {
+          "type": "project",
+          "id": "CN129"
+        },
+        {
+          "type": "project",
+          "id": "CN130"
+        },
+        {
+          "type": "project",
+          "id": "CN131"
+        },
+        {
+          "type": "project",
+          "id": "CN132"
+        },
+        {
+          "type": "project",
+          "id": "CN133"
+        },
+        {
+          "type": "project",
+          "id": "CN134"
+        },
+        {
+          "type": "project",
+          "id": "CN135"
+        },
+        {
+          "type": "project",
+          "id": "CN136"
+        },
+        {
+          "type": "project",
+          "id": "CN137"
+        },
+        {
+          "type": "project",
+          "id": "CN138"
+        },
+        {
+          "type": "project",
+          "id": "CN139"
+        },
+        {
+          "type": "project",
+          "id": "CN140"
+        },
+        {
+          "type": "project",
+          "id": "CN141"
+        },
+        {
+          "type": "project",
+          "id": "CN142"
+        },
+        {
+          "type": "project",
+          "id": "CN143"
+        },
+        {
+          "type": "project",
+          "id": "CN144"
+        },
+        {
+          "type": "project",
+          "id": "CN145"
+        },
+        {
+          "type": "project",
+          "id": "CN146"
+        },
+        {
+          "type": "project",
+          "id": "CN147"
+        },
+        {
+          "type": "project",
+          "id": "CN148"
+        },
+        {
+          "type": "project",
+          "id": "CN149"
+        },
+        {
+          "type": "project",
+          "id": "CN150"
+        },
+        {
+          "type": "project",
+          "id": "CN151"
+        },
+        {
+          "type": "project",
+          "id": "CN152"
+        },
+        {
+          "type": "project",
+          "id": "CN153"
+        },
+        {
+          "type": "project",
+          "id": "CN154"
+        },
+        {
+          "type": "project",
+          "id": "CN155"
+        },
+        {
+          "type": "project",
+          "id": "CN156"
+        },
+        {
+          "type": "project",
+          "id": "CN157"
+        },
+        {
+          "type": "project",
+          "id": "CN158"
+        },
+        {
+          "type": "project",
+          "id": "CN159"
+        },
+        {
+          "type": "project",
+          "id": "CN160"
+        },
+        {
+          "type": "project",
+          "id": "CN161"
+        },
+        {
+          "type": "project",
+          "id": "CN162"
+        },
+        {
+          "type": "project",
+          "id": "CN163"
+        },
+        {
+          "type": "project",
+          "id": "CN164"
+        },
+        {
+          "type": "project",
+          "id": "CN165"
+        },
+        {
+          "type": "project",
+          "id": "CN166"
+        },
+        {
+          "type": "project",
+          "id": "CN167"
+        },
+        {
+          "type": "project",
+          "id": "CN168"
+        },
+        {
+          "type": "project",
+          "id": "CN169"
+        },
+        {
+          "type": "project",
+          "id": "CN170"
+        }
+      ]
+    },
+    {
+      "id": "UC1446",
+      "url": "https://www.jutaitech.com/html/produce/index.html",
+      "title": "陕西聚泰：公司技术与生产地址",
+      "titles": [
+        "陕西聚泰：公司技术与生产地址"
+      ],
+      "dates": [
+        "2026-09-21"
+      ],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN109"
+        }
+      ]
+    },
+    {
+      "id": "UC1447",
+      "url": "https://www.huayou.com/news/corporate-news/291",
+      "title": "华友：广西与衢州电解镍品牌注册",
+      "titles": [
+        "华友：广西与衢州电解镍品牌注册"
+      ],
+      "dates": [
+        "2026-09-21"
+      ],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN155"
+        },
+        {
+          "type": "project",
+          "id": "CN156"
+        }
+      ]
+    },
+    {
+      "id": "UC1448",
+      "url": "https://www.cngrgf.com.cn/gsxw/1398.html",
+      "title": "中伟：钦州CNGR牌电解镍上期所注册",
+      "titles": [
+        "中伟：钦州CNGR牌电解镍上期所注册"
+      ],
+      "dates": [
+        "2026-09-21"
+      ],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN164"
+        }
+      ]
+    },
+    {
+      "id": "UC1449",
+      "url": "https://www.cngrgf.com.cn/gsxw/1307.html",
+      "title": "中伟：NNI首批低冰镍运抵钦州",
+      "titles": [
+        "中伟：NNI首批低冰镍运抵钦州"
+      ],
+      "dates": [
+        "2026-09-21"
+      ],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN164"
         }
       ]
     }

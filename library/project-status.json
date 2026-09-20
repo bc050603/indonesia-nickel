@@ -4159,6 +4159,2556 @@
         }
       ],
       "products": []
+    },
+    "CN001": {
+      "key": "recorded",
+      "label": "有生产记录 · 2023-12",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN001",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第28行 · 扬州一川镍业有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN002": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-06",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN002",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第29行 · 宿迁翔翔实业有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN003": {
+      "key": "recorded",
+      "label": "有生产记录 · 2024-03",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN003",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第30行 · 连云港海赣科技有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN004": {
+      "key": "recorded",
+      "label": "有生产记录 · 2020-02",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN004",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第31行 · 连云港科创不锈钢新材料有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN005": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-06",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN005",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第32行 · 江苏德龙镍业有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN006": {
+      "key": "recorded",
+      "label": "有生产记录 · 2018-06",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN006",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第33行 · 赣榆县金成镍业有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN007": {
+      "key": "recorded",
+      "label": "有生产记录 · 2017-04",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN007",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第34行 · 连云港天乙金属制品有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN008": {
+      "key": "recorded",
+      "label": "有生产记录 · 2017-04",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN008",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第35行 · 江苏宝通镍业有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN009": {
+      "key": "recorded",
+      "label": "有生产记录 · 2017-02",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN009",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第36行 · 荣阳钢铁",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN010": {
+      "key": "recorded",
+      "label": "有生产记录 · 2022-09",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN010",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第37行 · 营口宁丰镁业（宁丰集团）",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN011": {
+      "key": "recorded",
+      "label": "有生产记录 · 2024-01",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN011",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第38行 · 辽宁晟运实业有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN012": {
+      "key": "recorded",
+      "label": "有生产记录 · 2017-11",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN012",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第39行 · 营口广大实业有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN013": {
+      "key": "recorded",
+      "label": "有生产记录 · 2023-05",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN013",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第40行 · 光大冶金发展（大连）有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN014": {
+      "key": "recorded",
+      "label": "有生产记录 · 2021-10",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN014",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第41行 · 辽宁宝铂科技有限公司-A",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN015": {
+      "key": "recorded",
+      "label": "有生产记录 · 2018-01",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN015",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第43行 · 朝阳昊天有色金属有限公司-朝阳利鑫有色金属有限公司（北方兄弟）",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN016": {
+      "key": "recorded",
+      "label": "有生产记录 · 2017-03",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN016",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第44行 · 海城市腾发耐火材料有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN017": {
+      "key": "recorded",
+      "label": "有生产记录 · 2017-01",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN017",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第45行 · 凌源市瑞丰铸造有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN018": {
+      "key": "recorded",
+      "label": "有生产记录 · 2017-01",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN018",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第46行 · 辽宁垚鑫铸业有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN019": {
+      "key": "recorded",
+      "label": "有生产记录 · 2021-09",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN019",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第47行 · 鞍山旭辰耐火材料有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN020": {
+      "key": "recorded",
+      "label": "有生产记录 · 2017-02",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN020",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第48行 · 辽宁国润金属集团",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN021": {
+      "key": "recorded",
+      "label": "有生产记录 · 2017-01",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN021",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第49行 · 锦州市鑫泽锰业有限公司（义县应盛金属实业有限公司）",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN022": {
+      "key": "recorded",
+      "label": "有生产记录 · 2017-03",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN022",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第50行 · 锦州鑫雨铁合金",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN023": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-06",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN023",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第51行 · 山东鑫海科技有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN024": {
+      "key": "recorded",
+      "label": "有生产记录 · 2021-02",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN024",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第52行 · 临沂金海汇科技有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN025": {
+      "key": "recorded",
+      "label": "有生产记录 · 2023-05",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN025",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第53行 · 茌平爱得信新材料有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN026": {
+      "key": "recorded",
+      "label": "有生产记录 · 2017-03",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN026",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第54行 · 日照铸福",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN027": {
+      "key": "recorded",
+      "label": "有生产记录 · 2018-04",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN027",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第55行 · 沾化县炜烨镍业有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN028": {
+      "key": "recorded",
+      "label": "有生产记录 · 2017-04",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN028",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第56行 · 山西曲沃县三鑫铸造有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN029": {
+      "key": "recorded",
+      "label": "有生产记录 · 2017-05",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN029",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第57行 · 青州天泰德隆冶金科技有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN030": {
+      "key": "recorded",
+      "label": "有生产记录 · 2017-02",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN030",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第58行 · 冠县顺丰金属制品有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN031": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-06",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN031",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第59行 · 福建联德镍铁合金",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN032": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-06",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN032",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第60行 · 福建鼎信实业有限公司-A",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN033": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-06",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN033",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第62行 · 宝钢德盛不锈钢有限公司-A",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN034": {
+      "key": "recorded",
+      "label": "有生产记录 · 2020-08",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN034",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第63行 · 五洲镍业有限公司/化德县五洲钢业有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN035": {
+      "key": "recorded",
+      "label": "有生产记录 · 2017-04",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN035",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第64行 · 内蒙古察右前旗鑫扬冶金化工有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN036": {
+      "key": "recorded",
+      "label": "有生产记录 · 2020-04",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN036",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第65行 · 内蒙古商都县永鑫公司（原瑞泰冶金）",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN037": {
+      "key": "recorded",
+      "label": "有生产记录 · 2020-09",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN037",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第66行 · 内蒙古硕丰实业有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN038": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-06",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN038",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第67行 · 内蒙古上泰实业有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN039": {
+      "key": "recorded",
+      "label": "有生产记录 · 2021-02",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN039",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第68行 · 内蒙古商都县中建金马冶金化工有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN040": {
+      "key": "recorded",
+      "label": "有生产记录 · 2020-06",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN040",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第69行 · 内蒙古天润特种铁合金有限公司-A",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN041": {
+      "key": "recorded",
+      "label": "有生产记录 · 2020-07",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN041",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第71行 · 内蒙古隆盛特钢有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN042": {
+      "key": "recorded",
+      "label": "有生产记录 · 2025-06",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN042",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第72行 · 内蒙古和谊镍铬复合材料有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN043": {
+      "key": "recorded",
+      "label": "有生产记录 · 2020-08",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN043",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第73行 · 化德县嘉铭钢业有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN044": {
+      "key": "recorded",
+      "label": "有生产记录 · 2018-01",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN044",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第74行 · 内蒙古察右前旗辰东化工有限责任公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN045": {
+      "key": "recorded",
+      "label": "有生产记录 · 2017-10",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN045",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第75行 · 瑞泰冶金有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN046": {
+      "key": "recorded",
+      "label": "有生产记录 · 2017-01",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN046",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第76行 · 瑞泰",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN047": {
+      "key": "recorded",
+      "label": "有生产记录 · 2017-08",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN047",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第77行 · 化德县中泰镍铁有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN048": {
+      "key": "recorded",
+      "label": "有生产记录 · 2017-09",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN048",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第78行 · 化德县鑫泽镍业有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN049": {
+      "key": "recorded",
+      "label": "有生产记录 · 2018-09",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN049",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第79行 · 化德县同盛铁合金有限公司(昌盛泰)",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN050": {
+      "key": "recorded",
+      "label": "有生产记录 · 2017-06",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN050",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第80行 · 永盛铁合金",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN051": {
+      "key": "recorded",
+      "label": "有生产记录 · 2017-03",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN051",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第81行 · 光达冶金（烨兆）",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN052": {
+      "key": "recorded",
+      "label": "有生产记录 · 2017-02",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN052",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第83行 · 化德县鑫盛铁合金有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN053": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-06",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN053",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第84行 · 唐山凯源实业有限公司-A",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN054": {
+      "key": "recorded",
+      "label": "有生产记录 · 2018-06",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN054",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第86行 · 唐山腾达科技有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN055": {
+      "key": "recorded",
+      "label": "有生产记录 · 2017-11",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN055",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第87行 · 丰润区长明不锈钢制品厂",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN056": {
+      "key": "unknown",
+      "label": "运行状态待核",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN056",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第88行 · 河北春风铸造有限责任公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN057": {
+      "key": "recorded",
+      "label": "有生产记录 · 2021-12",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN057",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第89行 · 偏关县晋电化工有限责任公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN058": {
+      "key": "recorded",
+      "label": "有生产记录 · 2017-08",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN058",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第90行 · 山西众泰陆洋冶炼实业有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN059": {
+      "key": "recorded",
+      "label": "有生产记录 · 2017-08",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN059",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第91行 · 山西达康集团",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN060": {
+      "key": "recorded",
+      "label": "有生产记录 · 2018-06",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN060",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第93行 · 河南省煜晟镍业有限责任公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN061": {
+      "key": "recorded",
+      "label": "有生产记录 · 2017-01",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN061",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第94行 · 福佳不锈钢制品有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN062": {
+      "key": "recorded",
+      "label": "有生产记录 · 2018-12",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN062",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第95行 · 河南宝泰盛商贸有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN063": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-06",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN063",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第96行 · 阳江翌川金属科技有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN064": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-06",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN064",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第97行 · 广东世纪青山镍业有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN065": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-06",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN065",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第98行 · 广东广青金属科技有限公司-A",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN066": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-06",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN066",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第100行 · 中金金属科技有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN067": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-06",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN067",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第101行 · 广西戎鑫达资源有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN068": {
+      "key": "recorded",
+      "label": "有生产记录 · 2024-02",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN068",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第102行 · 广西金源镍业有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN069": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-06",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN069",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第103行 · 北海诚德镍业有限公司-A",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN070": {
+      "key": "recorded",
+      "label": "有生产记录 · 2018-12",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN070",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第105行 · 广西龙州中恒万华实业有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN071": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-06",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN071",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第106行 · 连云港华乐合金",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN072": {
+      "key": "recorded",
+      "label": "有生产记录 · 2021-09",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN072",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第107行 · 山东临港有色金属有限公司（盛阳）",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN073": {
+      "key": "recorded",
+      "label": "有生产记录 · 2019-11",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN073",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第108行 · 中亿金属科技有限公司（亿利达钢铁）",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN074": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-06",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN074",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第109行 · 福建青拓镍业有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN075": {
+      "key": "recorded",
+      "label": "有生产记录 · 2023-12",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN075",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第111行 · 河南鑫金汇特钢有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN076": {
+      "key": "recorded",
+      "label": "有生产记录 · 2022-05",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN076",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第112行 · 内蒙古和谊镍铬复合材料有限公司(租给万汇) 和恒",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN077": {
+      "key": "recorded",
+      "label": "有生产记录 · 2023-05",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN077",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第113行 · 亿晨镍铬合金（临沂钢投）",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN078": {
+      "key": "recorded",
+      "label": "有生产记录 · 2024-01",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN078",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第114行 · 奈曼经安有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN079": {
+      "key": "recorded",
+      "label": "有生产记录 · 2022-06",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN079",
+      "sources": [
+        {
+          "title": "明细&汇总-全球镍生铁-月度产量 060426.xlsx · 明细-全球镍生铁-月度产量 第116行 · 大连富力镍基合金新材料有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN080": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-08",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN080",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第3行 · 湖南中伟新材料有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN081": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-08",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN081",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第4行 · 浙江华友钴业股份有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN082": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-08",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN082",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第5行 · 荆门格林美新材料有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN083": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-08",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN083",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第6行 · 金川集团镍盐有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN084": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-08",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN084",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第7行 · 宁波长江能源科技有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN085": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-08",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN085",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第8行 · 湖南邦普循环科技有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN086": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-08",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN086",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第9行 · 广东佳纳能源科技有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN087": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-08",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN087",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第10行 · 中冶瑞木新能源科技有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN088": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-08",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN088",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第11行 · 广西银亿新材料有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN089": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-08",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN089",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第12行 · 广东芳源环保股份有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN090": {
+      "key": "recorded",
+      "label": "有生产记录 · 2024-07",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN090",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第13行 · 广西智亮新材料股份有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN091": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-08",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN091",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第14行 · 金柯有色金属有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN092": {
+      "key": "recorded",
+      "label": "有生产记录 · 2024-04",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN092",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第15行 · 天津市茂联科技有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN093": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-08",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN093",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第16行 · 江门市长优实业有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN094": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-08",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN094",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第17行 · 吉林吉恩镍业股份有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN095": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-08",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN095",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第18行 · 眉山顺应动力电池材料有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN096": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-08",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN096",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第19行 · 赣州吉锐新能源科技有限公司（江西力道）",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN097": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-08",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN097",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第20行 · 万华化学电池产业公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN098": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-08",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN098",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第21行 · 赣州腾远钴业",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN099": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-08",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN099",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第22行 · 浙江路加新能源有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN100": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-08",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN100",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第23行 · 池州西恩新材料科技有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN101": {
+      "key": "recorded",
+      "label": "有生产记录 · 2025-10",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN101",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第24行 · 浙江新时代中能循环科技有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN102": {
+      "key": "recorded",
+      "label": "有生产记录 · 2025-05",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN102",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第25行 · 广东威马新材料股份有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN103": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-08",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN103",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第26行 · 福建常青新能源科技有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN104": {
+      "key": "recorded",
+      "label": "有生产记录 · 2023-12",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN104",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第27行 · 烟台凯实工业有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN105": {
+      "key": "recorded",
+      "label": "有生产记录 · 2025-01",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN105",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第28行 · 河南科隆新能源股份有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN106": {
+      "key": "recorded",
+      "label": "有生产记录 · 2024-04",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN106",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第29行 · 湖南金驰能源材料有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN107": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-08",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN107",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第30行 · 浙江三晟化工有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN108": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-08",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN108",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第31行 · 江西睿达环保有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN109": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-08",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN109",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第32行 · 陕西聚泰新材料科技有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN110": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-08",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN110",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第33行 · 肇庆市金晟金属实业有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN111": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-08",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN111",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第34行 · 江西省广德环保科技股份有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN112": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-08",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN112",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第35行 · 上海格派镍钴能源技术集团有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN113": {
+      "key": "recorded",
+      "label": "有生产记录 · 2024-08",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN113",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第36行 · 辽宁华信钴业科技有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN114": {
+      "key": "unknown",
+      "label": "运行状态待核",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN114",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第37行 · 湖北长宸锂能循环科技有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN115": {
+      "key": "recorded",
+      "label": "有生产记录 · 2025-07",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN115",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第38行 · 全南县瑞隆科技有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN116": {
+      "key": "recorded",
+      "label": "有生产记录 · 2022-10",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN116",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第39行 · 湖南金源新材料股份有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN117": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-01",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN117",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第40行 · 余姚市环科再生资源有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN118": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-08",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN118",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第41行 · 江西自立环保科技有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN119": {
+      "key": "recorded",
+      "label": "有生产记录 · 2024-06",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN119",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第42行 · 启东市北新无机化工有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN120": {
+      "key": "recorded",
+      "label": "有生产记录 · 2021-06",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN120",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第43行 · 桑顿新能源科技有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN121": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-08",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN121",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第44行 · 南通新玮镍钴科技发展有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN122": {
+      "key": "recorded",
+      "label": "有生产记录 · 2024-09",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN122",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第45行 · 吉林亚融科技股份有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN123": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-08",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN123",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第46行 · 浙江升阳再生资源科技股份有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN124": {
+      "key": "recorded",
+      "label": "有生产记录 · 2024-01",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN124",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第47行 · 宁波华吉新材料科技有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN125": {
+      "key": "recorded",
+      "label": "有生产记录 · 2023-01",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN125",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第48行 · 广东飞南资源利用股份有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN126": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-08",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN126",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第49行 · 浙江天能新材料有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN127": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-08",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN127",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第50行 · 广东光华科技股份有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN128": {
+      "key": "recorded",
+      "label": "有生产记录 · 2022-08",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN128",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第51行 · 阳江市绿森工贸有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN129": {
+      "key": "recorded",
+      "label": "有生产记录 · 2024-01",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN129",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第52行 · 上饶市鼎鑫金属化工有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN130": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-08",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN130",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第53行 · 赣州市豪鹏科技有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN131": {
+      "key": "recorded",
+      "label": "有生产记录 · 2022-05",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN131",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第54行 · 包头锐博新能源材料有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN132": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-08",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN132",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第55行 · 大连瑞源动力股份有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN133": {
+      "key": "recorded",
+      "label": "有生产记录 · 2024-10",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN133",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第56行 · 江西江钨钴业有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN134": {
+      "key": "recorded",
+      "label": "有生产记录 · 2022-04",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN134",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第57行 · 江西赣峰锂业",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN135": {
+      "key": "recorded",
+      "label": "有生产记录 · 2022-08",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN135",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第58行 · 贵州鹏程新材料有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN136": {
+      "key": "recorded",
+      "label": "有生产记录 · 2023-06",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN136",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第59行 · 山西正兴有色金属有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN137": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-08",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN137",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第60行 · 江西天奇金泰阁钴业有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN138": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-08",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN138",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第61行 · 蜀矿环锂科技公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN139": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-08",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN139",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第62行 · 盛屯矿业",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN140": {
+      "key": "recorded",
+      "label": "有生产记录 · 2022-12",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN140",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第63行 · 韶关中弘金属实业有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN141": {
+      "key": "unknown",
+      "label": "运行状态待核",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN141",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第64行 · 宁波容百新能源科技股份有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN142": {
+      "key": "recorded",
+      "label": "有生产记录 · 2022-08",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN142",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第65行 · 江苏领先再生资源科技有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN143": {
+      "key": "unknown",
+      "label": "运行状态待核",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN143",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第66行 · 浙江帕瓦新能源股份有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN144": {
+      "key": "unknown",
+      "label": "运行状态待核",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN144",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第67行 · 宜宾光原锂电材料有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN145": {
+      "key": "unknown",
+      "label": "运行状态待核",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN145",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第68行 · 盐城星创资源循环利用有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN146": {
+      "key": "recorded",
+      "label": "有生产记录 · 2020-04",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN146",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第69行 · 华泽钴镍材料股份有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN147": {
+      "key": "recorded",
+      "label": "有生产记录 · 2020-06",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN147",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第70行 · 余姚市鑫和电池材料有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN148": {
+      "key": "unknown",
+      "label": "运行状态待核",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN148",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第71行 · 新乡超能电源有限公司（新乡帝龙）",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN149": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-08",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN149",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第72行 · 伟明盛青能源新材料有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN150": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-08",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN150",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第73行 · 湖南金凯循环科技股份有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN151": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-08",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN151",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第74行 · 湖北睿勤新能源科技有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN152": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-08",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN152",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet1 第75行 · 贵州星茂新材料有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN153": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-08",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN153",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet2 第5行 · 金川电解",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN154": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-08",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN154",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet2 第8行 · 格林美股份有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN155": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-08",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN155",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet2 第10行 · 广西华友",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN156": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-06",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN156",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet2 第11行 · 衢州华友",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN157": {
+      "key": "recorded",
+      "label": "有生产记录 · 2015-03",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN157",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet2 第15行 · 广西华泽",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN158": {
+      "key": "recorded",
+      "label": "有生产记录 · 2015-07",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN158",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet2 第16行 · 江西华泽",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN159": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-08",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN159",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet2 第17行 · 新疆新鑫矿业",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN160": {
+      "key": "recorded",
+      "label": "有生产记录 · 2015-08",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN160",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet2 第18行 · 云锡集团元江镍业有限责任公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN161": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-04",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN161",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet2 第19行 · 浙江元力再生资源有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN162": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-08",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN162",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet2 第22行 · 浙江路加新材料有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN163": {
+      "key": "recorded",
+      "label": "有生产记录 · 2025-08",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN163",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet2 第23行 · 江苏祺生金属科技有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN164": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-08",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN164",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet2 第25行 · 中伟一期",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN165": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-08",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN165",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet2 第28行 · 浙江伟明环保股份有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN166": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-08",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN166",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet2 第29行 · 陕西聚泰新材料科技有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN167": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-08",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN167",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet2 第30行 · 南京寒锐钴业股份有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN168": {
+      "key": "unknown",
+      "label": "运行状态待核",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN168",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet2 第32行 · 上海格派镍钴材料股份有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN169": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-08",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN169",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet2 第34行 · 盛屯矿业",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
+    },
+    "CN170": {
+      "key": "recorded",
+      "label": "有生产记录 · 2026-08",
+      "period": "原表统计期间，整理于2026-09-21",
+      "note": "月度表记录生产数量，实绩与预测的分界尚未逐项确认；本标签不代表已核实今日开工状态。",
+      "reviewed_at": "2026-09-21",
+      "article_id": "CN170",
+      "sources": [
+        {
+          "title": "中国纯镍硫酸镍项目.xlsx · Sheet2 第35行 · 广东飞南资源利用股份有限公司",
+          "url": "library/china-register.csv"
+        }
+      ],
+      "products": []
     }
   }
 }
