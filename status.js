@@ -1,4 +1,4 @@
-const OP_LABELS={operating:'已投产',unbuilt:'未投产',halted:'停产',partial:'部分停产／检修',trial:'试产／调试',unknown:'待确认',trader:'贸易／下游主体'};
+const OP_LABELS={operating:'已投产',historical:'历史已投产',converted:'已转产',unbuilt:'未投产',halted:'停产',partial:'部分停产／检修',trial:'试产／调试',unknown:'待确认',trader:'贸易／下游主体'};
 const opGet=id=>window.PROJECT_STATUS?.projects[id];
 function opBadge(id){let s=opGet(id);return s?`<span class="op-badge op-${s.key}" title="${E(s.period+'；'+s.note)}">${E(s.label)}</span>`:''}
 function opCell(id){let s=opGet(id);return s?`${opBadge(id)}<span class="sub op-period">${E(s.period)}</span><p class="op-note">${E(s.note)}</p>`:''}

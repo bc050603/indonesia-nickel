@@ -8682,6 +8682,24 @@
           "source_url": "https://stock.finance.sina.com.cn/thirdmarket/view/OTC_gsjs.php?symbol=870211",
           "source_title": "中金金属公司沿革资料",
           "project_id": "CN066"
+        },
+        {
+          "date": "2023-11-13",
+          "label": "1号高炉停炉大修",
+          "detail": "因冷却壁等设备问题停炉检修。",
+          "kind": "运行变化",
+          "source_url": "https://finance.sina.com.cn/roll/2026-09-18/doc-inisftxe8473768.shtml",
+          "project_id": "CN066",
+          "source_title": "柳钢中金技术人员：1号高炉开炉快速达产实践，中国炼铁网转刊"
+        },
+        {
+          "date": "2024-01-25",
+          "label": "1号高炉点火复产",
+          "detail": "采用普铁配料开炉，随后恢复生产水平。",
+          "kind": "运行变化",
+          "source_url": "https://finance.sina.com.cn/roll/2026-09-18/doc-inisftxe8473768.shtml",
+          "project_id": "CN066",
+          "source_title": "柳钢中金技术人员：1号高炉开炉快速达产实践，中国炼铁网转刊"
         }
       ],
       "coverage_note": ""
@@ -9751,7 +9769,17 @@
     },
     "CN143": {
       "project_id": "CN143",
-      "events": [],
+      "events": [
+        {
+          "date": "2025-12-31",
+          "label": "部分前驱体装置停产",
+          "detail": "年报问询回复记录原自建项目信息，募投项目另有生产。",
+          "kind": "运行变化",
+          "source_url": "https://paper.cnstock.com/html/2026-07/10/content_2242340.htm",
+          "project_id": "CN143",
+          "source_title": "帕瓦股份：2025年报问询回复，2026年7月10日"
+        }
+      ],
       "coverage_note": ""
     },
     "CN144": {
@@ -9766,7 +9794,17 @@
     },
     "CN146": {
       "project_id": "CN146",
-      "events": [],
+      "events": [
+        {
+          "date": "2016",
+          "label": "旧厂停产拆迁及硫酸镍线停产",
+          "detail": "持续督导报告分别记录陕西华泽和平安鑫海装置状况。",
+          "kind": "运行变化",
+          "source_url": "https://static.cninfo.com.cn/finalpage/2017-05-13/1203514783.PDF",
+          "project_id": "CN146",
+          "source_title": "国信证券：华泽钴镍2016年度持续督导工作报告"
+        }
+      ],
       "coverage_note": ""
     },
     "CN147": {
@@ -9996,6 +10034,33 @@
           "source_url": "https://www.yjx.gov.cn/yjxzfxxgk/yjxgysmhkjxxjyxfx/20110427/525264.html",
           "source_title": "元江县政府：2011年经济运行材料",
           "project_id": "CN160"
+        },
+        {
+          "date": "2015",
+          "label": "甘庄精炼厂停产",
+          "detail": "2024年政府调查报告追述甘庄精炼厂于2015年停产。",
+          "kind": "运行变化",
+          "source_url": "https://www.yjx.gov.cn/yjxzfxxgk/xzzf10498/20240601/1662342.html",
+          "project_id": "CN160",
+          "source_title": "元江县政府：甘庄精炼厂事故调查报告，2024年"
+        },
+        {
+          "date": "2023-04",
+          "label": "湿法冶炼厂停产",
+          "detail": "湿法厂在2022年及2023年初阶段性生产后，于2023年4月停产。",
+          "kind": "运行变化",
+          "source_url": "https://www.yjx.gov.cn/yjxzfxxgk/xzzf10498/20240601/1662342.html",
+          "project_id": "CN160",
+          "source_title": "元江县政府：甘庄精炼厂事故调查报告，2024年"
+        },
+        {
+          "date": "2025-03-13",
+          "label": "官方名单再次确认长期停产",
+          "detail": "玉溪市生态环境局以长期停产为由，将元江镍业移出环境信息依法披露企业名单。",
+          "kind": "运行变化",
+          "source_url": "https://www.yuxi.gov.cn/yxszfxxgk/qyhjxxpl/20250313/1591051.html",
+          "project_id": "CN160",
+          "source_title": "玉溪市生态环境局：长期停产企业名单，2025年3月13日"
         }
       ],
       "coverage_note": ""
@@ -10165,7 +10230,17 @@
     },
     "CN169": {
       "project_id": "CN169",
-      "events": [],
+      "events": [
+        {
+          "date": "2026H1",
+          "label": "贵州二期进入试生产",
+          "detail": "2026年半年报记载一期持续稳定生产，二期已进入试生产。",
+          "kind": "运行变化",
+          "source_url": "https://static.cninfo.com.cn/finalpage/2026-07-30/1225446751.PDF",
+          "project_id": "CN169",
+          "source_title": "盛屯矿业2026年半年度报告"
+        }
+      ],
       "coverage_note": ""
     },
     "CN170": {
@@ -17689,6 +17764,78 @@
       "source_url": "https://nsearchives.nseindia.com/corporate/JSL_08082025214114_JSLAR08Aug2025.pdf",
       "source_title": "Jindal Stainless 2024／25财年年度报告",
       "project_id": "NPI011"
+    },
+    {
+      "date": "2023-11-13",
+      "label": "1号高炉停炉大修",
+      "detail": "因冷却壁等设备问题停炉检修。",
+      "kind": "运行变化",
+      "source_url": "https://finance.sina.com.cn/roll/2026-09-18/doc-inisftxe8473768.shtml",
+      "project_id": "CN066",
+      "source_title": "柳钢中金技术人员：1号高炉开炉快速达产实践，中国炼铁网转刊"
+    },
+    {
+      "date": "2024-01-25",
+      "label": "1号高炉点火复产",
+      "detail": "采用普铁配料开炉，随后恢复生产水平。",
+      "kind": "运行变化",
+      "source_url": "https://finance.sina.com.cn/roll/2026-09-18/doc-inisftxe8473768.shtml",
+      "project_id": "CN066",
+      "source_title": "柳钢中金技术人员：1号高炉开炉快速达产实践，中国炼铁网转刊"
+    },
+    {
+      "date": "2025-12-31",
+      "label": "部分前驱体装置停产",
+      "detail": "年报问询回复记录原自建项目信息，募投项目另有生产。",
+      "kind": "运行变化",
+      "source_url": "https://paper.cnstock.com/html/2026-07/10/content_2242340.htm",
+      "project_id": "CN143",
+      "source_title": "帕瓦股份：2025年报问询回复，2026年7月10日"
+    },
+    {
+      "date": "2016",
+      "label": "旧厂停产拆迁及硫酸镍线停产",
+      "detail": "持续督导报告分别记录陕西华泽和平安鑫海装置状况。",
+      "kind": "运行变化",
+      "source_url": "https://static.cninfo.com.cn/finalpage/2017-05-13/1203514783.PDF",
+      "project_id": "CN146",
+      "source_title": "国信证券：华泽钴镍2016年度持续督导工作报告"
+    },
+    {
+      "date": "2015",
+      "label": "甘庄精炼厂停产",
+      "detail": "2024年政府调查报告追述甘庄精炼厂于2015年停产。",
+      "kind": "运行变化",
+      "source_url": "https://www.yjx.gov.cn/yjxzfxxgk/xzzf10498/20240601/1662342.html",
+      "project_id": "CN160",
+      "source_title": "元江县政府：甘庄精炼厂事故调查报告，2024年"
+    },
+    {
+      "date": "2023-04",
+      "label": "湿法冶炼厂停产",
+      "detail": "湿法厂在2022年及2023年初阶段性生产后，于2023年4月停产。",
+      "kind": "运行变化",
+      "source_url": "https://www.yjx.gov.cn/yjxzfxxgk/xzzf10498/20240601/1662342.html",
+      "project_id": "CN160",
+      "source_title": "元江县政府：甘庄精炼厂事故调查报告，2024年"
+    },
+    {
+      "date": "2025-03-13",
+      "label": "官方名单再次确认长期停产",
+      "detail": "玉溪市生态环境局以长期停产为由，将元江镍业移出环境信息依法披露企业名单。",
+      "kind": "运行变化",
+      "source_url": "https://www.yuxi.gov.cn/yxszfxxgk/qyhjxxpl/20250313/1591051.html",
+      "project_id": "CN160",
+      "source_title": "玉溪市生态环境局：长期停产企业名单，2025年3月13日"
+    },
+    {
+      "date": "2026H1",
+      "label": "贵州二期进入试生产",
+      "detail": "2026年半年报记载一期持续稳定生产，二期已进入试生产。",
+      "kind": "运行变化",
+      "source_url": "https://static.cninfo.com.cn/finalpage/2026-07-30/1225446751.PDF",
+      "project_id": "CN169",
+      "source_title": "盛屯矿业2026年半年度报告"
     }
   ],
   "note": "事件采用原始资料的年月日精度，试产、首产、商业生产及全线达产分别记录；规划日期保留规划标签。资料披露与用户样本发货不充当投产日期。"

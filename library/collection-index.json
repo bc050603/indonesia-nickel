@@ -17118,6 +17118,10 @@
         {
           "type": "group",
           "id": "hanrui"
+        },
+        {
+          "type": "project",
+          "id": "CN167"
         }
       ],
       "id": "UC0280"
@@ -21405,6 +21409,10 @@
         {
           "type": "group",
           "id": "strive"
+        },
+        {
+          "type": "project",
+          "id": "CN155"
         }
       ],
       "id": "UC0429"
@@ -25727,6 +25735,10 @@
         {
           "type": "project",
           "id": "P30"
+        },
+        {
+          "type": "project",
+          "id": "CN169"
         }
       ]
     },
@@ -45771,6 +45783,10 @@
         {
           "type": "project",
           "id": "CN006"
+        },
+        {
+          "type": "project",
+          "id": "CN007"
         }
       ]
     },
@@ -48545,6 +48561,10 @@
         {
           "type": "project",
           "id": "CN091"
+        },
+        {
+          "type": "project",
+          "id": "CN083"
         }
       ]
     },
@@ -52940,6 +52960,450 @@
         {
           "type": "group",
           "id": "beibu-gulf"
+        }
+      ]
+    },
+    {
+      "id": "UC1859",
+      "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=D61E105E21C817100D9854219CAA082F",
+      "title": "江苏德龙等30家公司重整招募",
+      "titles": [
+        "江苏德龙等30家公司重整招募"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN005"
+        }
+      ]
+    },
+    {
+      "id": "UC1860",
+      "url": "https://fr.scribd.com/document/510797525/%E4%B8%AD%E5%9B%BD%E5%92%8C%E5%B0%BC%E9%93%81%E5%B8%82%E5%9C%BA%E5%88%86%E6%9E%90%E5%91%8A-nickel-wenquan-2019",
+      "title": "2019镍铁企业统计",
+      "titles": [
+        "2019镍铁企业统计"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN015"
+        },
+        {
+          "type": "project",
+          "id": "CN019"
+        }
+      ]
+    },
+    {
+      "id": "UC1861",
+      "url": "https://fr.scribd.com/document/510797525/%E4%B8%AD%E5%9B%BD%E5%92%8C%E9%95%8D%E9%93%81%E5%B8%82%E5%9C%BA%E5%88%86%E6%9E%90%E5%91%8A-nickel-wenquan-2019",
+      "title": "2019镍铁企业统计",
+      "titles": [
+        "2019镍铁企业统计"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN016"
+        },
+        {
+          "type": "project",
+          "id": "CN025"
+        },
+        {
+          "type": "project",
+          "id": "CN040"
+        }
+      ]
+    },
+    {
+      "id": "UC1862",
+      "url": "https://std.samr.gov.cn/hb/search/stdHBDetailed?id=2E519EB323175861E06397BE0A0A75A0",
+      "title": "全国标准信息平台：镍铁渣机制砂",
+      "titles": [
+        "全国标准信息平台：镍铁渣机制砂"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN063"
+        }
+      ]
+    },
+    {
+      "id": "UC1863",
+      "url": "https://www.yangjiang.gov.cn/yj/ywdt/ztzl/zysthjbh/dcdt/content/post_957241.html",
+      "title": "阳江市政府督导世纪青山",
+      "titles": [
+        "阳江市政府督导世纪青山"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN064"
+        }
+      ]
+    },
+    {
+      "id": "UC1864",
+      "url": "https://finance.sina.com.cn/roll/2026-09-18/doc-inisftxe8473768.shtml",
+      "title": "柳钢中金技术人员：1号高炉开炉快速达产实践，中国炼铁网转刊",
+      "titles": [
+        "柳钢中金技术人员：1号高炉开炉快速达产实践，中国炼铁网转刊"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN066"
+        }
+      ]
+    },
+    {
+      "id": "UC1865",
+      "url": "https://www.mem.gov.cn/xw/gdyj/202601/t20260109_591336.shtml",
+      "title": "应急管理部北港新材料案例",
+      "titles": [
+        "应急管理部北港新材料案例"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN069"
+        }
+      ]
+    },
+    {
+      "id": "UC1866",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-04-29/1225249532.PDF",
+      "title": "合纵科技2025年审计报告：天津茂联停工停产",
+      "titles": [
+        "合纵科技2025年审计报告：天津茂联停工停产"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN092"
+        }
+      ]
+    },
+    {
+      "id": "UC1867",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-04-09/1225084669.PDF",
+      "title": "迪生力2025年年度报告",
+      "titles": [
+        "迪生力2025年年度报告"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN102"
+        }
+      ]
+    },
+    {
+      "id": "UC1868",
+      "url": "https://www.evgne.com/news/companynews/681",
+      "title": "福建常青新能源：巴斯夫参观生产线",
+      "titles": [
+        "福建常青新能源：巴斯夫参观生产线"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN103"
+        }
+      ]
+    },
+    {
+      "id": "UC1869",
+      "url": "https://greatpowercn.com/index.php?id=425",
+      "title": "格派2025年新年致辞",
+      "titles": [
+        "格派2025年新年致辞"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN112"
+        }
+      ]
+    },
+    {
+      "id": "UC1870",
+      "url": "https://paper.cnstock.com/html/2026-07/10/content_2242340.htm",
+      "title": "帕瓦股份：2025年报问询回复，2026年7月10日",
+      "titles": [
+        "帕瓦股份：2025年报问询回复，2026年7月10日"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN143"
+        }
+      ]
+    },
+    {
+      "id": "UC1871",
+      "url": "https://static.cninfo.com.cn/finalpage/2017-05-13/1203514783.PDF",
+      "title": "国信证券：华泽钴镍2016年度持续督导工作报告",
+      "titles": [
+        "国信证券：华泽钴镍2016年度持续督导工作报告"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN146"
+        }
+      ]
+    },
+    {
+      "id": "UC1872",
+      "url": "https://www.jnmc.com/index.php/index/detail/index?id=3934",
+      "title": "金川：镍冶炼厂各车间生产与技术改进，2025年5月23日",
+      "titles": [
+        "金川：镍冶炼厂各车间生产与技术改进，2025年5月23日"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN153"
+        }
+      ]
+    },
+    {
+      "id": "UC1873",
+      "url": "https://gansu.gscn.com.cn/system/2026/07/28/013532821.shtml",
+      "title": "中国甘肃网：金川电解镍成品车间现场报道，2026年7月",
+      "titles": [
+        "中国甘肃网：金川电解镍成品车间现场报道，2026年7月"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN153"
+        }
+      ]
+    },
+    {
+      "id": "UC1874",
+      "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0422/2026042202197_c.pdf",
+      "title": "新疆新鑫2025年年度报告",
+      "titles": [
+        "新疆新鑫2025年年度报告"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN159"
+        }
+      ]
+    },
+    {
+      "id": "UC1875",
+      "url": "https://finance.sina.com.cn/stock/relnews/hk/2026-01-12/doc-inhfziuy0112600.shtml",
+      "title": "中国有色金属报：阜康2025年生产情况，2026年1月12日",
+      "titles": [
+        "中国有色金属报：阜康2025年生产情况，2026年1月12日"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN159"
+        }
+      ]
+    },
+    {
+      "id": "UC1876",
+      "url": "https://www.yjx.gov.cn/yjxzfxxgk/xzzf10498/20240601/1662342.html",
+      "title": "元江县政府：甘庄精炼厂事故调查报告，2024年",
+      "titles": [
+        "元江县政府：甘庄精炼厂事故调查报告，2024年"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN160"
+        }
+      ]
+    },
+    {
+      "id": "UC1877",
+      "url": "https://www.yuxi.gov.cn/yxszfxxgk/qyhjxxpl/20250313/1591051.html",
+      "title": "玉溪市生态环境局：长期停产企业名单，2025年3月13日",
+      "titles": [
+        "玉溪市生态环境局：长期停产企业名单，2025年3月13日"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN160"
+        }
+      ]
+    },
+    {
+      "id": "UC1878",
+      "url": "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web1756/site/attach/-1/2406081827036163678.pdf",
+      "title": "浙江生态环境督察公开办理表，第23批，2024年6月",
+      "titles": [
+        "浙江生态环境督察公开办理表，第23批，2024年6月"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN161"
+        }
+      ]
+    },
+    {
+      "id": "UC1879",
+      "url": "https://m.mysteel.com/23/0704/16/A7A2BA1B8E567FA4_abc.html",
+      "title": "Mysteel：2023年上半年镍行业节点（元力首次出板）",
+      "titles": [
+        "Mysteel：2023年上半年镍行业节点（元力首次出板）"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN161"
+        }
+      ]
+    },
+    {
+      "id": "UC1880",
+      "url": "https://www.zhaopin.com/companydetail/CZL1462069700.htm",
+      "title": "浙江聚泰：企业发布的公司介绍",
+      "titles": [
+        "浙江聚泰：企业发布的公司介绍"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN166"
+        }
+      ]
+    },
+    {
+      "id": "UC1881",
+      "url": "https://epaper.wifizs.cn/zsrb/2026-05/24/content_99293473.html",
+      "title": "舟山日报：聚泰二期示范线建设，2026年5月24日",
+      "titles": [
+        "舟山日报：聚泰二期示范线建设，2026年5月24日"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN166"
+        }
+      ]
+    },
+    {
+      "id": "UC1882",
+      "url": "https://news.smm.cn/live/detail/103784451",
+      "title": "SMM：舟山镍板线调试及投产计划，2026年",
+      "titles": [
+        "SMM：舟山镍板线调试及投产计划，2026年"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN166"
+        }
+      ]
+    },
+    {
+      "id": "UC1883",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-05-13/1225303576.PDF",
+      "title": "寒锐钴业：2026年5月13日投资者关系活动记录",
+      "titles": [
+        "寒锐钴业：2026年5月13日投资者关系活动记录"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN167"
+        }
+      ]
+    },
+    {
+      "id": "UC1884",
+      "url": "https://static.cninfo.com.cn/finalpage/2025-04-18/1223123636.PDF",
+      "title": "寒锐钴业2024年年度报告",
+      "titles": [
+        "寒锐钴业2024年年度报告"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN167"
+        }
+      ]
+    },
+    {
+      "id": "UC1885",
+      "url": "https://www.10100.com/article/123005282",
+      "title": "格派镍钴企业稿：广西项目建设收尾，2026年1月26日（转载）",
+      "titles": [
+        "格派镍钴企业稿：广西项目建设收尾，2026年1月26日（转载）"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN168"
         }
       ]
     }

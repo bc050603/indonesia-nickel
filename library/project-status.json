@@ -1,6 +1,6 @@
 {
-  "reviewed_at": "2026-09-18",
-  "definition": "已投产表示已进入生产，并不等于当前满负荷；停产、检修和历史状态均按各条所列资料时点阅读。",
+  "reviewed_at": "2026-09-21",
+  "definition": "运行状态以各条注明的资料时期为准。已投产不等于当前满负荷；历史已投产表示有旧生产记录但缺少近期运行披露；转产、停产和集团总览分别列示。",
   "projects": {
     "NPI004": {
       "key": "operating",
@@ -4210,1489 +4210,3049 @@
     },
     "CN001": {
       "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "label": "状态待核",
+      "period": "2025-12",
+      "note": "法院已受理破产申请；破产程序本身不能证明已停产或已关闭，未见同期生产证据。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN001",
-      "sources": [],
+      "sources": [
+        {
+          "title": "扬州一川破产公告",
+          "url": "https://pccz.court.gov.cn/pcgg/ggxq?id=11FDF6F842853C9917CD06BA455D4D77"
+        }
+      ],
       "products": []
     },
     "CN002": {
       "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "label": "状态待核（交易对手记录）",
+      "period": "2015资料",
+      "note": "招股书只证明其曾参与产业链交易，不能推定其仅为贸易主体，也不能确认有冶炼装置。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN002",
-      "sources": [],
+      "sources": [
+        {
+          "title": "永兴特钢招股书",
+          "url": "https://pdf.dfcfw.com/pdf/H2_AN201503110008730325_1.pdf"
+        }
+      ],
       "products": []
     },
     "CN003": {
       "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "label": "预重整中，状态待核",
+      "period": "2026",
+      "note": "法院公开预重整/招募信息；不能据此推定停产，亦未找到当前运行证明。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN003",
-      "sources": [],
+      "sources": [
+        {
+          "title": "法院预重整信息",
+          "url": "https://pccz.court.gov.cn/pcajxxw/pczwr/zwrdh?id=F7AA0C6F4068B69917A008BB01E646D7"
+        }
+      ],
       "products": []
     },
     "CN004": {
       "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "label": "状态待核（原料出售信息）",
+      "period": "历史资料",
+      "note": "精炼镍精矿出售只能证明一次原料交易，不能推定其仅为贸易主体或具有镍铁熔炼能力。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN004",
-      "sources": [],
+      "sources": [
+        {
+          "title": "铁合金贸易信息",
+          "url": "https://www.ferro-alloys.com/News/Details/251958"
+        }
+      ],
       "products": []
     },
     "CN005": {
       "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "label": "重整中，状态待核",
+      "period": "2024-2026",
+      "note": "法院重整及招募投资人只能证明程序仍在进行，不能推定停产；亦未找到可直接证明恢复生产的材料。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN005",
-      "sources": [],
+      "sources": [
+        {
+          "title": "江苏德龙等30家公司重整招募",
+          "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=D61E105E21C817100D9854219CAA082F"
+        }
+      ],
       "products": []
     },
     "CN006": {
       "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "label": "状态待核（2019历史统计）",
+      "period": "2019",
+      "note": "仅有行业历史统计，未找到近期环评、排污许可或生产资料。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN006",
-      "sources": [],
+      "sources": [
+        {
+          "title": "2019镍铁企业统计",
+          "url": "https://fr.scribd.com/document/510797525/%E4%B8%AD%E5%9B%BD%E5%92%8C%E5%8D%B0%E5%B0%BC%E9%95%8D%E9%93%81%E5%B8%82%E5%9C%BA%E5%88%86%E6%9E%90%E5%91%8A-nickel-wenquan-2019"
+        }
+      ],
       "products": []
     },
     "CN007": {
       "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "label": "状态待核（2019历史统计）",
+      "period": "2019",
+      "note": "仅有历史EF统计，不能据此确认现行生产。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN007",
-      "sources": [],
+      "sources": [
+        {
+          "title": "2019镍铁企业统计",
+          "url": "https://fr.scribd.com/document/510797525/%E4%B8%AD%E5%9B%BD%E5%92%8C%E5%8D%B0%E5%B0%BC%E9%95%8D%E9%93%81%E5%B8%82%E5%9C%BA%E5%88%86%E6%9E%90%E5%91%8A-nickel-wenquan-2019"
+        }
+      ],
       "products": []
     },
     "CN008": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "halted",
+      "label": "已停产（2017资料）",
+      "period": "2014-2022",
+      "note": "重整材料明确记载2014年及2017年两度停产；2022年仅通过重整计划草案，未见复产证据。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN008",
-      "sources": [],
+      "sources": [
+        {
+          "title": "江苏宝通重整公告",
+          "url": "https://www.gdssmpa.com/web/diyizixun/xingyedongtai/2022-11-03/24744.html"
+        }
+      ],
       "products": []
     },
     "CN009": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "closed",
+      "label": "已退出炼铁（产能置换）",
+      "period": "2019资料",
+      "note": "资料证明450m³高炉炼铁产能作为退出方置换；这是普通炼铁而非镍铁在产证据。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN009",
-      "sources": [],
+      "sources": [
+        {
+          "title": "江苏钢铁产能置换报道",
+          "url": "https://www.sohu.com/a/315499162_313737"
+        }
+      ],
       "products": []
     },
     "CN010": {
       "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "label": "状态待核（2019试产）",
+      "period": "2019",
+      "note": "一台炉点火试产、另一台检修均为2019年资料，未发现较新运行资料。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN010",
-      "sources": [],
+      "sources": [
+        {
+          "title": "建信期货新增产能表",
+          "url": "https://www.ccbfutures.com/upload/20200103/20200103154252515.pdf"
+        }
+      ],
       "products": []
     },
     "CN011": {
       "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "label": "状态待核",
+      "period": "2019资料",
+      "note": "安全评价可证明历史冶炼车间，铸造扩建不等于镍铁线当前运行。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN011",
-      "sources": [],
+      "sources": [
+        {
+          "title": "镍铁冶炼车间安全评价",
+          "url": "https://www.neusafety.com/sys-nd/1438.html"
+        }
+      ],
       "products": []
     },
     "CN012": {
       "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "label": "状态待核",
+      "period": "2020资料",
+      "note": "重污染天气名单只证明企业被纳入管理，未载产品、炉型或开工状态。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN012",
-      "sources": [],
+      "sources": [
+        {
+          "title": "营口应急企业名单",
+          "url": "https://m.mysteel.com/20/1224/09/C5DAFC4EB8064058_abc.html"
+        }
+      ],
       "products": []
     },
     "CN013": {
       "key": "unknown",
       "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "period": "2011",
+      "note": "奠基报道披露的是规划指标；未找到验收、排污许可或生产证明。 现有资料只描述当年的规划或建设，尚不能确定之后是否建成、取消或转作其他用途。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN013",
-      "sources": [],
+      "sources": [
+        {
+          "title": "光大冶金项目奠基",
+          "url": "https://www.xhcs.com/news/detail/id/2000"
+        }
+      ],
       "products": []
     },
     "CN014": {
       "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "label": "状态待核（名称待核）",
+      "period": "2019",
+      "note": "历史表写作“宝珀”，与索引“宝铂”未完成法人、地址或信用代码核验，不能串厂。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN014",
-      "sources": [],
+      "sources": [
+        {
+          "title": "2019镍铁企业统计",
+          "url": "https://fr.scribd.com/document/510797525/%E4%B8%AD%E5%9B%BD%E5%92%8C%E9%9C%85%E9%93%81%E5%B8%82%E5%9C%BA%E5%88%86%E6%9E%90%E5%91%8A-nickel-wenquan-2019"
+        }
+      ],
       "products": []
     },
     "CN015": {
       "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "label": "状态待核（双法人）",
+      "period": "2019",
+      "note": "仅朝阳昊天见历史EF表，未证明与朝阳利鑫为同一厂或共同运行。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN015",
-      "sources": [],
+      "sources": [
+        {
+          "title": "2019镍铁企业统计",
+          "url": "https://fr.scribd.com/document/510797525/%E4%B8%AD%E5%9B%BD%E5%92%8C%E5%B0%BC%E9%93%81%E5%B8%82%E5%9C%BA%E5%88%86%E6%9E%90%E5%91%8A-nickel-wenquan-2019"
+        }
+      ],
       "products": []
     },
     "CN016": {
       "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "label": "状态待核（2019历史统计）",
+      "period": "2019",
+      "note": "耐火材料企业名与历史EF统计不足以确认现况。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN016",
-      "sources": [],
+      "sources": [
+        {
+          "title": "2019镍铁企业统计",
+          "url": "https://fr.scribd.com/document/510797525/%E4%B8%AD%E5%9B%BD%E5%92%8C%E9%95%8D%E9%93%81%E5%B8%82%E5%9C%BA%E5%88%86%E6%9E%90%E5%91%8A-nickel-wenquan-2019"
+        }
+      ],
       "products": []
     },
     "CN017": {
       "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "label": "状态待核",
+      "period": "2012-2014资料",
+      "note": "仅见气体设备交易往来，且主体为铸造企业，无法推出镍铁生产。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN017",
-      "sources": [],
+      "sources": [
+        {
+          "title": "利源捷能公开转让书",
+          "url": "https://spdf.askci.com/831736-%E8%82%A1%E8%BD%AC%E4%B9%A6.pdf"
+        }
+      ],
       "products": []
     },
     "CN018": {
       "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "label": "状态待核",
+      "period": "2021记录",
+      "note": "地方大事记仅记录企业名称，未提供产品或运行状态。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN018",
-      "sources": [],
+      "sources": [
+        {
+          "title": "辽宁地方大事记",
+          "url": "https://xiaokang.lnrbxmt.com/xiaokangshehui/2021-07-01/60208.html"
+        }
+      ],
       "products": []
     },
     "CN019": {
       "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "label": "状态待核（名称待核）",
+      "period": "2019",
+      "note": "“旭晨/旭辰”一字差异尚未核验法人，历史统计不能作现况结论。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN019",
-      "sources": [],
+      "sources": [
+        {
+          "title": "2019镍铁企业统计",
+          "url": "https://fr.scribd.com/document/510797525/%E4%B8%AD%E5%9B%BD%E5%92%8C%E5%B0%BC%E9%93%81%E5%B8%82%E5%9C%BA%E5%88%86%E6%9E%90%E5%91%8A-nickel-wenquan-2019"
+        }
+      ],
       "products": []
     },
     "CN020": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "converted",
+      "label": "已转产（2026报道）",
+      "period": "2026",
+      "note": "地方报道明确公司由铁合金转向电熔镁；不能把现有镁产品算作镍铁在产。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN020",
-      "sources": [],
+      "sources": [
+        {
+          "title": "国润转型报道",
+          "url": "https://www.ykd.com.cn/pad/con/202605/07/content_71182.html"
+        }
+      ],
       "products": []
     },
     "CN021": {
       "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "label": "状态待核（不可串厂）",
+      "period": "2019",
+      "note": "化德“鑫泽镍业”与锦州鑫泽锰业/义县应盛地域及法人不同，不能合并判断。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN021",
-      "sources": [],
+      "sources": [
+        {
+          "title": "2019镍铁企业统计",
+          "url": "https://fr.scribd.com/document/510797525/%E4%B8%AD%E5%9B%BD%E5%92%8C%E9%87%91%E5%B1%9E%E5%B8%82%E5%9C%BA%E5%88%86%E6%9E%90%E5%91%8A-nickel-wenquan-2019"
+        }
+      ],
       "products": []
     },
     "CN022": {
       "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "label": "状态待核（非镍铁证据）",
+      "period": "2021",
+      "note": "司法和节能材料证明铁合金历史活动/改造范围，未证明镍铁或当前开工。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN022",
-      "sources": [],
+      "sources": [
+        {
+          "title": "辽宁节能整改文件",
+          "url": "https://sthj.ln.gov.cn/sthj/ztzl/zysthbdczln/dcdt/9DCCC76674C3437B85B6BBCC9C3102AB/P020211223369874683772.pdf"
+        }
+      ],
       "products": []
     },
     "CN023": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "historical",
+      "label": "历史已投产",
+      "period": "2014-2017",
+      "note": "上交所披露的2017年债券募集说明书明确记载发行人为镍铁合金生产企业，并披露2014—2016年产量、销量及2017年一季度经营情况；该证据支持历史实产，不用于判断当前开工。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN023",
-      "sources": [],
+      "sources": [
+        {
+          "title": "山东鑫海科技股份有限公司2017年公司债券募集说明书",
+          "url": "https://static.sse.com.cn/disclosure/bond/announcement/company/c/3015704808844445.pdf"
+        }
+      ],
       "products": []
     },
     "CN024": {
       "key": "unknown",
       "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "period": "2018",
+      "note": "仅见RKEF规划及园区信息，未见验收或投产材料。 现有资料只描述当年的规划或建设，尚不能确定之后是否建成、取消或转作其他用途。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN024",
-      "sources": [],
+      "sources": [
+        {
+          "title": "华泰期货行业资料",
+          "url": "https://www.htfc.com/wz_upload/png_upload/20181203/1543791036551733e7e.pdf"
+        }
+      ],
       "products": []
     },
     "CN025": {
       "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "label": "状态待核（2019历史统计）",
+      "period": "2019",
+      "note": "仅有历史EF表，无近期运行证据。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN025",
-      "sources": [],
+      "sources": [
+        {
+          "title": "2019镍铁企业统计",
+          "url": "https://fr.scribd.com/document/510797525/%E4%B8%AD%E5%9B%BD%E5%92%8C%E9%95%8D%E9%93%81%E5%B8%82%E5%9C%BA%E5%88%86%E6%9E%90%E5%91%8A-nickel-wenquan-2019"
+        }
+      ],
       "products": []
     },
     "CN026": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "operating",
+      "label": "已投产（2026报道）",
+      "period": "2026",
+      "note": "近期报道显示其短流程铸铁/球墨铸管业务；并非镍铁项目。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN026",
-      "sources": [],
+      "sources": [
+        {
+          "title": "日照日报企业报道",
+          "url": "https://rbrk.rznews.cn/paper/s1/t1/rzrb/20260324/A01/t1_page.html?pagetonum=A01"
+        }
+      ],
       "products": []
     },
     "CN027": {
       "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "label": "状态待核（历史生产）",
+      "period": "历史资料",
+      "note": "曾有炉数、供太钢和副产渣利用资料，但未找到近年运行证明。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN027",
-      "sources": [],
+      "sources": [
+        {
+          "title": "亚洲金属专访",
+          "url": "https://www.asianmetal.com/metal_cron/index_lunshi_songrongwei.shtml"
+        }
+      ],
       "products": []
     },
     "CN028": {
       "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "label": "状态待核",
+      "period": "2026",
+      "note": "曲沃产业环境不能代替三鑫铸造自身的镍铁设备或生产证明。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN028",
-      "sources": [],
+      "sources": [
+        {
+          "title": "山西招商项目资料",
+          "url": "https://sxszfzgzb.shanxi.gov.cn/zshz/zsxm/2026zsyzzdxm/202603/t20260317_10081986.shtml"
+        }
+      ],
       "products": []
     },
     "CN029": {
       "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "label": "状态待核（铸造生铁历史）",
+      "period": "历史资料",
+      "note": "公开年鉴为铸造生铁，不应转写为镍铁在产。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN029",
-      "sources": [],
+      "sources": [
+        {
+          "title": "山东铸造协会资料",
+          "url": "https://www.foundry-sd.com/xiehuigongzuodetail/2774791.html"
+        }
+      ],
       "products": []
     },
     "CN030": {
       "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "label": "状态待核（同名风险）",
+      "period": "历史资料",
+      "note": "仅见同名企业目录，缺乏统一信用代码、厂址和镍铁活动对应。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN030",
-      "sources": [],
+      "sources": [
+        {
+          "title": "企业目录",
+          "url": "https://liaocheng.11467.com/guanxian/s3365/"
+        }
+      ],
       "products": []
     },
     "CN031": {
       "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "label": "状态待核（历史产能）",
+      "period": "历史资料",
+      "note": "烨联披露30万吨镍合金属企业介绍，未获近期环保或生产状态证据。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN031",
-      "sources": [],
+      "sources": [
+        {
+          "title": "烨联投资企业页面",
+          "url": "https://www.yusco.com.tw/yu_web_m/InvestCompany.aspx?Page=Company3"
+        }
+      ],
       "products": []
     },
     "CN032": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "historical",
+      "label": "历史已投产",
+      "period": "2009-2013",
+      "note": "产业链报道记载一期镍铁项目及后续镍铁合金、热装精炼安排，支持鼎信历史镍合金生产；环境重点排放名录不作为生产证据，未据此断言当前炉况。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN032",
-      "sources": [],
+      "sources": [
+        {
+          "title": "鼎信项目投资与产业链报道",
+          "url": "https://www.cnmn.com.cn/ShowNews1.aspx?id=29142"
+        },
+        {
+          "title": "鼎信二期镍铁及深加工技改环评公示",
+          "url": "https://passport.cqlw.com/site/newsDetailsPrice.action?c1=9&c2=&id=498181c790b3e0eb0190b5d64ddf001a&s=&tag="
+        }
+      ],
       "products": []
     },
     "CN033": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "operating",
+      "label": "已投产（2025资料）",
+      "period": "企业产品介绍（未注明资料年份）",
+      "note": "宝钢体系不锈钢基地持续披露；现行产品应按不锈钢全流程理解。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN033",
-      "sources": [],
+      "sources": [
+        {
+          "title": "宝钢德盛产品页面",
+          "url": "https://esales.baosteel.com/baosteel_bsi/sso/cp_bxg01.jsp?showview=1"
+        }
+      ],
       "products": []
     },
     "CN034": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "converted",
+      "label": "已转产（2019资料）",
+      "period": "2019-2023",
+      "note": "公开资料明确33000kVA镍铁炉改产硅锰，后续能效表亦列硅锰企业。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN034",
-      "sources": [],
+      "sources": [
+        {
+          "title": "五洲钢业转产报道",
+          "url": "https://www.ferro-alloys.com/News/Details/275040"
+        }
+      ],
       "products": []
     },
     "CN035": {
       "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "label": "状态待核（名称对应待核）",
+      "period": "2007-2019",
+      "note": "国家准入为冶金化工，历史表“鑫扬冶化/福鑫”未完成法人对应。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN035",
-      "sources": [],
+      "sources": [
+        {
+          "title": "发改委准入名单",
+          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/gg/200703/t20070312_961288.html"
+        }
+      ],
       "products": []
     },
     "CN036": {
       "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "label": "状态待核（名称对应未核）",
+      "period": "2021资料",
+      "note": "炉装名录中瑞泰/永鑫与盛源钛硅的名称关系未获法人沿革证明，不能确认已转产。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN036",
-      "sources": [],
+      "sources": [
+        {
+          "title": "铁合金炉装名录",
+          "url": "https://static.cnfeol.com/chart/pricesum/21/0723/202107231431185392.pdf"
+        }
+      ],
       "products": []
     },
     "CN037": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "converted",
+      "label": "已转产（铬铁，2021投产）",
+      "period": "2020-2023",
+      "note": "官网明确原镍铁炉升级为全密闭铬铁炉，2021年两炉投产；镍铁应标为历史业务。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN037",
-      "sources": [],
+      "sources": [
+        {
+          "title": "硕丰官网项目资料",
+          "url": "https://www.nmsfsy.com/nd.jsp?fromColId=4&id=17"
+        }
+      ],
       "products": []
     },
     "CN038": {
       "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "label": "状态待核",
+      "period": "企业介绍未注明年份",
+      "note": "企业介绍称RKEF+AOD全流程，但无近期官方运行证据。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN038",
-      "sources": [],
+      "sources": [
+        {
+          "title": "上泰企业介绍",
+          "url": "https://www.xhcs.com/hy/e12e3ed4b5403cec/intro/"
+        }
+      ],
       "products": []
     },
     "CN039": {
       "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "label": "状态待核（历史设备淘汰）",
+      "period": "历史淘汰资料",
+      "note": "两台12500kVA镍铁炉列入淘汰，不能外推为整厂永久关闭；与内蒙古鑫金马新材料亦不能自动合并。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN039",
-      "sources": [],
+      "sources": [
+        {
+          "title": "乌兰察布装备淘汰信息",
+          "url": "https://www.tiegu.net/mobile/news/show-8648.html"
+        }
+      ],
       "products": []
     },
     "CN040": {
       "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "label": "状态待核（2019历史统计）",
+      "period": "2019",
+      "note": "仅有历史EF统计。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN040",
-      "sources": [],
+      "sources": [
+        {
+          "title": "2019镍铁企业统计",
+          "url": "https://fr.scribd.com/document/510797525/%E4%B8%AD%E5%9B%BD%E5%92%8C%E9%95%8D%E9%93%81%E5%B8%82%E5%9C%BA%E5%88%86%E6%9E%90%E5%91%8A-nickel-wenquan-2019"
+        }
+      ],
       "products": []
     },
     "CN041": {
       "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "label": "状态待核（历史镍铁）",
+      "period": "2014文件",
+      "note": "国家节能文件只可证实曾有镍铁业务，无法判断现况。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN041",
-      "sources": [],
+      "sources": [
+        {
+          "title": "国家节能目标文件",
+          "url": "https://www.gov.cn/xinwen/site1/20141211/45201418288515113.pdf"
+        }
+      ],
       "products": []
     },
     "CN042": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "halted",
+      "label": "已停产（2025资料）",
+      "period": "2024-2025",
+      "note": "合作公告称四条线于2025年底停产；2024年已有镍铁炉改铬铁炉备案。停产与转产计划并存，未把计划写成已转产。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN042",
-      "sources": [],
+      "sources": [
+        {
+          "title": "和谊项目合作公告",
+          "url": "https://nie.mysteel.com/a/26040114/EC199B6E9C9375C1.html"
+        }
+      ],
       "products": []
     },
     "CN043": {
       "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "label": "状态待核",
+      "period": "无可靠时间",
+      "note": "正文与来源仅为目录线索，未找到可核验运行资料。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN043",
-      "sources": [],
+      "sources": [
+        {
+          "title": "原始中国企业目录来源",
+          "url": "library/china-sources.html"
+        }
+      ],
       "products": []
     },
     "CN044": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "halted",
+      "label": "已停产（2011资料）",
+      "period": "2011",
+      "note": "国家文件标注2011年停产；资料年代较旧，未找到复产证据。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN044",
-      "sources": [],
+      "sources": [
+        {
+          "title": "国家节能目标文件",
+          "url": "https://www.gov.cn/xinwen/site1/20141211/45201418288515113.pdf"
+        }
+      ],
       "products": []
     },
     "CN045": {
       "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "label": "状态待核（名称线索）",
+      "period": "2019",
+      "note": "瑞泰名称与周边企业沿革未完成法人核对。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN045",
-      "sources": [],
+      "sources": [
+        {
+          "title": "2019镍铁企业统计",
+          "url": "https://fr.scribd.com/document/510797525/%E4%B8%AD%E5%9B%BD%E5%92%8C%E5%8D%B0%E5%B0%BC%E9%93%81%E5%B8%82%E5%9C%BA%E5%88%86%E6%9E%90%E5%91%8A-nickel-wenquan-2019"
+        }
+      ],
       "products": []
     },
     "CN046": {
       "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "label": "状态待核（简称）",
+      "period": "无可靠时间",
+      "note": "“瑞泰”为简称，无法在不串厂的前提下确认法人及状态。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN046",
-      "sources": [],
+      "sources": [
+        {
+          "title": "原始中国企业目录来源",
+          "url": "library/china-sources.html"
+        }
+      ],
       "products": []
     },
     "CN047": {
       "key": "unknown",
       "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "period": "2017",
+      "note": "报道为高碳铬铁项目建设，不能写为已投产或现行镍铁。 现有资料只描述当年的规划或建设，尚不能确定之后是否建成、取消或转作其他用途。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN047",
-      "sources": [],
+      "sources": [
+        {
+          "title": "中泰高碳铬铁走访",
+          "url": "https://www.ferro-alloys.com/News/Details/245845"
+        }
+      ],
       "products": []
     },
     "CN048": {
       "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "label": "状态待核（历史项目）",
+      "period": "2017",
+      "note": "仅有历史行业线索，未发现后续法人或生产材料。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN048",
-      "sources": [],
+      "sources": [
+        {
+          "title": "华泰期货行业资料",
+          "url": "https://www.htfc.com/upload/20170611/201706111497139812306.pdf"
+        }
+      ],
       "products": []
     },
     "CN049": {
       "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "label": "状态待核（历史项目）",
+      "period": "2019",
+      "note": "仅见历史铁合金/镍铁名称。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN049",
-      "sources": [],
+      "sources": [
+        {
+          "title": "2019镍铁企业统计",
+          "url": "https://fr.scribd.com/document/510797525/%E4%B8%AD%E5%9B%BD%E5%92%8C%E5%8D%B0%E5%B0%BC%E9%93%81%E5%B8%82%E5%9C%BA%E5%88%86%E6%9E%90%E5%91%8A-nickel-wenquan-2019"
+        }
+      ],
       "products": []
     },
     "CN050": {
       "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "label": "状态待核",
+      "period": "2014文件",
+      "note": "国家节能文件不能单独确定“永盛铁合金”所属法人或运行状态。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN050",
-      "sources": [],
+      "sources": [
+        {
+          "title": "国家节能目标文件",
+          "url": "https://www.gov.cn/xinwen/site1/20141211/45201418288515113.pdf"
+        }
+      ],
       "products": []
     },
     "CN051": {
       "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "label": "状态待核（部分设备淘汰）",
+      "period": "2011",
+      "note": "光达冶金两台硅锰炉列入淘汰，仅证明部分落后设备退出；“烨兆”与光达关系未核实，也没有整厂关闭证据。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN051",
-      "sources": [],
+      "sources": [
+        {
+          "title": "工信部淘汰落后产能名单",
+          "url": "https://wap.miit.gov.cn/cms_files/filemanager/oldfile/miit/n973401/n974076/c3833522/part/3833526.pdf"
+        }
+      ],
       "products": []
     },
     "CN052": {
       "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "label": "状态待核（设备采购线索）",
+      "period": "2021-2023",
+      "note": "上市文件仅证明其为设备终端客户，未披露设备用途、产品或开工状态。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN052",
-      "sources": [],
+      "sources": [
+        {
+          "title": "设备企业披露",
+          "url": "https://pdf.dfcfw.com/pdf/H2_AN202407081637677658_1.pdf%3F1720455130000.pdf"
+        }
+      ],
       "products": []
     },
     "CN053": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "historical",
+      "label": "历史已投产（2018安全验收）",
+      "period": "2018后",
+      "note": "1-2号及后续生产线安全设施验收完成，证明项目已投产；未找到近年开工率资料。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN053",
-      "sources": [],
+      "sources": [
+        {
+          "title": "唐山凯源安全验收",
+          "url": "https://hebeimintai.cn/shownews.asp?id=2459"
+        }
+      ],
       "products": []
     },
     "CN054": {
       "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "label": "状态待核（手续问题）",
+      "period": "2016",
+      "note": "督察确认项目产能替代手续存在问题，但这不能证明停产、投产或永久关闭；未见后续合规生产材料。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN054",
-      "sources": [],
+      "sources": [
+        {
+          "title": "生态环境部督察材料",
+          "url": "https://big5.mee.gov.cn/gate/big5/www.mee.gov.cn/ywgz/zysthjbhdc/dczg/201605/W020160524189148482904.pdf"
+        }
+      ],
       "products": []
     },
     "CN055": {
       "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "label": "状态待核",
+      "period": "无可靠时间",
+      "note": "仅有不锈钢制品厂名称，未有镍铁生产证据。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN055",
-      "sources": [],
+      "sources": [
+        {
+          "title": "原始中国企业目录来源",
+          "url": "library/china-sources.html"
+        }
+      ],
       "products": []
     },
     "CN056": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "operating",
+      "label": "已投产（主营铸造）",
+      "period": "企业资料",
+      "note": "主营球墨铸铁和汽车铸件，不能因目录归类写为镍铁厂。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN056",
-      "sources": [],
+      "sources": [
+        {
+          "title": "春风铸造企业资料",
+          "url": "https://global.apsoto.com/CN/EC_index.aspx?op=5443"
+        }
+      ],
       "products": []
     },
     "CN057": {
       "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "label": "状态待核（2024延伸规划）",
+      "period": "2024",
+      "note": "官网列镍铁产品、政府报告称拟延伸合金材料；规划不等于镍铁线当前运行。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN057",
-      "sources": [],
+      "sources": [
+        {
+          "title": "偏关县2024工作报告",
+          "url": "https://zgcounty.com/wap/news/57734.html"
+        }
+      ],
       "products": []
     },
     "CN058": {
       "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "label": "状态待核（2016-2019报价）",
+      "period": "2016-2019",
+      "note": "报价记录只能证明历史销售，未见近期运行材料。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN058",
-      "sources": [],
+      "sources": [
+        {
+          "title": "山西镍铁出厂价",
+          "url": "https://www.cnfeol.com/nietie_p-4/shanxi-1.aspx"
+        }
+      ],
       "products": []
     },
     "CN059": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "closed",
+      "label": "已关闭（行业项目资料）",
+      "period": "2023资料",
+      "note": "Wood Mackenzie项目条目明确标为closed；公开摘要未给精确停产日，仍以行业项目状态记录。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN059",
-      "sources": [],
+      "sources": [
+        {
+          "title": "Wood Mackenzie 达康项目",
+          "url": "https://www.woodmac.com/reports/metals-shanxi-dakang-blast-furnace-closed-nickel-operation-15925798/"
+        }
+      ],
       "products": []
     },
     "CN060": {
       "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "label": "状态待核（2022监测报告）",
+      "period": "2021-2022",
+      "note": "环境监测报告证明工艺与设计规模，重点排污名录不等于当前开工。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN060",
-      "sources": [],
+      "sources": [
+        {
+          "title": "汝州环境监测报告",
+          "url": "https://www.ruzhou.gov.cn/upload/files/2022/12/78abc2ff7a02a859d0becbb8e9070436.pdf"
+        }
+      ],
       "products": []
     },
     "CN061": {
       "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "label": "状态待核",
+      "period": "无可靠时间",
+      "note": "仅为目录收录名称，未找到可核验镍铁或生产资料。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN061",
-      "sources": [],
+      "sources": [
+        {
+          "title": "原始中国企业目录来源",
+          "url": "library/china-sources.html"
+        }
+      ],
       "products": []
     },
     "CN062": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "halted",
+      "label": "已停炉改造（2018-2019资料）",
+      "period": "2018-2019",
+      "note": "报告明确2018年12月停炉改造、2019年资金不足且年内难恢复；未找到之后复产证据。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN062",
-      "sources": [],
+      "sources": [
+        {
+          "title": "南华期货2019年报",
+          "url": "https://www.nanhua.net/cmsbigfile/2019/03/767d5d4f-33c6-441b-995c-10ca94e51676/2019%E5%B9%B4%E9%95%8D%26%E9%94%A1%E4%B8%80%E5%AD%A3%E5%BA%A6%E6%8A%A5%E5%91%8A%EF%BC%9A%E9%99%8D%E7%A8%8E%E4%B9%8B%E5%90%8E%EF%BC%8C%E9%9D%99%E5%BE%85%E9%9C%80%E6%B1%82%E5%A4%8D%E8%8B%8F.pdf"
+        }
+      ],
       "products": []
     },
     "CN063": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "historical",
+      "label": "历史已投产（历史项目资料）",
+      "period": "2013-2019",
+      "note": "企业与行业资料显示其为RKEF历史项目；标准起草单位身份不作为当前生产证据，未找到近年具体产线运行材料。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN063",
-      "sources": [],
+      "sources": [
+        {
+          "title": "全国标准信息平台：镍铁渣机制砂",
+          "url": "https://std.samr.gov.cn/hb/search/stdHBDetailed?id=2E519EB323175861E06397BE0A0A75A0"
+        }
+      ],
       "products": []
     },
     "CN064": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "historical",
+      "label": "历史已投产",
+      "period": "2012",
+      "note": "世纪青山项目介绍记载其于2012年建成投产。2026年阳江市政府仍有企业走访记录，但报道没有列出具体镍合金生产线的开工情况；本条保留历史投产状态。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN064",
-      "sources": [],
+      "sources": [
+        {
+          "title": "世纪青山项目企业介绍",
+          "url": "https://gzfuding.com/html/hyglqiyefengcai2016-11-041383.html"
+        },
+        {
+          "title": "阳江市政府督导世纪青山",
+          "url": "https://www.yangjiang.gov.cn/yj/ywdt/ztzl/zysthjbh/dcdt/content/post_957241.html"
+        }
+      ],
       "products": []
     },
     "CN065": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "historical",
+      "label": "历史已投产",
+      "period": "2010-2021",
+      "note": "广东生态环境公开的深加工环评对前期镍合金厂、一炼厂、还原炉系统及100万吨不锈钢坯配套作既有工程描述，支持历史项目已经形成生产体系；招聘不作为具体炉生产证据，未断言当前镍合金炉况。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN065",
-      "sources": [],
+      "sources": [
+        {
+          "title": "广东广青不锈钢深加工环境影响报告书",
+          "url": "https://gdee.gd.gov.cn/attachment/0/361/361713/2476378.pdf"
+        },
+        {
+          "title": "广东广青高品质不锈钢提质增效环评公示",
+          "url": "https://gqjs.com.cn/newscenter.php?id=1943"
+        }
+      ],
       "products": []
     },
     "CN066": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "operating",
+      "label": "炼铁装置已复产",
+      "period": "2024年1月复产；2026年技术论文",
+      "note": "柳钢中金技术人员撰写的开炉记录显示，第一炼铁厂1号高炉于2023年11月13日停炉大修，2024年1月25日点火复产，随后恢复正常生产水平。此次采用普通铁矿配料开炉，文章讨论了普铁与镍铁开炉的差异；因此，这一记录确认炼铁装置复产，不代表当期产物全部为镍铁。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN066",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "柳钢中金技术人员：1号高炉开炉快速达产实践，中国炼铁网转刊",
+          "url": "https://finance.sina.com.cn/roll/2026-09-18/doc-inisftxe8473768.shtml"
+        }
+      ],
+      "products": [
+        {
+          "product": "第一炼铁厂1号高炉",
+          "status": "检修后复产；采用普铁开炉",
+          "period": "2024年1月25日"
+        }
+      ]
     },
     "CN067": {
       "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "label": "状态待核（2017检修）",
+      "period": "2017-2019",
+      "note": "高炉2017年检修完成且2019年仍在重点排污名录，但没有新近运行资料。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN067",
-      "sources": [],
+      "sources": [
+        {
+          "title": "广西重点排污单位名录",
+          "url": "https://sthjt.gxzf.gov.cn/zdxxgk/10888729003554922.pdf"
+        }
+      ],
       "products": []
     },
     "CN068": {
       "key": "unknown",
       "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "period": "历史资料",
+      "note": "项目推进领导小组反映行政协调，不等于环评验收或投产；未找到生产证据。 现有资料只描述当年的规划或建设，尚不能确定之后是否建成、取消或转作其他用途。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN068",
-      "sources": [],
+      "sources": [
+        {
+          "title": "防城港项目推进文件",
+          "url": "https://www.fsou.net/html/text/lar/173230/17323013.html"
+        }
+      ],
       "products": []
     },
     "CN069": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "operating",
+      "label": "已投产（2025资料）",
+      "period": "2024-2025",
+      "note": "北海诚德为北港新材料前身；2025年应急部案例涉及其高炉喷煤车间，支持当前全流程生产。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN069",
-      "sources": [],
+      "sources": [
+        {
+          "title": "应急管理部北港新材料案例",
+          "url": "https://www.mem.gov.cn/xw/gdyj/202601/t20260109_591336.shtml"
+        }
+      ],
       "products": []
     },
     "CN070": {
       "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "label": "状态待核（2017转产）",
+      "period": "2017-2024",
+      "note": "2017年曾由生铁转产低镍生铁；2024政府报告仍列企业但未说明高炉当前开工，不能判为在产。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN070",
-      "sources": [],
+      "sources": [
+        {
+          "title": "龙州县2024工作报告",
+          "url": "https://zgcounty.com/news/54589.html"
+        }
+      ],
       "products": []
     },
     "CN071": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "historical",
+      "label": "历史已投产",
+      "period": "2025",
+      "note": "2025技改材料以既有钢水能力为前提，最多证明该既有能力的历史存在；环评/技改本身不作为当前开工证明。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN071",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "华乐合金连铸产线技改项目环评受理公示",
+          "url": "https://bxg.mysteel.com/a/25121111/1960C8EEFF0D94E6.html"
+        }
+      ],
+      "products": [
+        {
+          "product": "含镍生铁",
+          "status": "historical",
+          "period": "2025"
+        },
+        {
+          "product": "不锈钢粗钢",
+          "status": "historical",
+          "period": "2025"
+        },
+        {
+          "product": "热轧带钢",
+          "status": "historical",
+          "period": "2025"
+        }
+      ]
     },
     "CN072": {
       "key": "unknown",
       "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "period": "2023",
+      "note": "债券报告称两条RKEF已建成，但未披露运行或产销量，不能据“建成”判定在产。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN072",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "临沂城市发展集团2023年债券中期报告",
+          "url": "https://static.sse.com.cn/disclosure/bond/announcement/corporate/c/new/2023-08-31/139306_20230831_X1VX.pdf"
+        }
+      ],
+      "products": [
+        {
+          "product": "镍铁（RKEF）",
+          "status": "unknown",
+          "period": "2023"
+        }
+      ]
     },
     "CN073": {
       "key": "unknown",
       "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "period": "2024",
+      "note": "行业名录及债权处置仅证明历史制造/债务线索，未证明中亿金属当前生产，也不能将其与亿利达集团视为同一法人。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN073",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "中信金融资产管理：亿利达集团等债权公开竞价公告",
+          "url": "https://www.famc.citic/ywjs/ywdt/zcczxx/2024/89767.shtml"
+        }
+      ],
+      "products": [
+        {
+          "product": "镍铁（历史名录）",
+          "status": "unknown",
+          "period": "2024"
+        }
+      ]
     },
     "CN074": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "historical",
+      "label": "历史已投产",
+      "period": "2023",
+      "note": "省工信厅审查确认既有镍铁合金高炉、烧结和精炼相关改造；这证明已有装置和改造记录，未发现同一文件的当期产销。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN074",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "福建省工信厅：青拓镍业超低排放改造节能审查",
+          "url": "https://gxt.fujian.gov.cn/zwgk/jsxm/xmhz/202309/t20230920_6261617.htm"
+        }
+      ],
+      "products": [
+        {
+          "product": "镍铁合金",
+          "status": "historical",
+          "period": "2023"
+        }
+      ]
     },
     "CN075": {
       "key": "unknown",
       "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "period": "2025",
+      "note": "环评获批的是河南鑫金汇不锈钢有限公司的工艺优化，名称与索引主体不同；审批不能证明产线投产。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN075",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "许昌市生态环境局：短流程再生不锈钢项目环评",
+          "url": "https://sthjj.xuchang.gov.cn/BigFileUpLoadStorage/temp/2025-06-24/875940a4-d619-4929-9a03-f3d261e281e8/%E6%B2%B3%E5%8D%97%E9%91%AB%E9%87%91%E6%B1%87%E4%B8%8D%E9%94%88%E9%92%A2%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E7%9F%AD%E6%B5%81%E5%86%8D%E7%94%9F%E4%B8%8D%E9%94%88%E9%92%A2%E5%B7%A5%E8%89%BA%E4%BC%98%E5%8C%96%E9%A1%B9%E7%9B%AE%E6%8A%A5%E5%91%8A%E5%85%A8%E6%96%87%E9%80%81%E5%AE%A1%E7%89%88.pdf"
+        }
+      ],
+      "products": [
+        {
+          "product": "不锈钢（拟优化项目）",
+          "status": "unknown",
+          "period": "2025"
+        }
+      ]
     },
     "CN076": {
       "key": "unknown",
       "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "period": "2026",
+      "note": "这是历史租赁/名称档案；对外合作线索不证明原厂、承租方或具体炉线当前生产。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN076",
-      "sources": [],
+      "sources": [
+        {
+          "title": "内蒙古和谊铁合金项目对外合作公告",
+          "url": "https://nie.mysteel.com/a/26040114/EC199B6E9C9375C1.html"
+        }
+      ],
       "products": []
     },
     "CN077": {
       "key": "unknown",
       "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "period": "2023",
+      "note": "破产重整记录不能自动推定整厂已停产或复产；未发现该项目/炉线的近期运行披露。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN077",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "临沂城市发展集团2023年债券中期报告",
+          "url": "https://static.sse.com.cn/disclosure/bond/announcement/corporate/c/new/2023-08-31/139306_20230831_X1VX.pdf"
+        }
+      ],
+      "products": [
+        {
+          "product": "镍铬合金（历史项目）",
+          "status": "unknown",
+          "period": "2023"
+        }
+      ]
     },
     "CN078": {
       "key": "unknown",
       "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "period": "2021",
+      "note": "EPC及进度调整只记录2021年前后的建设与延期，未找到近期竣工、验收或产销；不将历史建设纪录标为当前建设中。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN078",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "中钢国际项目进度调整公告",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12557741&stockid=000928"
+        }
+      ],
+      "products": [
+        {
+          "product": "镍铁",
+          "status": "unknown",
+          "period": "2021"
+        },
+        {
+          "product": "硅锰",
+          "status": "unknown",
+          "period": "2021"
+        },
+        {
+          "product": "铬铁",
+          "status": "unknown",
+          "period": "2021"
+        },
+        {
+          "product": "不锈钢（设计）",
+          "status": "unknown",
+          "period": "2021"
+        }
+      ]
     },
     "CN079": {
       "key": "unknown",
       "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "period": "2015",
+      "note": "90万吨项目只见2015年投资框架协议；未找到近期续建、竣工或产销，不将旧规划标为当前规划中。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN079",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "瓦房店市富力镍基新材料项目签约报道",
+          "url": "https://www.cnmn.com.cn/ShowNews1.aspx?id=333888"
+        }
+      ],
+      "products": [
+        {
+          "product": "镍基新材料（规划）",
+          "status": "unknown",
+          "period": "2015"
+        }
+      ]
     },
     "CN080": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "historical",
+      "label": "历史已投产",
+      "period": "2021",
+      "note": "中伟披露宁乡为材料制造研发基地并发布基地技改扩建信息，证明2021年前后基地已有生产活动；未找到近期单线产销。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN080",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "中伟：湖南基地技改扩建环评公示",
+          "url": "https://www.cngrgf.com.cn/tzgg/155.html"
+        }
+      ],
+      "products": [
+        {
+          "product": "镍钴原料回收",
+          "status": "historical",
+          "period": "2021"
+        },
+        {
+          "product": "前驱体",
+          "status": "historical",
+          "period": "2021"
+        }
+      ]
     },
     "CN081": {
       "key": "trader",
       "label": "集团／基地总览",
-      "period": "具体工厂分别列示",
-      "note": "本条汇总相关业务，运行状态见下属生产项目。",
+      "period": "2024",
+      "note": "本条为华友集团总览而非单一中国生产厂。集团有中国制造资产，但总部/集团条目不对应单一镍盐产线，按集团经营主体处理。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN081",
-      "sources": [],
+      "sources": [
+        {
+          "title": "华友：衢州二期电解镍上期所注册",
+          "url": "https://www.huayou.com/news/corporate-news/325"
+        }
+      ],
       "products": []
     },
     "CN082": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "operating",
+      "label": "已投产",
+      "period": "2024",
+      "note": "格林美2024年公告显示荆门电积镍完成上期所注册，直接支持该基地金属镍生产运营。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN082",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "格林美：荆门电积镍上期所注册",
+          "url": "https://en.gem.com.cn/CompanyNews/info_itemid_7445.html"
+        }
+      ],
+      "products": [
+        {
+          "product": "电积镍",
+          "status": "operating",
+          "period": "2024"
+        },
+        {
+          "product": "镍钴盐",
+          "status": "operating",
+          "period": "2024"
+        },
+        {
+          "product": "前驱体",
+          "status": "operating",
+          "period": "2024"
+        }
+      ]
     },
     "CN083": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "operating",
+      "label": "已投产",
+      "period": "2024",
+      "note": "金川产销目录列示镍盐公司产品，结合集团持续冶炼业务可支持该化工环节运营。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN083",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "金川产销目录",
+          "url": "https://gxt.gansu.gov.cn/gxt/c107573/202409/173996048/files/8ba33f59f0774dcaa1c109c7e129d66a.pdf"
+        }
+      ],
+      "products": [
+        {
+          "product": "镍盐",
+          "status": "operating",
+          "period": "2024"
+        }
+      ]
     },
     "CN084": {
       "key": "unknown",
       "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "period": "—",
+      "note": "登记和环评说明拟/许可产品，未找到竣工验收、近期产销或运行披露。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN084",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "宁波长江镍钴铜新能源电池材料项目环评",
+          "url": "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web2490/site/attach/0/ab78d235c43c46fe8206174ad02c7c5b.pdf"
+        }
+      ],
+      "products": [
+        {
+          "product": "硫酸镍",
+          "status": "unknown",
+          "period": "—"
+        },
+        {
+          "product": "硫酸钴",
+          "status": "unknown",
+          "period": "—"
+        },
+        {
+          "product": "氯化镍",
+          "status": "unknown",
+          "period": "—"
+        },
+        {
+          "product": "硝酸镍（申报）",
+          "status": "unknown",
+          "period": "—"
+        }
+      ]
     },
     "CN085": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "operating",
+      "label": "已投产",
+      "period": "2024",
+      "note": "湖南工信厅2024年介绍邦普宁乡基地，支持其回收与材料制造业务持续运营。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN085",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "湖南省工信厅：湖南邦普介绍",
+          "url": "https://gxt.hunan.gov.cn/gxt/syzt/xjpjyzl/qglhdbsygh/202407/t20240716_33358172.html"
+        }
+      ],
+      "products": [
+        {
+          "product": "电池回收",
+          "status": "operating",
+          "period": "2024"
+        },
+        {
+          "product": "镍钴盐",
+          "status": "operating",
+          "period": "2024"
+        },
+        {
+          "product": "前驱体",
+          "status": "operating",
+          "period": "2024"
+        }
+      ]
     },
     "CN086": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "historical",
+      "label": "历史已投产",
+      "period": "2021",
+      "note": "道氏年度报告将佳纳纳入镍钴材料业务，证明2021年经营活动；证据未覆盖某一条盐线的近期产量。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN086",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "道氏2021年报",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=8127266"
+        }
+      ],
+      "products": [
+        {
+          "product": "电池级镍钴盐",
+          "status": "historical",
+          "period": "2021"
+        },
+        {
+          "product": "三元前驱体",
+          "status": "historical",
+          "period": "2021"
+        }
+      ]
     },
     "CN087": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "historical",
+      "label": "历史已投产",
+      "period": "2018",
+      "note": "中国中冶2018年披露项目投产；五矿新能2025年管理关系调整仅证实主体延续，未直接证明当前产线运行。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN087",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "五矿新能：中冶新能源管理关系调整",
+          "url": "https://wkxn.minmetals.com.cn/xwzx_7726/gsxw/202504/t20250427_308507.html"
+        }
+      ],
+      "products": [
+        {
+          "product": "新能源材料",
+          "status": "historical",
+          "period": "2018"
+        }
+      ]
     },
     "CN088": {
       "key": "unknown",
       "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "period": "2019",
+      "note": "后评价和旧交易资料不足以确认广西银亿当前生产状态。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN088",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "广西生态环境厅：广西银亿项目环境影响后评价",
+          "url": "https://sthjt.gxzf.gov.cn/zfxxgk/zfxxgkgl/fdzdgknr/hjjccf/xzxk/hjyxslgk/W020191125643897034719.pdf"
+        }
+      ],
+      "products": [
+        {
+          "product": "镍钴金属及盐类",
+          "status": "unknown",
+          "period": "2019"
+        }
+      ]
     },
     "CN089": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "operating",
+      "label": "已投产",
+      "period": "2024",
+      "note": "芳源2024年年报披露镍钴湿法及材料经营，支持公司运营。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN089",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "芳源股份2024年年度报告",
+          "url": "https://www.fangyuan-group.com/upfile/file/add85fb03bc6c18c4cba48d872936b14.pdf"
+        }
+      ],
+      "products": [
+        {
+          "product": "镍钴盐",
+          "status": "operating",
+          "period": "2024"
+        },
+        {
+          "product": "高镍前驱体材料",
+          "status": "operating",
+          "period": "2024"
+        }
+      ]
     },
     "CN090": {
       "key": "unknown",
       "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "period": "2022",
+      "note": "仅见项目环评，未找到验收、产销或持续运行披露。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN090",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "广西智亮环评公示",
+          "url": "https://epaper.gxrb.com.cn/gxrb2/page/1/2022-09-08/013/64901662592961662.pdf"
+        }
+      ],
+      "products": [
+        {
+          "product": "新能源材料（项目）",
+          "status": "unknown",
+          "period": "2022"
+        }
+      ]
     },
     "CN091": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "operating",
+      "label": "已投产",
+      "period": "2024",
+      "note": "金川2020年产线贯通；2024省级产销目录仍列相关产品，支持镍盐线持续经营。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN091",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "金川产销目录",
+          "url": "https://gxt.gansu.gov.cn/gxt/c107573/202409/173996048/files/8ba33f59f0774dcaa1c109c7e129d66a.pdf"
+        }
+      ],
+      "products": [
+        {
+          "product": "硫酸镍",
+          "status": "operating",
+          "period": "2024"
+        },
+        {
+          "product": "氯化镍",
+          "status": "operating",
+          "period": "2024"
+        }
+      ]
     },
     "CN092": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "halted",
+      "label": "已停产",
+      "period": "2024–2026",
+      "note": "合纵科技2025年审计报告明确：天津茂联2024年4月技改后因资金短缺停工停产，至报告批准报出日未复产。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN092",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "合纵科技2025年审计报告：天津茂联停工停产",
+          "url": "https://static.cninfo.com.cn/finalpage/2026-04-29/1225249532.PDF"
+        }
+      ],
+      "products": [
+        {
+          "product": "镍钴盐",
+          "status": "halted",
+          "period": "2024–2026"
+        },
+        {
+          "product": "金属镍",
+          "status": "halted",
+          "period": "2024–2026"
+        }
+      ]
     },
     "CN093": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "historical",
+      "label": "历史已投产",
+      "period": "2019",
+      "note": "官网列示产品，搬迁扩改环评显示2019年既有硫酸镍工艺调整；旧督察问题不等于目前停产，但近期产销仍待补。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN093",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "长优官网",
+          "url": "https://www.cnjcu.com/"
+        }
+      ],
+      "products": [
+        {
+          "product": "硫酸镍/钴",
+          "status": "historical",
+          "period": "2019"
+        },
+        {
+          "product": "氯化镍",
+          "status": "historical",
+          "period": "2019"
+        },
+        {
+          "product": "氢氧化镍",
+          "status": "historical",
+          "period": "2019"
+        },
+        {
+          "product": "前驱体",
+          "status": "historical",
+          "period": "2019"
+        }
+      ]
     },
     "CN094": {
       "key": "unknown",
       "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "period": "2020",
+      "note": "2018终止上市和2020年报均不能单独证明红旗岭具体镍盐线目前运行或已关闭，故不以退市/重整推断状态。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN094",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "吉恩镍业2020年年度报告",
+          "url": "https://pdf.dfcfw.com/pdf/H2_AN202104261487960030_1.pdf"
+        }
+      ],
+      "products": [
+        {
+          "product": "镍冶炼",
+          "status": "unknown",
+          "period": "2020"
+        },
+        {
+          "product": "镍盐（历史）",
+          "status": "unknown",
+          "period": "2020"
+        }
+      ]
     },
     "CN095": {
       "key": "unknown",
       "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "period": "2022",
+      "note": "仅有项目环评材料，未找到验收或产销证据。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN095",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "顺应环评材料",
+          "url": "https://qxb-img-osscache.qixin.com/qianlima/关于2022年5月23日受理建设项目环境影响评价文件情况的公告1-公示本-顺应研究院项目.pdf"
+        }
+      ],
+      "products": [
+        {
+          "product": "电池材料（项目）",
+          "status": "unknown",
+          "period": "2022"
+        }
+      ]
     },
     "CN096": {
       "key": "unknown",
       "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "period": "2019–2025",
+      "note": "官网确认2019收购力道；改扩建公示为设计审批，未找到明确的近期验收或单厂产销，故不据经营范围判在产。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN096",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "吉锐发展历程",
+          "url": "https://www.jrnes.com/fzlc"
+        }
+      ],
+      "products": [
+        {
+          "product": "硫酸镍",
+          "status": "unknown",
+          "period": "2019–2025"
+        },
+        {
+          "product": "硫酸钴",
+          "status": "unknown",
+          "period": "2019–2025"
+        },
+        {
+          "product": "硫酸锰",
+          "status": "unknown",
+          "period": "2019–2025"
+        },
+        {
+          "product": "碳酸锂（设计）",
+          "status": "unknown",
+          "period": "2019–2025"
+        }
+      ]
     },
     "CN097": {
       "key": "unknown",
       "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "period": "—",
+      "note": "电池级硫酸盐扩能技改属于环评项目；未找到现有装置的验收或产销量。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN097",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "万华环评公示",
+          "url": "https://www.whchem.com/cmscontent/2175.html"
+        }
+      ],
+      "products": [
+        {
+          "product": "镍钴锰硫酸盐（扩能项目）",
+          "status": "unknown",
+          "period": "—"
+        }
+      ]
     },
     "CN098": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "operating",
+      "label": "已投产",
+      "period": "2024",
+      "note": "腾远钴业2024年报摘要支持公司持续经营；不把集团湿法能力直接换算为单一镍盐产能。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN098",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "腾远钴业2024年年度报告摘要",
+          "url": "https://pdf.dfcfw.com/pdf/H2_AN202504201659433063_1.pdf"
+        }
+      ],
+      "products": [
+        {
+          "product": "钴铜湿法产品",
+          "status": "operating",
+          "period": "2024"
+        },
+        {
+          "product": "镍锂材料",
+          "status": "operating",
+          "period": "2024"
+        }
+      ]
     },
     "CN099": {
       "key": "unknown",
       "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "period": "2025",
+      "note": "安全评价线索未厘清“浙江路加新能源”与临海“浙江路加新材料”的法人及生产关系。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN099",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "路加安全评价",
+          "url": "https://www.zjsuntex.com/information-disclosure/safety-assessment-report/report-2025-3347.html"
+        }
+      ],
+      "products": [
+        {
+          "product": "镍盐（待核法人）",
+          "status": "unknown",
+          "period": "2025"
+        }
+      ]
     },
     "CN100": {
       "key": "unknown",
       "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "period": "2022",
+      "note": "招股书可说明上海西恩体系及资源循环业务，未直接证明池州子公司当期生产。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN100",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "上海西恩科技招股说明书",
+          "url": "https://reportdocs.static.szse.cn/UpFiles/rasinfodisc1/202208/RAS_202208_00018281D2B0B03FC9D4EEE2BC14B03F.pdf"
+        }
+      ],
+      "products": [
+        {
+          "product": "镍盐（资源循环）",
+          "status": "unknown",
+          "period": "2022"
+        }
+      ]
     },
     "CN101": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "historical",
+      "label": "历史已投产",
+      "period": "2022",
+      "note": "项目由浙江聚合变更为新时代中能并于2022年11月自主验收，证明当时已投运；未找到更近产销。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN101",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "新时代中能环评",
+          "url": "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3001/site/attach/0/110cc19a74e3477d89380a19e5b78c7c.pdf"
+        }
+      ],
+      "products": [
+        {
+          "product": "硫酸镍",
+          "status": "historical",
+          "period": "2022"
+        },
+        {
+          "product": "钴/镍/铜/锰循环产品",
+          "status": "historical",
+          "period": "2022"
+        }
+      ]
     },
     "CN102": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "operating",
+      "label": "已投产",
+      "period": "2025",
+      "note": "迪生力2025年报披露广东威玛生产经营信息，构成较新的同一公司运营证据；不外推为全部新增设备已投产。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN102",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "迪生力2025年年度报告",
+          "url": "https://static.cninfo.com.cn/finalpage/2026-04-09/1225084669.PDF"
+        }
+      ],
+      "products": [
+        {
+          "product": "锂电池回收",
+          "status": "operating",
+          "period": "2025"
+        },
+        {
+          "product": "有价金属材料",
+          "status": "operating",
+          "period": "2025"
+        }
+      ]
     },
     "CN103": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "operating",
+      "label": "已投产",
+      "period": "2025",
+      "note": "2025公司接待巴斯夫参观时展示退役电池拆解、破碎线及环保设施运行，推翻仅按2024计划投产的旧判断；不把规划产能视作实际产量。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN103",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "福建常青新能源：巴斯夫参观生产线",
+          "url": "https://www.evgne.com/news/companynews/681"
+        }
+      ],
+      "products": [
+        {
+          "product": "电池回收",
+          "status": "operating",
+          "period": "2025"
+        },
+        {
+          "product": "硫酸镍/钴溶液",
+          "status": "operating",
+          "period": "2025"
+        },
+        {
+          "product": "前驱体",
+          "status": "operating",
+          "period": "2025"
+        }
+      ]
     },
     "CN104": {
       "key": "unknown",
       "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "period": "—",
+      "note": "公司介绍描述沿革与产品体系，未给出可核验的近期运行或产销量。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN104",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "烟台凯实公司介绍",
+          "url": "https://www.yantaicash.com/about-us"
+        }
+      ],
+      "products": [
+        {
+          "product": "镍钴盐",
+          "status": "unknown",
+          "period": "—"
+        },
+        {
+          "product": "电积金属（介绍）",
+          "status": "unknown",
+          "period": "—"
+        }
+      ]
     },
     "CN105": {
       "key": "unknown",
       "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "period": "2022",
+      "note": "申报/发行材料证明业务范围，未找到近期单厂镍盐或金属原料生产状态。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN105",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "科隆申报材料",
+          "url": "https://reportdocs.static.szse.cn/UpFiles/rasinfodisc1/202204/RAS_202204_00017FCE8A36FA3FEED988F7DCAE513F.pdf"
+        }
+      ],
+      "products": [
+        {
+          "product": "电池材料及金属原料",
+          "status": "unknown",
+          "period": "2022"
+        }
+      ]
     },
     "CN106": {
       "key": "unknown",
       "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "period": "2025",
+      "note": "五矿新能披露的是集团管理关系；没有明确湖南金驰单厂镍钴加工或回收线的近期运行证据。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN106",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "五矿新能：中冶新能源管理关系调整",
+          "url": "https://wkxn.minmetals.com.cn/xwzx_7726/gsxw/202504/t20250427_308507.html"
+        }
+      ],
+      "products": [
+        {
+          "product": "电池材料配套（待核单厂）",
+          "status": "unknown",
+          "period": "2025"
+        }
+      ]
     },
     "CN107": {
       "key": "unknown",
       "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "period": "2021",
+      "note": "2021年报仅为历史线索，未找到近期运行披露。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN107",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "三晟2021年报",
+          "url": "https://static.cninfo.com.cn/finalpage/2022-03-30/1212731035.PDF"
+        }
+      ],
+      "products": [
+        {
+          "product": "镍钴化学品",
+          "status": "unknown",
+          "period": "2021"
+        }
+      ]
     },
     "CN108": {
       "key": "unknown",
       "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "period": "2023",
+      "note": "清洁生产公示包含实际原料和污染治理信息，但没有明确发布日期/验收与近期产销，谨慎保留未知。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN108",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "睿达清洁生产公示",
+          "url": "https://www.jxhbjl.com/nd.jsp?id=170"
+        }
+      ],
+      "products": [
+        {
+          "product": "粗氢氧化镍/钴",
+          "status": "unknown",
+          "period": "2023"
+        },
+        {
+          "product": "碳酸镍/钴",
+          "status": "unknown",
+          "period": "2023"
+        },
+        {
+          "product": "硫酸镍/钴",
+          "status": "unknown",
+          "period": "2023"
+        }
+      ]
     },
     "CN109": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "operating",
+      "label": "已投产",
+      "period": "2026",
+      "note": "2026采访明确称陕西聚泰将含镍钴废料加工为电池级硫酸镍，直接支持该陕西厂生产；不与浙江聚泰项目混同。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN109",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "CRI采访",
+          "url": "https://sn.cri.cn/n/20260128/3137f0cd-2633-40c8-d207-5e6811a6df70.html"
+        }
+      ],
+      "products": [
+        {
+          "product": "电池级硫酸镍",
+          "status": "operating",
+          "period": "2026"
+        },
+        {
+          "product": "硫酸钴",
+          "status": "operating",
+          "period": "2026"
+        },
+        {
+          "product": "氯化钴",
+          "status": "operating",
+          "period": "2026"
+        }
+      ]
     },
     "CN110": {
       "key": "unknown",
       "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "period": "2021",
+      "note": "肇庆厂电池级硫酸镍技改仍是环评口径；集团官网多基地信息不能下推为肇庆单线已投产。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN110",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "金晟技改环评",
+          "url": "https://www.zqeia.com/sys-nd/42.html"
+        }
+      ],
+      "products": [
+        {
+          "product": "电池级硫酸镍（技改）",
+          "status": "unknown",
+          "period": "2021"
+        },
+        {
+          "product": "硫酸钴（调整）",
+          "status": "unknown",
+          "period": "2021"
+        }
+      ]
     },
     "CN111": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "operating",
+      "label": "已投产",
+      "period": "2024",
+      "note": "广德环保2024年审计年报披露硫酸镍、电积镍等产品生产销售、营业收入及产能项目已竣工投入使用，直接支持运营。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN111",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "广德环保2024年年度报告",
+          "url": "https://xinsanban.eastmoney.com/Article/NoticeContent?id=AN202504281663950001"
+        }
+      ],
+      "products": [
+        {
+          "product": "电池级硫酸镍",
+          "status": "operating",
+          "period": "2024"
+        },
+        {
+          "product": "电积镍",
+          "status": "operating",
+          "period": "2024"
+        },
+        {
+          "product": "电池级硫酸钴",
+          "status": "operating",
+          "period": "2024"
+        },
+        {
+          "product": "电积铜",
+          "status": "operating",
+          "period": "2024"
+        },
+        {
+          "product": "碱式碳酸镍",
+          "status": "operating",
+          "period": "2024"
+        }
+      ]
     },
     "CN112": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "trader",
+      "label": "集团／基地总览",
+      "period": "2025",
+      "note": "上海为集团研发运营总部；生产基地在浙江、广西等地。因此将此上海总部档案标为集团经营/销售主体，不虚构上海镍盐产线。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN112",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "格派2025年新年致辞",
+          "url": "https://greatpowercn.com/index.php?id=425"
+        }
+      ],
+      "products": [
+        {
+          "product": "镍钴精炼加工销售（集团）",
+          "status": "trader",
+          "period": "2025"
+        }
+      ]
     },
     "CN113": {
       "key": "unknown",
       "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "period": "—",
+      "note": "只有项目线索，未找到正式验收、年报、排污许可或近期产销。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN113",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "葫芦岛环评线索",
+          "url": "https://www.qianlima.com/bid-501927428.html"
+        }
+      ],
+      "products": [
+        {
+          "product": "新能源材料及金属盐（线索）",
+          "status": "unknown",
+          "period": "—"
+        }
+      ]
     },
     "CN114": {
       "key": "unknown",
       "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "period": "2023",
+      "note": "只有2023年姚家港技改建设方案，未找到近期续建、竣工验收或产品销售证据；不将旧建设纪录标为当前建设中。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN114",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "长宸项目环评汇总",
+          "url": "https://cn.solarbe.com/news/20231107/82044.html"
+        }
+      ],
+      "products": [
+        {
+          "product": "镍钴溶液",
+          "status": "unknown",
+          "period": "2023"
+        },
+        {
+          "product": "碳酸锂",
+          "status": "unknown",
+          "period": "2023"
+        },
+        {
+          "product": "资源综合回收产品（技改）",
+          "status": "unknown",
+          "period": "2023"
+        }
+      ]
     },
     "CN115": {
       "key": "unknown",
       "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "period": "2023",
+      "note": "年处理废锂电池极片项目处于拟受理环评阶段，不能以设计产品判断投产。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN115",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "瑞隆环评公示",
+          "url": "https://qxb-img-osscache.qixin.com/qianlima/%E5%85%A8%E5%8D%97%E5%8E%BF%E7%91%9E%E9%9A%86%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%B9%B4%E5%A4%84%E7%90%8613000%E5%90%A8%E5%BA%9F%E9%94%82%E7%94%B5%E6%B1%A0%E6%9E%81%E7%89%87%E7%BB%BC%E5%90%88%E5%88%A9%E7%94%A8%E6%8A%80%E6%94%B9%E9%A1%B9%E7%9B%AE%E7%8E%AF%E5%A2%83%E5%BD%B1%E5%93%8D%E8%AF%84%E4%BB%B7%E6%96%87%E4%BB%B6%E6%8B%9F%E5%8F%97%E7%90%86%E6%83%85%E5%86%B5%E5%85%AC%E7%A4%BA-%E9%99%84%E4%BB%B6_364103157_230916438.pdf"
+        }
+      ],
+      "products": [
+        {
+          "product": "金属盐",
+          "status": "unknown",
+          "period": "2023"
+        },
+        {
+          "product": "电积铜（项目）",
+          "status": "unknown",
+          "period": "2023"
+        }
+      ]
     },
     "CN116": {
       "key": "unknown",
       "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "period": "2018",
+      "note": "公开披露设立循环利用子公司，但未找到近期厂级镍盐运行或停产公告。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN116",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "金源2018年报",
+          "url": "https://xinsanban.eastmoney.com/Article/NoticeContent?id=AN201904301324816194&pageIndex=6"
+        },
+        {
+          "title": "益阳生态环境局",
+          "url": "https://www.yiyang.gov.cn/yyshjbhj/3454/3654/3657/content_2058902.html"
+        }
+      ],
+      "products": [
+        {
+          "product": "镍钴资源循环",
+          "status": "未知",
+          "period": "2018"
+        }
+      ]
     },
     "CN117": {
       "key": "unknown",
       "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "period": "2021",
+      "note": "仅见期货研究样本列名，未找到公司或监管部门近期生产证据。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN117",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "国信期货镍产业研究（2021年企业样本表）",
+          "url": "https://www.guosenqh.com/attach/20210201/20210201004252948_532061.pdf"
+        }
+      ],
+      "products": [
+        {
+          "product": "硫酸镍",
+          "status": "未知",
+          "period": "2021"
+        }
+      ]
     },
     "CN118": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "operating",
+      "label": "已投产",
+      "period": "2025",
+      "note": "生态环境部资料确认其为多金属综合利用企业；2025年地方报道仍见生产线运行。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN118",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "生态环境部介绍",
+          "url": "https://big5.mee.gov.cn/gate/big5/www.mee.gov.cn/home/ztbd/rdzl/sskf/kfss/jxs/dspjiangxi/202004/t20200409_773703.shtml"
+        },
+        {
+          "title": "江西理工资料",
+          "url": "https://clyjgc.jxust.edu.cn/info/1034/1312.htm"
+        },
+        {
+          "title": "SMM资料",
+          "url": "https://news.smm.cn/news/103547239"
+        }
+      ],
+      "products": [
+        {
+          "product": "铜、锌、锡、镍等回收产品",
+          "status": "在产",
+          "period": "2025"
+        }
+      ]
     },
     "CN119": {
       "key": "unknown",
       "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "period": "2020",
+      "note": "技术需求文件列有硫酸镍、硫酸钴，但未找到近期投产或停产证据。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN119",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "南通技术需求资料",
+          "url": "https://xxgk.stiei.edu.cn/_upload/article/files/8f/5f/b87eccd949c98333a0754fbf5fc1/3a2c2ccc-1242-41d2-b59f-99a99b44f54f.pdf"
+        }
+      ],
+      "products": [
+        {
+          "product": "硫酸镍、硫酸钴",
+          "status": "未知",
+          "period": "2020"
+        }
+      ]
     },
     "CN120": {
       "key": "unknown",
       "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "period": "2011",
+      "note": "公开资料确认三元正极、电池业务，但未确认硫酸镍生产线。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN120",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "红网政务资料",
+          "url": "https://gov.rednet.cn/content/2020/05/06/7171058.html"
+        },
+        {
+          "title": "电源行业协会资料",
+          "url": "https://www.ciaps.org.cn/wap/index.php?itemid=7929&moduleid=21"
+        }
+      ],
+      "products": [
+        {
+          "product": "三元正极材料、电池",
+          "status": "未知",
+          "period": "2011"
+        }
+      ]
     },
     "CN121": {
       "key": "unknown",
       "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "period": "2024",
+      "note": "企业访谈介绍湿法资源回收业务，清洁生产名单也收录了该主体；目前尚未取得能说明近期具体产线开工的生产记录。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN121",
-      "sources": [],
+      "sources": [
+        {
+          "title": "亚洲金属网专访",
+          "url": "https://www.asianmetal.cn/metal_cron/index_lunshi_huyude.shtml"
+        },
+        {
+          "title": "清洁生产名录",
+          "url": "https://www.cnmn.com.cn/fav/files/%E5%AE%9E%E6%96%BD%E6%B8%85%E6%B4%81%E7%94%9F%E4%BA%A7%E5%B9%B6%E9%80%9A%E8%BF%87%E8%AF%84%E4%BC%B0%E9%AA%8C%E6%94%B6%E7%9A%84%E9%87%8D%E7%82%B9%E4%BC%81%E4%B8%9A%E5%90%8D%E5%8D%95%EF%BC%88第5批）.pdf"
+        }
+      ],
       "products": []
     },
     "CN122": {
       "key": "unknown",
       "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "period": "2023",
+      "note": "法院公告确认2023年受理破产清算，并称其子公司项目“停摆”；但未明确证明母公司现有生产线已停止，按规则保留unknown。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN122",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "吉林中院公告",
+          "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=677F47A89C4551C92245BCB6AAAA88B8"
+        },
+        {
+          "title": "项目签约报道",
+          "url": "https://www.itdcw.com/news/focus/0G3643632016.html"
+        }
+      ],
+      "products": [
+        {
+          "product": "球形氢氧化镍、三元正极材料",
+          "status": "未知",
+          "period": "2023"
+        }
+      ]
     },
     "CN123": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "operating",
+      "label": "已投产",
+      "period": "2024",
+      "note": "地方报道实地描述浸出、除杂、铜萃、镍萃生产流程，且2023年已研发电池级硫酸镍溶液。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN123",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "再生资源平台",
+          "url": "https://cn.waste-to-resource.com/en/wp/RecyclingDetail/5627a2d5-8d9e-11ec-a804-087190e05ca9"
+        },
+        {
+          "title": "地方现场报道",
+          "url": "https://sjzx.songjiang.gov.cn/upc_web/HTML/pc_sjzx/pc_jcszx_jldt/2024-07-17/Detail_14145.htm"
+        }
+      ],
+      "products": [
+        {
+          "product": "硫酸镍、碳酸镍、电解镍、铜",
+          "status": "在产",
+          "period": "2024"
+        }
+      ]
     },
     "CN124": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "trader",
+      "label": "供货主体（自产待核）",
+      "period": "2018",
+      "note": "帕瓦招股书将其列为液体硫酸镍供应商，并披露双方采购框架合同。该记录确认供货关系，未说明货物全部来自自有产线还是外购转售。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN124",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "帕瓦股份首次公开发行股票并在科创板上市招股说明书（新浪财经转披露）",
+          "url": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=8534112&stockid=688184"
+        },
+        {
+          "title": "帕瓦股份招股说明书（申报稿，新浪财经转披露）",
+          "url": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=7728458&stockid=688184"
+        }
+      ],
+      "products": [
+        {
+          "product": "液体硫酸镍",
+          "status": "已见供货记录；自产情况待核",
+          "period": "2018年合同记录"
+        }
+      ]
     },
     "CN125": {
       "key": "trader",
       "label": "集团／基地总览",
-      "period": "具体工厂分别列示",
-      "note": "本条汇总相关业务，运行状态见下属生产项目。",
+      "period": "2025",
+      "note": "集团总览条目。年报披露集团多金属资源循环和镍产品方向，但不对应单一镍厂；具体江西、广西基地应分别判断。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN125",
-      "sources": [],
+      "sources": [
+        {
+          "title": "飞南资源2024年年度报告",
+          "url": "https://static.cninfo.com.cn/finalpage/2025-04-12/1223069572.PDF"
+        },
+        {
+          "title": "飞南资源2025年年度报告",
+          "url": "https://static.cninfo.com.cn/finalpage/2026-04-11/1225092517.PDF"
+        }
+      ],
       "products": []
     },
     "CN126": {
       "key": "unknown",
       "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "period": "2018",
+      "note": "公开资料确认退役动力电池梯次利用与回收方向，未见近期镍线运行文件。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN126",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "天能企业资料",
+          "url": "https://www.cnebuyer.com/com/2021.html"
+        },
+        {
+          "title": "天能验收监测",
+          "url": "https://www.cirs-ck.com/Uploads/file/20201119/1605752113_28501.pdf"
+        }
+      ],
+      "products": [
+        {
+          "product": "镍钴锰锂回收产品",
+          "status": "未知",
+          "period": "2018"
+        }
+      ]
     },
     "CN127": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "operating",
+      "label": "已投产",
+      "period": "2024年报",
+      "note": "公司年报及官网持续披露锂电材料、资源循环和高纯化学品业务。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN127",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "光华募集说明书",
+          "url": "https://static.cninfo.com.cn/finalpage/2023-11-11/1218306140.PDF"
+        },
+        {
+          "title": "光华2024年报",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=10950664&stockid=002741"
+        },
+        {
+          "title": "光华环评公示",
+          "url": "https://www.ghtech.com/Gnews/gnews_100000504277229.html"
+        }
+      ],
+      "products": [
+        {
+          "product": "高纯镍化学品、锂电材料",
+          "status": "在产",
+          "period": "2023"
+        }
+      ]
     },
     "CN128": {
       "key": "unknown",
       "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "period": "2017",
+      "note": "公开登记显示电镀和材料处理业务，未找到近期镍盐生产或停产证据。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN128",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "阳江市绿森工贸有限公司企业目录条目（法人、地址及经营范围）",
+          "url": "https://www.qiyeku.cn/tag/company851213.html"
+        }
+      ],
+      "products": [
+        {
+          "product": "电镀材料",
+          "status": "未知",
+          "period": "2017"
+        }
+      ]
     },
     "CN129": {
       "key": "unknown",
       "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "period": "2023",
+      "note": "安全评价和环保资料显示项目方向为镍钴锰锂回收，但未找到验收后连续生产证据。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN129",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "鼎鑫安全评价",
+          "url": "https://fjkt.ccic.com/xxgk/xmgs/aqpjxmgs/art/2023/art_ktjc05b3f76546cfb870668d89df02931.html"
+        },
+        {
+          "title": "鼎鑫清洁生产",
+          "url": "https://www.jxhbjl.com/nd.jsp?_ngc=-1&fromColId=-1&groupId=7&id=253"
+        }
+      ],
+      "products": [
+        {
+          "product": "镍钴锰锂回收产品",
+          "status": "未知",
+          "period": "2023"
+        }
+      ]
     },
     "CN130": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "operating",
+      "label": "已投产",
+      "period": "2025",
+      "note": "厦钨年报和赣州政府资料确认豪鹏为电池资源循环主体，纳入厦钨新能控制后仍有业务披露。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN130",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "厦门钨业2020年年度报告：赣州豪鹏盐类产线审批与验收",
+          "url": "https://static.cninfo.com.cn/finalpage/2021-03-31/1209495448.PDF"
+        },
+        {
+          "title": "厦钨新能2025年年度报告：完成赣州豪鹏47%股权收购",
+          "url": "https://static.cninfo.com.cn/finalpage/2026-04-23/1225146590.PDF"
+        },
+        {
+          "title": "厦门钨业2025年5月15日股权转让公告：股东及交易安排",
+          "url": "https://file.finance.sina.com.cn/211.154.219.97%3A9494/MRGG/CNSESH_STOCK/2025/2025-5/2025-05-15/11109321.PDF"
+        }
+      ],
+      "products": [
+        {
+          "product": "镍、钴、锂回收产品",
+          "status": "在产",
+          "period": "2025"
+        }
+      ]
     },
     "CN131": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "historical",
+      "label": "历史已投产",
+      "period": "2021年9月现场走访",
+      "note": "2021年9月的现场走访进入包头锐博生产车间，记录其电池级高纯镍钴盐加工业务。官网延续介绍湿法冶金和金属盐产品；近期具体产线的运行情况尚需更新。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN131",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "锐博官网",
+          "url": "https://www.risbor.cn/"
+        },
+        {
+          "title": "SMM走访",
+          "url": "https://news.smm.cn/news/101595508"
+        }
+      ],
+      "products": [
+        {
+          "product": "镍钴盐",
+          "status": "历史已投产",
+          "period": "2021年现场走访"
+        }
+      ]
     },
     "CN132": {
       "key": "unknown",
       "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "period": "2023",
+      "note": "公开资料列三元前驱体、正极材料和回收业务，未找到镍盐车间近期状态。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN132",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "瑞源环评验收",
+          "url": "https://www.sohu.com/a/1026243746_121779604"
+        },
+        {
+          "title": "瑞源官网",
+          "url": "https://en.dlrydl.com/"
+        },
+        {
+          "title": "项目介绍",
+          "url": "https://pitchhub.36kr.com/project/2073368240685319"
+        }
+      ],
+      "products": [
+        {
+          "product": "三元前驱体、镍钴锰盐",
+          "status": "未知",
+          "period": "2023"
+        }
+      ]
     },
     "CN133": {
       "key": "unknown",
       "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "period": "2021",
+      "note": "2021年地方产业规划仅将江钨钴业列为钴镍冶炼主体，未提供近期生产或停产证据，不能据此标在产。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN133",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "章贡区十四五科技创新规划意见：钴镍冶炼主体",
+          "url": "https://www.zgq.gov.cn/zgqxxgk/c108326/202112/9b4500e1af604e2493904808964ee3fb.shtml"
+        }
+      ],
+      "products": [
+        {
+          "product": "钴镍冶炼产品",
+          "status": "未知",
+          "period": "2021"
+        }
+      ]
     },
     "CN134": {
       "key": "unknown",
       "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "period": "2020",
+      "note": "政府和公司资料涉及锂电材料，但名称与赣锋锂业及其他法人存在混淆。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN134",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "赣锋官网",
+          "url": "https://www.ganfenglithium.com/cailiao.html"
+        },
+        {
+          "title": "赣州政府问政",
+          "url": "https://apps.ganzhou.gov.cn/szfwlwzweb/szfbmwz/getContent?id=ec9562754c89a9ba175e21ddff60"
+        }
+      ],
+      "products": [
+        {
+          "product": "锂电材料",
+          "status": "未知",
+          "period": "2020"
+        }
+      ]
     },
     "CN135": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "historical",
+      "label": "历史已投产",
+      "period": "2023",
+      "note": "铜仁政府报道确认鹏程与长虹格润回收业务整合，产品含镍钴锰盐。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN135",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "铜仁政府企业报道",
+          "url": "https://www.tongren.gov.cn/2022/0214/263095.shtml"
+        },
+        {
+          "title": "并购报道",
+          "url": "https://www.tongren.gov.cn/2023/0320/296498.shtml"
+        }
+      ],
+      "products": [
+        {
+          "product": "镍钴锰盐、碳酸锂",
+          "status": "历史生产记录",
+          "period": "2023"
+        }
+      ]
     },
     "CN136": {
       "key": "unknown",
       "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "period": "2005",
+      "note": "仅有工商主体资料，未找到镍产品、生产许可或近期运行证据。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN136",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "正兴工商资料",
+          "url": "https://www.shuididp.cn/yp-e6bcf9e7edeeea797bc3a94c7c1f96d5.html"
+        }
+      ],
+      "products": [
+        {
+          "product": "有色金属（未细分）",
+          "status": "未知",
+          "period": "2005"
+        }
+      ]
     },
     "CN137": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "operating",
+      "label": "已投产",
+      "period": "2025",
+      "note": "天奇2025年年报及资产组减值测试仍将金泰阁作为资源循环核心资产。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN137",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "天奇股份2024年年度报告披露",
+          "url": "https://paper.cnstock.com/html/2025-04/25/content_2055471.htm"
+        },
+        {
+          "title": "天奇：金泰阁拟增资公告，2025年5月",
+          "url": "https://static.cninfo.com.cn/finalpage/2025-05-17/1223569660.PDF"
+        },
+        {
+          "title": "天奇股份2025年年度报告",
+          "url": "https://disc.static.szse.cn/disc/disk03/finalpage/2026-04-28/d5f71ad9-1942-4648-8885-d3663df684b5.PDF"
+        }
+      ],
+      "products": [
+        {
+          "product": "镍钴盐及电池回收产品",
+          "status": "在产",
+          "period": "2025"
+        }
+      ]
     },
     "CN138": {
       "key": "unknown",
       "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "period": "2023",
+      "note": "仅见行业报道和采购公告，未找到企业近期生产或环评验收状态。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN138",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "蜀矿环锂报道",
+          "url": "https://www.lidianshijie.com/mobile/news/show-43179.html"
+        },
+        {
+          "title": "采购公告",
+          "url": "https://www.qianlima.com/bid-630383903.html"
+        }
+      ],
+      "products": [
+        {
+          "product": "硫酸镍、硫酸钴、碳酸锂",
+          "status": "未知",
+          "period": "2023"
+        }
+      ]
     },
     "CN139": {
       "key": "trader",
       "label": "集团／基地总览",
-      "period": "具体工厂分别列示",
-      "note": "本条汇总相关业务，运行状态见下属生产项目。",
+      "period": "2025",
+      "note": "盛屯为集团总览条目，官网和年报确认有色金属资源、冶炼和材料业务；具体镍工厂应由贵州盛屯等项目条目承载，不能把集团本身标为在产工厂。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN139",
-      "sources": [],
+      "sources": [
+        {
+          "title": "盛屯矿业：公司概况",
+          "url": "https://www.600711.com/introduce"
+        },
+        {
+          "title": "盛屯矿业2025年年度报告",
+          "url": "https://www.600711.com/uploads/pdfs/177492497780028.pdf"
+        }
+      ],
       "products": []
     },
     "CN140": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "historical",
+      "label": "历史已投产",
+      "period": "2021",
+      "note": "2021年公告和年报确认威玛承接资产及一期运行；本轮未找到更近期独立生产证据，标为历史已投产。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN140",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "中国证券报披露：迪生力设立广东威玛项目及中弘基本情况、历史批文",
+          "url": "https://epaper.cs.com.cn/zgzqb/images/2020-01/15/B057/ZQBXP0570115C.pdf"
+        },
+        {
+          "title": "迪生力关于控股子公司拟购买经营性资产有关事项的补充公告（2021-046）",
+          "url": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=7398525&stockid=603335"
+        },
+        {
+          "title": "迪生力2021年年度报告（威玛承接资产、一期运行和股权关系）",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=7888360&stockid=603335"
+        }
+      ],
+      "products": [
+        {
+          "product": "镍钴盐",
+          "status": "历史已投产",
+          "period": "2021"
+        }
+      ]
     },
     "CN141": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "historical",
+      "label": "历史已投产",
+      "period": "2023",
+      "note": "容百年报和项目环评持续披露正极材料、前驱体及原料加工基地。 该主体主要是三元前驱体/正极材料下游生产企业，硫酸镍属于采购或投入原料，不能据此认定其拥有独立硫酸镍厂。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN141",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "历史/安全评价",
+          "url": "https://www.zjsuntex.com/information-disclosure/safety-assessment-report/report-2023-2465.html"
+        },
+        {
+          "title": "六万吨项目环评",
+          "url": "https://www.ezhihuan.net/qy-gs-detail-1778018372431687680"
+        },
+        {
+          "title": "容百2023年报",
+          "url": "https://www.sse.com.cn/disclosure/listedinfo/announcement/c/new/2024-04-12/688005_20240412_AH06.pdf"
+        }
+      ],
+      "products": [
+        {
+          "product": "三元前驱体、镍钴材料",
+          "status": "历史生产记录",
+          "period": "2023"
+        }
+      ]
     },
     "CN142": {
       "key": "unknown",
       "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "period": "2009",
+      "note": "历史公开转让说明书列硫酸镍经营范围，但未找到近期生产证据。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN142",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "江苏普莱克红梅色母料股份有限公司公开转让说明书（披露江苏领先身份及硫酸镍产品范围）",
+          "url": "https://pdf.dfcfw.com/pdf/H2_AN201704280538236373_1.pdf"
+        }
+      ],
+      "products": [
+        {
+          "product": "硫酸镍、电解铜",
+          "status": "未知",
+          "period": "2009"
+        }
+      ]
     },
     "CN143": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "partial",
+      "label": "部分停产",
+      "period": "2025年末情况；2026年7月问询回复",
+      "note": "帕瓦2026年7月的年报问询回复区分了两组装置：原有自建三元前驱体项目截至2025年末已停产、资产闲置，募集资金建设的前驱体项目仍保持生产。因此，公司应按部分停产记录。硫酸镍是前驱体的投入原料，这份披露并不代表帕瓦另有独立硫酸镍冶炼厂。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN143",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "帕瓦招股书",
+          "url": "https://static.sse.com.cn/stock/information/c/202206/85d4457b7c1c4126b8a8901d47a9d945.pdf"
+        },
+        {
+          "title": "帕瓦问询回复",
+          "url": "https://pdf.dfcfw.com/pdf/H2_AN202409131639875999_1.pdf"
+        },
+        {
+          "title": "帕瓦股份：2025年报问询回复，2026年7月10日",
+          "url": "https://paper.cnstock.com/html/2026-07/10/content_2242340.htm"
+        }
+      ],
+      "products": [
+        {
+          "product": "原自建三元前驱体项目",
+          "status": "停产、资产闲置",
+          "period": "截至2025年末"
+        },
+        {
+          "product": "募投三元前驱体项目",
+          "status": "保持生产",
+          "period": "2026年7月回复"
+        }
+      ]
     },
     "CN144": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "operating",
+      "label": "已投产",
+      "period": "2025",
+      "note": "宜宾锂宝环境信息及集团页面持续披露三元前驱体基地。 该主体主要是三元前驱体/正极材料下游生产企业，硫酸镍属于采购或投入原料，不能据此认定其拥有独立硫酸镍厂。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN144",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "四川环评",
+          "url": "https://sthjt.sc.gov.cn/sthjt/uploadfiles/2019082313335011305.pdf"
+        },
+        {
+          "title": "2025环境信息",
+          "url": "https://www.libode.com.cn/storage/images/2025-07/82970e8718b596ac81c99c3f2d5f7deb.pdf"
+        },
+        {
+          "title": "宜宾锂宝关系",
+          "url": "https://en.ybty.com/xnyclcy/2266.html"
+        }
+      ],
+      "products": [
+        {
+          "product": "三元前驱体、镍钴锰盐",
+          "status": "在产",
+          "period": "2025"
+        }
+      ]
     },
     "CN145": {
       "key": "unknown",
       "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "period": "2018",
+      "note": "项目申报材料显示资源循环方向，未找到近期验收或生产公告。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN145",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "星创项目介绍",
+          "url": "https://pitchhub.36kr.com/project/2114451373547400"
+        },
+        {
+          "title": "星创申报材料",
+          "url": "https://static.cninfo.com.cn/finalpage/2018-03-02/1204444157.PDF"
+        }
+      ],
+      "products": [
+        {
+          "product": "资源循环产品",
+          "status": "未知",
+          "period": "2018"
+        }
+      ]
     },
     "CN146": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "halted",
+      "label": "历史生产线停产",
+      "period": "2016年情况；2017年财务顾问报告",
+      "note": "财务顾问2017年发布的持续督导报告记载，陕西华泽已停产拆迁，平安鑫海的硫酸镍生产线也已停产。这些是具体生产装置的历史停运记录，不能与名称相近但法人不同的广西、江西条目合并。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN146",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "华泽项目公告",
+          "url": "https://reportdocs.static.szse.cn/UpFiles/fxklwxhj/CDD00069340137517HF.pdf"
+        },
+        {
+          "title": "华泽历史主营",
+          "url": "https://q.stock.sohu.com/cn/000693/bw_25.shtml"
+        },
+        {
+          "title": "国信证券：华泽钴镍2016年度持续督导工作报告",
+          "url": "https://static.cninfo.com.cn/finalpage/2017-05-13/1203514783.PDF"
+        }
+      ],
+      "products": [
+        {
+          "product": "陕西华泽旧厂",
+          "status": "停产拆迁",
+          "period": "2016年报告期"
+        },
+        {
+          "product": "平安鑫海硫酸镍线",
+          "status": "停产",
+          "period": "2016年报告期"
+        }
+      ]
     },
     "CN147": {
       "key": "unknown",
       "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "period": "2016",
+      "note": "工商与专利资料确认镍钴材料和回收方向，未见近期生产公告。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN147",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "鑫和工商资料",
+          "url": "https://m.zhipin.com/gongsi/l014931602.html"
+        },
+        {
+          "title": "鑫和专利",
+          "url": "https://patentimages.storage.googleapis.com/30/c3/4a/5d79abdb3b3e5e/CN115180661B.pdf"
+        }
+      ],
+      "products": [
+        {
+          "product": "镍钴材料",
+          "status": "未知",
+          "period": "2016"
+        }
+      ]
     },
     "CN148": {
       "key": "unknown",
       "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "period": "不详",
+      "note": "目录仅保留“新乡超能/新乡帝龙”名称，缺少可核验企业和工厂来源。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN148",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "中国企业目录来源说明",
+          "url": "library/china-sources.html"
+        }
+      ],
+      "products": [
+        {
+          "product": "电池材料（未细分）",
+          "status": "未知",
+          "period": "不详"
+        }
+      ]
     },
     "CN149": {
       "key": "operating",
-      "label": "已投产（一期）",
-      "period": "2025年年度报告",
-      "note": "电积镍一期稳定生产，二期仍在调试；前驱体一期为吨级试验料阶段。",
+      "label": "已投产",
+      "period": "2025",
+      "note": "伟明环保2025年年报披露温州伟明盛青一期电积镍稳定生产、二期调试；应拆分产品线，不把二期调试写成全厂未投产。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN149",
       "sources": [
@@ -5705,83 +7265,188 @@
           "url": "https://www.cnweiming.com/e/upload/s1/article/file/2026/04/21143514.pdf"
         }
       ],
-      "products": []
+      "products": [
+        {
+          "product": "一期电积镍",
+          "status": "在产",
+          "period": "2025"
+        },
+        {
+          "product": "二期电积镍",
+          "status": "调试",
+          "period": "2025"
+        }
+      ]
     },
     "CN150": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "operating",
+      "label": "已投产",
+      "period": "2026年企业负责人访谈",
+      "note": "耒阳二期环评及2026年行业采访显示金凯循环处理废旧电池并回收镍钴锰锂。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN150",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "耒阳二期环评",
+          "url": "https://www.leiyang.gov.cn/xxgk/bmxxgkml/zfpcjg/sjjkfq/tzgg/20230202/i2922031.html"
+        },
+        {
+          "title": "输变电环评报告",
+          "url": "https://www.hengyang.gov.cn/DFS/network/gsgg/i3637340/1744966784259hub8ly.pdf"
+        },
+        {
+          "title": "亚洲金属专访",
+          "url": "https://wap.asianmetal.com/interview/2026/interview_qunxuanyan.shtml"
+        }
+      ],
+      "products": [
+        {
+          "product": "镍钴锰锂回收产品",
+          "status": "在产",
+          "period": "2026年企业访谈"
+        }
+      ]
     },
     "CN151": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "operating",
+      "label": "已投产",
+      "period": "2024",
+      "note": "项目报道出现产品下线，地方报道确认湖北睿勤为在勤实业回收基地。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN151",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "台湾市场报道",
+          "url": "https://gd.huaxia.com/c/2025/04/27/2025486.shtml"
+        },
+        {
+          "title": "项目下线报道",
+          "url": "https://www.itdcw.com/news/qiye/06201421U2024.html"
+        }
+      ],
+      "products": [
+        {
+          "product": "镍钴锰锂回收产品",
+          "status": "在产",
+          "period": "2024"
+        }
+      ]
     },
     "CN152": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "trial",
+      "label": "一期试产",
+      "period": "2024年3—7月；2024年8月报道",
+      "note": "铜仁市2024年8月的现场报道记载，贵州星茂一期于当年3月试生产，至7月已有碳酸锂产出。该厂处理退役电池并回收其中的金属，二期按另一个建设阶段推进。现有生产记录支持一期试产，尚不宜把整个规划项目写成全部商业投产。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN152",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "铜仁人才报道",
+          "url": "https://www.tongren.gov.cn/2024/0820/323090.shtml"
+        },
+        {
+          "title": "铜仁产业报道",
+          "url": "https://www.tongren.gov.cn/2024/0615/319633.shtml"
+        }
+      ],
+      "products": [
+        {
+          "product": "一期电池回收项目",
+          "status": "试生产，已有碳酸锂产出",
+          "period": "2024年3—7月"
+        },
+        {
+          "product": "二期项目",
+          "status": "建设阶段",
+          "period": "2024年报道"
+        }
+      ]
     },
     "CN153": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "operating",
+      "label": "已投产",
+      "period": "2025年5月；2026年7月现场报道",
+      "note": "金川镍冶炼厂的闪速熔炼、顶吹及镍电解车间有实际运行披露，2026年7月现场报道继续记录电解镍加工与发运。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN153",
-      "sources": [],
+      "sources": [
+        {
+          "title": "金川：镍冶炼厂各车间生产与技术改进，2025年5月23日",
+          "url": "https://www.jnmc.com/index.php/index/detail/index?id=3934"
+        },
+        {
+          "title": "中国甘肃网：金川电解镍成品车间现场报道，2026年7月",
+          "url": "https://gansu.gscn.com.cn/system/2026/07/28/013532821.shtml"
+        }
+      ],
       "products": []
     },
     "CN154": {
       "key": "trader",
       "label": "集团／基地总览",
-      "period": "具体工厂分别列示",
-      "note": "本条汇总相关业务，运行状态见下属生产项目。",
+      "period": "生产工厂见荆门项目",
+      "note": "格林美集团入口，电积镍生产主体为荆门市格林美新材料有限公司，不把集团总部另计为工厂。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN154",
-      "sources": [],
+      "sources": [
+        {
+          "title": "格林美：全球产业布局",
+          "url": "https://en.gem.com.cn/GlobalLayout/index.html"
+        },
+        {
+          "title": "格林美：荆门电积镍品牌注册",
+          "url": "https://en.gem.com.cn/CompanyNews/info_itemid_7445.html"
+        }
+      ],
       "products": []
     },
     "CN155": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "operating",
+      "label": "已投产",
+      "period": "2023年12月验收；2024年生产披露",
+      "note": "广西华友既有电积镍项目已通过自主验收，2024年公司披露电解镍产线投产后的工艺改进及产品销售。后续新增高纯电镍项目按扩建线另列。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN155",
-      "sources": [],
+      "sources": [
+        {
+          "title": "华友2024年年度报告：广西既有电积镍验收与新增工程",
+          "url": "https://www.huayou.com/Public/Uploads/uploadfile/files/20250512/20250419603799.SHhuayouye603799huayouye2024nianniandubaogao.pdf"
+        },
+        {
+          "title": "华友：广西电解镍生产与LME注册，2024年4月13日",
+          "url": "https://www.huayou.com/news/corporate-news/291"
+        }
+      ],
       "products": []
     },
     "CN156": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "operating",
+      "label": "已投产",
+      "period": "2024年6月分期生产披露",
+      "note": "衢州华友一期和二期均已形成电积镍产品，二期产品于2024年6月17日获上期所注册。注册是产品流通资格节点，不能用作整个厂区首次投产日期。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN156",
-      "sources": [],
+      "sources": [
+        {
+          "title": "华友钴业2022年ESG报告",
+          "url": "https://www.huayou.com/Public/Uploads/uploadfile/files/20231221/huayouye2022nianduhuanjingshehuijiguanzhiESGbaogao.pdf"
+        },
+        {
+          "title": "华友：衢州电积镍二期上期所注册，2024年6月18日",
+          "url": "https://www.huayou.com/news/corporate-news/325"
+        },
+        {
+          "title": "华友：两地电解镍品牌发展，2024年4月",
+          "url": "https://www.huayou.com/news/corporate-news/291"
+        }
+      ],
       "products": []
     },
     "CN157": {
       "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "label": "主体名称待核",
+      "period": "尚未对应到完整法人及厂址",
+      "note": "现有简称尚不能与独立精炼镍工厂可靠对应；不能套用陕西华泽、华友或其他同名企业的停产与投产记录。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN157",
       "sources": [],
@@ -5789,132 +7454,320 @@
     },
     "CN158": {
       "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "label": "主体名称待核",
+      "period": "尚未对应到完整法人及厂址",
+      "note": "现有简称尚不能与独立精炼镍工厂可靠对应；不能套用陕西华泽、华友或其他同名企业的停产与投产记录。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN158",
       "sources": [],
       "products": []
     },
     "CN159": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "operating",
+      "label": "已投产",
+      "period": "2025年年度报告",
+      "note": "新鑫2025年年度报告披露电解镍实际产销和阜康精炼系统技改；阜康属于持续生产的既有冶炼厂，电解槽更新不代表整厂重新投产。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN159",
-      "sources": [],
+      "sources": [
+        {
+          "title": "新疆新鑫2025年年度报告",
+          "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0422/2026042202197_c.pdf"
+        },
+        {
+          "title": "中国有色金属报：阜康2025年生产情况，2026年1月12日",
+          "url": "https://finance.sina.com.cn/stock/relnews/hk/2026-01-12/doc-inhfziuy0112600.shtml"
+        }
+      ],
       "products": []
     },
     "CN160": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "halted",
+      "label": "停产",
+      "period": "2024年调查报告；2025年3月再次确认",
+      "note": "政府调查报告明确公司全面停产：甘庄精炼厂于2015年停产，特种合金厂试运行后停产，湿法厂最后一轮生产于2023年4月结束。2025年玉溪市生态环境局又以长期停产为由将公司移出环境信息披露名单。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN160",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "元江县政府：甘庄精炼厂事故调查报告，2024年",
+          "url": "https://www.yjx.gov.cn/yjxzfxxgk/xzzf10498/20240601/1662342.html"
+        },
+        {
+          "title": "玉溪市生态环境局：长期停产企业名单，2025年3月13日",
+          "url": "https://www.yuxi.gov.cn/yxszfxxgk/qyhjxxpl/20250313/1591051.html"
+        }
+      ],
+      "products": [
+        {
+          "product": "甘庄精炼厂",
+          "status": "停产；2024年进行旧设备拆卖",
+          "period": "2015年停产"
+        },
+        {
+          "product": "湿法冶炼厂",
+          "status": "停产",
+          "period": "2023年4月"
+        },
+        {
+          "product": "特种合金厂",
+          "status": "试运行半年后停产",
+          "period": "2010年建成"
+        }
+      ]
     },
     "CN161": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "operating",
+      "label": "部分项目已投产",
+      "period": "2023年4月首板；2024年6月监管核查",
+      "note": "2023年4月18日电积镍首次出板；2024年政府核查确认部分项目已建成投产，同时仍有工程未完成、已投产部分未完成环保竣工验收。生产节点与验收进度分别记录。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN161",
-      "sources": [],
+      "sources": [
+        {
+          "title": "浙江生态环境督察公开办理表，第23批，2024年6月",
+          "url": "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web1756/site/attach/-1/2406081827036163678.pdf"
+        },
+        {
+          "title": "Mysteel：2023年上半年镍行业节点（元力首次出板）",
+          "url": "https://m.mysteel.com/23/0704/16/A7A2BA1B8E567FA4_abc.html"
+        }
+      ],
       "products": []
     },
     "CN162": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "operating",
+      "label": "镍盐已投产",
+      "period": "2022年验收；2025年设立安全评价回顾",
+      "note": "既有镍钴盐项目于2022年完成安全设施竣工验收并取得安全生产许可证。2025年文件中的电镍、电钴和镍盐技改属于另行申报工程，不能把这些新线一并视为已经投产。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN162",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "浙江圣泰：路加新材料项目设立安全评价披露，2025年",
+          "url": "https://www.zjsuntex.com/information-disclosure/safety-assessment-report/report-2025-3347.html"
+        }
+      ],
+      "products": [
+        {
+          "product": "既有硫酸镍等镍盐",
+          "status": "已建成并完成安全设施验收",
+          "period": "2022年8—9月"
+        },
+        {
+          "product": "电镍、电钴技改线",
+          "status": "设立安全评价阶段；未据此确认投产",
+          "period": "2025年"
+        }
+      ]
     },
     "CN163": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "operating",
+      "label": "已投产",
+      "period": "2025年企业负责人访谈",
+      "note": "总经理在2025年访谈中说明实际原料采购、湿法镍板生产及经营情况，确认祺生已开展生产；资料未披露当月开工负荷。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN163",
-      "sources": [],
+      "sources": [
+        {
+          "title": "亚洲金属：祺生金属总经理曹安生访谈，2025年",
+          "url": "https://wap.asianmetal.cn/interview/2025/interview_anshengcao.shtml"
+        }
+      ],
       "products": []
     },
     "CN164": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "operating",
+      "label": "已投产",
+      "period": "2022—2024年分工序生产披露",
+      "note": "钦州高冰镍制硫酸镍线于2022年产出合格产品，低冰镍转高冰镍线于2023年披露连续运行，2024年已有电积镍产品。三段工序分开记录。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN164",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "中伟：高冰镍制硫酸镍项目，2022年4月8日",
+          "url": "https://www.cngrgf.com.cn/mobile/gsxw/819.html"
+        },
+        {
+          "title": "中伟：钦州低冰镍转高冰镍侧吹线，2023年7月31日",
+          "url": "https://www.cngrgf.com.cn/gsxw/1137.html"
+        },
+        {
+          "title": "中伟：NNI首批低冰镍运抵钦州，2024年",
+          "url": "https://www.cngrgf.com.cn/gsxw/1307.html"
+        },
+        {
+          "title": "中伟：钦州电解镍上期所注册，2024年12月20日",
+          "url": "https://www.cngrgf.com.cn/gsxw/1398.html"
+        }
+      ],
+      "products": [
+        {
+          "product": "硫酸镍",
+          "status": "已投产",
+          "period": "2022年4月合格晶体"
+        },
+        {
+          "product": "低冰镍转高冰镍",
+          "status": "已投产",
+          "period": "2023年7月披露连续运行"
+        },
+        {
+          "product": "电积镍",
+          "status": "已投产",
+          "period": "2024年品牌及生产披露"
+        }
+      ]
     },
     "CN165": {
       "key": "trader",
       "label": "集团／基地总览",
-      "period": "具体工厂分别列示",
-      "note": "本条汇总相关业务，运行状态见下属生产项目。",
+      "period": "实际工厂见伟明盛青",
+      "note": "上市公司业务入口；国内电积镍生产由伟明盛青项目承载，不把总部重复计为工厂。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN165",
-      "sources": [],
+      "sources": [
+        {
+          "title": "伟明环保：发展历程",
+          "url": "https://www.cnweiming.com/index.aspx?id=1305&lanmuid=110&sublanmuid=1253"
+        },
+        {
+          "title": "伟明环保2025年年度报告",
+          "url": "https://www.cnweiming.com/e/upload/s1/article/file/2026/04/21143514.pdf"
+        }
+      ],
       "products": []
     },
     "CN166": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "operating",
+      "label": "一期已投产",
+      "period": "2025年底；2026年企业介绍",
+      "note": "浙江聚泰企业介绍确认舟山基地于2025年底建成投产。镍板线与二期废催化剂回收工程存在各自的建设节点，一期投产不能代表二期全部建成。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN166",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "浙江聚泰：企业发布的公司介绍",
+          "url": "https://www.zhaopin.com/companydetail/CZL1462069700.htm"
+        },
+        {
+          "title": "舟山日报：聚泰二期示范线建设，2026年5月24日",
+          "url": "https://epaper.wifizs.cn/zsrb/2026-05/24/content_99293473.html"
+        },
+        {
+          "title": "SMM：舟山镍板线调试及投产计划，2026年",
+          "url": "https://news.smm.cn/live/detail/103784451"
+        }
+      ],
+      "products": [
+        {
+          "product": "舟山一期",
+          "status": "企业确认已投产",
+          "period": "2025年底"
+        },
+        {
+          "product": "二期废催化剂回收示范线",
+          "status": "建设中",
+          "period": "2026年5月报道"
+        }
+      ]
     },
     "CN167": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "operating",
+      "label": "既有线已投产",
+      "period": "2026年半年度报告",
+      "note": "寒锐2026年半年报明确赣州主体从事电积钴、电积镍生产销售。2024年原镍线曾转用于钴，2025年再调整镍钴产品结构；2026年新扩建方案与既有生产线分别记录。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN167",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "寒锐钴业2026年半年度报告",
+          "url": "https://static.cninfo.com.cn/finalpage/2026-08-01/1225450619.PDF"
+        },
+        {
+          "title": "寒锐钴业：2026年5月13日投资者关系活动记录",
+          "url": "https://static.cninfo.com.cn/finalpage/2026-05-13/1225303576.PDF"
+        },
+        {
+          "title": "寒锐钴业2024年年度报告",
+          "url": "https://static.cninfo.com.cn/finalpage/2025-04-18/1223123636.PDF"
+        }
+      ],
+      "products": [
+        {
+          "product": "既有电积镍",
+          "status": "已投产／开展生产销售",
+          "period": "2026年上半年"
+        },
+        {
+          "product": "新增电积镍及电池级硫酸镍项目",
+          "status": "投资扩建方案",
+          "period": "2026年6月"
+        }
+      ]
     },
     "CN168": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "construction",
+      "label": "在建 · 投产前收尾",
+      "period": "2026年1月26日企业进度披露",
+      "note": "格派披露广西一期核心湿法厂房已完工，氧压浸出釜就位，工程处在收尾及联调准备阶段。尚未取得这批产线正式投产的后续公告。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN168",
-      "sources": [],
+      "sources": [
+        {
+          "title": "格派镍钴企业稿：广西项目建设收尾，2026年1月26日（转载）",
+          "url": "https://www.10100.com/article/123005282"
+        }
+      ],
       "products": []
     },
     "CN169": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "运行状态见具体时期披露",
-      "note": "建厂与历史事件已在正文及时间线列示，当前开停产仍需最新生产披露。",
+      "key": "operating",
+      "label": "一期已投产 · 二期试产",
+      "period": "2026年半年度报告",
+      "note": "盛屯2026年半年报明确贵州一期持续稳定生产、二期进入试生产。此处为贵州盐类加工项目，产品方向包括硫酸镍，不能写成整座纯镍厂。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN169",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "盛屯矿业2026年半年度报告",
+          "url": "https://static.cninfo.com.cn/finalpage/2026-07-30/1225446751.PDF"
+        },
+        {
+          "title": "盛屯矿业2025年年度报告",
+          "url": "https://www.600711.com/uploads/pdfs/177492497780028.pdf"
+        }
+      ],
+      "products": [
+        {
+          "product": "贵州一期",
+          "status": "持续稳定生产",
+          "period": "2026年上半年"
+        },
+        {
+          "product": "贵州二期",
+          "status": "试生产",
+          "period": "2026年上半年"
+        }
+      ]
     },
     "CN170": {
       "key": "trader",
       "label": "集团／基地总览",
       "period": "具体工厂分别列示",
-      "note": "本条汇总相关业务，运行状态见下属生产项目。",
+      "note": "江西飞南、江西兴南、江西巴顿为不同法人和设施；此条是集团江西业务入口，不能给集团总览套用某一条镍线的开停产状态。",
       "reviewed_at": "2026-09-21",
       "article_id": "CN170",
-      "sources": [],
+      "sources": [
+        {
+          "title": "飞南资源2024年年度报告",
+          "url": "https://static.cninfo.com.cn/finalpage/2025-04-12/1223069572.PDF"
+        },
+        {
+          "title": "飞南资源2025年年度报告",
+          "url": "https://static.cninfo.com.cn/finalpage/2026-04-11/1225092517.PDF"
+        }
+      ],
       "products": []
     }
   }
