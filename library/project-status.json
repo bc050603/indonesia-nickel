@@ -1,5 +1,5 @@
 {
-  "reviewed_at": "2026-09-21",
+  "reviewed_at": "2026-09-23",
   "definition": "运行状态以各条注明的资料时期为准。已投产不等于当前满负荷；历史已投产表示有旧生产记录但缺少近期运行披露；转产、停产和集团总览分别列示。",
   "projects": {
     "NPI004": {
@@ -1388,14 +1388,33 @@
       ]
     },
     "MHP018": {
-      "key": "unbuilt",
-      "label": "未投产 · 建设中",
-      "period": "2022—2023年投资及建设公告",
-      "note": "HPAL项目建设中，未确认商业首产。",
-      "reviewed_at": "2026-09-18",
+      "key": "trial",
+      "label": "机械完工／调试阶段",
+      "period": "2026年8月13日披露",
+      "note": "一条线机械完工，准备运行测试；尚未据此确认首批MHP或商业生产。",
+      "reviewed_at": "2026-09-23",
       "article_id": "MHP018",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "ANTARA: Vale says Pomalaa HPAL mechanical construction complete, 13 Aug 2026",
+          "url": "https://m.antaranews.com/amp/berita/5692560/vale-sebut-konstruksi-mekanis-smelter-nikel-hpal-pomalaa-tuntas"
+        },
+        {
+          "title": "PT Vale, Huayou and Ford sign nickel agreement, 30 Mar 2023",
+          "url": "https://vale.com/w/pt-sustainable-ev-industry/-/categories/3275897"
+        },
+        {
+          "title": "PT Vale Pomalaa autoclave milestone, Dec 2025",
+          "url": "https://vale.com/in/w/pomalaa-hpal-project-achieves-strategic-milestone-with-arrival-of-first-autoclaves"
+        }
+      ],
+      "products": [
+        {
+          "product": "MHP",
+          "status": "调试阶段",
+          "period": "2026年8月13日披露"
+        }
+      ]
     },
     "MHP020": {
       "key": "unbuilt",
@@ -1428,14 +1447,25 @@
       "products": []
     },
     "MHP023": {
-      "key": "unbuilt",
-      "label": "未投产 · 建设中",
-      "period": "2026年6月投资更新",
-      "note": "计划2027年中调试，尚未生产。",
-      "reviewed_at": "2026-09-18",
+      "key": "construction",
+      "label": "在建",
+      "period": "2026年6月投资公告",
+      "note": "独立在建HPAL项目，计划2027年调试；签约投资尚不代表付款交割完成。",
+      "reviewed_at": "2026-09-23",
       "article_id": "MHP023",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "Nickel Industries：TMI投资公告，2026年6月24日",
+          "url": "https://nickelindustries.com/carbon/assets/0007ea/000006/3081331.pdf"
+        }
+      ],
+      "products": [
+        {
+          "product": "MHP",
+          "status": "规划／建设中",
+          "period": "目标2027年"
+        }
+      ]
     },
     "MHP024": {
       "key": "unbuilt",
@@ -1806,13 +1836,33 @@
     },
     "RF003": {
       "key": "operating",
-      "label": "已投产 · 试产爬坡",
-      "period": "2024年试产；2025年4月转固",
-      "note": "精炼镍装置已建成并进入爬坡。",
-      "reviewed_at": "2026-09-18",
+      "label": "硫酸镍爬坡；硫酸钴首批出口",
+      "period": "2026年4月",
+      "note": "首批出口不代表产能完全释放。",
+      "reviewed_at": "2026-09-23",
       "article_id": "RF003",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "Huayou: investment announcement, 26 Jul 2023",
+          "url": "https://static.cninfo.com.cn/finalpage/2023-07-26/1217385396.PDF"
+        },
+        {
+          "title": "Huayou: Huaxiang first cobalt sulfate export",
+          "url": "https://caifuhao.eastmoney.com/news/20260403180540601866880"
+        }
+      ],
+      "products": [
+        {
+          "product": "硫酸镍",
+          "status": "爬坡",
+          "period": "2025年起"
+        },
+        {
+          "product": "硫酸钴",
+          "status": "首批出口",
+          "period": "2026年4月"
+        }
+      ]
     },
     "RF004": {
       "key": "trader",
@@ -2937,30 +2987,30 @@
     },
     "GL078": {
       "key": "care",
-      "label": "保养维护(C&M)",
-      "period": "底表核实年份：2026；状态始于2024年",
-      "note": "该记录按全球普查底表列为保养维护(C&M)。停产及变化背景见正文。",
-      "reviewed_at": "2026-09-18",
+      "label": "保养维护",
+      "period": "截至2026年6月30日",
+      "note": "BHP年度运营报告确认西澳镍业务自2024年12月起处于暂时暂停状态。",
+      "reviewed_at": "2026-09-23",
       "article_id": "GL078",
       "sources": [
         {
-          "title": "全球普查底表 · NI-078 · 总表第79行",
-          "url": "library/global-register.csv"
+          "title": "BHP 2026财年运营报告，第11页，2026年7月16日",
+          "url": "https://www.bhp.com/-/media/documents/media/reports-and-presentations/2026/260716_bhpoperationalreviewfortheyearended30june2026.pdf"
         }
       ],
       "products": []
     },
     "GL079": {
       "key": "care",
-      "label": "保养维护(C&M)",
-      "period": "底表核实年份：2026；状态始于2024年",
-      "note": "该记录按全球普查底表列为保养维护(C&M)。停产及变化背景见正文。",
-      "reviewed_at": "2026-09-18",
+      "label": "保养维护",
+      "period": "截至2026年6月30日",
+      "note": "BHP年度运营报告确认西澳镍业务自2024年12月起处于暂时暂停状态。",
+      "reviewed_at": "2026-09-23",
       "article_id": "GL079",
       "sources": [
         {
-          "title": "全球普查底表 · NI-079 · 总表第80行",
-          "url": "library/global-register.csv"
+          "title": "BHP 2026财年运营报告，第11页，2026年7月16日",
+          "url": "https://www.bhp.com/-/media/documents/media/reports-and-presentations/2026/260716_bhpoperationalreviewfortheyearended30june2026.pdf"
         }
       ],
       "products": []
@@ -2997,15 +3047,15 @@
     },
     "GL086": {
       "key": "planned",
-      "label": "规划中或可研",
-      "period": "底表核实年份：2026；状态始于2025年",
-      "note": "该记录按全球普查底表列为规划中或可研。",
-      "reviewed_at": "2026-09-18",
+      "label": "可行性研究阶段",
+      "period": "2026年6月3日公告",
+      "note": "可研完成时间延后；计划2026年10月底前更新后续安排，尚非投产承诺。",
+      "reviewed_at": "2026-09-23",
       "article_id": "GL086",
       "sources": [
         {
-          "title": "全球普查底表 · NI-086 · 总表第87行",
-          "url": "library/global-register.csv"
+          "title": "Ardea：Goongarrie Hub可行性研究更新，第1—2页，2026年6月3日",
+          "url": "https://ardearesources.com.au/downloads/announcements/arl_2026060301.pdf"
         }
       ],
       "products": []
@@ -4209,19 +4259,25 @@
       "products": []
     },
     "CN001": {
-      "key": "unknown",
-      "label": "状态待核",
-      "period": "2025-12",
-      "note": "法院已受理破产申请；破产程序本身不能证明已停产或已关闭，未见同期生产证据。",
-      "reviewed_at": "2026-09-21",
+      "key": "halted",
+      "label": "停产（2024年记录）",
+      "period": "2024年全年；2025年名单披露",
+      "note": "环境主管部门明确记载2024年全年停产；后续是否复产尚无新记录。",
+      "reviewed_at": "2026-09-23",
       "article_id": "CN001",
       "sources": [
         {
-          "title": "扬州一川破产公告",
-          "url": "https://pccz.court.gov.cn/pcgg/ggxq?id=11FDF6F842853C9917CD06BA455D4D77"
+          "title": "扬州市生态环境局关于2024年度环境信息强制性披露企业名单调整的公示",
+          "url": "https://sthj.yangzhou.gov.cn/zfxxgk/fdzdgk/ywgz/wrfz/art/2025/art_6e82a323eede446b94ba80a878a4df7e.html"
         }
       ],
-      "products": []
+      "products": [
+        {
+          "product": "镍铁合金",
+          "status": "停产",
+          "period": "2024"
+        }
+      ]
     },
     "CN002": {
       "key": "unknown",
@@ -4315,18 +4371,24 @@
     },
     "CN008": {
       "key": "halted",
-      "label": "已停产（2017资料）",
-      "period": "2014-2022",
-      "note": "重整材料明确记载2014年及2017年两度停产；2022年仅通过重整计划草案，未见复产证据。",
-      "reviewed_at": "2026-09-21",
+      "label": "停产",
+      "period": "历史停产；2024年重整报道",
+      "note": "原镍铁业务停产，重整方案拟转向临港化工配套服务。",
+      "reviewed_at": "2026-09-23",
       "article_id": "CN008",
       "sources": [
         {
-          "title": "江苏宝通重整公告",
-          "url": "https://www.gdssmpa.com/web/diyizixun/xingyedongtai/2022-11-03/24744.html"
+          "title": "司法“含绿量”提升发展“含金量”——宝通公司50亿债权破产重整成功",
+          "url": "http://jsfzb.xhby.net/pc/con/202401/18/content_1287685.html"
         }
       ],
-      "products": []
+      "products": [
+        {
+          "product": "高镍生铁",
+          "status": "历史停产",
+          "period": "2014—2022年重整材料记载"
+        }
+      ]
     },
     "CN009": {
       "key": "closed",
@@ -4659,38 +4721,50 @@
       "products": []
     },
     "CN031": {
-      "key": "unknown",
-      "label": "状态待核（历史产能）",
-      "period": "历史资料",
-      "note": "烨联披露30万吨镍合金属企业介绍，未获近期环保或生产状态证据。",
-      "reviewed_at": "2026-09-21",
+      "key": "operating",
+      "label": "已投产（2024年记录）",
+      "period": "2024-04",
+      "note": "仅覆盖现场检查时点。",
+      "reviewed_at": "2026-09-23",
       "article_id": "CN031",
       "sources": [
         {
-          "title": "烨联投资企业页面",
-          "url": "https://www.yusco.com.tw/yu_web_m/InvestCompany.aspx?Page=Company3"
+          "title": "宁德市蕉城生态环境局2024年1季度12369群众投诉件处理情况公示表",
+          "url": "http://www.jiaocheng.gov.cn/ztzl/jcqhjbhj/wryhjjg/202404/t20240425_1932161.htm"
         }
       ],
-      "products": []
+      "products": [
+        {
+          "product": "镍合金",
+          "status": "运行",
+          "period": "2024-04"
+        }
+      ]
     },
     "CN032": {
       "key": "historical",
       "label": "历史已投产",
-      "period": "2009-2013",
-      "note": "产业链报道记载一期镍铁项目及后续镍铁合金、热装精炼安排，支持鼎信历史镍合金生产；环境重点排放名录不作为生产证据，未据此断言当前炉况。",
-      "reviewed_at": "2026-09-21",
+      "period": "2017-01（2024年文件记载）",
+      "note": "未取得近期生产记录；2025年VOD为获批技改。",
+      "reviewed_at": "2026-09-23",
       "article_id": "CN032",
       "sources": [
         {
-          "title": "鼎信项目投资与产业链报道",
-          "url": "https://www.cnmn.com.cn/ShowNews1.aspx?id=29142"
+          "title": "宁德市生态环境局关于福建鼎信实业有限公司二期镍铁合金及深加工配套项目技改工程环境影响报告书的批复",
+          "url": "http://www.ningde.gov.cn/zwgk/zdxxgk/hjbhxx/jsdwhpxx/202503/t20250313_2023188.htm"
         },
         {
-          "title": "鼎信二期镍铁及深加工技改环评公示",
-          "url": "https://passport.cqlw.com/site/newsDetailsPrice.action?c1=9&c2=&id=498181c790b3e0eb0190b5d64ddf001a&s=&tag="
+          "title": "宁德市生态环境局关于鼎信实业RKEF不锈钢冶炼装备技术及配套项目环境影响报告书的批复",
+          "url": "https://sthjj.ningde.gov.cn/zwgk/jsdwhpxx/202412/t20241212_2000022.htm"
         }
       ],
-      "products": []
+      "products": [
+        {
+          "product": "精制镍合金",
+          "status": "历史投产记录",
+          "period": "2017-01"
+        }
+      ]
     },
     "CN033": {
       "key": "operating",
@@ -5232,19 +5306,25 @@
       "products": []
     },
     "CN068": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "历史资料",
-      "note": "项目推进领导小组反映行政协调，不等于环评验收或投产；未找到生产证据。 现有资料只描述当年的规划或建设，尚不能确定之后是否建成、取消或转作其他用途。",
-      "reviewed_at": "2026-09-21",
+      "key": "closed",
+      "label": "已破产倒闭",
+      "period": "2025-04",
+      "note": "不据此反推规划产线曾投产。",
+      "reviewed_at": "2026-09-23",
       "article_id": "CN068",
       "sources": [
         {
-          "title": "防城港项目推进文件",
-          "url": "https://www.fsou.net/html/text/lar/173230/17323013.html"
+          "title": "关于2024年度环境信息依法披露企业调整情况公示",
+          "url": "http://sthjj.fcgs.gov.cn/tzgg/t19762494.shtml"
         }
       ],
-      "products": []
+      "products": [
+        {
+          "product": "镍合金项目",
+          "status": "状态终止，未核实曾投产",
+          "period": "2025-04"
+        }
+      ]
     },
     "CN069": {
       "key": "operating",
@@ -5428,38 +5508,27 @@
       ]
     },
     "CN078": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "2021",
-      "note": "EPC及进度调整只记录2021年前后的建设与延期，未找到近期竣工、验收或产销；不将历史建设纪录标为当前建设中。",
-      "reviewed_at": "2026-09-21",
+      "key": "operating",
+      "label": "已投产（分期建设）",
+      "period": "2022—2024-01",
+      "note": "2022年5条线投产；2024年披露18条线建成。未据此推定18条线同时生产。",
+      "reviewed_at": "2026-09-23",
       "article_id": "CN078",
       "sources": [
         {
-          "title": "中钢国际项目进度调整公告",
-          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12557741&stockid=000928"
+          "title": "以钢铸魂展雄风——奈曼旗全力打造东北地区最大不锈钢及制品生产基地综述",
+          "url": "https://www.tongliao.gov.cn/xwzx/jrgz/202401/t20240125_638093.html"
+        },
+        {
+          "title": "通辽市奈曼旗2023年政府工作报告",
+          "url": "https://www.tongliao.gov.cn/zwgk/szf/zfgzbg/nmq/202302/t20230203_43072.html"
         }
       ],
       "products": [
         {
-          "product": "镍铁",
-          "status": "unknown",
-          "period": "2021"
-        },
-        {
-          "product": "硅锰",
-          "status": "unknown",
-          "period": "2021"
-        },
-        {
-          "product": "铬铁",
-          "status": "unknown",
-          "period": "2021"
-        },
-        {
-          "product": "不锈钢（设计）",
-          "status": "unknown",
-          "period": "2021"
+          "product": "镍铁合金",
+          "status": "分阶段投产",
+          "period": "2022—2024-01"
         }
       ]
     },
@@ -5692,23 +5761,23 @@
       ]
     },
     "CN088": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "2019",
-      "note": "后评价和旧交易资料不足以确认广西银亿当前生产状态。",
-      "reviewed_at": "2026-09-21",
+      "key": "operating",
+      "label": "已投产（2024年记录）",
+      "period": "2024年前三季度",
+      "note": "后续实际运行待核。",
+      "reviewed_at": "2026-09-23",
       "article_id": "CN088",
       "sources": [
         {
-          "title": "广西生态环境厅：广西银亿项目环境影响后评价",
-          "url": "https://sthjt.gxzf.gov.cn/zfxxgk/zfxxgkgl/fdzdgknr/hjjccf/xzxk/hjyxslgk/W020191125643897034719.pdf"
+          "title": "玉林加工贸易开启“加速跑”",
+          "url": "http://swj.yulin.gov.cn/zwyw/t19388638.shtml"
         }
       ],
       "products": [
         {
-          "product": "镍钴金属及盐类",
-          "status": "unknown",
-          "period": "2019"
+          "product": "硫酸镍",
+          "status": "在产",
+          "period": "2024年前三季度"
         }
       ]
     },
@@ -5790,12 +5859,16 @@
       "label": "已停产",
       "period": "2024–2026",
       "note": "合纵科技2025年审计报告明确：天津茂联2024年4月技改后因资金短缺停工停产，至报告批准报出日未复产。",
-      "reviewed_at": "2026-09-21",
+      "reviewed_at": "2026-09-23",
       "article_id": "CN092",
       "sources": [
         {
-          "title": "合纵科技2025年审计报告：天津茂联停工停产",
+          "title": "合纵科技2025年度审计报告，附注第98页（PDF第115页）",
           "url": "https://static.cninfo.com.cn/finalpage/2026-04-29/1225249532.PDF"
+        },
+        {
+          "title": "合纵科技2024年度业绩说明会记录，第2页，2025年5月16日",
+          "url": "https://static.cninfo.com.cn/finalpage/2025-05-19/1223586345.PDF"
         }
       ],
       "products": [
@@ -5874,23 +5947,27 @@
       ]
     },
     "CN095": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "2022",
-      "note": "仅有项目环评材料，未找到验收或产销证据。",
-      "reviewed_at": "2026-09-21",
+      "key": "operating",
+      "label": "已投产（硫酸镍）",
+      "period": "2024-11",
+      "note": "三元前驱体线及四氧化三钴线分别需以验收或产量核验。",
+      "reviewed_at": "2026-09-23",
       "article_id": "CN095",
       "sources": [
         {
-          "title": "顺应环评材料",
-          "url": "https://qxb-img-osscache.qixin.com/qianlima/关于2022年5月23日受理建设项目环境影响评价文件情况的公告1-公示本-顺应研究院项目.pdf"
+          "title": "四川“忙起来了”②|支持企业扩产发展 四川“税电指数贷”持续扩面增效",
+          "url": "http://finance.sina.com.cn/jjxw/2023-06-08/doc-imywqkvc2647349.shtml"
+        },
+        {
+          "title": "国网眉山供电公司：追“高”逐“新” 澎湃电力赋动能",
+          "url": "https://www.scjjrb.com/2024/11/22/99419268.html"
         }
       ],
       "products": [
         {
-          "product": "电池材料（项目）",
-          "status": "unknown",
-          "period": "2022"
+          "product": "硫酸镍",
+          "status": "运行",
+          "period": "2024-11"
         }
       ]
     },
@@ -6543,21 +6620,28 @@
     "CN121": {
       "key": "unknown",
       "label": "运行状态待核",
-      "period": "2024",
-      "note": "企业访谈介绍湿法资源回收业务，清洁生产名单也收录了该主体；目前尚未取得能说明近期具体产线开工的生产记录。",
-      "reviewed_at": "2026-09-21",
+      "period": "2025-11",
+      "note": "2025年技改方案获批；竣工及各产品实际运行时间仍待补充。",
+      "reviewed_at": "2026-09-23",
       "article_id": "CN121",
       "sources": [
         {
-          "title": "亚洲金属网专访",
-          "url": "https://www.asianmetal.cn/metal_cron/index_lunshi_huyude.shtml"
-        },
-        {
-          "title": "清洁生产名录",
-          "url": "https://www.cnmn.com.cn/fav/files/%E5%AE%9E%E6%96%BD%E6%B8%85%E6%B4%81%E7%94%9F%E4%BA%A7%E5%B9%B6%E9%80%9A%E8%BF%87%E8%AF%84%E4%BC%B0%E9%AA%8C%E6%94%B6%E7%9A%84%E9%87%8D%E7%82%B9%E4%BC%81%E4%B8%9A%E5%90%8D%E5%8D%95%EF%BC%88第5批）.pdf"
+          "title": "市数据局关于南通新玮镍钴科技发展有限公司电子专用材料技术改造项目环境影响报告书的批复",
+          "url": "https://shuju.nantong.gov.cn/ntsxzspj/upload/c00d30f6-812a-448f-bab9-27fb85342410.pdf"
         }
       ],
-      "products": []
+      "products": [
+        {
+          "product": "硫酸镍",
+          "status": "获批取消，实际停产日期未披露",
+          "period": "2025-11"
+        },
+        {
+          "product": "碳酸镍、高纯镍板",
+          "status": "获批新增，实际投产待核",
+          "period": "2025-11"
+        }
+      ]
     },
     "CN122": {
       "key": "unknown",
@@ -7334,31 +7418,27 @@
     },
     "CN152": {
       "key": "trial",
-      "label": "一期试产",
-      "period": "2024年3—7月；2024年8月报道",
-      "note": "铜仁市2024年8月的现场报道记载，贵州星茂一期于当年3月试生产，至7月已有碳酸锂产出。该厂处理退役电池并回收其中的金属，二期按另一个建设阶段推进。现有生产记录支持一期试产，尚不宜把整个规划项目写成全部商业投产。",
-      "reviewed_at": "2026-09-21",
+      "label": "试生产（镍钴车间）",
+      "period": "2025-02至2025-04报道时",
+      "note": "二期及商业化达产状态待核。",
+      "reviewed_at": "2026-09-23",
       "article_id": "CN152",
       "sources": [
         {
-          "title": "铜仁人才报道",
-          "url": "https://www.tongren.gov.cn/2024/0820/323090.shtml"
-        },
-        {
-          "title": "铜仁产业报道",
-          "url": "https://www.tongren.gov.cn/2024/0615/319633.shtml"
+          "title": "大龙开发区：奋进拼搏 擘画高质量发展新画卷",
+          "url": "https://www.dalong.gov.cn/xwzx/yqyw/202504/t20250404_87474274.html"
         }
       ],
       "products": [
         {
-          "product": "一期电池回收项目",
-          "status": "试生产，已有碳酸锂产出",
-          "period": "2024年3—7月"
+          "product": "硫酸镍",
+          "status": "试生产",
+          "period": "2025-02至2025-04报道时"
         },
         {
-          "product": "二期项目",
-          "status": "建设阶段",
-          "period": "2024年报道"
+          "product": "氧化钴、碳酸钴",
+          "status": "试生产",
+          "period": "2025-02至2025-04报道时"
         }
       ]
     },

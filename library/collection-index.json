@@ -1,5 +1,5 @@
 {
-  "asof": "2026-09-21",
+  "asof": "2026-09-23",
   "topics": [
     {
       "id": "nickel-sulphate",
@@ -343,18 +343,18 @@
     },
     {
       "date": "1879",
-      "label": "开始生产（底表投产年）",
-      "detail": "沙莱克斯角(Pointe Chaleix)冶炼厂（新喀里多尼亚第一座镍冶炼厂）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
-      "kind": "投产",
+      "label": "已拆除",
+      "detail": "推测因1910年Doniambo厂建成及产能整合而被取代，但具体关闭年份及原因未在本轮检索中查实",
+      "kind": "运营变化",
       "project_id": "GL071",
       "source_url": "library/global-register.csv",
       "source_title": "全球普查底表 · NI-071 · 总表第72行"
     },
     {
       "date": "1879",
-      "label": "已拆除",
-      "detail": "推测因1910年Doniambo厂建成及产能整合而被取代，但具体关闭年份及原因未在本轮检索中查实",
-      "kind": "运营变化",
+      "label": "开始生产（底表投产年）",
+      "detail": "沙莱克斯角(Pointe Chaleix)冶炼厂（新喀里多尼亚第一座镍冶炼厂）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
       "project_id": "GL071",
       "source_url": "library/global-register.csv",
       "source_title": "全球普查底表 · NI-071 · 总表第72行"
@@ -1216,18 +1216,18 @@
     },
     {
       "date": "1975",
-      "label": "开始生产（底表投产年）",
-      "detail": "日本矿业 镍钴分离厂(历史，选址未确认)的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
-      "kind": "投产",
+      "label": "不详",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
       "project_id": "GL042",
       "source_url": "library/global-register.csv",
       "source_title": "全球普查底表 · NI-042 · 总表第43行"
     },
     {
       "date": "1975",
-      "label": "不详",
-      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
-      "kind": "运营变化",
+      "label": "开始生产（底表投产年）",
+      "detail": "日本矿业 镍钴分离厂(历史，选址未确认)的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
       "project_id": "GL042",
       "source_url": "library/global-register.csv",
       "source_title": "全球普查底表 · NI-042 · 总表第43行"
@@ -1477,18 +1477,18 @@
     },
     {
       "date": "1997",
-      "label": "开始生产（底表投产年）",
-      "detail": "哈特利铂矿铂族金属贱金属精炼厂(副产镍)的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
-      "kind": "投产",
+      "label": "不详",
+      "detail": "1997年10月首次发运后，仅见于当年USGS Minerals Yearbook记录，此后未见于任何后续版本，具体停产/退出的年份及原因本次调研未能独立核实，列为重要缺口。",
+      "kind": "运营变化",
       "project_id": "GL154",
       "source_url": "library/global-register.csv",
       "source_title": "全球普查底表 · NI-154 · 总表第155行"
     },
     {
       "date": "1997",
-      "label": "不详",
-      "detail": "1997年10月首次发运后，仅见于当年USGS Minerals Yearbook记录，此后未见于任何后续版本，具体停产/退出的年份及原因本次调研未能独立核实，列为重要缺口。",
-      "kind": "运营变化",
+      "label": "开始生产（底表投产年）",
+      "detail": "哈特利铂矿铂族金属贱金属精炼厂(副产镍)的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
       "project_id": "GL154",
       "source_url": "library/global-register.csv",
       "source_title": "全球普查底表 · NI-154 · 总表第155行"
@@ -1819,21 +1819,21 @@
     },
     {
       "date": "2008",
-      "label": "进入停产维护",
-      "detail": "Cawse自2008年进入停产维护，历史HPAL及氢氧化物中间品路线不再形成现役供应；未取得截至2026年的重启证据。",
-      "kind": "经营",
-      "source_url": "https://nornickel.com/upload/iblock/00a/fy2014_ifrs_press_release_ang_final_1_full.pdf",
-      "source_title": "Nornickel2014审计业绩",
-      "project_id": "MHP040"
-    },
-    {
-      "date": "2008",
       "label": "保养维护(C&M)",
       "detail": "2008年全球金融危机导致镍价大幅下跌，运营不再经济，进入保养维护。此后历经Norilsk Nickel、Wingstar Investments易主，但均未重新投产，长期处于保养维护状态。",
       "kind": "运营变化",
       "project_id": "MHP040",
       "source_url": "library/global-register.csv",
       "source_title": "全球普查底表 · NI-082 · 总表第83行"
+    },
+    {
+      "date": "2008",
+      "label": "进入停产维护",
+      "detail": "Cawse自2008年进入停产维护，历史HPAL及氢氧化物中间品路线不再形成现役供应；未取得截至2026年的重启证据。",
+      "kind": "经营",
+      "source_url": "https://nornickel.com/upload/iblock/00a/fy2014_ifrs_press_release_ang_final_1_full.pdf",
+      "source_title": "Nornickel2014审计业绩",
+      "project_id": "MHP040"
     },
     {
       "date": "2008",
@@ -2278,21 +2278,21 @@
     },
     {
       "date": "2012",
-      "label": "瑞木开始生产MHP",
-      "detail": "项目于2012年开始生产混合氢氧化镍钴，确认HPAL工艺进入运营；具体首产月份和当年爬坡曲线未在现有资料中披露。",
-      "kind": "投产",
-      "source_url": "https://nickel28.com/_resources/financials/Nickel-28-FS-December-31-2020-Apr-30.pdf?v=092002",
-      "source_title": "Nickel 28 2020年度财务报告",
-      "project_id": "MHP037"
-    },
-    {
-      "date": "2012",
       "label": "开始生产（底表投产年）",
       "detail": "拉穆(Ramu)镍钴项目——巴萨穆克(Basamuk)高压酸浸精炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
       "kind": "投产",
       "project_id": "MHP037",
       "source_url": "library/global-register.csv",
       "source_title": "全球普查底表 · NI-070 · 总表第71行"
+    },
+    {
+      "date": "2012",
+      "label": "瑞木开始生产MHP",
+      "detail": "项目于2012年开始生产混合氢氧化镍钴，确认HPAL工艺进入运营；具体首产月份和当年爬坡曲线未在现有资料中披露。",
+      "kind": "投产",
+      "source_url": "https://nickel28.com/_resources/financials/Nickel-28-FS-December-31-2020-Apr-30.pdf?v=092002",
+      "source_title": "Nickel 28 2020年度财务报告",
+      "project_id": "MHP037"
     },
     {
       "date": "2012",
@@ -3031,6 +3031,15 @@
       "source_url": "https://www.central-omega.com/operation/smelter/overview",
       "source_title": "Central Omega冶炼业务官网",
       "project_id": "NPI056"
+    },
+    {
+      "date": "2017-01",
+      "label": "一期、二期精炼系统投产",
+      "detail": "2024年环评批复追述精炼系统投入生产的时间。",
+      "kind": "投产",
+      "source_url": "https://sthjj.ningde.gov.cn/zwgk/jsdwhpxx/202412/t20241212_2000022.htm",
+      "project_id": "CN032",
+      "source_title": "宁德市生态环境局关于鼎信实业RKEF不锈钢冶炼装备技术及配套项目环境影响报告书的批复"
     },
     {
       "date": "2017-04",
@@ -4222,6 +4231,15 @@
     },
     {
       "date": "2022",
+      "label": "5条镍铁线投产",
+      "detail": "奈曼旗2023年政府工作报告回顾2022年建设成果。",
+      "kind": "投产",
+      "source_url": "https://www.tongliao.gov.cn/zwgk/szf/zfgzbg/nmq/202302/t20230203_43072.html",
+      "project_id": "CN078",
+      "source_title": "通辽市奈曼旗2023年政府工作报告"
+    },
+    {
+      "date": "2022",
       "label": "永久关闭",
       "detail": "长期亏损与债务危机（截至停产时总债务约4.7亿欧元，其中3.512亿欧元欠国家电力公司PPC）；多轮私有化/资产处置招标失败（2021年6轮非约束性投标未能达成交易；2024年8月GEK Terna/AD Holdings财团以'全球能源和镍产品市场不利变化'及法律纠纷为由退出）；2020年2月起进入特别管理程序，2022年7月25日工厂正式全面停产，1,061名员工遭解雇（约400人短期续聘、约100人退休），希腊国家为此支付遣散费约2,237.7万欧元",
       "kind": "运营变化",
@@ -4537,6 +4555,15 @@
     },
     {
       "date": "2022-10",
+      "label": "投料试产",
+      "detail": "2023年报道追述投料试产，并记载此后销售钼液和硫酸镍。",
+      "kind": "试产",
+      "source_url": "http://finance.sina.com.cn/jjxw/2023-06-08/doc-imywqkvc2647349.shtml",
+      "project_id": "CN095",
+      "source_title": "四川“忙起来了”②|支持企业扩产发展 四川“税电指数贷”持续扩面增效"
+    },
+    {
+      "date": "2022-10",
       "label": "浙江子公司设立",
       "detail": "企业采访回顾浙江业务布局的起点。",
       "kind": "成立",
@@ -4708,6 +4735,15 @@
     },
     {
       "date": "2023",
+      "label": "在产",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
+      "project_id": "GL051",
+      "source_url": "library/global-register.csv",
+      "source_title": "全球普查底表 · NI-051 · 总表第52行"
+    },
+    {
+      "date": "2023",
       "label": "开始生产（底表投产年）",
       "detail": "POSCO 光阳高纯镍精炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
       "kind": "投产",
@@ -4720,24 +4756,15 @@
       "label": "在产",
       "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
       "kind": "运营变化",
-      "project_id": "GL051",
-      "source_url": "library/global-register.csv",
-      "source_title": "全球普查底表 · NI-051 · 总表第52行"
-    },
-    {
-      "date": "2023",
-      "label": "开始生产（底表投产年）",
-      "detail": "Torecom(LS MnM子公司) 牙山硫酸镍精炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
-      "kind": "投产",
       "project_id": "GL052",
       "source_url": "library/global-register.csv",
       "source_title": "全球普查底表 · NI-052 · 总表第53行"
     },
     {
       "date": "2023",
-      "label": "在产",
-      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
-      "kind": "运营变化",
+      "label": "开始生产（底表投产年）",
+      "detail": "Torecom(LS MnM子公司) 牙山硫酸镍精炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
       "project_id": "GL052",
       "source_url": "library/global-register.csv",
       "source_title": "全球普查底表 · NI-052 · 总表第53行"
@@ -5302,6 +5329,15 @@
     },
     {
       "date": "2024",
+      "label": "全年停产",
+      "detail": "被移出环境信息依法披露名单，表内原因为“全年停产”。",
+      "kind": "运行变化",
+      "source_url": "https://sthj.yangzhou.gov.cn/zfxxgk/fdzdgk/ywgz/wrfz/art/2025/art_6e82a323eede446b94ba80a878a4df7e.html",
+      "project_id": "CN001",
+      "source_title": "扬州市生态环境局关于2024年度环境信息强制性披露企业名单调整的公示"
+    },
+    {
+      "date": "2024",
       "label": "技改线索",
       "detail": "督察办理材料称公司实施技术改造并处于停产状态。",
       "kind": "环境与技改",
@@ -5670,6 +5706,24 @@
       "project_id": "RF003"
     },
     {
+      "date": "2024-01-18",
+      "label": "披露重整后业务方向",
+      "detail": "司法报道介绍拟从镍铁加工转向临港化工配套服务。",
+      "kind": "重整",
+      "source_url": "http://jsfzb.xhby.net/pc/con/202401/18/content_1287685.html",
+      "project_id": "CN008",
+      "source_title": "司法“含绿量”提升发展“含金量”——宝通公司50亿债权破产重整成功"
+    },
+    {
+      "date": "2024-01-25",
+      "label": "披露18条线建成",
+      "detail": "当地项目综述记载18条镍铁生产线已建成。",
+      "kind": "建设",
+      "source_url": "https://www.tongliao.gov.cn/xwzx/jrgz/202401/t20240125_638093.html",
+      "project_id": "CN078",
+      "source_title": "以钢铸魂展雄风——奈曼旗全力打造东北地区最大不锈钢及制品生产基地综述"
+    },
+    {
       "date": "2024-01-26",
       "label": "Harum增持至80.7%",
       "detail": "Harum披露对Westrong的权益升至80.7%，华新同期退出原29.5%权益；该交易更新了控制关系，不能继续把华新写成当前控股方。",
@@ -5704,6 +5758,15 @@
       "source_url": "https://www.harumenergy.com/cfind/source/files/mdna/1q-2024-summary-and-highlights.pdf",
       "source_title": "Harum 2024Q1 Summary and Highlights",
       "project_id": "NPI021"
+    },
+    {
+      "date": "2024-04",
+      "label": "技改后停工停产",
+      "detail": "2025年度审计报告追述技术改造后因资金不足停工，截至该报告批准报出日尚未复产。",
+      "kind": "运行变化",
+      "source_url": "https://static.cninfo.com.cn/finalpage/2026-04-29/1225249532.PDF",
+      "project_id": "CN092",
+      "source_title": "合纵科技2025年度审计报告，附注第98页（PDF第115页）"
     },
     {
       "date": "2024-04",
@@ -5841,6 +5904,15 @@
       "project_id": "MHP017"
     },
     {
+      "date": "2024-08",
+      "label": "三线满负荷",
+      "detail": "年报称三条MHP线自该月满负荷运行。",
+      "kind": "运行变化",
+      "source_url": "https://tbpnickel.com/files/pdf_assets/Harita%20Nickel%202024%20Annual%20Report.pdf",
+      "project_id": "MHP005",
+      "source_title": "Harita Nickel 2024 Annual Report"
+    },
+    {
       "date": "2024-08-24",
       "label": "105万吨镍铁项目全线投产",
       "detail": "振石披露硕石105万吨镍铁项目于8月24日实现全线投产，并在年内达到设计运行水平。项目的完整产线投入运行，加强了集团在印尼的镍铁供应与不锈钢原料配套。",
@@ -5931,6 +6003,15 @@
       "project_id": "NPI044"
     },
     {
+      "date": "2024-11-22",
+      "label": "结晶车间订单生产",
+      "detail": "现场报道记录结晶车间生产运行。",
+      "kind": "经营",
+      "source_url": "https://www.scjjrb.com/2024/11/22/99419268.html",
+      "project_id": "CN095",
+      "source_title": "国网眉山供电公司：追“高”逐“新” 澎湃电力赋动能"
+    },
+    {
       "date": "2024-12",
       "label": "首批生产线陆续投运",
       "detail": "KPS自2024年12月起按生产线分批投运，项目由建设转入爬坡；这一日期只确认部分装置开始运行，不代表十二条线已全部投产。",
@@ -5938,6 +6019,15 @@
       "source_url": "https://ir-upload.realxen.net/iis/2245/uploads/iis/2026/12330820-0.PDF",
       "source_title": "力勤资源2026中期报告",
       "project_id": "NPI046"
+    },
+    {
+      "date": "2024-12-13",
+      "label": "TBP增持至20%",
+      "detail": "Harita年报记载TBP所持ONC权益从10%增加到20%。",
+      "kind": "股权",
+      "source_url": "https://tbpnickel.com/files/pdf_assets/Harita%20Nickel%202024%20Annual%20Report.pdf",
+      "project_id": "MHP005",
+      "source_title": "Harita Nickel 2024 Annual Report"
     },
     {
       "date": "2024-12-20",
@@ -6049,18 +6139,18 @@
     },
     {
       "date": "2025",
-      "label": "披露电积镍一期稳定生产",
-      "detail": "截至2025年报期，一期稳定生产，二期仍在调试。",
-      "kind": "运行披露",
+      "label": "与邦普建立前驱体合作框架",
+      "detail": "报告期内签署三年合作框架，产品为指定型号三元前驱体。",
+      "kind": "客户与协议",
       "source_url": "https://www.cnweiming.com/e/upload/s1/article/file/2026/04/21143514.pdf",
       "source_title": "伟明环保2025年年度报告",
       "project_id": "CN149"
     },
     {
       "date": "2025",
-      "label": "与邦普建立前驱体合作框架",
-      "detail": "报告期内签署三年合作框架，产品为指定型号三元前驱体。",
-      "kind": "客户与协议",
+      "label": "披露电积镍一期稳定生产",
+      "detail": "截至2025年报期，一期稳定生产，二期仍在调试。",
+      "kind": "运行披露",
       "source_url": "https://www.cnweiming.com/e/upload/s1/article/file/2026/04/21143514.pdf",
       "source_title": "伟明环保2025年年度报告",
       "project_id": "CN149"
@@ -6400,21 +6490,21 @@
     },
     {
       "date": "2025",
-      "label": "在产但产量下降",
-      "detail": "Glencore全年生产报告显示Murrin Murrin仍有实际生产但产量下降；集团总量不能直接写成本厂名义能力，最新逐月负荷仍待核。",
-      "kind": "经营",
-      "source_url": "https://www.glencore.com/media-and-insights/news/full-year-2025-production-report",
-      "source_title": "Glencore2025生产报告",
-      "project_id": "MHP049"
-    },
-    {
-      "date": "2025",
       "label": "在产",
       "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
       "kind": "运营变化",
       "project_id": "MHP049",
       "source_url": "library/global-register.csv",
       "source_title": "全球普查底表 · NI-083 · 总表第84行"
+    },
+    {
+      "date": "2025",
+      "label": "在产但产量下降",
+      "detail": "Glencore全年生产报告显示Murrin Murrin仍有实际生产但产量下降；集团总量不能直接写成本厂名义能力，最新逐月负荷仍待核。",
+      "kind": "经营",
+      "source_url": "https://www.glencore.com/media-and-insights/news/full-year-2025-production-report",
+      "source_title": "Glencore2025生产报告",
+      "project_id": "MHP049"
     },
     {
       "date": "2025",
@@ -6541,6 +6631,15 @@
       "source_url": "https://www.leiyang.gov.cn/xxgk/bmxxgkml/zfpcjg/sjjkfq/tzgg/20230202/i2922031.html",
       "source_title": "耒阳二期环评",
       "project_id": "CN150"
+    },
+    {
+      "date": "2025-02",
+      "label": "镍钴车间试生产",
+      "detail": "开发区2025年4月报道追述一期镍钴车间试生产并披露小批量产品。",
+      "kind": "试产",
+      "source_url": "https://www.dalong.gov.cn/xwzx/yqyw/202504/t20250404_87474274.html",
+      "project_id": "CN152",
+      "source_title": "大龙开发区：奋进拼搏 擘画高质量发展新画卷"
     },
     {
       "date": "2025-02",
@@ -6768,6 +6867,24 @@
       "project_id": "NPI055"
     },
     {
+      "date": "2025-07-18",
+      "label": "公布矿山与选矿厂可研",
+      "detail": "研究范围为每年处理340万吨矿石的地下矿山、选矿及配套设施。",
+      "kind": "可研",
+      "source_url": "https://ir.lifezonemetals.com/news/press-releases/news-details/2025/Lifezone-Metals-Files-the-Feasibility-Study-Technical-Report-Summary-for-the-Kabanga-Nickel-Project-in-Tanzania/default.aspx",
+      "project_id": "GL148",
+      "source_title": "Lifezone：卡班加可行性研究公告，2025年7月18日"
+    },
+    {
+      "date": "2025-07-18",
+      "label": "取得KNL全部股权",
+      "detail": "收购BHP的17%权益后，Lifezone持有KNL 100%；Tembo Nickel股权为KNL 84%、坦桑尼亚政府16%。",
+      "kind": "股权",
+      "source_url": "https://ir.lifezonemetals.com/news/press-releases/news-details/2025/Lifezone-Metals-Consolidates-Control-of-the-World-Class-Kabanga-Nickel-Copper-Cobalt-Sulfide-Project/default.aspx",
+      "project_id": "GL148",
+      "source_title": "Lifezone：收购BHP的KNL权益，2025年7月18日"
+    },
+    {
       "date": "2025-09-10",
       "label": "短流程项目环评获批报道",
       "detail": "行业报道介绍许昌市生态环境局批准鑫金汇不锈钢短流程再生不锈钢工艺优化项目。",
@@ -6796,6 +6913,15 @@
     },
     {
       "date": "2025-10",
+      "label": "新电积镍线投产",
+      "detail": "镍冶炼厂电积二车间新增年产3万吨高品质镍基新材料生产线。",
+      "kind": "投产",
+      "source_url": "http://www.jcs.gov.cn/zfxxgk/fdzdgknr/zdmsxx/kjgl/art/2025/art_07450fb7b49141018c77a5e664e47fb7.html",
+      "project_id": "CN153",
+      "source_title": "“智”造升级 向“新”生长——金川集团高品质镍基新材料生产见闻"
+    },
+    {
+      "date": "2025-10",
       "label": "恢复高冰镍生产",
       "detail": "项目在取得更有利的销售合同后于10月恢复高冰镍生产，说明工艺可在NPI与高冰镍之间切换；恢复日不能当作首次投产日。",
       "kind": "经营",
@@ -6811,6 +6937,15 @@
       "source_url": "https://stockmc.xueqiu.com/202510/603799_20251030_WU4A.pdf",
       "source_title": "华友：ENI股东、财务与爬坡情况（2025-10-30）",
       "project_id": "RF002"
+    },
+    {
+      "date": "2025-11-27",
+      "label": "技改环评获批",
+      "detail": "批复列明取消原硫酸镍等产品，并新增碳酸镍和高纯镍板等产品方案。",
+      "kind": "审批",
+      "source_url": "https://shuju.nantong.gov.cn/ntsxzspj/upload/c00d30f6-812a-448f-bab9-27fb85342410.pdf",
+      "project_id": "CN121",
+      "source_title": "市数据局关于南通新玮镍钴科技发展有限公司电子专用材料技术改造项目环境影响报告书的批复"
     },
     {
       "date": "2025-12",
@@ -6874,6 +7009,15 @@
       "source_url": "https://www.lme.com/-/media/Files/News/Notices/2025/12/BRANDS-25-235-LISTING-OF-PRIMARY-NICKEL-BRAND-PTENICO.pdf?sc_lang=en",
       "source_title": "LME Notice 25/235：PTENICO品牌上市",
       "project_id": "RF002"
+    },
+    {
+      "date": "2025-12-25",
+      "label": "董事会通过终止项目",
+      "detail": "盛屯董事会审议通过终止IWIP 4万吨高冰镍项目并注销PT ChengMach Nickel Indonesia。",
+      "kind": "board resolution",
+      "source_url": "https://static.cninfo.com.cn/finalpage/2025-12-26/1224898913.PDF",
+      "project_id": "P38",
+      "source_title": "盛屯矿业集团股份有限公司对外投资进展公告（2025-078）"
     },
     {
       "date": "2025-12-30",
@@ -6967,18 +7111,18 @@
     },
     {
       "date": "2026",
-      "label": "开始生产（底表投产年）",
-      "detail": "高丽亚锌 温山'一体化镍冶炼厂'(新建)的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
-      "kind": "投产",
+      "label": "在建",
+      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+      "kind": "运营变化",
       "project_id": "GL053",
       "source_url": "library/global-register.csv",
       "source_title": "全球普查底表 · NI-053 · 总表第54行"
     },
     {
       "date": "2026",
-      "label": "在建",
-      "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
-      "kind": "运营变化",
+      "label": "开始生产（底表投产年）",
+      "detail": "高丽亚锌 温山'一体化镍冶炼厂'(新建)的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+      "kind": "投产",
       "project_id": "GL053",
       "source_url": "library/global-register.csv",
       "source_title": "全球普查底表 · NI-053 · 总表第54行"
@@ -7290,6 +7434,15 @@
       "project_id": "MHP048"
     },
     {
+      "date": "2026-02-11",
+      "label": "终止增资扩股",
+      "detail": "格林美决定终止IQEM增资扩股和股权重组事项。",
+      "kind": "股权",
+      "source_url": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=11963313&stockid=002340",
+      "project_id": "RF004",
+      "source_title": "GEM termination announcement, 12 Feb 2026"
+    },
+    {
       "date": "2026-03",
       "label": "P05试验线点火",
       "detail": "华星P05富氧侧吹试验线在2026年3月点火，设备进入热态试验。点火只确认调试阶段，不代表已经连续生产合格冰镍或完成商业销售。",
@@ -7333,6 +7486,15 @@
       "source_url": "https://www1.hkexnews.hk/app/sehk/2026/108471/documents/sehk26042703391.pdf",
       "source_title": "格林美2026年香港申请稿：子公司资料",
       "project_id": "RF004"
+    },
+    {
+      "date": "2026-04-02",
+      "label": "硫酸钴首批出口",
+      "detail": "公司报道华翔举行首批硫酸钴产品出口仪式。",
+      "kind": "首次出口",
+      "source_url": "https://caifuhao.eastmoney.com/news/20260403180540601866880",
+      "project_id": "RF003",
+      "source_title": "Huayou: Huaxiang first cobalt sulfate export"
     },
     {
       "date": "2026-04-10",
@@ -7425,6 +7587,15 @@
       "project_id": "P09"
     },
     {
+      "date": "2026-06-03",
+      "label": "可研进度调整",
+      "detail": "公司宣布最终可研报告延后，预计10月底前更新推进安排。",
+      "kind": "运行变化",
+      "source_url": "https://ardearesources.com.au/downloads/announcements/arl_2026060301.pdf",
+      "project_id": "GL086",
+      "source_title": "Ardea：Goongarrie Hub可行性研究更新，第1—2页，2026年6月3日"
+    },
+    {
       "date": "2026-06-04",
       "label": "董事会审议镍业务扩建",
       "detail": "电积镍、硫酸镍投资方案的审议节点。",
@@ -7435,12 +7606,12 @@
     },
     {
       "date": "2026-06-17",
-      "label": "退出冰镍转换投资",
-      "detail": "Nickel Industries正式撤回ONI冰镍转换项目投资，意味着该方案不再按原路径推进；不能继续把转换炉写成在建、已投产或既成高冰镍能力。",
-      "kind": "规划",
+      "label": "取消转换投资",
+      "detail": "NIC宣布不再投资ONI matte converter，上海鼎信退回1,500万美元期权费。",
+      "kind": "投资调整",
       "source_url": "https://nickelindustries.com/carbon/assets/0007ea/000006/3078560.pdf",
-      "source_title": "Withdrawal from matte conversion project",
-      "project_id": "NPI031"
+      "project_id": "NPI031",
+      "source_title": "Nickel Industries operating update, 17 June 2026"
     },
     {
       "date": "2026-06-22",
@@ -7531,6 +7702,15 @@
       "source_url": "https://nickelindustries.com/carbon/assets/0007ea/000008/3101262.pdf",
       "source_title": "NIC Maiden Nickel Cathode at ENC",
       "project_id": "MHP017"
+    },
+    {
+      "date": "2026-08-13",
+      "label": "披露一条线机械完工",
+      "detail": "Vale高管称一条HPAL线完成机械建设，项目转入运行测试准备。",
+      "kind": "调试",
+      "source_url": "https://m.antaranews.com/amp/berita/5692560/vale-sebut-konstruksi-mekanis-smelter-nikel-hpal-pomalaa-tuntas",
+      "project_id": "MHP018",
+      "source_title": "ANTARA: Vale says Pomalaa HPAL mechanical construction complete, 13 Aug 2026"
     },
     {
       "date": "2026-09-10",
@@ -16899,6 +17079,10 @@
         {
           "type": "customer",
           "id": "MC079"
+        },
+        {
+          "type": "project",
+          "id": "MHP014"
         }
       ],
       "id": "UC0271"
@@ -52176,6 +52360,10 @@
         {
           "type": "group",
           "id": "lifezone"
+        },
+        {
+          "type": "project",
+          "id": "GL148"
         }
       ]
     },
@@ -53404,6 +53592,426 @@
         {
           "type": "project",
           "id": "CN168"
+        }
+      ]
+    },
+    {
+      "id": "UC1886",
+      "url": "https://sthj.yangzhou.gov.cn/zfxxgk/fdzdgk/ywgz/wrfz/art/2025/art_6e82a323eede446b94ba80a878a4df7e.html",
+      "title": "扬州市生态环境局关于2024年度环境信息强制性披露企业名单调整的公示",
+      "titles": [
+        "扬州市生态环境局关于2024年度环境信息强制性披露企业名单调整的公示"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN001"
+        }
+      ]
+    },
+    {
+      "id": "UC1887",
+      "url": "http://jsfzb.xhby.net/pc/con/202401/18/content_1287685.html",
+      "title": "司法“含绿量”提升发展“含金量”——宝通公司50亿债权破产重整成功",
+      "titles": [
+        "司法“含绿量”提升发展“含金量”——宝通公司50亿债权破产重整成功"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN008"
+        }
+      ]
+    },
+    {
+      "id": "UC1888",
+      "url": "http://www.jiaocheng.gov.cn/ztzl/jcqhjbhj/wryhjjg/202404/t20240425_1932161.htm",
+      "title": "宁德市蕉城生态环境局2024年1季度12369群众投诉件处理情况公示表",
+      "titles": [
+        "宁德市蕉城生态环境局2024年1季度12369群众投诉件处理情况公示表"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN031"
+        }
+      ]
+    },
+    {
+      "id": "UC1889",
+      "url": "http://www.ningde.gov.cn/zwgk/zdxxgk/hjbhxx/jsdwhpxx/202503/t20250313_2023188.htm",
+      "title": "宁德市生态环境局关于福建鼎信实业有限公司二期镍铁合金及深加工配套项目技改工程环境影响报告书的批复",
+      "titles": [
+        "宁德市生态环境局关于福建鼎信实业有限公司二期镍铁合金及深加工配套项目技改工程环境影响报告书的批复"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN032"
+        }
+      ]
+    },
+    {
+      "id": "UC1890",
+      "url": "https://sthjj.ningde.gov.cn/zwgk/jsdwhpxx/202412/t20241212_2000022.htm",
+      "title": "宁德市生态环境局关于鼎信实业RKEF不锈钢冶炼装备技术及配套项目环境影响报告书的批复",
+      "titles": [
+        "宁德市生态环境局关于鼎信实业RKEF不锈钢冶炼装备技术及配套项目环境影响报告书的批复"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN032"
+        }
+      ]
+    },
+    {
+      "id": "UC1891",
+      "url": "http://sthjj.fcgs.gov.cn/tzgg/t19762494.shtml",
+      "title": "关于2024年度环境信息依法披露企业调整情况公示",
+      "titles": [
+        "关于2024年度环境信息依法披露企业调整情况公示"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN068"
+        }
+      ]
+    },
+    {
+      "id": "UC1892",
+      "url": "https://www.tongliao.gov.cn/xwzx/jrgz/202401/t20240125_638093.html",
+      "title": "以钢铸魂展雄风——奈曼旗全力打造东北地区最大不锈钢及制品生产基地综述",
+      "titles": [
+        "以钢铸魂展雄风——奈曼旗全力打造东北地区最大不锈钢及制品生产基地综述"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN078"
+        }
+      ]
+    },
+    {
+      "id": "UC1893",
+      "url": "https://www.tongliao.gov.cn/zwgk/szf/zfgzbg/nmq/202302/t20230203_43072.html",
+      "title": "通辽市奈曼旗2023年政府工作报告",
+      "titles": [
+        "通辽市奈曼旗2023年政府工作报告"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN078"
+        }
+      ]
+    },
+    {
+      "id": "UC1894",
+      "url": "http://swj.yulin.gov.cn/zwyw/t19388638.shtml",
+      "title": "玉林加工贸易开启“加速跑”",
+      "titles": [
+        "玉林加工贸易开启“加速跑”"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN088"
+        }
+      ]
+    },
+    {
+      "id": "UC1895",
+      "url": "http://finance.sina.com.cn/jjxw/2023-06-08/doc-imywqkvc2647349.shtml",
+      "title": "四川“忙起来了”②|支持企业扩产发展 四川“税电指数贷”持续扩面增效",
+      "titles": [
+        "四川“忙起来了”②|支持企业扩产发展 四川“税电指数贷”持续扩面增效"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN095"
+        }
+      ]
+    },
+    {
+      "id": "UC1896",
+      "url": "https://www.scjjrb.com/2024/11/22/99419268.html",
+      "title": "国网眉山供电公司：追“高”逐“新” 澎湃电力赋动能",
+      "titles": [
+        "国网眉山供电公司：追“高”逐“新” 澎湃电力赋动能"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN095"
+        }
+      ]
+    },
+    {
+      "id": "UC1897",
+      "url": "https://shuju.nantong.gov.cn/ntsxzspj/upload/c00d30f6-812a-448f-bab9-27fb85342410.pdf",
+      "title": "市数据局关于南通新玮镍钴科技发展有限公司电子专用材料技术改造项目环境影响报告书的批复",
+      "titles": [
+        "市数据局关于南通新玮镍钴科技发展有限公司电子专用材料技术改造项目环境影响报告书的批复"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN121"
+        }
+      ]
+    },
+    {
+      "id": "UC1898",
+      "url": "https://www.dalong.gov.cn/xwzx/yqyw/202504/t20250404_87474274.html",
+      "title": "大龙开发区：奋进拼搏 擘画高质量发展新画卷",
+      "titles": [
+        "大龙开发区：奋进拼搏 擘画高质量发展新画卷"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN152"
+        }
+      ]
+    },
+    {
+      "id": "UC1899",
+      "url": "http://www.jinchuan.gov.cn/zfxxgk/fdzdgknr/tjxx/tjnj/art/2025/art_bae4dd9c703d4017a00aa25bfe038a97.html",
+      "title": "2025年1—11月金川区经济运行情况",
+      "titles": [
+        "2025年1—11月金川区经济运行情况"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN153"
+        }
+      ]
+    },
+    {
+      "id": "UC1900",
+      "url": "http://www.jcs.gov.cn/zfxxgk/fdzdgknr/zdmsxx/kjgl/art/2025/art_07450fb7b49141018c77a5e664e47fb7.html",
+      "title": "“智”造升级 向“新”生长——金川集团高品质镍基新材料生产见闻",
+      "titles": [
+        "“智”造升级 向“新”生长——金川集团高品质镍基新材料生产见闻"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN153"
+        }
+      ]
+    },
+    {
+      "id": "UC1901",
+      "url": "https://static.cninfo.com.cn/finalpage/2025-05-19/1223586345.PDF",
+      "title": "合纵科技2024年度业绩说明会记录，第2页，2025年5月16日",
+      "titles": [
+        "合纵科技2024年度业绩说明会记录，第2页，2025年5月16日"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN092"
+        }
+      ]
+    },
+    {
+      "id": "UC1902",
+      "url": "https://assets.merdekabattery.com/dist/documents/MBMA_Q4_2025_Quarterly_Activities_Report_vF.pdf",
+      "title": "MBMA Q4 2025 Quarterly Activities Report",
+      "titles": [
+        "MBMA Q4 2025 Quarterly Activities Report"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "MHP014"
+        }
+      ]
+    },
+    {
+      "id": "UC1903",
+      "url": "https://m.antaranews.com/amp/berita/5692560/vale-sebut-konstruksi-mekanis-smelter-nikel-hpal-pomalaa-tuntas",
+      "title": "ANTARA: Vale says Pomalaa HPAL mechanical construction complete, 13 Aug 2026",
+      "titles": [
+        "ANTARA: Vale says Pomalaa HPAL mechanical construction complete, 13 Aug 2026"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "MHP018"
+        }
+      ]
+    },
+    {
+      "id": "UC1904",
+      "url": "https://vale.com/in/w/pomalaa-hpal-project-achieves-strategic-milestone-with-arrival-of-first-autoclaves",
+      "title": "PT Vale Pomalaa autoclave milestone, Dec 2025",
+      "titles": [
+        "PT Vale Pomalaa autoclave milestone, Dec 2025"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "MHP018"
+        }
+      ]
+    },
+    {
+      "id": "UC1905",
+      "url": "https://caifuhao.eastmoney.com/news/20260403180540601866880",
+      "title": "Huayou: Huaxiang first cobalt sulfate export",
+      "titles": [
+        "Huayou: Huaxiang first cobalt sulfate export"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "RF003"
+        }
+      ]
+    },
+    {
+      "id": "UC1906",
+      "url": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=11963313&stockid=002340",
+      "title": "GEM termination announcement, 12 Feb 2026",
+      "titles": [
+        "GEM termination announcement, 12 Feb 2026"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "RF004"
+        }
+      ]
+    },
+    {
+      "id": "UC1907",
+      "url": "https://finance.eastmoney.com/a/202511193569062970.html",
+      "title": "GEM: IQEM precursor capacity disclosure, 19 Nov 2025",
+      "titles": [
+        "GEM: IQEM precursor capacity disclosure, 19 Nov 2025"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "RF004"
+        }
+      ]
+    },
+    {
+      "id": "UC1908",
+      "url": "https://static.cninfo.com.cn/finalpage/2025-12-26/1224898913.PDF",
+      "title": "盛屯矿业集团股份有限公司对外投资进展公告（2025-078）",
+      "titles": [
+        "盛屯矿业集团股份有限公司对外投资进展公告（2025-078）"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "P38"
+        }
+      ]
+    },
+    {
+      "id": "UC1909",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-03-20/1225019183.PDF",
+      "title": "盛屯矿业2025年年度报告",
+      "titles": [
+        "盛屯矿业2025年年度报告"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "P38"
+        }
+      ]
+    },
+    {
+      "id": "UC1910",
+      "url": "https://www.bhp.com/-/media/documents/media/reports-and-presentations/2026/260716_bhpoperationalreviewfortheyearended30june2026.pdf",
+      "title": "BHP 2026财年运营报告，第11页，2026年7月16日",
+      "titles": [
+        "BHP 2026财年运营报告，第11页，2026年7月16日"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "GL078"
+        },
+        {
+          "type": "project",
+          "id": "GL079"
+        }
+      ]
+    },
+    {
+      "id": "UC1911",
+      "url": "https://ardearesources.com.au/downloads/announcements/arl_2026060301.pdf",
+      "title": "Ardea：Goongarrie Hub可行性研究更新，第1—2页，2026年6月3日",
+      "titles": [
+        "Ardea：Goongarrie Hub可行性研究更新，第1—2页，2026年6月3日"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "GL086"
         }
       ]
     }

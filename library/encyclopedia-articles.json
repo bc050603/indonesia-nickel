@@ -3539,22 +3539,21 @@
       {
         "title": "Chengtun audit report",
         "url": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12004812&stockid=600711"
+      },
+      {
+        "title": "盛屯矿业集团股份有限公司对外投资进展公告（2025-078）",
+        "url": "https://static.cninfo.com.cn/finalpage/2025-12-26/1224898913.PDF"
+      },
+      {
+        "title": "盛屯矿业2025年年度报告",
+        "url": "https://static.cninfo.com.cn/finalpage/2026-03-20/1225019183.PDF"
       }
     ],
     "sections": [
       {
         "title": "历史规划",
         "paragraphs": [
-          "盛迈最初作为盛屯印尼镍业务的一项扩张计划，用于生产可继续精炼的镍中间品。项目曾进入行业项目清单，但没有形成稳定商业产量。"
-        ],
-        "refs": [
-          0
-        ]
-      },
-      {
-        "title": "项目终止",
-        "paragraphs": [
-          "2025年12月，盛屯披露终止盛迈项目。终止决定意味着原定建设和投产时间表不再执行，历史设计规模也不能继续计入未来供应。"
+          "盛迈最初作为盛屯印尼镍业务的一项扩张计划，用于生产可继续精炼的镍中间品。项目曾进入行业项目清单，但未开展实质经营活动。"
         ],
         "refs": [
           0
@@ -3568,13 +3567,22 @@
         "refs": [
           0
         ]
+      },
+      {
+        "title": "项目终止",
+        "paragraphs": [
+          "盛屯2025年12月26日公告，董事会于前一日同意终止印尼年产4万镍金属吨高冰镍项目，并启动盛迈公司的注销工作。公告同时说明该公司此前未开展实质经营活动。因此盛迈属于取消的投资计划，而不是已经投产后停运的高冰镍厂。"
+        ],
+        "refs": [
+          1
+        ]
       }
     ],
     "pending": [
-      "未公开的具体承购期限、价格和数量不作推定",
-      "具体限制见生产判断及主文章节"
+      "后续注销登记完成情况。"
     ],
-    "updated": "2026-09-18"
+    "updated": "2026-09-23",
+    "updated_at": "2026-09-23"
   },
   "P48": {
     "title": "PT Hengsheng New Energy Material Indonesia 恒生新能源材料",
@@ -3729,12 +3737,22 @@
           0,
           1
         ]
+      },
+      {
+        "title": "三条线运行与股权增持",
+        "paragraphs": [
+          "Harita的2024年年报记载，ONC三条MHP生产线自2024年8月满负荷运行，合计设计能力为每年6.5万吨镍和7,500吨钴。同年12月13日，Harita旗下TBP将ONC持股由10%提高至20%。这两项变化分别属于生产爬坡和股权投资。"
+        ],
+        "refs": [
+          1
+        ]
       }
     ],
     "pending": [
       "2026实际月度生产、现场MHP自用比例、每个进口商之后的最终投料厂及ONC专属长期协议仍需补充"
     ],
-    "updated": "2026-09-18"
+    "updated": "2026-09-23",
+    "updated_at": "2026-09-23"
   },
   "MHP010": {
     "title": "PT Gostal Nickel Indonesia 戈斯塔尔镍业",
@@ -3858,6 +3876,14 @@
       {
         "title": "MBMA Annual Report 2025",
         "url": "https://assets.merdekabattery.com/dist/documents/MBMA_AR_2025_30%20April.pdf"
+      },
+      {
+        "title": "MBMA Q4 2025 Quarterly Activities Report",
+        "url": "https://assets.merdekabattery.com/dist/documents/MBMA_Q4_2025_Quarterly_Activities_Report_vF.pdf"
+      },
+      {
+        "title": "GEM 2025 Half-year Report",
+        "url": "https://static.cninfo.com.cn/finalpage/2025-08-29/1224612843.PDF"
       }
     ],
     "sections": [
@@ -3894,13 +3920,23 @@
           1,
           2
         ]
+      },
+      {
+        "title": "SCM矿浆与美明的运行",
+        "paragraphs": [
+          "MBMA的2025年第四季度报告分别介绍ESG和美明的经营情况。美明已经运行，并改用SCM新建矿料准备设施供料。ESG在报告中单列的产量属于另一项目，两个法人的产量和许可分别记录。"
+        ],
+        "refs": [
+          3
+        ]
       }
     ],
     "pending": [
       "最新剩余32.5%股东",
       "单厂实际产量、2026滑坡受影响程度、矿源独占条款未知"
     ],
-    "updated": "2026-09-18"
+    "updated": "2026-09-23",
+    "updated_at": "2026-09-23"
   },
   "MHP017": {
     "title": "PT Excelsior Nickel Cobalt (ENC) 晨曦镍钴",
@@ -8333,7 +8369,7 @@
   "MHP018": {
     "title": "PT Kolaka Nickel Indonesia (KNI) 科拉卡镍业波马拉湿法项目",
     "intro": "Pomalaa HPAL是PT Vale Indonesia、华友钴业与Ford在印度尼西亚东南苏拉威西合作建设的镍钴项目，加工主体为PT Kolaka Nickel Indonesia。项目采用高压酸浸处理Vale Pomalaa矿区的褐铁矿，规划年产MHP中的镍12万吨、钴约1.5万吨。",
-    "summary": "项目于2022年11月奠基，三方在2023年3月签署合作协议。到2026年6月，Vale仍将其列为建设项目，尚未宣布首批MHP或商业运行。",
+    "summary": "项目于2022年11月奠基，三方在2023年3月签署合作协议。2026年8月披露一条HPAL线机械完工，转入调试准备阶段。",
     "facts": [
       [
         "所在地",
@@ -8361,7 +8397,7 @@
       ],
       [
         "状态",
-        "建设中"
+        "机械完工／调试阶段；2026年8月13日披露"
       ]
     ],
     "sources": [
@@ -8372,6 +8408,14 @@
       {
         "title": "Vale、华友与Ford合作公告",
         "url": "https://vale.com/w/pt-sustainable-ev-industry/-/categories/3275897"
+      },
+      {
+        "title": "ANTARA: Vale says Pomalaa HPAL mechanical construction complete, 13 Aug 2026",
+        "url": "https://m.antaranews.com/amp/berita/5692560/vale-sebut-konstruksi-mekanis-smelter-nikel-hpal-pomalaa-tuntas"
+      },
+      {
+        "title": "PT Vale Pomalaa autoclave milestone, Dec 2025",
+        "url": "https://vale.com/in/w/pomalaa-hpal-project-achieves-strategic-milestone-with-arrival-of-first-autoclaves"
       }
     ],
     "sections": [
@@ -8405,12 +8449,12 @@
         ]
       },
       {
-        "title": "建设状态",
+        "title": "机械完工与调试阶段",
         "paragraphs": [
-          "Vale官网在2026年6月仍以建设进度介绍该项目。早期投产目标属于工程计划，目前没有首批MHP或商业运行公告。三方还约定为项目寻求非煤能源，但这不代表全部配套电力已经建成。"
+          "2026年8月13日，PT Vale高管向印尼安塔拉通讯社介绍，波马拉HPAL的一条生产线已完成机械建设，项目正转入运行测试准备。此前的高压釜到货、机械完工和之后的首批产品，是建设过程中不同的节点。"
         ],
         "refs": [
-          0
+          2
         ]
       }
     ],
@@ -8419,7 +8463,8 @@
       "首批MHP和商业运行日期",
       "前驱体供应协议的数量、期限与加工厂"
     ],
-    "updated": "2026-09-18"
+    "updated": "2026-09-23",
+    "updated_at": "2026-09-23"
   },
   "MHP022": {
     "title": "Sorowako Limonite HPAL Project 索罗瓦科褐铁矿湿法项目",
@@ -10476,8 +10521,8 @@
       "未披露的合同豁免/违约/重议细则",
       "未公开的具体承购期限、价格和数量不作推定；具体限制见生产判断及主文章节"
     ],
-    "updated": "2026-09-18",
-    "updated_at": "2026-09-18"
+    "updated": "2026-09-23",
+    "updated_at": "2026-09-23"
   },
   "NPI034": {
     "title": "PT Walsin Nickel Industrial Indonesia (WNII) 印尼华新镍业",
@@ -12870,7 +12915,7 @@
   },
   "MHP023": {
     "title": "PT Teluk Metal Industry (TMI) 海湾金属TMI湿法项目",
-    "intro": "PT T Indonesia Morowali Industrial Estate（TMI）是莫罗瓦利地区在建的HPAL项目，与ENC设施同址扩展。Nickel Industries于2026年6月24日同意投资1.69亿美元取得17.5%权益，交易约定在同年11月付款。",
+    "intro": "PT Teluk Metal Industry（TMI）是莫罗瓦利地区在建的HPAL项目，与ENC设施同址扩展。Nickel Industries于2026年6月24日同意投资1.69亿美元取得17.5%权益，交易约定在同年11月付款。",
     "summary": "项目设计能力为每年38,640镍吨MHP，目标在2027年中调试、同年9月达到名义能力。现阶段仍属于建设项目。",
     "facts": [
       [
@@ -12899,7 +12944,7 @@
       ],
       [
         "状态",
-        "在建扩展；2027年中调试目标，尚未生产。"
+        "在建；2026年6月投资公告"
       ]
     ],
     "sources": [
@@ -12940,12 +12985,23 @@
         "refs": [
           0
         ]
+      },
+      {
+        "title": "投资付款安排",
+        "paragraphs": [
+          "Nickel Industries在2026年6月公布的17.5%投资安排，约定同年11月付款。百科把这笔签约投资与之后的付款、交割分别记录；TMI仍作为独立在建项目，与邻近ENC相互链接。"
+        ],
+        "refs": [
+          0
+        ]
       }
     ],
     "pending": [
-      "最终成交、72.5%分股、全部包销条款；“海湾金属”是否本项目别名仍需确认。"
+      "最终成交、72.5%分股、全部包销条款；“海湾金属”是否本项目别名仍需确认。",
+      "核验NIC投资款支付及股权交割公告。"
     ],
-    "updated": "2026-09-18"
+    "updated": "2026-09-23",
+    "updated_at": "2026-09-23"
   },
   "MHP026": {
     "title": "PT Anugrah Neo Energy Materials 尼奥能源湿法项目",
@@ -14095,14 +14151,23 @@
         "refs": [
           2
         ]
+      },
+      {
+        "title": "2026年上半年生产",
+        "paragraphs": [
+          "嘉能可披露，穆林穆林2026年上半年自产镍为1.61万吨，同比增加10%。公司将增长归因于上年同期存在检修停机，说明同比变化包含检修基数影响，并非单纯来自新增产能。"
+        ],
+        "refs": [
+          12
+        ]
       }
     ],
     "pending": [
       "最新额定含镍能力 2026实际单厂量 第三方料与自产占比 是否有外售MS合同",
       "嘉能可2026年2月发布的2025年四季度/全年产量报告确认Murrin Murrin 2025全年产镍32,100吨（同比-6%，受年内检修影响），与round-1记录数据一致，予以确认。"
     ],
-    "updated": "2026-09-18",
-    "updated_at": "2026-09-18"
+    "updated": "2026-09-23",
+    "updated_at": "2026-09-23"
   },
   "RF003": {
     "title": "PT Huaxiang Refining Indonesia 华翔精炼",
@@ -14119,7 +14184,7 @@
       ],
       [
         "项目状态",
-        "2024年报披露建成试产；2025年4月转固后爬坡"
+        "硫酸镍爬坡；硫酸钴首批出口；2026年4月"
       ],
       [
         "股东",
@@ -14182,6 +14247,15 @@
           6,
           7
         ]
+      },
+      {
+        "title": "硫酸钴首批出口",
+        "paragraphs": [
+          "华翔在硫酸镍业务之外增加了硫酸钴产品。公司2026年4月报道，4月2日举行首批硫酸钴出口仪式，标志着该产品开始进入境外销售环节。"
+        ],
+        "refs": [
+          9
+        ]
       }
     ],
     "sources": [
@@ -14223,6 +14297,10 @@
         "title": "华友钴业2025年度股东大会材料：子公司持股表",
         "url": "https://static.cninfo.com.cn/finalpage/2026-04-22/1225136273.PDF",
         "date": "2026-04-22"
+      },
+      {
+        "title": "Huayou: Huaxiang first cobalt sulfate export",
+        "url": "https://caifuhao.eastmoney.com/news/20260403180540601866880"
       }
     ],
     "pending": [
@@ -14230,7 +14308,8 @@
       "包销协议最终文本、执行量、价格公式与终端客户。",
       "STRIVE／Ever Rising及Perlux的更上层股东链。"
     ],
-    "updated": "2026-09-18"
+    "updated": "2026-09-23",
+    "updated_at": "2026-09-23"
   },
   "RF001": {
     "title": "PT CNGR Ding Xing New Energy 中伟鼎兴新能源",
@@ -14484,7 +14563,7 @@
         "title": "从镍资源走向前驱体",
         "paragraphs": [
           "格林美的业务覆盖金属回收、镍钴资源开发和电池材料。印尼青美把集团的印尼布局向下游推进：将镍、钴、锰化学品加工为高镍三元前驱体，连接原料基地与全球材料客户。2025年1月，格林美披露原3万吨项目前驱体能力已经建成，并计划扩大到5万吨；同年7月公告称5万吨能力已建成。这里的5万吨是前驱体产品重量。",
-          "扩产公告同时说明，原3万吨项目已经取得中长期全球客户订单。2025年7月公司提出引进海外战略投资者，意在扩大国际市场准入、降低资本开支并调整资本结构。2026年香港申请稿仍将印尼青美列为100%持股子公司；拟议交易与已完成的股权结构分别记录。"
+          "扩产公告同时说明，原3万吨项目已经取得中长期全球客户订单。2025年7月公司提出引进海外战略投资者，意在扩大国际市场准入、降低资本开支并调整资本结构。2026年2月，该笔拟议交易终止，印尼青美继续作为集团全资下属公司。"
         ],
         "refs": [
           0,
@@ -14511,6 +14590,15 @@
         "refs": [
           4
         ]
+      },
+      {
+        "title": "战略投资交易终止",
+        "paragraphs": [
+          "格林美2026年2月公告，董事会于2月11日决定终止印尼青美此前拟议的增资扩股及股权重组，并签署终止契约书。交易终止后，印尼青美仍为格林美全资下属公司，原拟议外部股东不列入已完成的持股结构。"
+        ],
+        "refs": [
+          5
+        ]
       }
     ],
     "sources": [
@@ -14533,13 +14621,21 @@
       {
         "title": "用户全品种出口资料：新增精炼产品逐票复核",
         "url": "library/refining-export-rows.csv"
+      },
+      {
+        "title": "GEM termination announcement, 12 Feb 2026",
+        "url": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=11963313&stockid=002340"
+      },
+      {
+        "title": "GEM: IQEM precursor capacity disclosure, 19 Nov 2025",
+        "url": "https://finance.eastmoney.com/a/202511193569062970.html"
       }
     ],
     "pending": [
-      "以IQEM出口的硫酸镍对应哪家生产工厂、是否委托加工及如何与QMB内部交易衔接。",
-      "2025年提出引进海外战略投资者，实际完成情况应以之后的股权公告为准。"
+      "前驱体首产、产销量及客户订单执行情况；硫酸镍出口对应的制造工厂和集团内部供料安排。"
     ],
-    "updated": "2026-09-18"
+    "updated": "2026-09-23",
+    "updated_at": "2026-09-23"
   },
   "RF005": {
     "title": "PT Indonesia Service Provider 印尼服务供应商出口抬头",
@@ -22369,12 +22465,21 @@
         "refs": [
           0
         ]
+      },
+      {
+        "title": "2025年生产恢复",
+        "paragraphs": [
+          "Eramet的2025年度业绩资料显示，SLN全年镍铁产量为3.63万吨镍金属量，比2024年增长10%；销量为3.62万吨镍金属量。矿山端仍受到部分矿区关闭的影响，冶炼端产量则有所恢复。镍铁生产、矿石开采和矿石出口处在不同环节，不能把矿山受限直接写成多尼安博全厂停产。"
+        ],
+        "refs": [
+          13
+        ]
       }
     ],
     "pending": [
       "多次搜索（含法语系“Eramet 法国政府支持”等关键词）未能找到SLN Doniambo 2025-2026年度产量或法国政府/Eramet“重建协议”相关的具体报道；搜索结果多为不相关的法国氢能补贴、Eramet印尼锂矿/PT Weda Bay Nickel业务新闻（后者为印尼资产，不在本普查地理范围内）。round-1记录（减产或部分停产，2025年产3.6万吨）未获进一步证实或推翻。 Eramet 2026年H1业绩公告(2026-07-29，已在既有来源中)重新核实：SLN Doniambo H1 2026镍铁产量18.1千吨(镍金属口径)，同比增长3%；文件明确'SLN的亏损自2024年以来一直由法国国家全额提供资金支持'，确认公司持续获得法国政府资金支持、维持减产运营状态延续至2026年中，未发现2025全年数字有变更(维持36,300吨不变)。"
     ],
-    "updated_at": "2026-09-18"
+    "updated_at": "2026-09-23"
   },
   "GL074": {
     "title": "Thio-Mission Foundry 蒂奥教会区(Thio-Mission)冶炼厂",
@@ -22615,12 +22720,21 @@
         "refs": [
           0
         ]
+      },
+      {
+        "title": "保养维护后的产量记录",
+        "paragraphs": [
+          "嘉能可2025年度生产报告在同比说明中，把科尼安博2024年转入保养维护前的5,000吨镍产量单独剔除；2025年项目没有继续贡献镍产量。维护状态与未来出售或重启属于不同事项，年度产量报告没有确认新的买方已完成接管。"
+        ],
+        "refs": [
+          12
+        ]
       }
     ],
     "pending": [
       "嘉能可2026年2月披露的2025年四季度产量报告确认：Koniambo（新喀里多尼亚“水淬镍”资产）在报告期内维持保养维护状态，产量为零；报告未提及round-1记录中2025年1月两份收购要约的最终结果，截至2026年9月未见完成出售的公开报道。"
     ],
-    "updated_at": "2026-09-18"
+    "updated_at": "2026-09-23"
   },
   "GL077": {
     "title": "Hauts Fourneaux de Nouméa (Nouméa Blast Furnaces Co.) 努美阿高炉公司(Hauts Fourneaux de Nouméa)",
@@ -22794,6 +22908,10 @@
       {
         "title": "www.bhp.com · 奎纳纳镍精炼厂（含硫酸镍工厂）参考资料",
         "url": "https://www.bhp.com/-/media/documents/media/reports-and-presentations/2023/230720_bhpoperationalreviewfortheyearended30june2023.pdf"
+      },
+      {
+        "title": "BHP 2026财年运营报告，第11页，2026年7月16日",
+        "url": "https://www.bhp.com/-/media/documents/media/reports-and-presentations/2026/260716_bhpoperationalreviewfortheyearended30june2026.pdf"
       }
     ],
     "sections": [
@@ -22856,12 +22974,21 @@
         "refs": [
           0
         ]
+      },
+      {
+        "title": "暂停期间的运行记录",
+        "paragraphs": [
+          "奎纳纳精炼厂属于BHP的西澳镍业务。BHP在2026财年运营报告中仍将该业务列为暂时暂停，并注明整个西澳镍业务已于2024年12月完成减产停运。该报告覆盖截至2026年6月30日的财年；它确认暂停仍在延续，不代表已经决定永久关闭。"
+        ],
+        "refs": [
+          10
+        ]
       }
     ],
     "pending": [
       "与Kalgoorlie冶炼厂同属BHP西澳镍业务出售/数据室流程的一部分（见Kalgoorlie记录），截至2026年9月尚无完成出售或重启的确认消息，仍处于保养维护状态。"
     ],
-    "updated_at": "2026-09-18"
+    "updated_at": "2026-09-23"
   },
   "GL079": {
     "title": "Kalgoorlie Nickel Smelter 卡尔古利镍冶炼厂",
@@ -22949,6 +23076,10 @@
       {
         "title": "www.bhp.com · 卡尔古利镍冶炼厂参考资料",
         "url": "https://www.bhp.com/-/media/documents/media/reports-and-presentations/2024/240717_bhpoperationalreviewfortheyearended30june2024.pdf"
+      },
+      {
+        "title": "BHP 2026财年运营报告，第11页，2026年7月16日",
+        "url": "https://www.bhp.com/-/media/documents/media/reports-and-presentations/2026/260716_bhpoperationalreviewfortheyearended30june2026.pdf"
       }
     ],
     "sections": [
@@ -23011,12 +23142,21 @@
         "refs": [
           0
         ]
+      },
+      {
+        "title": "暂停期间的运行记录",
+        "paragraphs": [
+          "卡尔古利冶炼厂属于BHP的西澳镍业务。BHP在2026财年运营报告中仍将该业务列为暂时暂停，并注明整个西澳镍业务已于2024年12月完成减产停运。该报告覆盖截至2026年6月30日的财年；它确认暂停仍在延续，不代表已经决定永久关闭。"
+        ],
+        "refs": [
+          11
+        ]
       }
     ],
     "pending": [
       "BHP自2025年8月起为其停产的西澳镍业务（含Kalgoorlie冶炼厂、Kwinana精炼厂、West Musgrave项目及Kambalda选矿厂）寻找买家，关闭/环境修复负债估计达14亿美元；2025年10月已正式开放虚拟数据室（Macquarie Capital与UBS主导），据报有黄金矿企、一家美国私募股权公司及一家澳大利亚战略投资方表达兴趣，但截至2026年9月未见完成出售的报道，资产仍处于保养维护状态。协调员提及的“2027年2月复核”未能通过SMM检索独立证实。"
     ],
-    "updated_at": "2026-09-18"
+    "updated_at": "2026-09-23"
   },
   "GL080": {
     "title": "Yabulu Nickel Refinery (Palmer Nickel and Cobalt Refinery) 亚布鲁镍精炼厂（帕尔默镍钴精炼厂）",
@@ -23288,6 +23428,10 @@
       {
         "title": "news.smm.cn · 卡尔古利镍项目—贡加里枢纽参考资料",
         "url": "https://news.smm.cn/live/detail/104039635"
+      },
+      {
+        "title": "Ardea：Goongarrie Hub可行性研究更新，第1—2页，2026年6月3日",
+        "url": "https://ardearesources.com.au/downloads/announcements/arl_2026060301.pdf"
       }
     ],
     "sections": [
@@ -23331,12 +23475,21 @@
         "refs": [
           0
         ]
+      },
+      {
+        "title": "可行性研究进度与股东分工",
+        "paragraphs": [
+          "Ardea于2026年6月3日公告，可行性研究最终报告的完成时间将延后至原定6月30日之后，公司计划在10月底前说明后续推进安排。研究由Kalgoorlie Nickel Pty Ltd负责，Ardea与GH Nickel分别持股65%和35%；GH Nickel是住友金属矿业与三菱商事的合资平台，由日方财团按约定预算出资开展研究。10月底是计划更新进展的时间，不是承诺工厂投产的日期。"
+        ],
+        "refs": [
+          4
+        ]
       }
     ],
     "pending": [
-      "2026年8月3日（Diggers & Dealers矿业大会）Ardea Resources披露：Goongarrie Hub可行性研究（DFS）已获全额资金支持（预算9,850万澳元），资金方为住友金属矿山+三菱商事财团（合资中日方占35%，Ardea占65%，FID后Ardea降至50%）；项目获澳大利亚联邦“重大项目地位”续期3年（2025年10月）及澳大利亚出口金融局(EFA)、美国进出口银行(EXIM)的支持函（潜在合计约10亿澳元融资）；资源量更新为8.54亿吨（0.71%Ni/0.045%Co，含镍610万吨），号称“澳大利亚最大镍钴资源”。尚未见FID公告。"
+      "后续可研完成、融资落实及最终投资决定；FID后的实际股权安排。"
     ],
-    "updated_at": "2026-09-18"
+    "updated_at": "2026-09-23"
   },
   "GL087": {
     "title": "Kalgoorlie pCAM Battery Materials Hub (Poseidon Nickel / Pure Battery Technologies) 卡尔古利前驱体正极材料(pCAM)电池材料枢纽",
@@ -25068,12 +25221,21 @@
         "refs": [
           0
         ]
+      },
+      {
+        "title": "冶炼中断对跨国加工链的影响",
+        "paragraphs": [
+          "嘉能可2026年上半年生产报告指出，萨德伯里冶炼厂在2025年的炉体运行中断，继续影响其向挪威发货及后续精炼加工。包括Sudbury、Raglan和Nikkelverk在内的一体化镍业务，上半年自产镍合计1.97万吨，同比下降10%。这是整条业务链的合并数量，不能记成萨德伯里冶炼厂单厂产量。"
+        ],
+        "refs": [
+          11
+        ]
       }
     ],
     "pending": [
       "嘉能可Sudbury综合镍业务(INO) 2025全年产镍39,800吨（同比-7%，受2025年6月一次炉体故障影响），但四季度环比强劲反弹至12,300吨（+124%）。另，嘉能可位于Sudbury的新项目Onaping Depth（与本记录同属Sudbury矿区但为独立矿山开发项目）已于2026年8月27日产出首批矿石并完成竖井贯通（深约2,600米），自2019年累计投资约20亿加元，设计年处理矿石100万吨，全生命周期预计产镍28万吨/铜14.5万吨，目标2027年达产，将Sudbury盆地镍产延续至2040年后。 厂级产能：确认Sudbury冶炼厂锍产能135,000吨/年(2019 SSS年报)。plant_level_split：核实结论为'不存在可拆分的官方数据'——Glencore仅以INO(Sudbury+Raglan→Nikkelverk)合并口径披露镍金属产量(2024=42,900t、2025=39,800t)，Nikkelverk精炼厂(设计产能85,000吨镍/年，1997年USGS数据，同时处理Sudbury及魁北克Raglan两处矿源来的锍)历年年报均未单独披露来源矿区拆分或单厂产量；本轮通过Glencore Sudbury INO专页(404，链接已失效)、Nikkelverk官网(nikkelverk.no，仅确认'生产高品质精炼镍、铜、钴'，未披露具体产量/产能数字)及2019 SSS年报交叉核实，确认该拆分数据在公开资料中不存在，为真实空白而非本轮遗漏。"
     ],
-    "updated_at": "2026-09-18"
+    "updated_at": "2026-09-23"
   },
   "GL103": {
     "title": "Sherritt Fort Saskatchewan Metals Processing Plant 谢里特堡萨斯喀彻温精炼厂",
@@ -30364,36 +30526,36 @@
   },
   "GL148": {
     "title": "Kabanga Nickel Project & Kahama Hydrometallurgical Refinery (planned) 卡班加镍矿及卡哈马湿法冶金精炼厂(规划中)",
-    "intro": "卡班加镍矿及卡哈马湿法冶金精炼厂(规划中)位于坦桑尼亚的卡盖拉区(Kagera)卡班加(Kabanga，矿山)；计划中的精炼厂位于希尼扬加区(Shinyanga)卡哈马市(Kahama)。该项目采用精矿加压浸出+其它(Lifezone专有湿法冶金Hydromet工艺，具体化学路线未完全公开核实)路线，产品资料涉及计划产出电池级硫酸镍/MHP类中间品、铜、钴产品（尚未投产）。",
-    "summary": "底表记录的运行状态为“规划中或可研”，状态资料核实年份为2026。",
+    "intro": "卡班加是坦桑尼亚西北部的硫化镍矿开发项目，由Lifezone Metals与坦桑尼亚政府参与。2025年可行性研究聚焦地下矿山和选矿厂，计划生产供后续冶炼使用的镍铜钴精矿；卡哈马湿法精炼厂属于另行推进的下游规划。",
+    "summary": "2025年完成矿山与选矿阶段的可行性研究，随后推进融资与投资准备。",
     "facts": [
       [
         "所在国家",
         "坦桑尼亚"
       ],
       [
-        "地点",
-        "卡盖拉区(Kagera)卡班加(Kabanga，矿山)；计划中的精炼厂位于希尼扬加区(Shinyanga)卡哈马市(Kahama)"
+        "矿山与选矿厂",
+        "卡盖拉区卡班加"
       ],
       [
-        "股东／运营方",
-        "Lifezone Metals 100%持股Kabanga Nickel Limited (KNL)，并持有运营子公司Tembo Nickel Corporation Limited (TNCL) 84%股权（坦桑尼亚政府持有TNCL剩余16%）；必和必拓(BHP)已出售其在KNL的剩余17%股权予Lifezone Metals，完全退出本项目"
+        "下游规划",
+        "卡哈马湿法精炼厂"
       ],
       [
-        "产品",
-        "计划产出电池级硫酸镍/MHP类中间品、铜、钴产品（尚未投产）"
+        "股权",
+        "Lifezone通过KNL持有Tembo Nickel 84%；坦桑尼亚政府16%"
       ],
       [
-        "生产工艺",
-        "精矿加压浸出+其它(Lifezone专有湿法冶金Hydromet工艺，具体化学路线未完全公开核实)"
+        "2025年可研产品",
+        "镍铜钴精矿"
       ],
       [
-        "产能（镍吨／年）",
-        "50,000 · 底表所列能力；口径见正文"
+        "选矿设计处理量",
+        "340万吨矿石／年"
       ],
       [
-        "设备",
-        "不适用——2025年可行性研究(FS)范围仅为选矿厂(浮选)，设计处理能力3.4百万吨/年矿石；**卡哈马(Kahama)湿法精炼厂被明确排除在2025年FS范围之外**(\"remains an important strategic component\"但未纳入本轮FS，为本次研究重要澄清——原JSON记录的\"50,000吨\"综合产能数字很可能对应更早期的一体化概念研究，而非当前FS范围)。"
+        "阶段",
+        "可研及投资准备；精炼厂单独规划"
       ]
     ],
     "sources": [
@@ -30424,66 +30586,45 @@
       {
         "title": "www.businesswire.com · 卡班加镍矿及卡哈马湿法冶金精炼厂(规划中)参考资料",
         "url": "https://www.businesswire.com/news/home/20250718629516/en/Lifezone-Metals-Files-the-Feasibility-Study-Technical-Report-Summary-for-the-Kabanga-Nickel-Project-in-Tanzania"
+      },
+      {
+        "title": "Lifezone：收购BHP的KNL权益，2025年7月18日",
+        "url": "https://ir.lifezonemetals.com/news/press-releases/news-details/2025/Lifezone-Metals-Consolidates-Control-of-the-World-Class-Kabanga-Nickel-Copper-Cobalt-Sulfide-Project/default.aspx"
       }
     ],
     "sections": [
       {
-        "title": "历史与股权沿革",
+        "title": "股权与项目控制",
         "paragraphs": [
-          "该项目历经多轮国际矿业公司(据一般行业认知包括必和必拓、Barrick等早期勘探参与方)勘探研究 → 2021年Lifezone Metals收购该项目权益 → 2022年必和必拓(BHP)对Lifezone Metals进行战略投资并获得少数权益(具体比例本次调研未能独立核实，一般行业认知约为16.6%左右) → 坦桑尼亚政府依据该国矿业法通常持有战略矿产项目部分权益(具体比例未核实)。",
-          "卡班加被普遍认为是全球尚未开发的高品位硫化镍矿床之一，多年来吸引多家国际矿业公司勘探研究。2021年Lifezone Metals收购项目权益并推动开发，2022年引入必和必拓战略投资，标志着该项目重新获得国际资本关注。项目计划采用Lifezone专有的常压/加压湿法冶金工艺(Hydromet)在坦桑尼亚国内建设精炼产能(拟选址卡哈马Kahama)，实现'一体化矿山到金属'生产模式，产出电池级镍/铜/钴产品，而非仅出口精矿，契合坦桑尼亚政府推动本土矿产增值加工的产业政策。截至2024年12月，公司披露的资源量数据(58.1百万吨，2.09%镍)显示项目规模可观。但截至本次调研，未能核实项目是否已完成最终可行性研究、是否已作出最终投资决定(FID)及具体开工/达产时间表，2025-2026年的最新进展均为本报告重要缺口，需报告撰写人重点补充核实。"
+          "2025年7月18日，Lifezone宣布收购BHP所持Kabanga Nickel Limited的剩余17%权益。交易后，Lifezone持有KNL全部股权；KNL持有项目公司Tembo Nickel的84%，坦桑尼亚政府持有16%。Lifezone同时取得项目全部承购安排的控制权。"
         ],
         "refs": [
-          0
+          7
         ]
       },
       {
-        "title": "工艺、设备与原料",
+        "title": "2025年可行性研究",
         "paragraphs": [
-          "精矿加压浸出+其它(Lifezone专有湿法冶金Hydromet工艺，具体化学路线未完全公开核实)。原料：硫化矿精矿",
-          "不适用——2025年可行性研究(FS)范围仅为选矿厂(浮选)，设计处理能力3.4百万吨/年矿石；**卡哈马(Kahama)湿法精炼厂被明确排除在2025年FS范围之外**(\"remains an important strategic component\"但未纳入本轮FS，为本次研究重要澄清——原JSON记录的\"50,000吨\"综合产能数字很可能对应更早期的一体化概念研究，而非当前FS范围)。",
-          "自有卡班加矿(卡盖拉区)，FS平均入选品位1.98% Ni、0.27% Cu、0.15% Co；金属回收率87.3% Ni、95.6% Cu、89.6% Co；矿石总量5220万吨(100%基础)，矿山寿命18年；全周期精矿含金属量：镍90.2万吨、铜13.4万吨、钴6.9万吨。",
-          "FS范围产品为17.5%镍精矿(镍-铜-钴硫化物精矿)，以密封可复用软体集装箱出口；若卡哈马精炼厂建成，将采用Lifezone专有湿法工艺产出电池级硫酸盐/MHP类中间品(具体化学路线未公开核实)。"
+          "公司同日公布的可行性研究覆盖地下矿山、选矿厂、尾矿设施和配套工程，设计每年处理340万吨矿石。矿石经浮选形成镍铜钴精矿，计划经达累斯萨拉姆港销往国际客户。研究中的产品是精矿，不能直接当作硫酸镍或MHP供应。"
         ],
         "refs": [
-          0
+          4
         ]
       },
       {
-        "title": "产能与扩建",
+        "title": "矿山与精炼厂的区别",
         "paragraphs": [
-          "R4：据Lifezone Metals 2025年6月《可行性研究技术报告摘要》(Feasibility Study Technical Report Summary, S-K 1300)：选矿厂设计处理能力340万吨矿石/年；18年矿山寿命内累计产出精矿中镍金属90.2万吨，折合年均约5万吨镍/年(此为矿山寿命期算术平均值，非稳态铭牌产能，早期爬坡及后期衰竭年份预计显著偏离均值)。该数字为选矿端精矿含镍量口径；下游卡哈马湿法冶金精炼厂的终端产品(硫酸镍/MHP)设计产能本轮未获取。 | 截至本次调研，项目仍处于开发前期，未见经独立核实的最终铭牌产能数字；据一般行业认知，早期研究曾提出3万-6.5万吨镍/年区间的多种情景方案，具体以最终可行性研究/最终投资决定(FID)为准，本次调研未能核实是否已完成FID。",
-          "多年来被视为全球未开发高品位硫化镍矿床之一→2021年Lifezone Metals收购项目权益→2022年必和必拓(BHP)引入战略投资→2024年12月资源量更新至5810万吨(推断+控制资源，品位2.09% Ni，口径大于FS采矿储量5220万吨)→2025年7月18日提交可行性研究技术报告摘要(TRS)：选矿厂预生产资本开支9.42亿美元，全周期资本开支24.9亿美元→Lifezone其后收购BHP剩余17%股权(BHP完全退出)→2026年目标最终投资决定(FID)，其后2年建设+4年爬产。"
+          "卡哈马湿法精炼厂是产业链进一步向下游延伸的规划，与2025年研究中的矿山、选矿厂分开记录。该研究列示矿山寿命18年、累计精矿含镍90.2万吨；据此计算的年均约5万吨，是全寿命期算术平均值，不是湿法精炼厂的铭牌产能。"
         ],
         "refs": [
-          0
-        ]
-      },
-      {
-        "title": "供销安排与产业关系",
-        "paragraphs": [
-          "Lifezone Metals 100%持股Kabanga Nickel Limited(KNL)；KNL持有运营子公司Tembo Nickel Corporation Limited(TNCL) 84%股权，坦桑尼亚政府持有TNCL剩余16%股权；必和必拓已完全退出。"
-        ],
-        "refs": [
-          0
-        ]
-      },
-      {
-        "title": "能源、成本与人员",
-        "paragraphs": [
-          "未查到具体数据。",
-          "全维持成本(AISC) US$3.36/磅镍(精矿口径，2025年FS，不含精炼环节)。",
-          "披露员工数：1090人。"
-        ],
-        "refs": [
-          0
+          4
         ]
       }
     ],
     "pending": [
-      "BHP has fully exited Kabanga: Lifezone Metals acquired BHP's remaining 17% stake in Kabanga Nickel Limited (KNL), giving Lifezone 100% of KNL and 84% of operating subsidiary Tembo Nickel Corporation Limited (TNCL; the Tanzania government retains the other 16% of TNCL). Deal terms: a $10M fixed cash payment after FID plus a deferred payment tied to Lifezone's post-production share price, with total consideration capped at $83M (reduced to $75M if a Resettlement Action Plan Trigger Event is independently verified); BHP is subject to a 12-month lock-up with right-of-first-refusal to Lifezone. Standard Chartered has been engaged for short-term financing of early construction works, and Societe Generale is leading project financing with export-credit-agency interest. UNRESOLVED CONFLICT: one source states Lifezone is 'focused on finalising activities ahead of the 2026 Final Investment Decision (FID)' following a July 2025 Feasibility Study and a $75M H2-2025 capital raise for pre-FID engineering/site prep, while other information suggests the FID may be delayed to Q1 2027; both cited sources are undated secondary reprints and this discrepancy could not be resolved this round. 首次获得可量化产能参考数字(约5万吨镍/年，矿山寿命期平均值，精矿含镍量口径)，来自公司2025年6月可行性研究技术报告摘要一手信源；FID目标仍为2026年，尚未开工建设，capacity需求已填补(带明确口径说明)。"
+      "后续融资与最终投资决定；卡哈马精炼厂的独立工艺、投资及产能方案；具名客户和实际承购合同。"
     ],
-    "updated_at": "2026-09-18"
+    "updated_at": "2026-09-23"
   },
   "GL149": {
     "title": "Ntaka Hill Nickel-Cobalt Laterite Project 恩塔卡山镍钴红土矿项目",
@@ -32141,6 +32282,15 @@
         "refs": [
           3
         ]
+      },
+      {
+        "title": "停产与后续处置",
+        "paragraphs": [
+          "扬州市生态环境局2025年公布的名单调整表，将扬州一川列为2024年全年停产企业。这补充了其后续破产程序之前的生产状态。"
+        ],
+        "refs": [
+          4
+        ]
       }
     ],
     "sources": [
@@ -32159,16 +32309,20 @@
       {
         "title": "扬州一川破产公告",
         "url": "https://pccz.court.gov.cn/pcgg/ggxq?id=11FDF6F842853C9917CD06BA455D4D77"
+      },
+      {
+        "title": "扬州市生态环境局关于2024年度环境信息强制性披露企业名单调整的公示",
+        "url": "https://sthj.yangzhou.gov.cn/zfxxgk/fdzdgk/ywgz/wrfz/art/2025/art_6e82a323eede446b94ba80a878a4df7e.html"
       }
     ],
     "pending": [
       "具体股东及母公司",
       "技改后设备、产能及复产情况",
       "客户和海外关联",
-      "法院已受理破产申请；破产程序本身不能证明已停产或已关闭，未见同期生产证据。"
+      "继续核对破产程序进展、资产处置及停产后的复产安排。"
     ],
     "related_projects": [],
-    "updated_at": "2026-09-21"
+    "updated_at": "2026-09-23"
   },
   "CN002": {
     "title": "宿迁翔翔实业有限公司",
@@ -32612,7 +32766,7 @@
   },
   "CN008": {
     "title": "江苏宝通镍业有限公司",
-    "intro": "江苏宝通镍业有限公司成立于2011年，位于连云港徐圩新区，曾建设镍铁项目并以烧结机—矿热电炉工艺生产高镍生铁。法院重整公开材料披露其拥有8台干燥窑、2条筛分破碎线、4台带式烧结机、8台33000kVA矿热电炉和5台浇铸机，公开口径年产20万吨高镍生铁；公司在2014年和2017年两度停产，2020年进入破产清算审查，2022年重整计划草案表决通过。",
+    "intro": "江苏宝通镍业有限公司曾在连云港建设镍铁项目。企业经历2014年和2017年两度停产，随后进入破产重整；2024年司法报道介绍，重整方案拟将主营业务转向临港化工配套服务。",
     "summary": "",
     "facts": [
       [
@@ -32680,6 +32834,15 @@
         "refs": [
           0
         ]
+      },
+      {
+        "title": "重整后的业务方向",
+        "paragraphs": [
+          "2024年1月的司法报道介绍，宝通重整方案将传统镍铁加工改为临港化工配套服务，并安排处置排污权指标。企业原有镍铁生产与重整后的开发方向因而分属两个经营阶段。"
+        ],
+        "refs": [
+          2
+        ]
       }
     ],
     "sources": [
@@ -32690,15 +32853,20 @@
       {
         "title": "江苏宝通镍业企业登记与经营范围",
         "url": "https://www.cnverify.com/company/Jiangsu-Baotong-Nickel-Industry-Co-Ltd"
+      },
+      {
+        "title": "司法“含绿量”提升发展“含金量”——宝通公司50亿债权破产重整成功",
+        "url": "http://jsfzb.xhby.net/pc/con/202401/18/content_1287685.html"
       }
     ],
     "pending": [
       "重整投资人及最新股权",
       "重整后设备和实际生产",
-      "客户、矿源和海外关联"
+      "客户、矿源和海外关联",
+      "取得设备拆除项目的中标公告或验收原文；核验重整后公司实际业务。"
     ],
     "related_projects": [],
-    "updated_at": "2026-09-21"
+    "updated_at": "2026-09-23"
   },
   "CN009": {
     "title": "荣阳钢铁",
@@ -34273,6 +34441,15 @@
         "refs": [
           0
         ]
+      },
+      {
+        "title": "投产与运行记录",
+        "paragraphs": [
+          "蕉城生态环境局2024年公布的投诉办理记录称，联德年产30万吨镍合金工程已完成建设并办理自主验收，现场检查还记录了生产设施的烟气、粉尘问题。这些记录补充了项目建成后的运行情况。"
+        ],
+        "refs": [
+          3
+        ]
       }
     ],
     "sources": [
@@ -34287,20 +34464,24 @@
       {
         "title": "福建联德一期点火报道",
         "url": "https://www.ferro-alloys.com/News/Search?WebShieldDRSessionVerify=RHVFDtAjIL3kkkZfU4D7&commendTop=True&pageIndex=5230&webPageId=13"
+      },
+      {
+        "title": "宁德市蕉城生态环境局2024年1季度12369群众投诉件处理情况公示表",
+        "url": "http://www.jiaocheng.gov.cn/ztzl/jcqhjbhj/wryhjjg/202404/t20240425_1932161.htm"
       }
     ],
     "pending": [
       "联德最新法人股权比例和烨联持股链",
       "炉型、原料来源和当前产能",
       "具体客户及是否有海外原料长协",
-      "烨联披露30万吨镍合金属企业介绍，未获近期环保或生产状态证据。"
+      "补充2025年后的实际产量或运行披露。"
     ],
     "related_projects": [],
-    "updated_at": "2026-09-21"
+    "updated_at": "2026-09-23"
   },
   "CN032": {
     "title": "福建鼎信实业有限公司",
-    "intro": "福建鼎信实业有限公司是青山实业旗下宁德湾坞临港镍铁和不锈钢一体化主体。2008年，青山控股、德力西集团和上海鼎信投资联手在福安湾坞投资建设镍合金项目；公开资料称一期年产10万吨镍铁，后续规划30万吨镍合金并热装进入不锈钢流程。2024年环评公示的二期技改新增75吨VOD真空精炼炉、年处理精制镍合金水15万吨，显示其继续向镍铁—不锈钢深加工一体化延伸。",
+    "intro": "福建鼎信实业有限公司是青山实业在宁德湾坞的镍铁和不锈钢一体化企业。其精炼系统把上游含镍原料加工为镍合金及后续钢材，既有设备包括AOD炉、LF炉和板坯铸机；2025年获批进一步增设VOD精炼工序。",
     "summary": "",
     "facts": [
       [
@@ -34380,6 +34561,16 @@
           0,
           3
         ]
+      },
+      {
+        "title": "精炼设备与技改",
+        "paragraphs": [
+          "宁德市生态环境局文件记载，鼎信一期、二期精炼系统于2017年1月投入生产。既有精制镍合金线包括75吨AOD炉、LF炉及板坯铸机。2025年的技改批复提出增设VOD炉，进一步调整精炼工艺。"
+        ],
+        "refs": [
+          4,
+          5
+        ]
       }
     ],
     "sources": [
@@ -34398,18 +34589,27 @@
       {
         "title": "鼎信二期镍铁及深加工技改环评公示",
         "url": "https://passport.cqlw.com/site/newsDetailsPrice.action?c1=9&c2=&id=498181c790b3e0eb0190b5d64ddf001a&s=&tag="
+      },
+      {
+        "title": "宁德市生态环境局关于福建鼎信实业有限公司二期镍铁合金及深加工配套项目技改工程环境影响报告书的批复",
+        "url": "http://www.ningde.gov.cn/zwgk/zdxxgk/hjbhxx/jsdwhpxx/202503/t20250313_2023188.htm"
+      },
+      {
+        "title": "宁德市生态环境局关于鼎信实业RKEF不锈钢冶炼装备技术及配套项目环境影响报告书的批复",
+        "url": "https://sthjj.ningde.gov.cn/zwgk/jsdwhpxx/202412/t20241212_2000022.htm"
       }
     ],
     "pending": [
       "鼎信实业最新股东及各青山法人的持股比例",
       "镍铁炉台、当前年产量和矿源",
       "具体外部客户与海外项目持股",
-      "正文保留了来源边界或身份核验说明，需结合原始环评、工商或法院文件进一步核对。"
+      "正文保留了来源边界或身份核验说明，需结合原始环评、工商或法院文件进一步核对。",
+      "核验VOD技改竣工或验收，勿把环评批复当作投产。"
     ],
     "related_projects": [
       "CN074"
     ],
-    "updated_at": "2026-09-21"
+    "updated_at": "2026-09-23"
   },
   "CN033": {
     "title": "宝钢德盛不锈钢有限公司",
@@ -36727,6 +36927,15 @@
           0,
           1
         ]
+      },
+      {
+        "title": "企业关闭",
+        "paragraphs": [
+          "防城港市生态环境局2025年4月公布的环境信息披露名单调整表，将广西金源镍业移出名单，原因为企业已破产倒闭。百科据此记录企业关闭，并保留其早期投资与项目规划历史。"
+        ],
+        "refs": [
+          2
+        ]
       }
     ],
     "sources": [
@@ -36737,14 +36946,17 @@
       {
         "title": "防城港市关于成立广西金源镍业有限公司项目推进领导小组的文件",
         "url": "https://www.fsou.net/html/text/lar/173230/17323013.html"
+      },
+      {
+        "title": "关于2024年度环境信息依法披露企业调整情况公示",
+        "url": "http://sthjj.fcgs.gov.cn/tzgg/t19762494.shtml"
       }
     ],
     "pending": [
-      "补充防城港政府原始公文、工商股东变更、环评批复和设备/产能资料；企业百科中的出资关系需用登记档案复核。",
-      "项目推进领导小组反映行政协调，不等于环评验收或投产；未找到生产证据。 现有资料只描述当年的规划或建设，尚不能确定之后是否建成、取消或转作其他用途。"
+      "原规划冶炼装置是否实际建成或曾经生产；破产清算及资产处置进展。"
     ],
     "related_projects": [],
-    "updated_at": "2026-09-21"
+    "updated_at": "2026-09-23"
   },
   "CN069": {
     "title": "北海诚德镍业有限公司",
@@ -37480,6 +37692,16 @@
           1,
           2
         ]
+      },
+      {
+        "title": "分阶段建设与投产",
+        "paragraphs": [
+          "奈曼旗2023年政府工作报告回顾，2022年经安18条镍铁生产线中已有5条投产。2024年1月当地项目综述进一步记载18条线已建成。项目因此经历了先建成部分生产线、再完成整体建设的过程；建成线数与同期实际开工线数分别记录。"
+        ],
+        "refs": [
+          4,
+          5
+        ]
       }
     ],
     "sources": [
@@ -37498,14 +37720,22 @@
       {
         "title": "中钢国际项目进度调整公告",
         "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12557741&stockid=000928"
+      },
+      {
+        "title": "以钢铸魂展雄风——奈曼旗全力打造东北地区最大不锈钢及制品生产基地综述",
+        "url": "https://www.tongliao.gov.cn/xwzx/jrgz/202401/t20240125_638093.html"
+      },
+      {
+        "title": "通辽市奈曼旗2023年政府工作报告",
+        "url": "https://www.tongliao.gov.cn/zwgk/szf/zfgzbg/nmq/202302/t20230203_43072.html"
       }
     ],
     "pending": [
       "核对最新环评验收、实际开工炉数、项目是否复产/转产、毕氏集团股权文件和客户；不得用设计产能替代实产。",
-      "EPC及进度调整只记录2021年前后的建设与延期，未找到近期竣工、验收或产销；不将历史建设纪录标为当前建设中。"
+      "补充2025—2026年生产、产量或排污监测记录；核实资金压力对运行的影响。"
     ],
     "related_projects": [],
-    "updated_at": "2026-09-21"
+    "updated_at": "2026-09-23"
   },
   "CN079": {
     "title": "大连富力镍基合金新材料有限公司",
@@ -38346,7 +38576,7 @@
   },
   "CN088": {
     "title": "Guangxi Yinyi New Materials Co., Ltd. 广西银亿新材料有限公司",
-    "intro": "广西银亿新材料有限公司位于广西玉林博白，是从镍钴湿法冶炼向新能源材料延伸的企业。其产品体系包括镍钴金属及相应盐类，镍盐业务依托既有冶金加工能力发展。",
+    "intro": "广西银亿新材料有限公司位于广西玉林博白，从事镍钴湿法加工及新能源材料生产。玉林市商务局披露，公司2024年前三季度生产硫酸镍5.3万吨，反映了该阶段镍盐业务的实际运行规模。",
     "summary": "",
     "facts": [
       [
@@ -38398,6 +38628,15 @@
         "refs": [
           1
         ]
+      },
+      {
+        "title": "硫酸镍生产",
+        "paragraphs": [
+          "玉林市商务局2024年的加工贸易报道记载，广西银亿前三季度生产硫酸镍5.3万吨。这是硫酸镍产品量，不能直接作为镍金属量或年设计产能。"
+        ],
+        "refs": [
+          3
+        ]
       }
     ],
     "sources": [
@@ -38412,15 +38651,19 @@
       {
         "title": "广西生态环境厅：广西银亿项目环境影响后评价",
         "url": "https://sthjt.gxzf.gov.cn/zfxxgk/zfxxgkgl/fdzdgknr/hjjccf/xzxk/hjyxslgk/W020191125643897034719.pdf"
+      },
+      {
+        "title": "玉林加工贸易开启“加速跑”",
+        "url": "http://swj.yulin.gov.cn/zwyw/t19388638.shtml"
       }
     ],
     "pending": [
       "集团重整后的最终股权和当前运营主体需要进一步确认。",
       "补充镍盐实际开停产、原料供货方、具名客户和合同。",
-      "后评价和旧交易资料不足以确认广西银亿当前生产状态。"
+      "取得2024年第四季度后产量、排污监测或企业公告。"
     ],
     "related_projects": [],
-    "updated_at": "2026-09-21"
+    "updated_at": "2026-09-23"
   },
   "CN089": {
     "title": "广东芳源新材料集团股份有限公司 芳源股份",
@@ -38719,10 +38962,11 @@
       {
         "title": "投产与运行记录",
         "paragraphs": [
-          "合纵科技2025年审计报告明确：天津茂联2024年4月技改后因资金短缺停工停产，至报告批准报出日未复产。"
+          "天津茂联在2024年4月开始技术改造，随后因资金不足暂停生产。合纵科技2025年度审计报告的财务报表附注第98页明确记载，截至报告批准报出日仍未复产。该段落位于PDF文件第115页，属于整个子公司的停工记录，与2023年硫酸镍结晶设备阶段性闲置是两个不同事件。"
         ],
         "refs": [
-          2
+          2,
+          3
         ]
       }
     ],
@@ -38736,15 +38980,19 @@
         "url": "https://disc.static.szse.cn/disc/disk03/finalpage/2026-04-29/537bb6e6-0619-4e88-8bed-2b7c070d75d6.PDF"
       },
       {
-        "title": "合纵科技2025年审计报告：天津茂联停工停产",
+        "title": "合纵科技2025年度审计报告，附注第98页（PDF第115页）",
         "url": "https://static.cninfo.com.cn/finalpage/2026-04-29/1225249532.PDF"
+      },
+      {
+        "title": "合纵科技2024年度业绩说明会记录，第2页，2025年5月16日",
+        "url": "https://static.cninfo.com.cn/finalpage/2025-05-19/1223586345.PDF"
       }
     ],
     "pending": [
       "补充当前持股比例、各车间投产节点及委托加工合同期限。"
     ],
     "related_projects": [],
-    "updated_at": "2026-09-21"
+    "updated_at": "2026-09-23"
   },
   "CN093": {
     "title": "江门市长优实业有限公司",
@@ -38905,7 +39153,7 @@
   },
   "CN095": {
     "title": "眉山顺应动力电池材料有限公司",
-    "intro": "眉山顺应动力电池材料有限公司在四川眉山布局镍钴资源加工和电池材料业务，项目发展与动力电池材料需求相连。",
+    "intro": "顺应动力电池材料项目位于四川眉山，开展含镍原料加工和电池材料业务。项目早期以眉山顺应名称进入研究资料，后续现场报道使用四川顺应动力电池材料有限公司名称；硫酸镍已形成试产及销售记录。",
     "summary": "",
     "facts": [
       [
@@ -38931,6 +39179,10 @@
       [
         "项目缘由",
         "红土镍矿工艺开发与验证"
+      ],
+      [
+        "公开报道名称",
+        "四川顺应动力电池材料有限公司"
       ]
     ],
     "sections": [
@@ -38943,20 +39195,37 @@
         "refs": [
           0
         ]
+      },
+      {
+        "title": "从试产到订单生产",
+        "paragraphs": [
+          "2023年报道记载，顺应自2022年10月投料试产后，对外销售钼液和硫酸镍。2024年11月的现场走访又记录了结晶车间的订单生产情况。这两次报道把项目从早期工艺验证连接到了实际产品销售。"
+        ],
+        "refs": [
+          1,
+          2
+        ]
       }
     ],
     "sources": [
       {
         "title": "顺应环评材料",
         "url": "https://qxb-img-osscache.qixin.com/qianlima/关于2022年5月23日受理建设项目环境影响评价文件情况的公告1-公示本-顺应研究院项目.pdf"
+      },
+      {
+        "title": "四川“忙起来了”②|支持企业扩产发展 四川“税电指数贷”持续扩面增效",
+        "url": "http://finance.sina.com.cn/jjxw/2023-06-08/doc-imywqkvc2647349.shtml"
+      },
+      {
+        "title": "国网眉山供电公司：追“高”逐“新” 澎湃电力赋动能",
+        "url": "https://www.scjjrb.com/2024/11/22/99419268.html"
       }
     ],
     "pending": [
-      "补充眉山顺应正式环评报告、批复及验收；当前资料不足以确认实际投产产品和客户。",
-      "仅有项目环评材料，未找到验收或产销证据。"
+      "核验更名工商档案及2025年后产量；区分硫酸镍、三元前驱体与四氧化三钴各线状态。"
     ],
     "related_projects": [],
-    "updated_at": "2026-09-21"
+    "updated_at": "2026-09-23"
   },
   "CN096": {
     "title": "赣州吉锐新能源科技有限公司（江西力道）",
@@ -40769,6 +41038,15 @@
           0,
           1
         ]
+      },
+      {
+        "title": "产品方案调整",
+        "paragraphs": [
+          "南通市2025年11月批复新玮技改方案，拟新增年产230吨碳酸镍、100吨高纯镍板，并在方案中取消原硫酸镍、氯化钴和硫酸钴产品。该调整体现了企业计划从原有镍钴盐组合转向其他镍产品。项目按批复要求建设完成后，还需办理环保验收。"
+        ],
+        "refs": [
+          2
+        ]
       }
     ],
     "sources": [
@@ -40779,15 +41057,20 @@
       {
         "title": "清洁生产名录",
         "url": "https://www.cnmn.com.cn/fav/files/%E5%AE%9E%E6%96%BD%E6%B8%85%E6%B4%81%E7%94%9F%E4%BA%A7%E5%B9%B6%E9%80%9A%E8%BF%87%E8%AF%84%E4%BC%B0%E9%AA%8C%E6%94%B6%E7%9A%84%E9%87%8D%E7%82%B9%E4%BC%81%E4%B8%9A%E5%90%8D%E5%8D%95%EF%BC%88第5批）.pdf"
+      },
+      {
+        "title": "市数据局关于南通新玮镍钴科技发展有限公司电子专用材料技术改造项目环境影响报告书的批复",
+        "url": "https://shuju.nantong.gov.cn/ntsxzspj/upload/c00d30f6-812a-448f-bab9-27fb85342410.pdf"
       }
     ],
     "pending": [
       "补充新玮最新工商、环评验收和硫酸镍产品证据；区分早期海门钴盐线与当前存续状态。",
       "公开材料未点名单厂客户，不把客户行业概述写成具体买方。",
-      "企业访谈介绍湿法资源回收业务，清洁生产名单也收录了该主体；目前尚未取得能说明近期具体产线开工的生产记录。"
+      "企业访谈介绍湿法资源回收业务，清洁生产名单也收录了该主体；目前尚未取得能说明近期具体产线开工的生产记录。",
+      "取得建设、竣工环保验收或生产许可记录，确认旧线停用和新线投产日期。"
     ],
     "related_projects": [],
-    "updated_at": "2026-09-21"
+    "updated_at": "2026-09-23"
   },
   "CN122": {
     "title": "吉林亚融科技股份有限公司",
@@ -43434,7 +43717,7 @@
       ],
       [
         "状态",
-        "项目分期建设；验收"
+        "试生产（镍钴车间）；2025-02至2025-04报道时"
       ]
     ],
     "sections": [
@@ -43469,13 +43752,12 @@
         ]
       },
       {
-        "title": "投产与运行记录",
+        "title": "镍钴车间试生产",
         "paragraphs": [
-          "铜仁市2024年8月的现场报道记载，贵州星茂一期于当年3月试生产，至7月已有碳酸锂产出。该厂处理退役电池并回收其中的金属，二期按另一个建设阶段推进。现有生产记录支持一期试产，尚不宜把整个规划项目写成全部商业投产。"
+          "星茂分产品车间推进建设：碳酸锂车间于2024年3月开始试生产，镍、钴车间于2025年2月开始试生产。大龙开发区2025年4月报道记载，当时累计产出硫酸镍100吨、氧化钴100吨和碳酸钴200吨。"
         ],
         "refs": [
-          0,
-          1
+          2
         ]
       }
     ],
@@ -43487,13 +43769,18 @@
       {
         "title": "铜仁产业报道",
         "url": "https://www.tongren.gov.cn/2024/0615/319633.shtml"
+      },
+      {
+        "title": "大龙开发区：奋进拼搏 擘画高质量发展新画卷",
+        "url": "https://www.dalong.gov.cn/xwzx/yqyw/202504/t20250404_87474274.html"
       }
     ],
     "pending": [
-      "补充最新环评验收、排污许可、股权沿革和单厂客户证据；不把集团计划或同名主体资料并入。"
+      "补充最新环评验收、排污许可、股权沿革和单厂客户证据；不把集团计划或同名主体资料并入。",
+      "补充试生产后的验收、产能爬坡和二期建设资料。"
     ],
     "related_projects": [],
-    "updated_at": "2026-09-21"
+    "updated_at": "2026-09-23"
   },
   "CN153": {
     "title": "金川集团股份有限公司 金昌纯镍产线",
@@ -43564,6 +43851,15 @@
           3,
           4
         ]
+      },
+      {
+        "title": "新增电积镍生产线",
+        "paragraphs": [
+          "金昌市政府2025年报道记载，金川镍冶炼厂电积二车间的高品质镍基新材料生产线于当年10月建成投产，设计规模为每年3万吨。该线属于金川镍冶炼体系内的新增工序，应与集团电解镍总产量分别理解。"
+        ],
+        "refs": [
+          6
+        ]
       }
     ],
     "sources": [
@@ -43586,15 +43882,24 @@
       {
         "title": "中国甘肃网：金川电解镍成品车间现场报道，2026年7月",
         "url": "https://gansu.gscn.com.cn/system/2026/07/28/013532821.shtml"
+      },
+      {
+        "title": "2025年1—11月金川区经济运行情况",
+        "url": "http://www.jinchuan.gov.cn/zfxxgk/fdzdgknr/tjxx/tjnj/art/2025/art_bae4dd9c703d4017a00aa25bfe038a97.html"
+      },
+      {
+        "title": "“智”造升级 向“新”生长——金川集团高品质镍基新材料生产见闻",
+        "url": "http://www.jcs.gov.cn/zfxxgk/fdzdgknr/zdmsxx/kjgl/art/2025/art_07450fb7b49141018c77a5e664e47fb7.html"
       }
     ],
     "pending": [
-      "补齐当前每套冶炼和精炼系统的设备、检修与运行状态，以及产品具名客户。"
+      "补齐当前每套冶炼和精炼系统的设备、检修与运行状态，以及产品具名客户。",
+      "核验新线的全年产量及与既有电解镍统计口径的关系。"
     ],
     "related_projects": [
       "CN083"
     ],
-    "updated_at": "2026-09-21"
+    "updated_at": "2026-09-23"
   },
   "CN154": {
     "title": "GEM Co., Ltd. 格林美股份有限公司",
