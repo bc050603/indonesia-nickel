@@ -1,5 +1,5 @@
 {
-  "reviewed_at": "2026-09-23",
+  "reviewed_at": "2026-09-28",
   "definition": "运行状态以各条注明的资料时期为准。已投产不等于当前满负荷；历史已投产表示有旧生产记录但缺少近期运行披露；转产、停产和集团总览分别列示。",
   "projects": {
     "NPI004": {
@@ -439,14 +439,25 @@
       "basis": "user-confirmed"
     },
     "NPI038": {
-      "key": "operating",
-      "label": "已投产",
-      "period": "2025年及2026年上半年",
-      "note": "经营主线为NPI；低冰镍转换属于历史产品经历。",
-      "reviewed_at": "2026-09-18",
+      "key": "partial",
+      "label": "部分检修",
+      "period": "2026年6月底启动；二季报披露",
+      "note": "一条RKEF线开始大修，预计约四个月、期间约50%能力运行。实际复产日期待后续披露。",
+      "reviewed_at": "2026-09-28",
       "article_id": "NPI038",
-      "sources": [],
-      "products": []
+      "sources": [
+        {
+          "title": "Nickel Industries 2026年二季报，第8页",
+          "url": "https://nickelindustries.com/carbon/assets/0007ea/000007/3095917.pdf"
+        }
+      ],
+      "products": [
+        {
+          "product": "NPI",
+          "status": "生产；一条线检修",
+          "period": "2026年6月底起的计划检修安排"
+        }
+      ]
     },
     "NPI039": {
       "key": "operating",
@@ -1366,14 +1377,14 @@
       "label": "已投产 · 爬坡中",
       "period": "2026年7—9月",
       "note": "MHP及阴极镍已首产；硫酸镍成品首产未公告。",
-      "reviewed_at": "2026-09-18",
+      "reviewed_at": "2026-09-28",
       "article_id": "MHP017",
       "sources": [],
       "products": [
         {
           "product": "MHP",
           "status": "已投产／爬坡",
-          "period": "2026年7月29日首产"
+          "period": "2026年7月21日首产"
         },
         {
           "product": "阴极镍",

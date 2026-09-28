@@ -1903,6 +1903,10 @@
       {
         "title": "用户确认：IMIP镍铁供应园区青山不锈钢厂",
         "url": "library/operator-confirmations.html#imip-supply"
+      },
+      {
+        "title": "Nickel Industries 2023年报，PDF第22及88页",
+        "url": "https://nickelindustries.com/carbon/assets/0007e8/000005/2688938.pdf"
       }
     ],
     "sections": [
@@ -1986,6 +1990,24 @@
         "refs": [
           2
         ]
+      },
+      {
+        "title": "2026年中检修",
+        "paragraphs": [
+          "2026年第二季度，恒嘉生产NPI中的镍3,944吨。6月底，一条RKEF线开始计划大修；公司预计工期约四个月，期间项目约以一半能力运行。季度产量是项目整体数量，未按Nickel Industries的80%持股比例折减。"
+        ],
+        "refs": [
+          1
+        ]
+      },
+      {
+        "title": "历史冰镍的采购法人",
+        "paragraphs": [
+          "Nickel Industries的2023年报把集团低冰镍买方列为PT Indonesia Stainless Steel和PT Indonesia Guang Ching Nickel and Stainless Steel Industry；高冰镍及MHP客户则列为Golden Harbour。采购法人的钢铁业务身份，并不直接说明低冰镍在收货后的加工用途。年报另记载，恒嘉冰镍与Glencore签订了自2024年1月起执行、初始期限六个月的销售合同。"
+        ],
+        "refs": [
+          9
+        ]
       }
     ],
     "pending": [
@@ -1993,10 +2015,11 @@
       "2026最新买方构成",
       "未披露的合同豁免/违约/重议细则",
       "未公开的具体承购期限、价格和数量不作推定",
-      "具体限制见生产判断及主文章节"
+      "具体限制见生产判断及主文章节",
+      "6月底开始大修的RKEF生产线实际复产日期及恢复后的负荷。"
     ],
     "updated": "2026-09-18",
-    "updated_at": "2026-09-18"
+    "updated_at": "2026-09-28"
   },
   "NPI042": {
     "title": "PT Virtue Dragon Nickel Industry (VDNI) 德龙一期",
@@ -3961,7 +3984,7 @@
       ],
       [
         "首批MHP",
-        "2026年7月"
+        "2026年7月21日"
       ],
       [
         "项目状态",
@@ -4025,6 +4048,10 @@
         "title": "Nickel Industries 2024年第二季度报告：提前投入镍盐与阴极镍建设",
         "url": "https://nickelindustries.com/carbon/assets/0007e8/000007/2754396.pdf",
         "date": "2024-07-31"
+      },
+      {
+        "title": "Nickel Industries 2026年二季报，第1、2及6页",
+        "url": "https://nickelindustries.com/carbon/assets/0007ea/000007/3095917.pdf"
       }
     ],
     "sections": [
@@ -4094,6 +4121,15 @@
         "refs": [
           11
         ]
+      },
+      {
+        "title": "首批MHP与分阶段权益",
+        "paragraphs": [
+          "Nickel Industries二季报记载，晨曦于2026年7月21日产出首批MHP。该报告列示公司在报告期持有46%权益；早期协议约定的55%目标权益与当期已取得权益分开记录。8月阴极镍首产及9月爬坡情况，见后续经营记录。"
+        ],
+        "refs": [
+          12
+        ]
       }
     ],
     "pending": [
@@ -4106,7 +4142,8 @@
       "干旱缓解后的实际负荷与耗水约束",
       "具名航空航天或其他客户及合同条件"
     ],
-    "updated": "2026-09-18"
+    "updated": "2026-09-18",
+    "updated_at": "2026-09-28"
   },
   "MHP021": {
     "title": "PT Ceria Kobalt Indotama (CKI) 塞里亚科巴尔特镍钴项目",
@@ -5343,6 +5380,15 @@
         "refs": [
           6
         ]
+      },
+      {
+        "title": "窑体检修与季度产量",
+        "paragraphs": [
+          "安琪2026年第二季度生产NPI中的镍8,735吨，低于第一季度10,560吨。公司说明当季进行了窑体重砌，并预计第三季度产量回升；后者属于当时的经营预期。"
+        ],
+        "refs": [
+          2
+        ]
       }
     ],
     "pending": [
@@ -5351,7 +5397,7 @@
       "未披露的合同豁免/违约/重议细则"
     ],
     "updated": "2026-09-18",
-    "updated_at": "2026-09-18"
+    "updated_at": "2026-09-28"
   },
   "NPI008": {
     "title": "PT Youshan Nickel Indonesia 友山镍业",
@@ -6488,6 +6534,15 @@
           0,
           1
         ]
+      },
+      {
+        "title": "2026年第二季度产量",
+        "paragraphs": [
+          "兰吉尔2026年第二季度生产NPI中的镍4,075吨。该数字按100%项目口径披露，与第一季度4,168吨合计为上半年8,243吨。"
+        ],
+        "refs": [
+          1
+        ]
       }
     ],
     "pending": [
@@ -6495,7 +6550,7 @@
       "上海鼎信承购协议中的豁免、重议和违约条款"
     ],
     "updated": "2026-09-18",
-    "updated_at": "2026-09-18"
+    "updated_at": "2026-09-28"
   },
   "NPI043": {
     "title": "PT Gunbuster Nickel Industry (GNI) 德龙三期",
@@ -10513,6 +10568,15 @@
           0,
           3
         ]
+      },
+      {
+        "title": "2026年第二季度生产",
+        "paragraphs": [
+          "奥拉克2026年第二季度生产NPI中的镍11,110吨。取消高冰镍转换投资后，既有NPI业务继续运行。公司在二季报中另披露，季后收到上海鼎信退回的1,500万美元转换项目期权费；退款与此前6月宣布取消投资是两个节点。"
+        ],
+        "refs": [
+          3
+        ]
       }
     ],
     "pending": [
@@ -10522,7 +10586,7 @@
       "未公开的具体承购期限、价格和数量不作推定；具体限制见生产判断及主文章节"
     ],
     "updated": "2026-09-23",
-    "updated_at": "2026-09-23"
+    "updated_at": "2026-09-28"
   },
   "NPI034": {
     "title": "PT Walsin Nickel Industrial Indonesia (WNII) 印尼华新镍业",
@@ -11984,6 +12048,15 @@
           1,
           2
         ]
+      },
+      {
+        "title": "2026年第二季度加工记录",
+        "paragraphs": [
+          "MBMA二季报显示，华能当季处理低冰镍73,494实物吨，产出高冰镍中的镍9,165吨。两项数字分别计量进料重量和成品中的镍，不能直接相减计算损耗。同期上游CSI、BSI和ZHN按RKEF组合披露19,505镍吨；本期未分列三厂产量，因此不按设计能力比例填造单厂实产。"
+        ],
+        "refs": [
+          1
+        ]
       }
     ],
     "pending": [
@@ -11991,7 +12064,8 @@
       "各上游RKEF冶炼组向华能实际供料的年度分配",
       "2026年下半年的连续运行情况"
     ],
-    "updated": "2026-09-18"
+    "updated": "2026-09-18",
+    "updated_at": "2026-09-28"
   },
   "P09": {
     "title": "PT JIAMAN NEW ENERGY 嘉曼新能源",

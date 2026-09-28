@@ -1,5 +1,5 @@
 {
-  "asof": "2026-09-23",
+  "asof": "2026-09-28",
   "projects": {
     "NPI004": {
       "project_id": "NPI004",
@@ -366,6 +366,15 @@
           "source_url": "https://nickelindustries.com/carbon/assets/0007ea/000007/3095917.pdf",
           "source_title": "Nickel Industries June 2026 Quarterly Report",
           "project_id": "NPI038"
+        },
+        {
+          "date": "2026-06",
+          "label": "月底启动一条线大修",
+          "detail": "公司二季报披露HNI一条RKEF线于6月底开始大修，预计四个月，期间约50%能力运行。",
+          "kind": "检修",
+          "project_id": "NPI038",
+          "source_url": "https://nickelindustries.com/carbon/assets/0007ea/000007/3095917.pdf",
+          "source_title": "Nickel Industries 2026年二季报，第8页"
         }
       ],
       "coverage_note": "仍缺：单厂逐笔交付到具体钢厂的矩阵；2026最新买方构成；未披露的合同豁免/违约/重议细则；未公开的具体承购期限、价格和数量不作推定；具体限制见生产判断及主文章节"
@@ -1058,12 +1067,12 @@
           "project_id": "MHP017"
         },
         {
-          "date": "2026-07-29",
+          "date": "2026-07-21",
           "label": "首批MHP产出",
-          "detail": "Nickel Industries公告晨曦产出首批MHP，确认HPAL主流程贯通。首批产品与工业许可、首次商业销售和稳定达产仍是不同节点。",
+          "detail": "二季报记载首批MHP实际产于7月21日；7月29日为首产公告日期。",
           "kind": "投产",
-          "source_url": "https://nickelindustries.com/carbon/assets/0007ea/000007/3095817.pdf",
-          "source_title": "NIC Maiden MHP Production at ENC",
+          "source_url": "https://nickelindustries.com/carbon/assets/0007ea/000007/3095917.pdf",
+          "source_title": "Nickel Industries 2026年二季报，第1页",
           "project_id": "MHP017"
         },
         {
@@ -17842,6 +17851,15 @@
     },
     {
       "date": "2026-06",
+      "label": "月底启动一条线大修",
+      "detail": "公司二季报披露HNI一条RKEF线于6月底开始大修，预计四个月，期间约50%能力运行。",
+      "kind": "检修",
+      "project_id": "NPI038",
+      "source_url": "https://nickelindustries.com/carbon/assets/0007ea/000007/3095917.pdf",
+      "source_title": "Nickel Industries 2026年二季报，第8页"
+    },
+    {
+      "date": "2026-06",
       "label": "第三条线进入试产",
       "detail": "第三条生产线于2026年6月试产，反映项目按分线节奏扩充；不能把总规划能力提前套到首线调试阶段。",
       "kind": "扩产",
@@ -17922,6 +17940,15 @@
       "project_id": "MHP048"
     },
     {
+      "date": "2026-07-21",
+      "label": "首批MHP产出",
+      "detail": "二季报记载首批MHP实际产于7月21日；7月29日为首产公告日期。",
+      "kind": "投产",
+      "source_url": "https://nickelindustries.com/carbon/assets/0007ea/000007/3095917.pdf",
+      "source_title": "Nickel Industries 2026年二季报，第1页",
+      "project_id": "MHP017"
+    },
+    {
       "date": "2026-07-22",
       "label": "HPAL高压釜到场",
       "detail": "Vale公告Sambalagi HPAL项目高压釜抵达现场，说明湿法项目建设取得设备里程碑；原表机械完工和投产时间仍属于目标，不能提前确认为实际。",
@@ -17929,15 +17956,6 @@
       "source_url": "https://vale.com/in/w/sambalagi-hpal-project-reaches-major-milestone-with-autoclave-arrival-strengthening-the-future-of-sustainable-downstreaming/-/categories",
       "source_title": "Sambalagi HPAL autoclave arrival",
       "project_id": "NPI053"
-    },
-    {
-      "date": "2026-07-29",
-      "label": "首批MHP产出",
-      "detail": "Nickel Industries公告晨曦产出首批MHP，确认HPAL主流程贯通。首批产品与工业许可、首次商业销售和稳定达产仍是不同节点。",
-      "kind": "投产",
-      "source_url": "https://nickelindustries.com/carbon/assets/0007ea/000007/3095817.pdf",
-      "source_title": "NIC Maiden MHP Production at ENC",
-      "project_id": "MHP017"
     },
     {
       "date": "2026-08",
