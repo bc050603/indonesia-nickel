@@ -1,5 +1,5 @@
 {
-  "asof": "2026-09-28",
+  "asof": "2026-09-29",
   "topics": [
     {
       "id": "nickel-sulphate",
@@ -15247,7 +15247,7 @@
     },
     {
       "url": "https://nickelindustries.com/carbon/assets/2023/11/2639228.pdf",
-      "title": "ENC可行性研究",
+      "title": "Nickel Industries 2023年股东大会说明书及独立专家报告（PDF第4、36页）",
       "titles": [
         "ENC可行性研究"
       ],
@@ -25392,6 +25392,10 @@
         {
           "type": "project",
           "id": "NPI038"
+        },
+        {
+          "type": "group",
+          "id": "nickel-industries"
         }
       ],
       "titles": [
@@ -25408,6 +25412,10 @@
         {
           "type": "project",
           "id": "NPI038"
+        },
+        {
+          "type": "group",
+          "id": "nickel-industries"
         }
       ],
       "titles": [

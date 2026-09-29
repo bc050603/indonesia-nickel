@@ -1,5 +1,5 @@
 {
-  "asof": "2026-09-18",
+  "asof": "2026-09-29",
   "projects": {
     "NPI005": {
       "rows": [
@@ -14,9 +14,33 @@
             "url": "https://nickelindustries.com/operations/",
             "date": "2026-09-18查阅"
           }
+        },
+        {
+          "period": "2026年第1季度",
+          "output": 10560,
+          "product": "NPI",
+          "unit": "镍金属吨",
+          "scope": "100%项目口径",
+          "source": {
+            "title": "Nickel Industries 2026年二季报，第12页",
+            "url": "https://nickelindustries.com/carbon/assets/0007ea/000007/3095917.pdf",
+            "date": "2026-07-29"
+          }
+        },
+        {
+          "period": "2026年第2季度",
+          "output": 8735,
+          "product": "NPI",
+          "unit": "镍金属吨",
+          "scope": "100%项目口径",
+          "source": {
+            "title": "Nickel Industries 2026年二季报，第12页",
+            "url": "https://nickelindustries.com/carbon/assets/0007ea/000007/3095917.pdf",
+            "date": "2026-07-29"
+          }
         }
       ],
-      "note": "年度与半年分开展示；不直接计算同比。实际生产量与出口实物吨、项目名义产能分别保存。"
+      "note": "按全年、半年或季度分别查看。半年包含两个季度，不能把不同统计期间相加；所有数值为项目产量中的镍含量。"
     },
     "NPI031": {
       "rows": [
@@ -43,9 +67,33 @@
             "url": "https://nickelindustries.com/carbon/assets/0007ea/000007/3095917.pdf",
             "date": "2026-07"
           }
+        },
+        {
+          "period": "2026年第1季度",
+          "output": 11447,
+          "product": "NPI",
+          "unit": "镍金属吨",
+          "scope": "100%项目口径",
+          "source": {
+            "title": "Nickel Industries 2026年二季报，第12页",
+            "url": "https://nickelindustries.com/carbon/assets/0007ea/000007/3095917.pdf",
+            "date": "2026-07-29"
+          }
+        },
+        {
+          "period": "2026年第2季度",
+          "output": 11110,
+          "product": "NPI",
+          "unit": "镍金属吨",
+          "scope": "100%项目口径",
+          "source": {
+            "title": "Nickel Industries 2026年二季报，第12页",
+            "url": "https://nickelindustries.com/carbon/assets/0007ea/000007/3095917.pdf",
+            "date": "2026-07-29"
+          }
         }
       ],
-      "note": "年度与半年分开展示；不直接计算同比。实际生产量与出口实物吨、项目名义产能分别保存。"
+      "note": "按全年、半年或季度分别查看。半年包含两个季度，不能把不同统计期间相加；所有数值为项目产量中的镍含量。"
     },
     "NPI038": {
       "rows": [
@@ -72,9 +120,33 @@
             "url": "https://nickelindustries.com/carbon/assets/0007ea/000007/3095917.pdf",
             "date": "2026-07"
           }
+        },
+        {
+          "period": "2026年第1季度",
+          "output": 4089,
+          "product": "NPI",
+          "unit": "镍金属吨",
+          "scope": "100%项目口径",
+          "source": {
+            "title": "Nickel Industries 2026年二季报，第12页",
+            "url": "https://nickelindustries.com/carbon/assets/0007ea/000007/3095917.pdf",
+            "date": "2026-07-29"
+          }
+        },
+        {
+          "period": "2026年第2季度",
+          "output": 3944,
+          "product": "NPI",
+          "unit": "镍金属吨",
+          "scope": "100%项目口径",
+          "source": {
+            "title": "Nickel Industries 2026年二季报，第12页",
+            "url": "https://nickelindustries.com/carbon/assets/0007ea/000007/3095917.pdf",
+            "date": "2026-07-29"
+          }
         }
       ],
-      "note": "年度与半年分开展示；不直接计算同比。实际生产量与出口实物吨、项目名义产能分别保存。"
+      "note": "按全年、半年或季度分别查看。半年包含两个季度，不能把不同统计期间相加；所有数值为项目产量中的镍含量。"
     },
     "NPI039": {
       "rows": [
@@ -101,9 +173,33 @@
             "url": "https://nickelindustries.com/carbon/assets/0007ea/000007/3095917.pdf",
             "date": "2026-07"
           }
+        },
+        {
+          "period": "2026年第1季度",
+          "output": 4168,
+          "product": "NPI",
+          "unit": "镍金属吨",
+          "scope": "100%项目口径",
+          "source": {
+            "title": "Nickel Industries 2026年二季报，第12页",
+            "url": "https://nickelindustries.com/carbon/assets/0007ea/000007/3095917.pdf",
+            "date": "2026-07-29"
+          }
+        },
+        {
+          "period": "2026年第2季度",
+          "output": 4075,
+          "product": "NPI",
+          "unit": "镍金属吨",
+          "scope": "100%项目口径",
+          "source": {
+            "title": "Nickel Industries 2026年二季报，第12页",
+            "url": "https://nickelindustries.com/carbon/assets/0007ea/000007/3095917.pdf",
+            "date": "2026-07-29"
+          }
         }
       ],
-      "note": "年度与半年分开展示；不直接计算同比。实际生产量与出口实物吨、项目名义产能分别保存。"
+      "note": "按全年、半年或季度分别查看。半年包含两个季度，不能把不同统计期间相加；所有数值为项目产量中的镍含量。"
     }
   }
 }

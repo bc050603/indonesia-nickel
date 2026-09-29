@@ -253,10 +253,6 @@
         "url": "https://tbpnickel.com/files/pdf_assets/Harita%20Nickel%202024%20Annual%20Report.pdf"
       },
       {
-        "title": "力勤资源2025年报",
-        "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0430/2026043001098.pdf"
-      },
-      {
         "title": "Harita Nickel 2025 Overview",
         "url": "https://api.tbpnickel.com/storage/images/Media/Galeri/Media%20Kit/Harita%20Nickel%20Overview_ENG_091025_Low_compressed.pdf"
       },
@@ -349,10 +345,10 @@
           "公开材料列出的年能力约24万至24.68万实物吨，与约5.4万至5.5万含镍吨代表同一套硫酸镍能力。力勤披露的2024年和2025年硫酸镍产量分别为17.84万和17.69万实物吨。工厂保留MHP外售和继续精炼的选择，因此不能把MHP与后端镍盐中的同一份镍重复累计。"
         ],
         "refs": [
+          3,
           5,
           6,
-          7,
-          8
+          7
         ]
       },
       {
@@ -362,7 +358,7 @@
           "在出口资料中，宁波力勤惠然等力勤体系平台是重要接收方。它们把奥比岛产品连接到境外市场，属于可见的销售渠道；最终前驱体工厂的投料量仍需继续沿后续交易追踪。"
         ],
         "refs": [
-          5
+          3
         ]
       },
       {
@@ -373,7 +369,7 @@
           "资料最早记录早于公司披露的2023年6月正式首运仪式，两个日期分别保留：前者是用户数据中的记录日期，后者是公司公告的商业事件。"
         ],
         "refs": [
-          10
+          9
         ]
       },
       {
@@ -383,7 +379,7 @@
           "因此，2023年硫酸镍产销表中的9.47万吨，包含产能表列示的7.03万吨和2.44万吨委外加工量。2024、2025年两张表的硫酸镍产量则一致，分别为17.84万和17.69万吨。这个区别能解释早期资料中同一年度为什么会出现不同的“产量”。 招股意向书还说明，自2024年相关产线稳定运行后，公司未再采购委托加工服务。"
         ],
         "refs": [
-          11
+          10
         ]
       }
     ],
@@ -1820,7 +1816,7 @@
   "NPI038": {
     "title": "PT Hengjaya Nickel Industry (HNI) 恒嘉镍业",
     "intro": "恒嘉镍业（PT Hengjaya Nickel Industry）位于印尼莫罗瓦利工业园区，是Nickel Industries与青山体系合作的冶炼项目。工厂以镍铁为主要业务，曾在2022至2023年间生产低冰镍，随后披露的经营活动又以NPI为主。",
-    "summary": "恒嘉镍业于2019年3月开始生产NPI，2022至2023年间曾转换生产低冰镍；2025年和2026年上半年的披露仍以NPI为经营主线。",
+    "summary": "恒嘉镍业于2019年1月31日首次产出NPI，第二条线于同年3月18日开始产出。工厂曾在2022至2023年间生产低冰镍，2025年及2026年上半年以NPI为主；2026年6月底开始一条线的计划大修。",
     "facts": [
       [
         "所在地",
@@ -1848,7 +1844,7 @@
       ],
       [
         "运行状态",
-        "NPI在产"
+        "NPI生产；2026年6月底起一条线检修"
       ],
       [
         "设备",
@@ -1865,6 +1861,10 @@
       [
         "2026年上半年产量",
         "8,033镍金属吨"
+      ],
+      [
+        "首次产出NPI",
+        "2019年1月31日"
       ]
     ],
     "sources": [
@@ -2011,15 +2011,12 @@
       }
     ],
     "pending": [
-      "单厂逐笔交付到具体钢厂的矩阵",
-      "2026最新买方构成",
-      "未披露的合同豁免/违约/重议细则",
-      "未公开的具体承购期限、价格和数量不作推定",
-      "具体限制见生产判断及主文章节",
+      "单厂逐笔交付到具体钢厂的对应关系及2026年买方构成。",
+      "历史冰镍合同的续约、数量与定价，以及第三方转换设施的经营法人。",
       "6月底开始大修的RKEF生产线实际复产日期及恢复后的负荷。"
     ],
     "updated": "2026-09-18",
-    "updated_at": "2026-09-28"
+    "updated_at": "2026-09-29"
   },
   "NPI042": {
     "title": "PT Virtue Dragon Nickel Industry (VDNI) 德龙一期",
@@ -3964,7 +3961,7 @@
   "MHP017": {
     "title": "PT Excelsior Nickel Cobalt (ENC) 晨曦镍钴",
     "intro": "晨曦新能源（PT Excelsior Nickel Cobalt，简称ENC）是Nickel Industries参与的印尼湿法镍项目。它将高压酸浸与后续精炼相连接，规划生产MHP、阴极镍及镍盐；2026年已产出产品，仍处于爬坡阶段。",
-    "summary": "晨曦由Nickel Industries主导建设，2026年7月产出首批MHP，8月产出首批阴极镍。到同年9月，工厂仍处于爬坡阶段，供水条件一度限制产量。",
+    "summary": "晨曦于2026年7月21日产出首批MHP，8月宣布产出首批阴极镍。到同年9月，工厂仍在爬坡，供水条件限制了运行负荷。",
     "facts": [
       [
         "所在地",
@@ -3991,12 +3988,12 @@
         "爬坡中"
       ],
       [
-        "精炼产品与阶段",
-        "MHP、阴极镍；另配置硫酸镍路线；2026年7月首产MHP、8月首产阴极镍；硫酸镍成品首产未公告"
+        "精炼能力",
+        "名义能力6万镍吨／年；2023年投资方案预期7.2万镍吨／年，后续公司提出超过7.2万镍吨的目标。几种产品共用镍原料，不重复相加。"
       ],
       [
-        "精炼能力",
-        "原设计6万镍吨/年，目标超过7.2万镍吨/年；MHP、镍盐及阴极镍共享镍流"
+        "NIC项目权益",
+        "46%（2026年二季报）"
       ]
     ],
     "sources": [
@@ -4021,28 +4018,12 @@
         "url": "https://nickelindustries.com/carbon/assets/2023/10/2622065.pdf"
       },
       {
-        "title": "ENC可行性研究",
+        "title": "Nickel Industries 2023年股东大会说明书及独立专家报告（PDF第4、36页）",
         "url": "https://nickelindustries.com/carbon/assets/2023/11/2639228.pdf"
       },
       {
         "title": "2025年三季度：硫酸盐与阴极精炼厂调试进度",
         "url": "https://nickelindustries.com/carbon/assets/0007e9/00000a/2972837.pdf"
-      },
-      {
-        "title": "2026年9月ENC运营更新",
-        "url": "https://nickelindustries.com/carbon/assets/0007ea/000009/3120121.pdf"
-      },
-      {
-        "title": "Nickel Industries：ENC首批MHP（2026-07-29）",
-        "url": "https://nickelindustries.com/carbon/assets/0007ea/000007/3095817.pdf"
-      },
-      {
-        "title": "Nickel Industries：ENC首批阴极镍（2026-08-11）",
-        "url": "https://nickelindustries.com/carbon/assets/0007ea/000008/3101262.pdf"
-      },
-      {
-        "title": "Nickel Industries：运营更新（2026-09-15）",
-        "url": "https://nickelindustries.com/carbon/assets/0007ea/000009/3120121.pdf"
       },
       {
         "title": "Nickel Industries 2024年第二季度报告：提前投入镍盐与阴极镍建设",
@@ -4056,60 +4037,28 @@
     ],
     "sections": [
       {
-        "title": "从镍铁扩展到湿法产品",
+        "title": "投资背景与股东",
         "paragraphs": [
-          "Nickel Industries早期在印尼主要经营镍矿和RKEF镍铁资产。晨曦使公司开始处理更适合湿法路线的褐铁矿，并把产品范围扩大到MHP和阴极镍。项目利用IMIP的公用工程，也通过矿浆管线衔接自有矿源。"
+          "Nickel Industries早期在印尼主要经营镍矿和RKEF镍铁资产。晨曦使公司开始处理更适合湿法路线的褐铁矿，并把产品范围扩大到MHP和阴极镍。项目利用IMIP的公用工程，也通过矿浆管线衔接自有矿源。",
+          "2023年10月11日，Nickel Industries作出最终投资决定，与上海鼎信合作推进建设。原协议安排分期取得55%权益；2026年二季报列示已持有46%。项目规划中的权益安排与各期实际持股因此分别记录。"
         ],
         "refs": [
-          0,
-          1,
-          2
+          4,
+          8
         ]
       },
       {
-        "title": "首产与爬坡",
-        "paragraphs": [
-          "2026年7月，晨曦产出首批MHP；8月11日，项目又产出首批阴极镍。9月15日的更新称，工厂在四周内达到约50%的设计水平，但干旱造成的供水压力可能把负荷降至约30%。这些节点说明工艺已经贯通，稳定生产仍取决于水、电、酸和设备配合。",
-          "晨曦可以把一部分中间品在厂内继续加工为阴极镍，也保留销售MHP的可能。MHP出口限制豁免已经取得，工业经营许可预计在2026年10月办理；截至9月中旬，公司尚未确认商业销售开始。"
-        ],
-        "refs": [
-          0,
-          1,
-          2
-        ]
-      },
-      {
-        "title": "一体化原料安排",
-        "paragraphs": [
-          "项目以Nickel Industries矿山的低品位矿料为重要原料来源。矿山、矿浆运输、HPAL装置和金属回收集中在同一业务体系内，可减少矿石长距离陆运，并让公司在中间品和金属产品之间调整产出。"
-        ],
-        "refs": [
-          0,
-          1,
-          2
-        ]
-      },
-      {
-        "title": "同一批镍的三种产品去向",
+        "title": "原料与产品路线",
         "paragraphs": [
           "晨曦把HPAL、硫酸盐精炼和阴极镍设施布置在同一综合项目内。来自Hengjaya的褐铁矿经制浆和约22公里管线送入HPAL，所得MHP可以销售，也可以继续精炼。设计中的另一条去向是硫酸镍晶体，用于电池材料及其他化学品加工。",
-          "项目原设计6万镍吨/年，目标超过7.2万镍吨/年，覆盖几种产品的合计镍当量。2026年7月和8月先后产出MHP及阴极镍，硫酸镍成品的首产节点尚未在截至9月的公告中单独确认。"
+          "2023年投资文件将名义能力定为每年6万镍吨，同时预期达到7.2万镍吨。名义能力是建设保证和估值采用的基础，预期产出是另一项经营假设。MHP、硫酸镍和阴极镍是同一批镍的不同产品去向，合计项目能力时只计算一次。"
         ],
         "refs": [
           3,
           4,
           5,
-          8,
-          9
-        ]
-      },
-      {
-        "title": "爬坡与市场进入",
-        "paragraphs": [
-          "2026年9月更新显示，工厂曾达到约50%的设计负荷，但干旱造成供水压力。公司当时仍在办理商业销售相关许可，并开始积累阴极镍申请LME品牌注册所需资料。新产品给晨曦带来更广的销售选择，具体客户与稳定产品比例将随着商业运行逐步明确。"
-        ],
-        "refs": [
-          10
+          0,
+          1
         ]
       },
       {
@@ -4119,31 +4068,33 @@
           "这份报告记录的是当时的市场反馈与建设决定。2026年的实际首产、爬坡及销售许可则是后续经营阶段，分别列在项目历史中。"
         ],
         "refs": [
-          11
+          7
         ]
       },
       {
-        "title": "首批MHP与分阶段权益",
+        "title": "首产、爬坡与销售",
         "paragraphs": [
-          "Nickel Industries二季报记载，晨曦于2026年7月21日产出首批MHP。该报告列示公司在报告期持有46%权益；早期协议约定的55%目标权益与当期已取得权益分开记录。8月阴极镍首产及9月爬坡情况，见后续经营记录。"
+          "2026年7月21日，晨曦产出首批MHP，7月29日公司发布首产公告；8月又宣布首批阴极镍产出。项目已先后贯通湿法中间品与金属镍路线。",
+          "9月15日的更新称，工厂在四周内达到约50%的设计水平，随后干旱造成供水压力，负荷可能降至约30%。稳定生产需要矿浆供应、工艺用水和各段设备连续配合。",
+          "项目已取得MHP出口限制豁免，工业经营许可当时预计于10月办理，7月和8月尚无商业销售。公司也开始积累阴极镍申请LME品牌注册所需资料。硫酸镍成品的首产和具体销售客户仍待后续披露。"
         ],
         "refs": [
-          12
+          8,
+          0,
+          1,
+          2
         ]
       }
     ],
     "pending": [
-      "水资源恢复时间及IUI真实发证、首次销售、硫酸盐首次成品、最新剩余股东链待后续公告",
-      "等待硫酸镍首批成品、独立核准能力、商业销售许可和具名客户；闭合Nickel Industries以外当前股东及后续权益支付安排；持续跟踪水资源约束。",
-      "工业经营许可实际发证日和首次商业销售",
-      "阴极镍、MHP、硫酸盐各自产销量",
-      "LME品牌申请、审核和批准状态",
-      "最新完整股东名册",
-      "干旱缓解后的实际负荷与耗水约束",
-      "具名航空航天或其他客户及合同条件"
+      "完整股东名册及后续权益交割。",
+      "干旱缓解后的实际负荷、一体化装置的稳定运行情况。",
+      "工业经营许可实际发证日、首次商业销售及具名客户。",
+      "硫酸镍成品首产，以及MHP、阴极镍、硫酸镍分产品产销量。",
+      "LME品牌申请、审核和批准进度。"
     ],
     "updated": "2026-09-18",
-    "updated_at": "2026-09-28"
+    "updated_at": "2026-09-29"
   },
   "MHP021": {
     "title": "PT Ceria Kobalt Indotama (CKI) 塞里亚科巴尔特镍钴项目",
@@ -8207,14 +8158,6 @@
         "url": "https://file.finance.sina.com.cn/cn/diaoyan/jgdy/2026/2026-05/2026-05-08/10179630_1.PDF"
       },
       {
-        "title": "GEM：QMB 30,000吨/年电解镍线开业",
-        "url": "https://en.gem.com.cn/CompanyNews/info_itemid_7734.html"
-      },
-      {
-        "title": "现有百科青美邦项目的一手来源入口：格林美2026半年报",
-        "url": "https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-8/2026-08-29/12572469.PDF"
-      },
-      {
         "title": "格林美2024年度报告：印尼晶体线与多产品建设进展",
         "url": "https://disc.static.szse.cn/download/disc/disk03/finalpage/2025-04-26/2533d156-9add-461c-a5c0-49ecc68ae9a9.PDF",
         "date": "2025-04-26"
@@ -8300,8 +8243,8 @@
           "这些文件补充了早期全球布局网页的15万吨晶体规划。百科按具体文件保留历史方案，当前以3万镍金属吨级的硫酸镍设计能力阅读；它与2025年新增的3万吨电积镍线是不同工序，也不能简单加到HPAL矿端镍供应之上。"
         ],
         "refs": [
-          11,
-          12
+          9,
+          10
         ]
       }
     ],
@@ -11549,10 +11492,6 @@
         "url": "https://www.ruangenergi.com/bumi-mineral-sulawesi-dan-pohang-iron-and-steel-company-tandatangan-nota-kesepakatan/"
       },
       {
-        "title": "Kalla集团BMS项目页",
-        "url": "https://kalla.co.id/bumimineralsulawesi"
-      },
-      {
         "title": "BMS官网：运营一线及二期产品规划",
         "url": "https://bumimineralsulawesi.com/berita/Bumi-Mineral-Sulawesi-Jalin-Kerja-Sama-Sumitomo-Corporation"
       },
@@ -11618,11 +11557,11 @@
           "股东中，Hadji Kalla、Bukaka、Berkah Raya Utama和Bumi Sarana Utama分别承担投资。BMS与POSCO在2021年签署过合作备忘录，涉及硫酸镍承购及材料链合作意向。现有资料仍应把这一合作意向与实际商业交付分开；硫酸镍二期不列作已运行产能。"
         ],
         "refs": [
+          2,
           8,
           9,
           10,
-          11,
-          12
+          11
         ]
       },
       {
@@ -11631,8 +11570,8 @@
           "BMS经理称此前三个月水电供应下降影响生产，FeNi 1于8月16日临时停运，约570人临时待岗。后续报道指出主要涉及一号厂，也波及部分二号厂人员。二号炉上半年的首产不能推翻八月停运的新信息。"
         ],
         "refs": [
-          13,
-          14
+          12,
+          13
         ]
       }
     ],
@@ -13394,10 +13333,6 @@
         "url": "https://www.abc.net.au/news/2024-04-29/ravensthorpe-nickel-mine-to-close/103781186"
       },
       {
-        "title": "www.first-quantum.com · 雷文斯索普镍项目参考资料",
-        "url": "https://www.first-quantum.com/operations/ravensthorpe/"
-      },
-      {
         "title": "www.mining.com · 雷文斯索普镍项目参考资料",
         "url": "https://www.mining.com/wp-content/uploads/2024/04/Ravensthorpe-Nickel-Operation-Media-Statement-20240429.pdf"
       },
@@ -13416,10 +13351,6 @@
       {
         "title": "www.globenewswire.com · 雷文斯索普镍项目参考资料",
         "url": "https://www.globenewswire.com/news-release/2025/01/15/3010475/0/en/First-Quantum-Minerals-Announces-2024-Preliminary-Production-and-2025-2027-Guidance.html"
-      },
-      {
-        "title": "First Quantum：Ravensthorpe 项目、股权与维护状态",
-        "url": "https://www.first-quantum.com/operations/ravensthorpe/"
       }
     ],
     "sections": [
@@ -13941,10 +13872,6 @@
         "url": "https://www.terrafame.com/newsroom/media-releases/terrafameaposs-operating-result-for-january-june-2024-improved-year-on-year.html"
       },
       {
-        "title": "www.terrafame.com · 泰拉法梅（Terrafame）索特卡莫矿山及电池化学品厂（原塔尔维瓦拉Talvivaara）参考资料",
-        "url": "https://www.terrafame.com/newsroom/media-releases/a-drop-in-the-nickel-sulphate-market-in-china-decreased-terrafameaposs-operating-result-while-basic-production-remained-at-a-good-level.html"
-      },
-      {
         "title": "kaivosvastuu.fi · 泰拉法梅（Terrafame）索特卡莫矿山及电池化学品厂（原塔尔维瓦拉Talvivaara）参考资料",
         "url": "https://kaivosvastuu.fi/kaivostoiminta/2022-terrafame/"
       },
@@ -14122,10 +14049,6 @@
         "url": "https://news.smm.cn/live/detail/103760192"
       },
       {
-        "title": "www.glencore.com.au · 穆林穆林镍钴项目参考资料",
-        "url": "https://www.glencore.com.au/operations-and-projects/minara/who-we-are/producing-nickel-and-cobalt-at-murrin-murrin"
-      },
-      {
         "title": "www.mining-technology.com · 穆林穆林镍钴项目参考资料",
         "url": "https://www.mining-technology.com/projects/murrin/"
       },
@@ -14232,7 +14155,7 @@
           "嘉能可披露，穆林穆林2026年上半年自产镍为1.61万吨，同比增加10%。公司将增长归因于上年同期存在检修停机，说明同比变化包含检修基数影响，并非单纯来自新增产能。"
         ],
         "refs": [
-          12
+          11
         ]
       }
     ],
@@ -14556,15 +14479,16 @@
           "这一差别也提醒读者，品牌获批、允许入库的产品日期和工厂实际首产，是不同时间节点。永恒的准确首批合格品日期仍需企业投产公告补充。"
         ],
         "refs": [
-          6,
-          7
+          0,
+          6
         ]
       }
     ],
     "sources": [
       {
         "title": "LME Notice 25/235：PTENICO品牌上市",
-        "url": "https://www.lme.com/-/media/Files/News/Notices/2025/12/BRANDS-25-235-LISTING-OF-PRIMARY-NICKEL-BRAND-PTENICO.pdf?sc_lang=en"
+        "url": "https://www.lme.com/-/media/Files/News/Notices/2025/12/BRANDS-25-235-LISTING-OF-PRIMARY-NICKEL-BRAND-PTENICO.pdf?sc_lang=en",
+        "date": "2025-12-16"
       },
       {
         "title": "上期所：PTENICO电解镍注册公告",
@@ -14585,11 +14509,6 @@
       {
         "title": "用户全品种出口资料：新增精炼产品逐票复核",
         "url": "library/refining-export-rows.csv"
-      },
-      {
-        "title": "LME Notice 25/235 — Listing of Primary Nickel Brand PTENICO",
-        "url": "https://www.lme.com/-/media/Files/News/Notices/2025/12/BRANDS-25-235-LISTING-OF-PRIMARY-NICKEL-BRAND-PTENICO.pdf?sc_lang=en",
-        "date": "2025-12-16"
       },
       {
         "title": "LME Notice 25/193 — Application to List Primary Nickel Brand PTENICO",
@@ -14662,7 +14581,7 @@
           "按1—8月相同月份比较，2025年样本为9,054.00实物吨，2026年为9,458.00吨，变动+4.46%。这是资料所覆盖的出口变化；厂内消耗、境内销售、库存及样本缺票也会影响它与工厂产量的差别。"
         ],
         "refs": [
-          4
+          3
         ]
       },
       {
@@ -14671,7 +14590,7 @@
           "格林美2026年2月公告，董事会于2月11日决定终止印尼青美此前拟议的增资扩股及股权重组，并签署终止契约书。交易终止后，印尼青美仍为格林美全资下属公司，原拟议外部股东不列入已完成的持股结构。"
         ],
         "refs": [
-          5
+          4
         ]
       }
     ],
@@ -14690,10 +14609,6 @@
       },
       {
         "title": "用户提供的全品种出口资料：硫酸镍与精炼镍明细",
-        "url": "library/refining-export-rows.csv"
-      },
-      {
-        "title": "用户全品种出口资料：新增精炼产品逐票复核",
         "url": "library/refining-export-rows.csv"
       },
       {
@@ -14754,17 +14669,13 @@
           "现有样本覆盖2025-03-29至2026-08-13，共31条记录，原始重量合计34,035.00实物吨。其中同票特征候选另列后，参考计入数量为20.00吨；两种数字对应不同复核范围。 样本中的主要买方／收货抬头为NISSIN CORPORATION（20.00吨）、RICH FORTUNE INT L INDUSTRIAL LIMITED（0.00吨）、BLUESTONE SPECIALTY CHEMICALS LLC（0.00吨）。"
         ],
         "refs": [
-          1
+          0
         ]
       }
     ],
     "sources": [
       {
         "title": "用户提供的全品种出口资料：硫酸镍与精炼镍明细",
-        "url": "library/refining-export-rows.csv"
-      },
-      {
-        "title": "用户全品种出口资料：新增精炼产品逐票复核",
         "url": "library/refining-export-rows.csv"
       }
     ],

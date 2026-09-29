@@ -4295,8 +4295,8 @@
       "capacity_verified": 15000,
       "capacity_basis": "公司现行nameplate、100%项目、镍吨/年",
       "capacity_note": "2025实产16,590镍吨；H1 2026实产8,033镍吨。超额生产不自动改写nameplate。",
-      "status": "NPI在产",
-      "status_date": "2026Q2",
+      "status": "NPI生产；2026年6月底启动一条RKEF线计划大修",
+      "status_date": "2026年二季报：预计检修约四个月",
       "products": [
         "NPI",
         "低冰镍（历史具名实产）"
@@ -4305,7 +4305,8 @@
       "offtake": "按与Shanghai Decent的合作协议，由其承购本项目全部NPI，义务覆盖项目寿命；实际销售可体现为上海鼎信出口或印尼其他青山体系法人采购。宜归“集团承购安排下销售”，不写成全部本厂自用。",
       "matte_link": "NPI全量承购范围不应扩张至一切镍产品。2025年报明确非NPI可卖第三方；2025合并冰镍收入为零只能判断该收入类别，不推出各厂无转换设备。HNI历史低冰镍付费外部转换高冰镍仍保留，不能把买方钢厂名直接当作实际转换炉归属。",
       "history": [
-        "2019-03开始NPI生产；2025和2026H1持续产量披露。"
+        "2019年1月31日首次产出NPI；第二条线于3月18日启动调试并产出。",
+        "2025年及2026年上半年披露NPI实产；2026年6月底开始一条线大修，预计约四个月。"
       ],
       "narrative": [
         "HNI是澳大利亚上市公司Nickel Industries与青山合作的印尼RKEF项目。公司现行资料确认2条炉线、额定15,000镍吨/年，NIC拥有80%项目权益。工厂承担矿石到NPI的冶炼环节，并进入青山相关不锈钢供应链，不能因位于IMIP就等同完全自有钢厂消化。",
@@ -4359,6 +4360,18 @@
           "locator": "PDF25/印刷23；PDF108/印刷106；PDF117/印刷115",
           "claim": "持续确认全量承购与青山相关交易；具名买方清单与金额；非NPI产品允许卖第三方。",
           "id": "NS005"
+        },
+        {
+          "id": "NS180",
+          "url": "https://nickelindustries.com/carbon/assets/2021/04/01-02-2019-Hengjaya-Nickel-Project-Produces-First-NPI.pdf",
+          "title": "恒嘉首批NPI公告（2019-02-01）",
+          "claim": "恒嘉首批NPI及两条线先后启动的历史节点"
+        },
+        {
+          "id": "NS181",
+          "url": "https://nickelindustries.com/carbon/assets/2021/04/30-04-2019-March-2019-Quarterly-Activities-Report.pdf",
+          "title": "2019年一季报：第二条线首产",
+          "claim": "恒嘉首批NPI及两条线先后启动的历史节点"
         }
       ],
       "input_capacity": 15000,
@@ -4437,7 +4450,9 @@
         "NS006",
         "NS058",
         "NS114",
-        "NS005"
+        "NS005",
+        "NS180",
+        "NS181"
       ],
       "matte_ids": [
         "P22"
@@ -9572,6 +9587,18 @@
       "locator": "印刷55/PDF68",
       "claim": "成立、厂址、历史75/25所有权、2009硅锰及2015新增NPI150吨镍/月。",
       "id": "NS179"
+    },
+    {
+      "id": "NS180",
+      "url": "https://nickelindustries.com/carbon/assets/2021/04/01-02-2019-Hengjaya-Nickel-Project-Produces-First-NPI.pdf",
+      "title": "恒嘉首批NPI公告（2019-02-01）",
+      "claim": "恒嘉首批NPI及两条线先后启动的历史节点"
+    },
+    {
+      "id": "NS181",
+      "url": "https://nickelindustries.com/carbon/assets/2021/04/30-04-2019-March-2019-Quarterly-Activities-Report.pdf",
+      "title": "2019年一季报：第二条线首产",
+      "claim": "恒嘉首批NPI及两条线先后启动的历史节点"
     }
   ],
   "regions": [
