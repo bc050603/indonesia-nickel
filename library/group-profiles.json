@@ -11510,6 +11510,976 @@
       "updated_at": "2026-09-21",
       "origin": "group-research",
       "kind": "集团与企业"
+    },
+    "anglo-american": {
+      "id": "anglo-american",
+      "intro": "英美资源集团在巴西经营镍铁业务：1978年收购米纳斯吉拉斯州的莫罗镍铁厂，该厂1998年关闭；目前在戈亚斯州经营巴罗阿尔托和科德明两座镍铁厂。2025年2月集团宣布把巴西镍业务出售给MMG，截至2026年9月交易尚未完成交割。",
+      "facts": [
+        [
+          "业务",
+          "巴西镍铁"
+        ],
+        [
+          "现役工厂",
+          "巴罗阿尔托、科德明（戈亚斯州）"
+        ],
+        [
+          "历史工厂",
+          "莫罗镍铁厂（1998年关闭）"
+        ]
+      ],
+      "sections": [
+        {
+          "title": "Morro do Níquel 莫罗镍铁厂",
+          "paragraphs": [
+            "莫罗镍铁厂位于巴西米纳斯吉拉斯州Pratápolis，使用当地含镍硅酸盐矿石生产镍铁。工厂把回转窑焙烧、电炉还原熔炼和镍铁精炼连接起来，向炼钢业提供含镍合金原料。1962年已开始生产，Anglo American于1978年收购，工厂后来于1998年关闭。"
+          ],
+          "refs": [
+            0,
+            1
+          ]
+        },
+        {
+          "title": "Codemin Ferronickel Plant 科德明镍铁厂",
+          "paragraphs": [
+            "科德明镍铁厂（尼克兰迪亚）位于巴西的戈亚斯州尼克兰迪亚 (Niquelândia, GO)。该项目采用RKEF镍铁路线，产品为镍铁。"
+          ],
+          "refs": [
+            3,
+            4
+          ]
+        },
+        {
+          "title": "Barro Alto Ferronickel Plant 巴罗阿尔托镍铁厂",
+          "paragraphs": [
+            "巴罗阿尔托镍铁厂位于巴西的戈亚斯州 (State of Goiás)。该项目采用RKEF镍铁路线，产品资料涉及镍铁。"
+          ],
+          "refs": [
+            13,
+            5
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "title": "J.-C. Griffon、H. Richter：Morro do Níquel矿床、采矿与处理技术，Geologia e Metalurgia第40辑，第392—394页",
+          "url": "https://sites.poli.usp.br/geologiaemetalurgia/Revistas/Edi%C3%A7%C3%A3o%2040/artigo40.6.pdf"
+        },
+        {
+          "title": "Ernest Langer：巴西镍铁的生产与应用，1964年ABM论文及讨论",
+          "url": "https://abmproceedings.com.br/ptbr/article/download-pdf/produo-e-aplicao-do-ferro-nquel-no-brasil"
+        },
+        {
+          "title": "Anglo American：巴西业务40年回顾，1978年收购Morro do Níquel",
+          "url": "https://brasil.angloamerican.com/pt-pt/imprensa/noticias/year2013/04-11-2013"
+        },
+        {
+          "title": "In The Mine：巴西镍生产体系，历史关闭年份",
+          "url": "https://www.inthemine.com.br/site/estrutura-produtiva-do-niquel-no-brasil/"
+        },
+        {
+          "title": "insg.org · 科德明镍铁厂（尼克兰迪亚）参考资料",
+          "url": "https://insg.org/wp-content/uploads/2021/04/INSG_Insight_35_Nickel_in_Latin_America_and_the_Caribbean_2021.pdf"
+        },
+        {
+          "title": "www.mmg.com · 科德明镍铁厂（尼克兰迪亚）参考资料",
+          "url": "https://www.mmg.com/investors/news-centre/mmg-to-acquire-anglo-americans-nickel-business/"
+        },
+        {
+          "title": "news.smm.cn · 科德明镍铁厂（尼克兰迪亚）参考资料",
+          "url": "https://news.smm.cn/live/detail/104111576"
+        },
+        {
+          "title": "news.smm.cn · 科德明镍铁厂（尼克兰迪亚）参考资料",
+          "url": "https://news.smm.cn/live/detail/104026675"
+        },
+        {
+          "title": "news.smm.cn · 科德明镍铁厂（尼克兰迪亚）参考资料",
+          "url": "https://news.smm.cn/news/103240137"
+        },
+        {
+          "title": "www.angloamerican.com · 科德明镍铁厂（尼克兰迪亚）参考资料",
+          "url": "https://www.angloamerican.com/~/media/Files/A/Anglo-American-Group-v5/PLC/media/press-release/releases/2023pr/q4-2022-production-report.pdf"
+        },
+        {
+          "title": "www.angloamerican.com · 科德明镍铁厂（尼克兰迪亚）参考资料",
+          "url": "https://www.angloamerican.com/~/media/Files/A/Anglo-American-Group-v9/PLC/media/press-release/releases/2025pr/q4-2024-production-report.pdf"
+        },
+        {
+          "title": "www.angloamerican.com · 科德明镍铁厂（尼克兰迪亚）参考资料",
+          "url": "https://www.angloamerican.com/~/media/Files/A/Anglo-American-Group-v9/PLC/media/press-release/releases/2024pr/q3-2024-production-report.pdf"
+        },
+        {
+          "title": "Mysteel：Anglo American nickel production Q1 2026",
+          "url": "https://www.mysteel.net/news/5123173-flash-anglo-americans-nickel-production-down-348-year-on-year-in-q1-2026"
+        },
+        {
+          "title": "www.angloamerican.com · 巴罗阿尔托镍铁厂参考资料",
+          "url": "https://www.angloamerican.com/media/press-releases/2025/18-02-2025a"
+        },
+        {
+          "title": "www.mining.com · 巴罗阿尔托镍铁厂参考资料",
+          "url": "https://www.mining.com/eu-scrutiny-of-anglo-mmg-nickel-deal-tests-china-stance"
+        },
+        {
+          "title": "www.miningweekly.com · 巴罗阿尔托镍铁厂参考资料",
+          "url": "https://www.miningweekly.com/article/mmg-to-acquire-anglo-americans-nickel-business-for-500m-2025-02-18"
+        },
+        {
+          "title": "news.smm.cn · 巴罗阿尔托镍铁厂参考资料",
+          "url": "https://news.smm.cn/news/103297501"
+        },
+        {
+          "title": "www.angloamerican.com · 巴罗阿尔托镍铁厂参考资料",
+          "url": "https://www.angloamerican.com/~/media/Files/A/Anglo-American-Group-v9/PLC/media/press-release/releases/2026pr/q2-2026-production-report.pdf"
+        },
+        {
+          "title": "www.hatch.com · 巴罗阿尔托镍铁厂参考资料",
+          "url": "https://www.hatch.com/Projects/Metals-And-Minerals/Barro-Alto"
+        },
+        {
+          "title": "www.angloamerican.com · 巴罗阿尔托镍铁厂参考资料",
+          "url": "https://www.angloamerican.com/media/press-releases/archive/2011/barro_alto"
+        },
+        {
+          "title": "Anglo American：2026年第二季度生产报告",
+          "url": "https://www.angloamerican.com/media/press-releases/2026/23-07-2026"
+        },
+        {
+          "title": "全球普查底表 · NI-132 · 总表第133行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "timeline": [
+        {
+          "date": "1962",
+          "title": "镍铁投产并向钢厂供货",
+          "detail": "1964年ABM论文及买方讨论回溯1962年供货。",
+          "source": 1
+        },
+        {
+          "date": "1978",
+          "title": "Anglo American收购",
+          "detail": "以集团官方历史回顾为准。",
+          "source": 2
+        },
+        {
+          "date": "1982",
+          "title": "开始生产（底表投产年）",
+          "detail": "科德明镍铁厂（尼克兰迪亚）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "source": 21
+        },
+        {
+          "date": "1998",
+          "title": "工厂关闭",
+          "detail": "巴西行业回顾记录的关闭年份。",
+          "source": 3
+        },
+        {
+          "date": "2011",
+          "title": "开始生产（底表投产年）",
+          "detail": "巴罗阿尔托镍铁厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "source": 21
+        },
+        {
+          "date": "2026",
+          "title": "在产",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "source": 21
+        },
+        {
+          "date": "2026",
+          "title": "在产",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "source": 21
+        },
+        {
+          "date": "2026-05-11",
+          "title": "一季度产镍1,600吨",
+          "detail": "英美资源2026年一季度报告显示，科德明产镍1,600吨，受检修影响产量偏低。",
+          "source": 12
+        },
+        {
+          "date": "2026-07-23",
+          "title": "二季度两厂合计产镍9,100吨",
+          "detail": "英美资源2026年二季度镍产量9,100吨，同比下降4%，原因是巴罗阿尔托和科德明两厂检修（两厂合计）。",
+          "source": 20
+        }
+      ],
+      "pending": [],
+      "kind": "集团与企业",
+      "origin": "global-link-research",
+      "updated_at": "2026-09-30"
+    },
+    "cuba-state-nickel": {
+      "id": "cuba-state-nickel",
+      "intro": "古巴东部的镍工业以国营企业为主体。尼卡罗和蓬塔戈尔达两座工厂采用Caron氨浸工艺生产氧化镍；拉斯卡马里奥卡斯镍厂没有完工。与加拿大Sherritt合资的莫阿镍厂另见“Sherritt／古巴Moa链”。",
+      "facts": [
+        [
+          "所在国家",
+          "古巴"
+        ],
+        [
+          "主要工艺",
+          "Caron氨浸＋氧化镍焙烧"
+        ],
+        [
+          "合资项目",
+          "莫阿镍厂（见Sherritt／古巴Moa链）"
+        ]
+      ],
+      "sections": [
+        {
+          "title": "Nicaro Nickel Plant 尼卡罗镍厂",
+          "paragraphs": [
+            "尼卡罗镍厂（雷内·拉莫斯·拉图尔镍厂）位于古巴的奥尔金省尼卡罗 (Nicaro, Holguín)。该项目采用Caron氨浸+氧化镍焙烧/烧结路线，产品资料涉及氧化镍。"
+          ],
+          "refs": [
+            0,
+            1
+          ]
+        },
+        {
+          "title": "Punta Gorda Nickel Plant (Che Guevara) 蓬塔戈尔达镍厂（切·格瓦拉）",
+          "paragraphs": [
+            "蓬塔戈尔达镍厂（切·格瓦拉镍厂）位于古巴奥尔金省的蓬塔戈尔达 (Punta Gorda, Holguín)。该厂采用Caron氨浸加氧化镍焙烧/烧结路线，产品为氧化镍。"
+          ],
+          "refs": [
+            3,
+            1
+          ]
+        },
+        {
+          "title": "Las Camariocas Nickel Plant 拉斯卡马里奥卡斯镍厂",
+          "paragraphs": [
+            "拉斯卡马里奥卡斯镍厂（卡米洛·西恩富戈斯镍厂，未完工）位于古巴马坦萨斯省(Matanzas)，是一座未建成投产的镍厂，工艺路线未公开，无产品产出。"
+          ],
+          "refs": [
+            5,
+            1
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "title": "www.woodmac.com · 尼卡罗镍厂（雷内·拉莫斯·拉图尔镍厂）参考资料",
+          "url": "https://www.woodmac.com/reports/metals-nicaro-closed-nickel-operation-15929805/"
+        },
+        {
+          "title": "d9-wret.s3.us-west-2.amazonaws.com · 尼卡罗镍厂（雷内·拉莫斯·拉图尔镍厂）参考资料",
+          "url": "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2005/cumyb05.pdf"
+        },
+        {
+          "title": "insg.org · 尼卡罗镍厂（雷内·拉莫斯·拉图尔镍厂）参考资料",
+          "url": "https://insg.org/wp-content/uploads/2021/04/INSG_Insight_35_Nickel_in_Latin_America_and_the_Caribbean_2021.pdf"
+        },
+        {
+          "title": "diariodecuba.com · 蓬塔戈尔达镍厂（切·格瓦拉镍厂）参考资料",
+          "url": "https://diariodecuba.com/economia/1787397937_68577.html"
+        },
+        {
+          "title": "www.woodmac.com · 蓬塔戈尔达镍厂（切·格瓦拉镍厂）参考资料",
+          "url": "https://www.woodmac.com/reports/metals-punta-gorda-nickel-operation-15920389/"
+        },
+        {
+          "title": "dialogo-americas.com · 蓬塔戈尔达镍厂（切·格瓦拉镍厂）参考资料",
+          "url": "https://dialogo-americas.com/articles/china-strengthens-its-influence-in-cubas-strategic-nickel-sector/"
+        },
+        {
+          "title": "news.smm.cn · 蓬塔戈尔达镍厂（切·格瓦拉镍厂）参考资料",
+          "url": "https://news.smm.cn/live/detail/104056569"
+        },
+        {
+          "title": "pubs.usgs.gov · 蓬塔戈尔达镍厂（切·格瓦拉镍厂）参考资料",
+          "url": "https://pubs.usgs.gov/myb/vol3/2023/myb3-2023-cuba.pdf"
+        },
+        {
+          "title": "pubs.usgs.gov · 蓬塔戈尔达镍厂（切·格瓦拉镍厂）参考资料",
+          "url": "https://pubs.usgs.gov/myb/vol3/2022/myb3-2022-cuba.pdf"
+        },
+        {
+          "title": "oncubanews.com · 蓬塔戈尔达镍厂（切·格瓦拉镍厂）参考资料",
+          "url": "https://oncubanews.com/cuba/economia/industria-cubana-del-niquel-cerro-a-media-maquina-2024/"
+        },
+        {
+          "title": "www.onei.gob.cu · 蓬塔戈尔达镍厂（切·格瓦拉镍厂）参考资料",
+          "url": "https://www.onei.gob.cu/sites/default/files/publicaciones/2025-07/11-industria-manufacturera_aec2024_0.pdf"
+        },
+        {
+          "title": "Radio Angulo：Reinicia producción empresa de níquel en Moa，2026年4月24日",
+          "url": "https://www.radioangulo.cu/2026/04/24/reinicia-produccion-empresa-de-niquel-en-moa/"
+        },
+        {
+          "title": "全球普查底表 · NI-122 · 总表第123行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "timeline": [
+        {
+          "date": "1943",
+          "title": "开始生产（底表投产年）",
+          "detail": "尼卡罗镍厂（雷内·拉莫斯·拉图尔镍厂）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "source": 12
+        },
+        {
+          "date": "1986",
+          "title": "开始生产（底表投产年）",
+          "detail": "蓬塔戈尔达镍厂（切·格瓦拉镍厂）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "source": 12
+        },
+        {
+          "date": "2005",
+          "title": "项目中止(未建成)",
+          "detail": "苏联解体导致原始建设资金中断；2004年中国五矿合资改造计划亦未完工（具体终止原因及是否正式终止未见披露）",
+          "source": 12
+        },
+        {
+          "date": "2012",
+          "title": "永久关闭",
+          "detail": "设备老化、能耗过高、经济性差；运营超70年后于2012年底关闭",
+          "source": 12
+        },
+        {
+          "date": "2026",
+          "title": "减产或部分停产",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "source": 12
+        },
+        {
+          "date": "2026-04-24",
+          "title": "技术停产后分阶段复产",
+          "detail": "约两个月停产检修后恢复生产。",
+          "source": 11
+        }
+      ],
+      "pending": [],
+      "kind": "国营企业体系",
+      "origin": "global-link-research",
+      "updated_at": "2026-09-30"
+    },
+    "horizonte": {
+      "id": "horizonte",
+      "intro": "Horizonte Minerals在巴西帕拉州开发阿拉瓜亚镍铁项目和维尔梅柳镍钴项目。公司于2024年5月在英国进入破产管理，巴西子公司随后提出庭外重整，阿拉瓜亚资产维持保养维护。",
+      "facts": [
+        [
+          "所在国家",
+          "巴西（帕拉州）"
+        ],
+        [
+          "项目",
+          "阿拉瓜亚镍铁、维尔梅柳镍钴"
+        ],
+        [
+          "公司状态",
+          "2024年5月起英国破产管理"
+        ]
+      ],
+      "sections": [
+        {
+          "title": "Araguaia Ferronickel Project 阿拉瓜亚镍铁项目",
+          "paragraphs": [
+            "阿拉瓜亚镍铁项目位于巴西帕拉州的孔塞桑-杜阿拉瓜亚 (Conceição do Araguaia, Pará)。该项目采用RKEF镍铁路线，产品为镍铁(规划中，尚未投产)。"
+          ],
+          "refs": [
+            0,
+            1
+          ]
+        },
+        {
+          "title": "Vermelho Nickel-Cobalt Project 维尔梅柳镍钴项目",
+          "paragraphs": [
+            "维尔梅柳镍钴项目位于巴西的帕拉州卡纳昂杜斯卡拉雅斯 (Canaã dos Carajás, Pará)。该项目采用HPAL路线，规划产品为硫酸镍、硫酸钴。"
+          ],
+          "refs": [
+            8,
+            2
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "title": "www.mining-technology.com · 阿拉瓜亚镍铁项目参考资料",
+          "url": "https://www.mining-technology.com/news/horizonte-araguaiaproject-sale/"
+        },
+        {
+          "title": "www.mining-technology.com · 阿拉瓜亚镍铁项目参考资料",
+          "url": "https://www.mining-technology.com/news/horizontes-araguaia-nickel-project/"
+        },
+        {
+          "title": "www.inthemine.com.br · 阿拉瓜亚镍铁项目参考资料",
+          "url": "https://www.inthemine.com.br/site/estrutura-produtiva-do-niquel-no-brasil/"
+        },
+        {
+          "title": "insg.org · 阿拉瓜亚镍铁项目参考资料",
+          "url": "https://insg.org/wp-content/uploads/2021/04/INSG_Insight_35_Nickel_in_Latin_America_and_the_Caribbean_2021.pdf"
+        },
+        {
+          "title": "horizonteminerals.com · 阿拉瓜亚镍铁项目参考资料",
+          "url": "https://horizonteminerals.com/uk/en/araguaia_project/"
+        },
+        {
+          "title": "en.clickpetroleoegas.com.br · 阿拉瓜亚镍铁项目参考资料",
+          "url": "https://en.clickpetroleoegas.com.br/implosao-financeira-do-araguaia-travou-mais-de-us-1-bilhao-no-niquel-brasileiro-e-acelerou-a-corrida-por-minas-que-ja-produzem/"
+        },
+        {
+          "title": "horizonteminerals.com · 阿拉瓜亚镍铁项目参考资料",
+          "url": "https://horizonteminerals.com/news/en_20240314-araguaia-project-update.pdf"
+        },
+        {
+          "title": "www.northernminer.com · 阿拉瓜亚镍铁项目参考资料",
+          "url": "https://www.northernminer.com/news/horizonte-minerals-enters-administration-amid-funding-woes/1003867550/"
+        },
+        {
+          "title": "horizonteminerals.com · 维尔梅柳镍钴项目参考资料",
+          "url": "https://horizonteminerals.com/br/pt/projeto_vermelho/"
+        },
+        {
+          "title": "全球普查底表 · NI-136 · 总表第137行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2024",
+          "title": "保养维护(C&M)",
+          "detail": "2024年4月融资失败（接触150余方潜在投资者未果），资本开支较原预算上涨约87%（5.37亿→10亿美元），管理层认为印尼镍供应格局下市场对镍铁行业复苏缺乏信心",
+          "source": 9
+        },
+        {
+          "date": "2024",
+          "title": "项目中止(未建成)",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "source": 9
+        },
+        {
+          "date": "2025-01",
+          "title": "庭外重整，资产维持保养维护",
+          "detail": "2025年1月，Horizonte巴西子公司提出庭外重整计划，目的是让资产维持保养维护状态。",
+          "source": 0
+        }
+      ],
+      "pending": [],
+      "kind": "项目开发主体",
+      "origin": "global-link-research",
+      "updated_at": "2026-09-30"
+    },
+    "westwin": {
+      "id": "westwin",
+      "intro": "Westwin Elements是美国私营镍精炼企业，采用羰基法工艺。公司在俄克拉荷马州劳顿运行中试厂，2026年又提出在佐治亚州布莱恩县建设商业化精炼厂，该选址方案受阻。",
+      "facts": [
+        [
+          "所在国家",
+          "美国"
+        ],
+        [
+          "工艺",
+          "羰基法"
+        ],
+        [
+          "项目",
+          "劳顿中试厂、布莱恩县拟建精炼厂"
+        ]
+      ],
+      "sections": [
+        {
+          "title": "Westwin Lawton Refinery 西温劳顿精炼厂",
+          "paragraphs": [
+            "西温元素公司劳顿镍钴精炼厂（中试/示范装置）位于美国俄克拉荷马州的劳顿(Lawton, Oklahoma)，采用羰基法路线，产品为羰基镍粉(nickel powder)和少量钴产品(用于客户送样及研发)。"
+          ],
+          "refs": [
+            0,
+            1
+          ]
+        },
+        {
+          "title": "Westwin Bryan County Refinery Project 西温布莱恩县精炼项目",
+          "paragraphs": [
+            "西温元素公司佐治亚州布莱恩县镍精炼厂（拟议中）位于美国的佐治亚州 Bryan County (Richmond Hill / Belfast Commerce Park)。该项目采用羰基法路线，产品资料涉及规划：羰基镍(及可能的钴产品)。"
+          ],
+          "refs": [
+            3,
+            4
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "title": "www.kosu.org · 西温元素公司劳顿镍钴精炼厂（中试/示范装置）参考资料",
+          "url": "https://www.kosu.org/energy-environment/2025-12-18/westwin-elements-will-not-build-a-large-scale-commercial-facility-in-lawton-for-now"
+        },
+        {
+          "title": "www.expansionsolutionsmagazine.com · 西温元素公司劳顿镍钴精炼厂（中试/示范装置）参考资料",
+          "url": "https://www.expansionsolutionsmagazine.com/westwin-elements-nickel-carbonyl/"
+        },
+        {
+          "title": "www.okcommerce.gov · 西温元素公司劳顿镍钴精炼厂（中试/示范装置）参考资料",
+          "url": "https://www.okcommerce.gov/westwin-elements-breaks-ground-on-americas-only-critical-minerals-pilot-plant/"
+        },
+        {
+          "title": "thecurrentga.org · 西温元素公司劳顿镍钴精炼厂（中试/示范装置）参考资料",
+          "url": "https://thecurrentga.org/2026/01/30/nickel-refinery-seeks-bryan-support/"
+        },
+        {
+          "title": "news.smm.cn · 西温元素公司劳顿镍钴精炼厂（中试/示范装置）参考资料",
+          "url": "https://news.smm.cn/live/detail/103732371"
+        },
+        {
+          "title": "news.smm.cn · 西温元素公司劳顿镍钴精炼厂（中试/示范装置）参考资料",
+          "url": "https://news.smm.cn/news/103734394"
+        },
+        {
+          "title": "www.kswo.com · 西温元素公司劳顿镍钴精炼厂（中试/示范装置）参考资料",
+          "url": "https://www.kswo.com/2024/12/17/westwin-elements-make-strides-nickel-powder-production/"
+        },
+        {
+          "title": "www.kswo.com · 西温元素公司劳顿镍钴精炼厂（中试/示范装置）参考资料",
+          "url": "https://www.kswo.com/2025/06/19/westwin-facility-lawton-aims-boost-us-nickel-supply/"
+        },
+        {
+          "title": "The Current GA：Bryan County development authority ends negotiations with Westwin，2026年2月10日",
+          "url": "https://thecurrentga.org/2026/02/10/bryan-county-development-authority-ends-negotiations-with-westwin/"
+        },
+        {
+          "title": "The Current GA：Richmond Hill rejects nickel refining in zoning appeal，2026年6月3日",
+          "url": "https://thecurrentga.org/2026/06/03/richmond-hill-rejects-nickel-refining-in-zoning-appeal/"
+        },
+        {
+          "title": "The Current GA：Review finds no contamination at Bryan County’s Caesarstone site，2026年8月12日",
+          "url": "https://thecurrentga.org/2026/08/12/review-finds-no-contamination-at-bryan-countys-caesarstone-site/"
+        },
+        {
+          "title": "全球普查底表 · NI-113 · 总表第114行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2024",
+          "title": "开始生产（底表投产年）",
+          "detail": "西温元素公司劳顿镍钴精炼厂（中试/示范装置）的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "source": 11
+        },
+        {
+          "date": "2025-12-18",
+          "title": "暂不在劳顿建商业化工厂",
+          "detail": "2025年12月报道称，Westwin在劳顿的中试厂（最大约200吨/年）仍在运行，但公司决定暂不在劳顿建设大规模商业化",
+          "source": 0
+        },
+        {
+          "date": "2026",
+          "title": "在产",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "source": 11
+        },
+        {
+          "date": "2026",
+          "title": "规划中或可研",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "source": 11
+        },
+        {
+          "date": "2026-02-10",
+          "title": "发展管理局终止谈判",
+          "detail": "布莱恩县发展管理局终止与Westwin谈判并撤回激励意向函。",
+          "source": 8
+        },
+        {
+          "date": "2026-06-03",
+          "title": "分区确认禁止镍精炼",
+          "detail": "Richmond Hill市议会确认规划开发区内不允许镍钴精炼。",
+          "source": 9
+        }
+      ],
+      "pending": [],
+      "kind": "项目开发主体",
+      "origin": "global-link-research",
+      "updated_at": "2026-09-30"
+    },
+    "blackstone": {
+      "id": "blackstone",
+      "intro": "Blackstone Minerals在越南山萝省开发版福镍矿、选矿厂及下游达卡精炼厂，计划从硫化镍精矿延伸到NCM811前驱体。2025年8月，越南Xuan Loc Tho集团通过合作成为项目控股方。",
+      "facts": [
+        [
+          "所在国家",
+          "越南（山萝省）"
+        ],
+        [
+          "项目",
+          "版福镍矿及选矿厂、达卡精炼厂"
+        ],
+        [
+          "合作方",
+          "Xuan Loc Tho集团（2025年8月起）"
+        ]
+      ],
+      "sections": [
+        {
+          "title": "Ban Phuc Nickel Mine and Concentrator 版福镍矿及选矿厂",
+          "paragraphs": [
+            "版福镍矿及选矿厂位于越南山萝省，是越南唯一形成生产的镍矿。它只有浮选选矿，没有冶炼：矿石经磨矿、硫化物浮选产出含铜、钴的硫化镍精矿，曾出口中国。选矿厂2013年投产，2016年9月因镍价停产；2021年底Blackstone有限恢复采矿并翻新选矿厂，用于试验性生产。"
+          ],
+          "refs": [
+            0,
+            1
+          ]
+        },
+        {
+          "title": "Ta Khoa Refinery 达卡精炼厂",
+          "paragraphs": [
+            "达卡（Ta Khoa）精炼厂是Blackstone Minerals在越南山萝省规划的下游精炼项目，拟把Ta Khoa矿区的镍精矿加工为NCM811前驱体。2022年预可研确定的流程为加压氧化浸出、铜萃取、MHP沉淀、再溶解后多段溶剂萃取精炼，最后沉淀前驱体；项目尚未建设。"
+          ],
+          "refs": [
+            4,
+            6
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "title": "vir.com.vn · 版福镍矿及选矿厂参考资料",
+          "url": "https://vir.com.vn/a-new-lease-of-life-for-ban-phuc-mine-67772.html"
+        },
+        {
+          "title": "smallcaps.com.au · 版福镍矿及选矿厂参考资料",
+          "url": "https://smallcaps.com.au/article/blackstone-minerals-partners-vietnamese-conglomerate-develop-ta-khoa-mine-refinery"
+        },
+        {
+          "title": "pubs.usgs.gov · 版福镍矿及选矿厂参考资料",
+          "url": "https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-vietnam.pdf"
+        },
+        {
+          "title": "www.globenewswire.com · 版福镍矿及选矿厂参考资料",
+          "url": "https://www.globenewswire.com/news-release/2018/05/14/1501644/0/en/Asian-Mineral-Resources-Announces-Divestment-of-Ban-Phuc-Nickel-Mine.html"
+        },
+        {
+          "title": "www.mining-technology.com · 版福镍矿及选矿厂参考资料",
+          "url": "https://www.mining-technology.com/projects/ta-khoa-nickel-project-son-la-province-vietnam/"
+        },
+        {
+          "title": "Business News：Blackstone restarts Ban Phuc nickel mine and concentrator，2021年",
+          "url": "https://www.businessnews.com.au/article/Blackstone-restarts-Ban-Phuc-nickel-mine-and-concentrator"
+        },
+        {
+          "title": "www.businessnews.com.au · 达卡精炼厂（塔科亚精炼厂）参考资料",
+          "url": "https://www.businessnews.com.au/article/Blackstone-onto-big-nickel-system-in-Vietnam"
+        },
+        {
+          "title": "news.smm.cn · 达卡精炼厂（塔科亚精炼厂）参考资料",
+          "url": "https://news.smm.cn/live/detail/103502583"
+        },
+        {
+          "title": "Blackstone Minerals：Ta Khoa Refinery预可行性研究，2022年2月，第2、9、26、30页",
+          "url": "https://minedocs.com/26/Ta_Khoa-PFS-02022022.pdf"
+        },
+        {
+          "title": "全球普查底表 · NI-068 · 总表第69行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2013",
+          "title": "开始生产（底表投产年）",
+          "detail": "版福镍矿及选矿厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "source": 9
+        },
+        {
+          "date": "2016",
+          "title": "保养维护(C&M)",
+          "detail": "2016年9月镍价下跌导致收入不足以覆盖运营成本(此前3.5年投资者累计投入超1.36亿美元、产生2.13亿美元收入，但仍难以为继)，转入护养维护状态；此后经Blackstone(2019年)、Xuan Loc Tho(2025年)等新股东多次评估复产，但截至研究时未找到确认已恢复商业化生产的报道",
+          "source": 9
+        },
+        {
+          "date": "2025",
+          "title": "规划中或可研",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "source": 9
+        }
+      ],
+      "pending": [],
+      "kind": "项目开发主体",
+      "origin": "global-link-research",
+      "updated_at": "2026-09-30"
+    },
+    "fincraft": {
+      "id": "fincraft",
+      "intro": "Fincraft Resources是哈萨克斯坦的金融与矿业集团，通过Kaznickel开发东哈萨克斯坦州戈尔诺斯塔伊镍钴矿的原位溶浸项目，并持有登记为镍钴生产的额尔齐斯镍铁公司。",
+      "facts": [
+        [
+          "所在国家",
+          "哈萨克斯坦"
+        ],
+        [
+          "项目",
+          "戈尔诺斯塔伊镍钴原位溶浸、额尔齐斯镍铁公司"
+        ]
+      ],
+      "sections": [
+        {
+          "title": "Gornostayevskoye Nickel-Cobalt ISL Project 戈尔诺斯塔耶夫斯科耶镍钴原位溶浸项目",
+          "paragraphs": [
+            "Kaznickel戈尔诺斯塔伊镍钴项目位于哈萨克斯坦东哈萨克斯坦州，由Fincraft Resources旗下Kaznickel开发。项目采用钻孔原位溶浸（ISL），不经常规采矿，从地下红土型矿体直接浸出镍钴，再在地面以吸附、解吸等工序回收；公开材料称主要产品为氢氧化镍。中试自2018年开展，商业开采计划2027年开始。"
+          ],
+          "refs": [
+            0,
+            1
+          ]
+        },
+        {
+          "title": "Ertis Ferronickel Plant 额尔齐斯镍铁厂",
+          "paragraphs": [
+            "额尔齐斯(Ertis)铁镍联合企业有限公司（存疑，或为集团内部筹备型壳公司）的法人注册地为哈萨克斯坦阿拉木图市；推测依托东哈萨克斯坦州Beskaragay区Gornostayevskoye镍钴矿（同集团Kaznickel项目），具体拟建厂址不详。该项目工艺路线未公开，注册经营范围登记为镍钴生产，推测拟建RKEF或类似铁镍冶炼产能，以承接Kaznickel矿区/ISL浸出后续产品，但未见实际工艺细节；产品不详（注册经营范围为“镍钴生产”，OKED 24451）。"
+          ],
+          "refs": [
+            2,
+            9
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "title": "minexforum.com · 哈萨克镍业（戈尔诺斯塔耶夫斯科耶镍钴原位溶浸项目）参考资料",
+          "url": "https://minexforum.com/2025/01/21/kazakhstan-prepares-for-the-launch-of-gornostayevskoye-nickel-cobalt-deposit/"
+        },
+        {
+          "title": "www.fincraftresources.kz · 哈萨克镍业（戈尔诺斯塔耶夫斯科耶镍钴原位溶浸项目）参考资料",
+          "url": "https://www.fincraftresources.kz/activity/kaznickel_llp?language=en"
+        },
+        {
+          "title": "pubs.usgs.gov · 哈萨克镍业（戈尔诺斯塔耶夫斯科耶镍钴原位溶浸项目）参考资料",
+          "url": "https://pubs.usgs.gov/myb/vol3/2022/myb3-2022-kazakhstan.pdf"
+        },
+        {
+          "title": "www.mdpi.com · 哈萨克镍业（戈尔诺斯塔耶夫斯科耶镍钴原位溶浸项目）参考资料",
+          "url": "https://www.mdpi.com/2075-4701/15/8/876"
+        },
+        {
+          "title": "www.nstl.gov.cn · 哈萨克镍业（戈尔诺斯塔耶夫斯科耶镍钴原位溶浸项目）参考资料",
+          "url": "http://www.nstl.gov.cn/paper_detail.html?id=d463467931103a481b0079db8a4b7964"
+        },
+        {
+          "title": "www.kaznickel.kz · 哈萨克镍业（戈尔诺斯塔耶夫斯科耶镍钴原位溶浸项目）参考资料",
+          "url": "https://www.kaznickel.kz/"
+        },
+        {
+          "title": "fgroup.kz · 哈萨克镍业（戈尔诺斯塔耶夫斯科耶镍钴原位溶浸项目）参考资料",
+          "url": "https://fgroup.kz/Nickel_Cobalt.html"
+        },
+        {
+          "title": "Mining Technologies Company：Gornostay ISL项目介绍",
+          "url": "https://www.mtc.com.kz/"
+        },
+        {
+          "title": "Dprom.kz：Kaznickel将于2027年开始开采Gornostayevskoye，2025年",
+          "url": "https://dprom.kz/novosti/kaznekel-nachnyot-dobichu-na-gornostayevskom/"
+        },
+        {
+          "title": "statsnet.co · 额尔齐斯(Ertis)铁镍联合企业有限公司（存疑，或为集团内部筹备型壳公司）参考资料",
+          "url": "https://statsnet.co/companies/kz/23503695"
+        },
+        {
+          "title": "factories.kz · 额尔齐斯(Ertis)铁镍联合企业有限公司（存疑，或为集团内部筹备型壳公司）参考资料",
+          "url": "https://factories.kz/producers/kaznikel"
+        },
+        {
+          "title": "reestr.curs.kz · 额尔齐斯(Ertis)铁镍联合企业有限公司（存疑，或为集团内部筹备型壳公司）参考资料",
+          "url": "http://reestr.curs.kz/ru/branch/TOO_FERRONIKELEVYY_KOMBINAT_ERTIS_2961/"
+        },
+        {
+          "title": "全球普查底表 · NI-035 · 总表第36行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025",
+          "title": "在建",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "source": 12
+        },
+        {
+          "date": "2026",
+          "title": "规划中或可研",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "source": 12
+        }
+      ],
+      "pending": [],
+      "kind": "集团与企业",
+      "origin": "global-link-research",
+      "updated_at": "2026-09-30"
+    },
+    "british-america-nickel": {
+      "id": "british-america-nickel",
+      "intro": "英美镍业公司（BANCo）在一战前后建立“萨德伯里冶炼—魁北克精炼”的镍业链：镍尔顿冶炼厂1920年点火，产出的镍铜锍运往德申精炼厂用海宾内特法电解精炼。公司1924年清算。",
+      "facts": [
+        [
+          "所在国家",
+          "加拿大"
+        ],
+        [
+          "业务链",
+          "萨德伯里冶炼、魁北克德申精炼"
+        ],
+        [
+          "清算",
+          "1924年"
+        ]
+      ],
+      "sections": [
+        {
+          "title": "Nickelton Smelter 镍尔顿冶炼厂",
+          "paragraphs": [
+            "英美镍业公司镍尔顿(Nickelton)冶炼厂(默里矿区)位于加拿大安大略省萨德伯里的科珀克利夫附近(Nickelton/Murray矿区)。该厂采用硫化矿熔炼路线（炉型未见原始史料），产品为镍铜锍(matte)，运往魁北克德申(Deschênes)工厂(另有词条收录)精炼。"
+          ],
+          "refs": [
+            0,
+            1
+          ]
+        },
+        {
+          "title": "Deschênes Nickel Refinery 德申镍精炼厂",
+          "paragraphs": [
+            "英美镍业公司魁北克德申海宾内特法精炼厂位于加拿大的魁北克省 德申(Deschênes,今属加蒂诺市Gatineau,渥太华河对岸)。该项目采用电解精炼(硫化镍阳极)路线，产品资料涉及电解镍。"
+          ],
+          "refs": [
+            2,
+            0
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "title": "en.wikipedia.org · 英美镍业公司镍尔顿(Nickelton)冶炼厂(默里矿区)参考资料",
+          "url": "https://en.wikipedia.org/wiki/James_Hamet_Dunn"
+        },
+        {
+          "title": "Wikipedia：Murray Mine",
+          "url": "https://en.wikipedia.org/wiki/Murray_Mine"
+        },
+        {
+          "title": "en.wikipedia.org · 英美镍业公司魁北克德申海宾内特法精炼厂参考资料",
+          "url": "https://en.wikipedia.org/wiki/Desch%C3%AAnes,_Quebec"
+        },
+        {
+          "title": "全球普查底表 · NI-101 · 总表第102行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "timeline": [
+        {
+          "date": "1916",
+          "title": "开始生产（底表投产年）",
+          "detail": "英美镍业公司魁北克德申海宾内特法精炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "source": 3
+        },
+        {
+          "date": "1920",
+          "title": "开始生产（底表投产年）",
+          "detail": "英美镍业公司镍尔顿(Nickelton)冶炼厂(默里矿区)的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "source": 3
+        },
+        {
+          "date": "1923",
+          "title": "已拆除",
+          "detail": "1923年加拿大总理麦肯齐·金下令关闭该厂,具体政策/经济原因来源未详述(推测与一战后镍价下跌、公司经营困难及国防/产业政策调整有关);翌年母公司清盘,厂房废墟保留至1985年被清除",
+          "source": 3
+        },
+        {
+          "date": "1924",
+          "title": "已拆除",
+          "detail": "一战结束后国际镍价大幅下跌,英美镍业公司难以与国际镍公司(INCO)、蒙德镍业公司竞争,1924年7月公司清盘解散",
+          "source": 3
+        }
+      ],
+      "pending": [],
+      "kind": "历史企业",
+      "origin": "global-link-research",
+      "updated_at": "2026-09-30"
+    },
+    "hh-vivian": {
+      "id": "hh-vivian",
+      "intro": "H. H. Vivian and Co.于1883年注册，接手斯旺西哈福德伊沙镍钴厂和挪威塞尼亚的镍矿与冶炼厂，1889—1894年还经营加拿大萨德伯里的Murray矿。1900年后斯旺西冶炼业务陆续转给英法镍业公司。",
+      "facts": [
+        [
+          "所在国家",
+          "英国、挪威"
+        ],
+        [
+          "工厂",
+          "哈福德伊沙镍钴厂、塞尼亚镍冶炼厂"
+        ],
+        [
+          "注册",
+          "1883年"
+        ]
+      ],
+      "sections": [
+        {
+          "title": "Hafod Isha Nickel and Cobalt Works 哈福德伊沙镍钴厂",
+          "paragraphs": [
+            "哈福德伊沙（Hafod Isha）镍钴厂位于英国威尔士斯旺西，是Vivian家族1855年前后建立的镍钴专业工厂，1883年起由H. H. Vivian and Co.经营。1900年起斯旺西的冶炼业务陆续转给英法镍业公司（Anglo-French Nickel Co），1914年这里已是生产镍粒、镍块和钴产品的精炼厂。关闭年份未见史料。"
+          ],
+          "refs": [
+            0,
+            1
+          ]
+        },
+        {
+          "title": "Senjen Nickel Works 塞尼亚镍冶炼厂",
+          "paragraphs": [
+            "塞尼亚（Senjen）镍矿冶炼厂位于挪威特罗姆斯郡塞尼亚岛，是19世纪后期的镍矿开采和冶炼点。1883年，英国斯旺西的H. H. Vivian and Co.成立时接手了这里的镍矿和冶炼厂；矿冶活动约在1880年代结束，具体关闭年份及产品去向缺少原始史料。"
+          ],
+          "refs": [
+            0,
+            1
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "title": "en.wikipedia.org · 哈福德伊沙(Hafod Isha)镍钴厂(维维安父子公司)参考资料",
+          "url": "https://en.wikipedia.org/wiki/Vivian_%26_Sons"
+        },
+        {
+          "title": "Grace's Guide：H. H. Vivian and Co",
+          "url": "https://www.gracesguide.co.uk/H._H._Vivian_and_Co"
+        },
+        {
+          "title": "全球普查底表 · NI-020 · 总表第21行",
+          "url": "library/global-register.csv"
+        }
+      ],
+      "timeline": [
+        {
+          "date": "1883",
+          "title": "开始生产（底表投产年）",
+          "detail": "哈福德伊沙(Hafod Isha)镍钴厂(维维安父子公司)的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "source": 2
+        },
+        {
+          "date": "1883",
+          "title": "开始生产（底表投产年）",
+          "detail": "塞尼亚(Senjen)镍矿冶炼厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "source": 2
+        },
+        {
+          "date": "1894",
+          "title": "永久关闭",
+          "detail": "存疑;推测为萨德伯里矿石大量涌现后,原料就地在北美加工(经由奥福德\"上下层分离法\"及加拿大铜业公司/国际镍公司体系)更具经济性,英国斯旺西精炼环节逐步失去竞争力而停止,具体关闭年份及决策细节本轮检索未能独立核实一手资料,1894年为参照该公司萨德伯里矿权终止年份的推断值",
+          "source": 2
+        },
+        {
+          "date": "1894",
+          "title": "永久关闭",
+          "detail": "存疑;具体关闭年份未直接查实,1894年为推断值——据H.H. Vivian & Co.同期(1889-1894年)转向经营加拿大萨德伯里Murray矿并以其矿石替代挪威矿源的时间点反推,请谨慎使用",
+          "source": 2
+        }
+      ],
+      "pending": [],
+      "kind": "历史企业",
+      "origin": "global-link-research",
+      "updated_at": "2026-09-30"
     }
   }
 }

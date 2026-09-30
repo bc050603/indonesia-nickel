@@ -764,7 +764,10 @@
         "GL106",
         "GL107",
         "GL135",
-        "GL164"
+        "GL164",
+        "GL098",
+        "GL108",
+        "GL111"
       ],
       "intro": "Vale Indonesia的Sorowako是传统高冰镍生产体系，官方将运营起点追溯至1978年。它通过矿石冶炼和吹炼形成高冰镍，再连接海外精炼，与近年NPI改造项目的起点不同。集团新增湿法项目生产MHP，不能把所有Vale镍投资并成老厂高冰镍扩产。",
       "aliases": [
@@ -1670,6 +1673,144 @@
       "intro": "广西北部湾国际港务集团以港口物流和临港工业为基础，通过北港新材料体系布局镍铁、不锈钢炼钢和板卷产业链。",
       "aliases": [],
       "search_text": "广西北部湾国际港务集团 广西北部湾国际港务集团以港口物流和临港工业为基础，通过北港新材料体系布局镍铁、不锈钢炼钢和板卷产业链。 从港口整合到临港制造 工艺与原料 技术、客户与投资逻辑"
+    },
+    {
+      "id": "anglo-american",
+      "name": "Anglo American／英美资源",
+      "npi_id": null,
+      "matte_id": null,
+      "project_ids": [
+        "GL130",
+        "GL132",
+        "GL134"
+      ],
+      "intro": "英美资源集团在巴西经营镍铁业务：1978年收购米纳斯吉拉斯州的莫罗镍铁厂，该厂1998年关闭；目前在戈亚斯州经营巴罗阿尔托和科德明两座镍铁厂。2025年2月集团宣布把巴西镍业务出售给MMG，截至2026年9月交易尚未完成交割。",
+      "aliases": [
+        "Anglo American"
+      ],
+      "search_text": "Anglo American／英美资源 英美资源集团在巴西经营镍铁业务：1978年收购米纳斯吉拉斯州的莫罗镍铁厂，该厂1998年关闭；目前在戈亚斯州经营巴罗阿尔托和科德明两座镍铁厂。2025年2月集团宣布把巴西镍业务出售给MMG，截至2026年9月交易尚未完成交割。 Morro do Níquel 莫罗镍铁厂 Codemin Ferronickel Plant 科德明镍铁厂 Barro Alto Ferronickel Plant 巴罗阿尔托镍铁厂",
+      "mhp_ids": [],
+      "refining_products": []
+    },
+    {
+      "id": "cuba-state-nickel",
+      "name": "古巴国营镍业",
+      "npi_id": null,
+      "matte_id": null,
+      "project_ids": [
+        "GL122",
+        "GL124",
+        "GL125"
+      ],
+      "intro": "古巴东部的镍工业以国营企业为主体。尼卡罗和蓬塔戈尔达两座工厂采用Caron氨浸工艺生产氧化镍；拉斯卡马里奥卡斯镍厂没有完工。与加拿大Sherritt合资的莫阿镍厂另见“Sherritt／古巴Moa链”。",
+      "aliases": [
+        "古巴国营镍业"
+      ],
+      "search_text": "古巴国营镍业 古巴东部的镍工业以国营企业为主体。尼卡罗和蓬塔戈尔达两座工厂采用Caron氨浸工艺生产氧化镍；拉斯卡马里奥卡斯镍厂没有完工。与加拿大Sherritt合资的莫阿镍厂另见“Sherritt／古巴Moa链”。 Nicaro Nickel Plant 尼卡罗镍厂 Punta Gorda Nickel Plant (Che Guevara) 蓬塔戈尔达镍厂（切·格瓦拉） Las Camariocas Nickel Plant 拉斯卡马里奥卡斯镍厂",
+      "mhp_ids": [],
+      "refining_products": []
+    },
+    {
+      "id": "horizonte",
+      "name": "Horizonte Minerals",
+      "npi_id": null,
+      "matte_id": null,
+      "project_ids": [
+        "GL136",
+        "GL139"
+      ],
+      "intro": "Horizonte Minerals在巴西帕拉州开发阿拉瓜亚镍铁项目和维尔梅柳镍钴项目。公司于2024年5月在英国进入破产管理，巴西子公司随后提出庭外重整，阿拉瓜亚资产维持保养维护。",
+      "aliases": [
+        "Horizonte Minerals"
+      ],
+      "search_text": "Horizonte Minerals Horizonte Minerals在巴西帕拉州开发阿拉瓜亚镍铁项目和维尔梅柳镍钴项目。公司于2024年5月在英国进入破产管理，巴西子公司随后提出庭外重整，阿拉瓜亚资产维持保养维护。 Araguaia Ferronickel Project 阿拉瓜亚镍铁项目 Vermelho Nickel-Cobalt Project 维尔梅柳镍钴项目",
+      "mhp_ids": [],
+      "refining_products": []
+    },
+    {
+      "id": "westwin",
+      "name": "Westwin Elements",
+      "npi_id": null,
+      "matte_id": null,
+      "project_ids": [
+        "GL113",
+        "GL120"
+      ],
+      "intro": "Westwin Elements是美国私营镍精炼企业，采用羰基法工艺。公司在俄克拉荷马州劳顿运行中试厂，2026年又提出在佐治亚州布莱恩县建设商业化精炼厂，该选址方案受阻。",
+      "aliases": [
+        "Westwin Elements"
+      ],
+      "search_text": "Westwin Elements Westwin Elements是美国私营镍精炼企业，采用羰基法工艺。公司在俄克拉荷马州劳顿运行中试厂，2026年又提出在佐治亚州布莱恩县建设商业化精炼厂，该选址方案受阻。 Westwin Lawton Refinery 西温劳顿精炼厂 Westwin Bryan County Refinery Project 西温布莱恩县精炼项目",
+      "mhp_ids": [],
+      "refining_products": []
+    },
+    {
+      "id": "blackstone",
+      "name": "Blackstone Minerals",
+      "npi_id": null,
+      "matte_id": null,
+      "project_ids": [
+        "GL068",
+        "GL069"
+      ],
+      "intro": "Blackstone Minerals在越南山萝省开发版福镍矿、选矿厂及下游达卡精炼厂，计划从硫化镍精矿延伸到NCM811前驱体。2025年8月，越南Xuan Loc Tho集团通过合作成为项目控股方。",
+      "aliases": [
+        "Blackstone Minerals"
+      ],
+      "search_text": "Blackstone Minerals Blackstone Minerals在越南山萝省开发版福镍矿、选矿厂及下游达卡精炼厂，计划从硫化镍精矿延伸到NCM811前驱体。2025年8月，越南Xuan Loc Tho集团通过合作成为项目控股方。 Ban Phuc Nickel Mine and Concentrator 版福镍矿及选矿厂 Ta Khoa Refinery 达卡精炼厂",
+      "mhp_ids": [],
+      "refining_products": []
+    },
+    {
+      "id": "fincraft",
+      "name": "Fincraft Resources",
+      "npi_id": null,
+      "matte_id": null,
+      "project_ids": [
+        "GL035",
+        "GL166"
+      ],
+      "intro": "Fincraft Resources是哈萨克斯坦的金融与矿业集团，通过Kaznickel开发东哈萨克斯坦州戈尔诺斯塔伊镍钴矿的原位溶浸项目，并持有登记为镍钴生产的额尔齐斯镍铁公司。",
+      "aliases": [
+        "Fincraft Resources"
+      ],
+      "search_text": "Fincraft Resources Fincraft Resources是哈萨克斯坦的金融与矿业集团，通过Kaznickel开发东哈萨克斯坦州戈尔诺斯塔伊镍钴矿的原位溶浸项目，并持有登记为镍钴生产的额尔齐斯镍铁公司。 Gornostayevskoye Nickel-Cobalt ISL Project 戈尔诺斯塔耶夫斯科耶镍钴原位溶浸项目 Ertis Ferronickel Plant 额尔齐斯镍铁厂",
+      "mhp_ids": [],
+      "refining_products": []
+    },
+    {
+      "id": "british-america-nickel",
+      "name": "British America Nickel Corporation／英美镍业公司",
+      "npi_id": null,
+      "matte_id": null,
+      "project_ids": [
+        "GL101",
+        "GL099"
+      ],
+      "intro": "英美镍业公司（BANCo）在一战前后建立“萨德伯里冶炼—魁北克精炼”的镍业链：镍尔顿冶炼厂1920年点火，产出的镍铜锍运往德申精炼厂用海宾内特法电解精炼。公司1924年清算。",
+      "aliases": [
+        "British America Nickel Corporation"
+      ],
+      "search_text": "British America Nickel Corporation／英美镍业公司 英美镍业公司（BANCo）在一战前后建立“萨德伯里冶炼—魁北克精炼”的镍业链：镍尔顿冶炼厂1920年点火，产出的镍铜锍运往德申精炼厂用海宾内特法电解精炼。公司1924年清算。 Nickelton Smelter 镍尔顿冶炼厂 Deschênes Nickel Refinery 德申镍精炼厂",
+      "mhp_ids": [],
+      "refining_products": []
+    },
+    {
+      "id": "hh-vivian",
+      "name": "H. H. Vivian and Co.／维维安镍钴业务",
+      "npi_id": null,
+      "matte_id": null,
+      "project_ids": [
+        "GL020",
+        "GL008"
+      ],
+      "intro": "H. H. Vivian and Co.于1883年注册，接手斯旺西哈福德伊沙镍钴厂和挪威塞尼亚的镍矿与冶炼厂，1889—1894年还经营加拿大萨德伯里的Murray矿。1900年后斯旺西冶炼业务陆续转给英法镍业公司。",
+      "aliases": [
+        "H. H. Vivian and Co."
+      ],
+      "search_text": "H. H. Vivian and Co.／维维安镍钴业务 H. H. Vivian and Co.于1883年注册，接手斯旺西哈福德伊沙镍钴厂和挪威塞尼亚的镍矿与冶炼厂，1889—1894年还经营加拿大萨德伯里的Murray矿。1900年后斯旺西冶炼业务陆续转给英法镍业公司。 Hafod Isha Nickel and Cobalt Works 哈福德伊沙镍钴厂 Senjen Nickel Works 塞尼亚镍冶炼厂",
+      "mhp_ids": [],
+      "refining_products": []
     }
   ],
   "projects": [
@@ -23152,7 +23293,7 @@
     "NC317": "NC317"
   },
   "summary": {
-    "companies": 82,
+    "companies": 90,
     "projects": 458,
     "customers": 535,
     "shared_projects": 28,
