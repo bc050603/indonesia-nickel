@@ -11,7 +11,7 @@
       "lines_note": "用户原表RKEF产线数：4。未取得足够独立原件核定产线数，保留底稿，不据检索缺失断言不存在。",
       "capacity_verified": null,
       "capacity_basis": "原表38,000为NPI待核；POSCO披露的52,000镍吨/年为高冰镍项目目标，不能覆盖为NPI产能。",
-      "capacity_note": "用户原表：38,000镍吨/年。本轮不以固定品位或单炉能力反算；原表数值保留为待核。",
+      "capacity_note": "用户原表：38,000镍吨/年。不以固定品位或单炉能力反算；原表数值保留为待核。",
       "status": "已存在经营及出货；高冰镍设计目标不等于已达产",
       "status_date": "2025-10",
       "products": [
@@ -61,7 +61,7 @@
           "id": "NS003"
         },
         {
-          "title": "用户提供的全品种逐票数据：本轮NPI核查版",
+          "title": "用户提供的全品种逐票数据（NPI核查版）",
           "url": "https://bc050603.github.io/indonesia-nickel/library/npi-trade-audit.xlsx",
           "date": "覆盖2023-01至2026-08；2026-09-17提供",
           "locator": "明细总表按出口商筛选；TR编号对应原全量明细行",
@@ -183,7 +183,7 @@
           "id": "NS114"
         },
         {
-          "title": "用户提供的全品种逐票数据：本轮NPI核查版",
+          "title": "用户提供的全品种逐票数据（NPI核查版）",
           "url": "https://bc050603.github.io/indonesia-nickel/library/npi-trade-audit.xlsx",
           "date": "覆盖2023-01至2026-08；2026-09-17提供",
           "locator": "明细总表按出口商筛选；TR编号对应原全量明细行",
@@ -369,7 +369,7 @@
           "id": "NS119"
         },
         {
-          "title": "用户提供的全品种逐票数据：本轮NPI核查版",
+          "title": "用户提供的全品种逐票数据（NPI核查版）",
           "url": "https://bc050603.github.io/indonesia-nickel/library/npi-trade-audit.xlsx",
           "date": "覆盖2023-01至2026-08；2026-09-17提供",
           "locator": "明细总表按出口商筛选；TR编号对应原全量明细行",
@@ -436,12 +436,12 @@
       "name": "PT Yashi Indonesia Investment",
       "legal": "PT Yashi Indonesia Investment",
       "group": "振石集团实际控制人体系；不等同振石上市主体",
-      "ownership": "2026招股书列雅石为实控人控制的其他企业；本轮未取得直接股东和百分比。",
+      "ownership": "2026招股书列雅石为实控人控制的其他企业；直接股东和持股比例未公开。",
       "lines_verified": 4,
       "lines_note": "用户原表RKEF产线数：4。公开资料支持上述已核产线数；该数不代表2026年每条均在运行。",
       "capacity_verified": null,
       "capacity_basis": "振石官网明确30万吨/年镍铁实物，未明确等于34,500镍吨；不得统一乘11.5%。",
-      "capacity_note": "维持四条RKEF、30万吨镍铁实物旧核结果；本轮没有新增设计品位原件，不采纳34,500镍吨。",
+      "capacity_note": "维持四条RKEF、30万吨镍铁实物旧核结果；34,500镍吨缺少设计品位原件，未采用。",
       "status": "已投产；最新官网继续列项目，未披露2026年逐炉开工",
       "status_date": "2026-09-17",
       "products": [
@@ -455,10 +455,10 @@
         "官网项目配置四线、30万吨镍铁实物"
       ],
       "narrative": [
-        "2026招股书列雅石为实控人控制的其他企业；本轮未取得直接股东和百分比。",
+        "2026招股书列雅石为实控人控制的其他企业；直接股东和持股比例未公开。",
         "上游为印尼当地红土镍矿公司；集团矿产板块Fajar Bhakti Lintas Nusantara与Gebe Sentra Nicke的下游包括雅石、硕石，具体矿源分配比例未知。",
         "2025首轮问询回复直接披露雅石下游主要为振石集团东方特钢，少量供应国内其他不锈钢厂，主要市场浙江；未披露排他条款、最低量或价格公式。",
-        "维持四条RKEF、30万吨镍铁实物旧核结果；本轮没有新增设计品位原件，不采纳34,500镍吨。"
+        "维持四条RKEF、30万吨镍铁实物旧核结果；34,500镍吨缺少设计品位原件，未采用。"
       ],
       "confidence": "高：四线/实物能力；含镍能力未核",
       "unresolved": [
@@ -519,7 +519,7 @@
           "id": "NS119"
         },
         {
-          "title": "用户提供的全品种逐票数据：本轮NPI核查版",
+          "title": "用户提供的全品种逐票数据（NPI核查版）",
           "url": "https://bc050603.github.io/indonesia-nickel/library/npi-trade-audit.xlsx",
           "date": "覆盖2023-01至2026-08；2026-09-17提供",
           "locator": "明细总表按出口商筛选；TR编号对应原全量明细行",
@@ -632,7 +632,7 @@
           "id": "NS014"
         },
         {
-          "title": "用户提供的全品种逐票数据：本轮NPI核查版",
+          "title": "用户提供的全品种逐票数据（NPI核查版）",
           "url": "https://bc050603.github.io/indonesia-nickel/library/npi-trade-audit.xlsx",
           "date": "覆盖2023-01至2026-08；2026-09-17提供",
           "locator": "明细总表按出口商筛选；TR编号对应原全量明细行",
@@ -686,7 +686,7 @@
       "lines_note": "用户原表RKEF产线数：4。公开资料支持上述已核产线数；该数不代表2026年每条均在运行。",
       "capacity_verified": null,
       "capacity_basis": "Eramet2025 URD将能力修订为30,000–36,000含镍吨/年区间，受矿品位/耐材检修影响；为保留区间不填单值。",
-      "capacity_note": "用户原表：36,000镍吨/年。本轮不以固定品位或单炉能力反算；原表数值保留为待核。",
+      "capacity_note": "用户原表：36,000镍吨/年。不以固定品位或单炉能力反算；原表数值保留为待核。",
       "status": "冶炼业务2025年报在运；矿山2026-09-10宣布复采，不能等同冶炼停复",
       "status_date": "2026-09-10",
       "products": [
@@ -727,7 +727,7 @@
           "id": "NS016"
         },
         {
-          "title": "用户提供的全品种逐票数据：本轮NPI核查版",
+          "title": "用户提供的全品种逐票数据（NPI核查版）",
           "url": "https://bc050603.github.io/indonesia-nickel/library/npi-trade-audit.xlsx",
           "date": "覆盖2023-01至2026-08；2026-09-17提供",
           "locator": "明细总表按出口商筛选；TR编号对应原全量明细行",
@@ -773,7 +773,7 @@
       "name": "PT Infei Metal Industry",
       "legal": "PT Infei Metal Industry",
       "group": "Harum Energy",
-      "ownership": "Harum旗下项目；本轮不重报未经同期原件核对的精确穿透比例。",
+      "ownership": "Harum旗下项目；精确穿透持股比例未见同期原件。",
       "lines_verified": 2,
       "lines_note": "用户原表RKEF产线数：2。公开资料支持上述已核产线数；该数不代表2026年每条均在运行。",
       "capacity_verified": 28000,
@@ -825,7 +825,7 @@
           "id": "NS019"
         },
         {
-          "title": "用户提供的全品种逐票数据：本轮NPI核查版",
+          "title": "用户提供的全品种逐票数据（NPI核查版）",
           "url": "https://bc050603.github.io/indonesia-nickel/library/npi-trade-audit.xlsx",
           "date": "覆盖2023-01至2026-08；2026-09-17提供",
           "locator": "明细总表按出口商筛选；TR编号对应原全量明细行",
@@ -879,7 +879,7 @@
       "lines_note": "用户原表RKEF产线数：2。未取得足够独立原件核定产线数，保留底稿，不据检索缺失断言不存在。",
       "capacity_verified": null,
       "capacity_basis": "原表28,000镍吨NPI未核；行业报告Lancon/Cosan组合40,000镍吨高冰镍不能拆成每厂40,000。",
-      "capacity_note": "用户原表：28,000镍吨/年。本轮不以固定品位或单炉能力反算；原表数值保留为待核。",
+      "capacity_note": "用户原表：28,000镍吨/年。不以固定品位或单炉能力反算；原表数值保留为待核。",
       "status": "已有营业收入及冰镍业务；分产品实际开工不详",
       "status_date": "2026-01-14",
       "products": [
@@ -896,7 +896,7 @@
       ],
       "narrative": [
         "Cosan的股东年报同时列NPI和Nickel Matte制造，故既不能只按电池材料厂处理，也不能删除冰镍业务。Jindal投资的主要商业逻辑是为印度不锈钢原料保障，但不同产品实际销售分配尚未公开。",
-        "原表两线与28,000镍吨需要本厂独立设备资料进一步核实。公开行业表将Lancon和Cosan合列40,000镍吨高冰镍，把组合数分填两家会双计；本轮保持含镍产能空值，同时保留原底稿。"
+        "原表两线与28,000镍吨需要本厂独立设备资料进一步核实。公开行业表将Lancon和Cosan合列40,000镍吨高冰镍，把组合数分填两家会双计；含镍产能未公开。"
       ],
       "confidence": "中",
       "unresolved": [
@@ -939,7 +939,7 @@
           "id": "NS011"
         },
         {
-          "title": "用户提供的全品种逐票数据：本轮NPI核查版",
+          "title": "用户提供的全品种逐票数据（NPI核查版）",
           "url": "https://bc050603.github.io/indonesia-nickel/library/npi-trade-audit.xlsx",
           "date": "覆盖2023-01至2026-08；2026-09-17提供",
           "locator": "明细总表按出口商筛选；TR编号对应原全量明细行",
@@ -1045,7 +1045,7 @@
           "id": "NS011"
         },
         {
-          "title": "用户提供的全品种逐票数据：本轮NPI核查版",
+          "title": "用户提供的全品种逐票数据（NPI核查版）",
           "url": "https://bc050603.github.io/indonesia-nickel/library/npi-trade-audit.xlsx",
           "date": "覆盖2023-01至2026-08；2026-09-17提供",
           "locator": "明细总表按出口商筛选；TR编号对应原全量明细行",
@@ -1099,7 +1099,7 @@
       "lines_note": "用户原表RKEF产线数：2。公开资料支持上述已核产线数；该数不代表2026年每条均在运行。",
       "capacity_verified": null,
       "capacity_basis": "原表17,200镍吨NPI未取得原始技术口径；不可把另设50,000镍吨硫酸镍项目计入AMI。",
-      "capacity_note": "用户原表：17,200镍吨/年。本轮不以固定品位或单炉能力反算；原表数值保留为待核。",
+      "capacity_note": "用户原表：17,200镍吨/年。不以固定品位或单炉能力反算；原表数值保留为待核。",
       "status": "既有NPI资产；高冰镍改造实际投产节点未核",
       "status_date": "2023-07",
       "products": [
@@ -1115,7 +1115,7 @@
       ],
       "narrative": [
         "Andalan有华友收购和RKEF冶炼资产的明确历史，但收购计划中的高冰镍改造不能代替完工验收。原表17,200镍吨也尚未与厂家设备能力说明闭合。",
-        "收购新闻还涉及5万镍吨硫酸镍工程，这是不同工序及项目，不能直接替换Andalan NPI能力。本轮保留两条RKEF的报道证据，同时把能力与改造后实际产品留空待核。"
+        "收购新闻还涉及5万镍吨硫酸镍工程，这是不同工序及项目，不能直接替换Andalan NPI能力。有两条RKEF的报道；产能及改造后的实际产品未公开。"
       ],
       "confidence": "中低",
       "unresolved": [
@@ -1149,7 +1149,7 @@
           "id": "NS011"
         },
         {
-          "title": "用户提供的全品种逐票数据：本轮NPI核查版",
+          "title": "用户提供的全品种逐票数据（NPI核查版）",
           "url": "https://bc050603.github.io/indonesia-nickel/library/npi-trade-audit.xlsx",
           "date": "覆盖2023-01至2026-08；2026-09-17提供",
           "locator": "明细总表按出口商筛选；TR编号对应原全量明细行",
@@ -1282,7 +1282,7 @@
           "id": "NS123"
         },
         {
-          "title": "用户提供的全品种逐票数据：本轮NPI核查版",
+          "title": "用户提供的全品种逐票数据（NPI核查版）",
           "url": "https://bc050603.github.io/indonesia-nickel/library/npi-trade-audit.xlsx",
           "date": "覆盖2023-01至2026-08；2026-09-17提供",
           "locator": "明细总表按出口商筛选；TR编号对应原全量明细行",
@@ -1415,7 +1415,7 @@
           "id": "NS124"
         },
         {
-          "title": "用户提供的全品种逐票数据：本轮NPI核查版",
+          "title": "用户提供的全品种逐票数据（NPI核查版）",
           "url": "https://bc050603.github.io/indonesia-nickel/library/npi-trade-audit.xlsx",
           "date": "覆盖2023-01至2026-08；2026-09-17提供",
           "locator": "明细总表按出口商筛选；TR编号对应原全量明细行",
@@ -1515,7 +1515,7 @@
       "name": "PT Kao Rahai Smelters 金川考拉海",
       "legal": "PT Kao Rahai Smelters",
       "group": "金川体系 / 合作方",
-      "ownership": "金川官方投资资料列作印尼镍铁项目；本轮不将金川国际展示项目自动等同上市公司全资资产。",
+      "ownership": "金川官方投资资料列作印尼镍铁项目；金川国际展示的项目与上市公司的持股关系未单独披露。",
       "lines_verified": 4,
       "lines_note": "用户原表RKEF产线数：4。公开资料支持上述已核产线数；该数不代表2026年每条均在运行。",
       "capacity_verified": 55000,
@@ -1569,7 +1569,7 @@
           "id": "NS011"
         },
         {
-          "title": "用户提供的全品种逐票数据：本轮NPI核查版",
+          "title": "用户提供的全品种逐票数据（NPI核查版）",
           "url": "https://bc050603.github.io/indonesia-nickel/library/npi-trade-audit.xlsx",
           "date": "覆盖2023-01至2026-08；2026-09-17提供",
           "locator": "明细总表按出口商筛选；TR编号对应原全量明细行",
@@ -1686,7 +1686,7 @@
           "id": "NS119"
         },
         {
-          "title": "用户提供的全品种逐票数据：本轮NPI核查版",
+          "title": "用户提供的全品种逐票数据（NPI核查版）",
           "url": "https://bc050603.github.io/indonesia-nickel/library/npi-trade-audit.xlsx",
           "date": "覆盖2023-01至2026-08；2026-09-17提供",
           "locator": "明细总表按出口商筛选；TR编号对应原全量明细行",
@@ -1865,7 +1865,7 @@
           "id": "NS125"
         },
         {
-          "title": "用户提供的全品种逐票数据：本轮NPI核查版",
+          "title": "用户提供的全品种逐票数据（NPI核查版）",
           "url": "https://bc050603.github.io/indonesia-nickel/library/npi-trade-audit.xlsx",
           "date": "覆盖2023-01至2026-08；2026-09-17提供",
           "locator": "明细总表按出口商筛选；TR编号对应原全量明细行",
@@ -1969,7 +1969,7 @@
       "lines_note": "用户原表RKEF产线数：2。未取得足够独立原件核定产线数，保留底稿，不据检索缺失断言不存在。",
       "capacity_verified": null,
       "capacity_basis": "仅保留用户底稿；公开名录不披露镍含量口径能力。",
-      "capacity_note": "本轮仍未找到独立核定两条RKEF及22,000镍吨的原件，保留原表。",
+      "capacity_note": "两条RKEF及22,000镍吨尚无独立原件核定，沿用行业表数据。",
       "status": "2025年度官方工业名录继续列示；最新逐炉开工、产品分配与有效能力未核",
       "status_date": "名录2026-09-15更新；数据年度2025",
       "products": [
@@ -1984,7 +1984,7 @@
       "narrative": [
         "【2026-09-17继续核查】2025省级SIINas名录继续列示本法人；相较底稿2024名录更新时间推进一年。",
         "未核。商业公司注册聚合页显示Tbk/上市等不可靠标签，无发行人上市原件，不采纳。",
-        "本轮仍未找到独立核定两条RKEF及22,000镍吨的原件，保留原表。"
+        "两条RKEF及22,000镍吨尚无独立原件核定，沿用行业表数据。"
       ],
       "confidence": "低：实体地点已核，设备能力未核",
       "unresolved": [
@@ -2020,7 +2020,7 @@
           "id": "NS126"
         },
         {
-          "title": "用户提供的全品种逐票数据：本轮NPI核查版",
+          "title": "用户提供的全品种逐票数据（NPI核查版）",
           "url": "https://bc050603.github.io/indonesia-nickel/library/npi-trade-audit.xlsx",
           "date": "覆盖2023-01至2026-08；2026-09-17提供",
           "locator": "明细总表按出口商筛选；TR编号对应原全量明细行",
@@ -2155,7 +2155,7 @@
           "id": "NS033"
         },
         {
-          "title": "用户提供的全品种逐票数据：本轮NPI核查版",
+          "title": "用户提供的全品种逐票数据（NPI核查版）",
           "url": "https://bc050603.github.io/indonesia-nickel/library/npi-trade-audit.xlsx",
           "date": "覆盖2023-01至2026-08；2026-09-17提供",
           "locator": "明细总表按出口商筛选；TR编号对应原全量明细行",
@@ -2225,7 +2225,7 @@
         "2026Q2检修影响经营"
       ],
       "narrative": [
-        "Westrong是本轮应直接修正产品口径的项目。母公司明确四条RKEF配转换设施、56,000镍吨高冰镍能力，因此原表数字本身有来源，但不能仍作为纯NPI外销能力加总。",
+        "Westrong的产品口径已据原件修正。母公司明确四条RKEF配转换设施、56,000镍吨高冰镍能力，因此原表数字本身有来源，但不能仍作为纯NPI外销能力加总。",
         "其股权已与Sunny不同：Harum于2024年取得控制，华新同时退出。2026年季度资料中的检修只是当期运行事件，不改变设备设计能力，也不证明整年停产；出口不覆盖其全部国内交付。"
       ],
       "confidence": "高",
@@ -2260,7 +2260,7 @@
           "id": "NS019"
         },
         {
-          "title": "用户提供的全品种逐票数据：本轮NPI核查版",
+          "title": "用户提供的全品种逐票数据（NPI核查版）",
           "url": "https://bc050603.github.io/indonesia-nickel/library/npi-trade-audit.xlsx",
           "date": "覆盖2023-01至2026-08；2026-09-17提供",
           "locator": "明细总表按出口商筛选；TR编号对应原全量明细行",
@@ -2354,7 +2354,7 @@
           "url": "https://www.huayou.com/Public/Uploads/uploadfile2/files/20260407/2025AnnualReportofHuayouCobalt.pdf",
           "date": "2026-04-07",
           "locator": "印尼火法项目/经营业务说明；沿用前轮已核材料",
-          "claim": "华科高冰镍业务；本轮官网列有原件但下载端返回访问限制，不新增未读页码。",
+          "claim": "华科高冰镍业务；官网所列原件暂无法下载，未引用具体页码。",
           "id": "NS036"
         },
         {
@@ -2382,7 +2382,7 @@
           "id": "NS037"
         },
         {
-          "title": "用户提供的全品种逐票数据：本轮NPI核查版",
+          "title": "用户提供的全品种逐票数据（NPI核查版）",
           "url": "https://bc050603.github.io/indonesia-nickel/library/npi-trade-audit.xlsx",
           "date": "覆盖2023-01至2026-08；2026-09-17提供",
           "locator": "明细总表按出口商筛选；TR编号对应原全量明细行",
@@ -2497,7 +2497,7 @@
           "id": "NS039"
         },
         {
-          "title": "用户提供的全品种逐票数据：本轮NPI核查版",
+          "title": "用户提供的全品种逐票数据（NPI核查版）",
           "url": "https://bc050603.github.io/indonesia-nickel/library/npi-trade-audit.xlsx",
           "date": "覆盖2023-01至2026-08；2026-09-17提供",
           "locator": "明细总表按出口商筛选；TR编号对应原全量明细行",
@@ -2552,7 +2552,7 @@
       "lines_note": "用户原表RKEF产线数：空白。未取得足够独立原件核定产线数，保留底稿，不据检索缺失断言不存在。",
       "capacity_verified": null,
       "capacity_basis": "原表28,000镍吨待核；Lancon/Cosan组合高冰镍40,000镍吨只保留组合口径。",
-      "capacity_note": "用户原表：28,000镍吨/年。本轮不以固定品位或单炉能力反算；原表数值保留为待核。",
+      "capacity_note": "用户原表：28,000镍吨/年。不以固定品位或单炉能力反算；原表数值保留为待核。",
       "status": "行业表列组合在产；分厂设备/开工待核",
       "status_date": "2026-01-14",
       "products": [
@@ -2569,7 +2569,7 @@
       "narrative": [
         "【2026-09-17继续核查】2025省级SIINas名录继续列示本法人；相较底稿2024名录更新时间推进一年。",
         "【2026-09-17继续核查】发现2024工业核验和环保文号两条官方原件索引；全文未取得，单列线索。",
-        "Lancon原表产线数为空，本轮仍不依据常见两线配置替它补成两线。其公开证据主要是与Cosan合列的RKEF—转炉高冰镍运行表和已有出货，足以提示不能当作纯NPI厂，却不足以核定分厂名义能力。",
+        "Lancon的产线数未公开，未按常见两线配置推定。其公开证据主要是与Cosan合列的RKEF—转炉高冰镍运行表和已有出货，足以提示不能当作纯NPI厂，却不足以核定分厂名义能力。",
         "行业表组合4万镍吨不能拆成每家4万，2025年1月阶段投产节点也不能抹去更早出货。另一方面，较早出货并不一定自产，需通过转换厂验收和采购/委托加工文件确认生产边界。"
       ],
       "confidence": "中低",
@@ -2589,7 +2589,7 @@
           "id": "NS022"
         },
         {
-          "title": "用户提供的全品种逐票数据：本轮NPI核查版",
+          "title": "用户提供的全品种逐票数据（NPI核查版）",
           "url": "https://bc050603.github.io/indonesia-nickel/library/npi-trade-audit.xlsx",
           "date": "覆盖2023-01至2026-08；2026-09-17提供",
           "locator": "明细总表按出口商筛选；TR编号对应原全量明细行",
@@ -2984,7 +2984,7 @@
           "id": "NS042"
         },
         {
-          "title": "用户提供的全品种逐票数据：本轮NPI核查版",
+          "title": "用户提供的全品种逐票数据（NPI核查版）",
           "url": "https://bc050603.github.io/indonesia-nickel/library/npi-trade-audit.xlsx",
           "date": "覆盖2023-01至2026-08；2026-09-17提供",
           "locator": "明细总表按出口商筛选；TR编号对应原全量明细行",
@@ -3130,7 +3130,7 @@
           "id": "NS128"
         },
         {
-          "title": "用户提供的全品种逐票数据：本轮NPI核查版",
+          "title": "用户提供的全品种逐票数据（NPI核查版）",
           "url": "https://bc050603.github.io/indonesia-nickel/library/npi-trade-audit.xlsx",
           "date": "覆盖2023-01至2026-08；2026-09-17提供",
           "locator": "明细总表按出口商筛选；TR编号对应原全量明细行",
@@ -3454,7 +3454,7 @@
           "id": "NS051"
         },
         {
-          "title": "用户提供的全品种逐票数据：本轮NPI核查版",
+          "title": "用户提供的全品种逐票数据（NPI核查版）",
           "url": "https://bc050603.github.io/indonesia-nickel/library/npi-trade-audit.xlsx",
           "date": "覆盖2023-01至2026-08；2026-09-17提供",
           "locator": "明细总表按出口商筛选；TR编号对应原全量明细行",
@@ -3562,7 +3562,7 @@
           "id": "NS040"
         },
         {
-          "title": "用户提供的全品种逐票数据：本轮NPI核查版",
+          "title": "用户提供的全品种逐票数据（NPI核查版）",
           "url": "https://bc050603.github.io/indonesia-nickel/library/npi-trade-audit.xlsx",
           "date": "覆盖2023-01至2026-08；2026-09-17提供",
           "locator": "明细总表按出口商筛选；TR编号对应原全量明细行",
@@ -3614,7 +3614,7 @@
       "group": "华新丽华",
       "ownership": "华新持股表：直接50%+关联42%=合计92%，表头基准2024-12-31；50%单层不能当集团权益。2026最新法定比例待核。",
       "lines_verified": null,
-      "lines_note": "原表4RKEF；第三方行业表支持4条，但本轮未找到当前公司具名单线设备清单，保留待核。",
+      "lines_note": "原表4RKEF；第三方行业表记为4条；公司具名的单线设备清单未公开。",
       "capacity_verified": 36000,
       "capacity_basis": "历史项目30000–36000镍吨范围上限；2021年报36000吨与同期明确contained nickel口径交叉",
       "capacity_note": "36000可作为有来源历史额定参考，不称2026新核定设计。2025销售33000镍吨为实销量，不改成容量。",
@@ -3633,7 +3633,7 @@
         "华新镍业是华新丽华向不锈钢上游原料延伸的印尼项目。它与后来投资的Sunny是两家工厂：最新年报分别描述WNII的NPI，以及Sunny随市场调整的NPI和冰镍，不能把集团全部镍产品都归到华新镍业名下。",
         "官方2025年报显示WNII的NPI主要供印尼当地钢厂，全年销售约33,000镍吨，折约29万实物吨。原表36,000镍吨可用历史项目额定材料交叉支持，但其设备4条及最新额定优化仍需当前工厂原件；集团控制权益也应穿透直接与间接两层。",
         "官方2025年报确认NPI主要供印尼当地钢厂；未找到可以直接归属WNII的具名钢厂清单或长协条款。",
-        "华新进入NPI业务旨在向不锈钢上游延伸、增强原料成本与供应控制。销售主要落在印尼当地钢厂，是年报证据；是否经青山全量承购或供应其某个具体法人，本轮不能确认。"
+        "华新进入NPI业务旨在向不锈钢上游延伸、增强原料成本与供应控制。销售主要落在印尼当地钢厂，是年报证据；是否由青山全量承购或供应其某个具体法人，尚未确认。"
       ],
       "confidence": "印尼当地钢厂用途高；具名客户/长协未核",
       "unresolved": [
@@ -3681,7 +3681,7 @@
           "id": "NS129"
         },
         {
-          "title": "用户提供的全品种逐票数据：本轮NPI核查版",
+          "title": "用户提供的全品种逐票数据（NPI核查版）",
           "url": "https://bc050603.github.io/indonesia-nickel/library/npi-trade-audit.xlsx",
           "date": "覆盖2023-01至2026-08；2026-09-17提供",
           "locator": "明细总表按出口商筛选；TR编号对应原全量明细行",
@@ -3708,7 +3708,7 @@
           "供货指定最终炉厂"
         ]
       },
-      "why_long_term": "华新进入NPI业务旨在向不锈钢上游延伸、增强原料成本与供应控制。销售主要落在印尼当地钢厂，是年报证据；是否经青山全量承购或供应其某个具体法人，本轮不能确认。",
+      "why_long_term": "华新进入NPI业务旨在向不锈钢上游延伸、增强原料成本与供应控制。销售主要落在印尼当地钢厂，是年报证据；是否由青山全量承购或供应其某个具体法人，尚未确认。",
       "deep_review_changes": [
         "查至2025年报及2026Q1财报后，保留真实信息缺口：用途明确，买家名/长协未知",
         "排除把台湾钢材代理业务当WNII NPI自用流向"
@@ -3843,7 +3843,7 @@
           "id": "NS128"
         },
         {
-          "title": "用户提供的全品种逐票数据：本轮NPI核查版",
+          "title": "用户提供的全品种逐票数据（NPI核查版）",
           "url": "https://bc050603.github.io/indonesia-nickel/library/npi-trade-audit.xlsx",
           "date": "覆盖2023-01至2026-08；2026-09-17提供",
           "locator": "明细总表按出口商筛选；TR编号对应原全量明细行",
@@ -4042,7 +4042,7 @@
           "id": "NS128"
         },
         {
-          "title": "用户提供的全品种逐票数据：本轮NPI核查版",
+          "title": "用户提供的全品种逐票数据（NPI核查版）",
           "url": "https://bc050603.github.io/indonesia-nickel/library/npi-trade-audit.xlsx",
           "date": "覆盖2023-01至2026-08；2026-09-17提供",
           "locator": "明细总表按出口商筛选；TR编号对应原全量明细行",
@@ -4206,7 +4206,7 @@
           "id": "NS041"
         },
         {
-          "title": "用户提供的全品种逐票数据：本轮NPI核查版",
+          "title": "用户提供的全品种逐票数据（NPI核查版）",
           "url": "https://bc050603.github.io/indonesia-nickel/library/npi-trade-audit.xlsx",
           "date": "覆盖2023-01至2026-08；2026-09-17提供",
           "locator": "明细总表按出口商筛选；TR编号对应原全量明细行",
@@ -4674,7 +4674,7 @@
           "id": "NS130"
         },
         {
-          "title": "用户提供的全品种逐票数据：本轮NPI核查版",
+          "title": "用户提供的全品种逐票数据（NPI核查版）",
           "url": "https://bc050603.github.io/indonesia-nickel/library/npi-trade-audit.xlsx",
           "date": "覆盖2023-01至2026-08；2026-09-17提供",
           "locator": "明细总表按出口商筛选；TR编号对应原全量明细行",
@@ -4778,7 +4778,7 @@
           "id": "NS063"
         },
         {
-          "title": "用户提供的全品种逐票数据：本轮NPI核查版",
+          "title": "用户提供的全品种逐票数据（NPI核查版）",
           "url": "https://bc050603.github.io/indonesia-nickel/library/npi-trade-audit.xlsx",
           "date": "覆盖2023-01至2026-08；2026-09-17提供",
           "locator": "明细总表按出口商筛选；TR编号对应原全量明细行",
@@ -4877,7 +4877,7 @@
           "id": "NS066"
         },
         {
-          "title": "用户提供的全品种逐票数据：本轮NPI核查版",
+          "title": "用户提供的全品种逐票数据（NPI核查版）",
           "url": "https://bc050603.github.io/indonesia-nickel/library/npi-trade-audit.xlsx",
           "date": "覆盖2023-01至2026-08；2026-09-17提供",
           "locator": "明细总表按出口商筛选；TR编号对应原全量明细行",
@@ -4985,7 +4985,7 @@
           "id": "NS024"
         },
         {
-          "title": "用户提供的全品种逐票数据：本轮NPI核查版",
+          "title": "用户提供的全品种逐票数据（NPI核查版）",
           "url": "https://bc050603.github.io/indonesia-nickel/library/npi-trade-audit.xlsx",
           "date": "覆盖2023-01至2026-08；2026-09-17提供",
           "locator": "明细总表按出口商筛选；TR编号对应原全量明细行",
@@ -5078,7 +5078,7 @@
           "id": "NS070"
         },
         {
-          "title": "用户提供的全品种逐票数据：本轮NPI核查版",
+          "title": "用户提供的全品种逐票数据（NPI核查版）",
           "url": "https://bc050603.github.io/indonesia-nickel/library/npi-trade-audit.xlsx",
           "date": "覆盖2023-01至2026-08；2026-09-17提供",
           "locator": "明细总表按出口商筛选；TR编号对应原全量明细行",
@@ -5168,7 +5168,7 @@
           "id": "NS070"
         },
         {
-          "title": "用户提供的全品种逐票数据：本轮NPI核查版",
+          "title": "用户提供的全品种逐票数据（NPI核查版）",
           "url": "https://bc050603.github.io/indonesia-nickel/library/npi-trade-audit.xlsx",
           "date": "覆盖2023-01至2026-08；2026-09-17提供",
           "locator": "明细总表按出口商筛选；TR编号对应原全量明细行",
@@ -5261,7 +5261,7 @@
           "id": "NS072"
         },
         {
-          "title": "用户提供的全品种逐票数据：本轮NPI核查版",
+          "title": "用户提供的全品种逐票数据（NPI核查版）",
           "url": "https://bc050603.github.io/indonesia-nickel/library/npi-trade-audit.xlsx",
           "date": "覆盖2023-01至2026-08；2026-09-17提供",
           "locator": "明细总表按出口商筛选；TR编号对应原全量明细行",
@@ -5366,7 +5366,7 @@
           "id": "NS030"
         },
         {
-          "title": "用户提供的全品种逐票数据：本轮NPI核查版",
+          "title": "用户提供的全品种逐票数据（NPI核查版）",
           "url": "https://bc050603.github.io/indonesia-nickel/library/npi-trade-audit.xlsx",
           "date": "覆盖2023-01至2026-08；2026-09-17提供",
           "locator": "明细总表按出口商筛选；TR编号对应原全量明细行",
@@ -5469,7 +5469,7 @@
           "id": "NS075"
         },
         {
-          "title": "用户提供的全品种逐票数据：本轮NPI核查版",
+          "title": "用户提供的全品种逐票数据（NPI核查版）",
           "url": "https://bc050603.github.io/indonesia-nickel/library/npi-trade-audit.xlsx",
           "date": "覆盖2023-01至2026-08；2026-09-17提供",
           "locator": "明细总表按出口商筛选；TR编号对应原全量明细行",
@@ -5681,7 +5681,7 @@
           "id": "NS133"
         },
         {
-          "title": "用户提供的全品种逐票数据：本轮NPI核查版",
+          "title": "用户提供的全品种逐票数据（NPI核查版）",
           "url": "https://bc050603.github.io/indonesia-nickel/library/npi-trade-audit.xlsx",
           "date": "覆盖2023-01至2026-08；2026-09-17提供",
           "locator": "明细总表按出口商筛选；TR编号对应原全量明细行",
@@ -5833,7 +5833,7 @@
           "id": "NS135"
         },
         {
-          "title": "用户提供的全品种逐票数据：本轮NPI核查版",
+          "title": "用户提供的全品种逐票数据（NPI核查版）",
           "url": "https://bc050603.github.io/indonesia-nickel/library/npi-trade-audit.xlsx",
           "date": "覆盖2023-01至2026-08；2026-09-17提供",
           "locator": "明细总表按出口商筛选；TR编号对应原全量明细行",
@@ -5940,7 +5940,7 @@
       "capacity_basis": "用户原表镍吨/年，独立核验待完成",
       "capacity_note": "一期100000吨FeNi/年是实物量，后续300000吨也是分期规划；8000镍吨用户值不独立确认。旧规划RKEF20000镍吨不是既成能力。",
       "status": "自2022年初暂时停运，官网仍保留该说明",
-      "status_date": "2022年初（官网截至本次检索）",
+      "status_date": "2022年初（官网说明）",
       "products": [
         "NPI/FeNi（原表）"
       ],
@@ -5996,7 +5996,7 @@
         "purpose": "外销NPI",
         "grade": 0.115
       },
-      "capacity_date": "2022年初（官网截至本次检索）",
+      "capacity_date": "2022年初（官网说明）",
       "capacity_type": "待核",
       "role": "镍铁／不锈钢链",
       "source_ids": [
@@ -6072,7 +6072,7 @@
           "id": "NS137"
         },
         {
-          "title": "用户提供的全品种逐票数据：本轮NPI核查版",
+          "title": "用户提供的全品种逐票数据（NPI核查版）",
           "url": "https://bc050603.github.io/indonesia-nickel/library/npi-trade-audit.xlsx",
           "date": "覆盖2023-01至2026-08；2026-09-17提供",
           "locator": "明细总表按出口商筛选；TR编号对应原全量明细行",
@@ -6406,7 +6406,7 @@
           "id": "NS091"
         },
         {
-          "title": "用户提供的全品种逐票数据：本轮NPI核查版",
+          "title": "用户提供的全品种逐票数据（NPI核查版）",
           "url": "https://bc050603.github.io/indonesia-nickel/library/npi-trade-audit.xlsx",
           "date": "覆盖2023-01至2026-08；2026-09-17提供",
           "locator": "明细总表按出口商筛选；TR编号对应原全量明细行",
@@ -6669,7 +6669,7 @@
           "id": "NS140"
         },
         {
-          "title": "用户提供的全品种逐票数据：本轮NPI核查版",
+          "title": "用户提供的全品种逐票数据（NPI核查版）",
           "url": "https://bc050603.github.io/indonesia-nickel/library/npi-trade-audit.xlsx",
           "date": "覆盖2023-01至2026-08；2026-09-17提供",
           "locator": "明细总表按出口商筛选；TR编号对应原全量明细行",
@@ -7049,7 +7049,7 @@
           "id": "NS142"
         },
         {
-          "title": "用户提供的全品种逐票数据：本轮NPI核查版",
+          "title": "用户提供的全品种逐票数据（NPI核查版）",
           "url": "https://bc050603.github.io/indonesia-nickel/library/npi-trade-audit.xlsx",
           "date": "覆盖2023-01至2026-08；2026-09-17提供",
           "locator": "明细总表按出口商筛选；TR编号对应原全量明细行",
@@ -7224,7 +7224,7 @@
           "id": "NS147"
         },
         {
-          "title": "用户提供的全品种逐票数据：本轮NPI核查版",
+          "title": "用户提供的全品种逐票数据（NPI核查版）",
           "url": "https://bc050603.github.io/indonesia-nickel/library/npi-trade-audit.xlsx",
           "date": "覆盖2023-01至2026-08；2026-09-17提供",
           "locator": "明细总表按出口商筛选；TR编号对应原全量明细行",
@@ -7343,7 +7343,7 @@
           "id": "NS103"
         },
         {
-          "title": "用户提供的全品种逐票数据：本轮NPI核查版",
+          "title": "用户提供的全品种逐票数据（NPI核查版）",
           "url": "https://bc050603.github.io/indonesia-nickel/library/npi-trade-audit.xlsx",
           "date": "覆盖2023-01至2026-08；2026-09-17提供",
           "locator": "明细总表按出口商筛选；TR编号对应原全量明细行",
@@ -7543,7 +7543,7 @@
           "id": "NS107"
         },
         {
-          "title": "用户提供的全品种逐票数据：本轮NPI核查版",
+          "title": "用户提供的全品种逐票数据（NPI核查版）",
           "url": "https://bc050603.github.io/indonesia-nickel/library/npi-trade-audit.xlsx",
           "date": "覆盖2023-01至2026-08；2026-09-17提供",
           "locator": "明细总表按出口商筛选；TR编号对应原全量明细行",
@@ -7763,7 +7763,7 @@
           "id": "NS111"
         },
         {
-          "title": "用户提供的全品种逐票数据：本轮NPI核查版",
+          "title": "用户提供的全品种逐票数据（NPI核查版）",
           "url": "https://bc050603.github.io/indonesia-nickel/library/npi-trade-audit.xlsx",
           "date": "覆盖2023-01至2026-08；2026-09-17提供",
           "locator": "明细总表按出口商筛选；TR编号对应原全量明细行",
@@ -7911,7 +7911,7 @@
           "id": "NS149"
         },
         {
-          "title": "用户提供的全品种逐票数据：本轮NPI核查版",
+          "title": "用户提供的全品种逐票数据（NPI核查版）",
           "url": "https://bc050603.github.io/indonesia-nickel/library/npi-trade-audit.xlsx",
           "date": "覆盖2023-01至2026-08；2026-09-17提供",
           "locator": "明细总表按出口商筛选；TR编号对应原全量明细行",
@@ -8052,7 +8052,7 @@
           "id": "NS113"
         },
         {
-          "title": "用户提供的全品种逐票数据：本轮NPI核查版",
+          "title": "用户提供的全品种逐票数据（NPI核查版）",
           "url": "https://bc050603.github.io/indonesia-nickel/library/npi-trade-audit.xlsx",
           "date": "覆盖2023-01至2026-08；2026-09-17提供",
           "locator": "明细总表按出口商筛选；TR编号对应原全量明细行",
@@ -8156,7 +8156,7 @@
       "id": "NS003"
     },
     {
-      "title": "用户提供的全品种逐票数据：本轮NPI核查版",
+      "title": "用户提供的全品种逐票数据（NPI核查版）",
       "url": "https://bc050603.github.io/indonesia-nickel/library/npi-trade-audit.xlsx",
       "date": "覆盖2023-01至2026-08；2026-09-17提供",
       "locator": "明细总表按出口商筛选；TR编号对应原全量明细行",
@@ -8540,7 +8540,7 @@
       "url": "https://www.huayou.com/Public/Uploads/uploadfile2/files/20260407/2025AnnualReportofHuayouCobalt.pdf",
       "date": "2026-04-07",
       "locator": "印尼火法项目/经营业务说明；沿用前轮已核材料",
-      "claim": "华科高冰镍业务；本轮官网列有原件但下载端返回访问限制，不新增未读页码。",
+      "claim": "华科高冰镍业务；官网所列原件暂无法下载，未引用具体页码。",
       "id": "NS036"
     },
     {
