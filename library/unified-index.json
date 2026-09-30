@@ -5192,7 +5192,7 @@
         "欧洲镍业(Euronickel Industries，原FENI Industries)卡瓦达尔齐镍铁厂",
         "Euronickel Industries (formerly FENI Industries) Kavadarci Ferronickel Plant"
       ],
-      "search_text": "GL001 Euronickel Industries (formerly FENI Industries) Kavadarci Ferronickel Plant 欧洲镍业(Euronickel Industries，原FENI Industries)卡瓦达尔齐镍铁厂 Euronickel Industries (formerly FENI Industries) Kavadarci Ferronickel Plant NI-001 土耳其Yıldırım Group（经荷兰Polynickel Holding BV，2024年收购破产资产）；工厂计划更名为'Golden Eagle Nickel'(Голден Игл Никел)，总经理Džemil Acar（新增细节） 北马其顿 North Macedonia 瓦尔达尔区(Vardar) Kavadarci市 RKEF镍铁 镍铁 红土矿(褐铁矿)+混合 ",
+      "search_text": "GL001 Euronickel Industries (formerly FENI Industries) Kavadarci Ferronickel Plant 欧洲镍业(Euronickel Industries，原FENI Industries)卡瓦达尔齐镍铁厂 Euronickel Industries (formerly FENI Industries) Kavadarci Ferronickel Plant NI-001 土耳其Yıldırım Group（经荷兰Polynickel Holding BV，2024年收购破产资产）；工厂计划更名为'Golden Eagle Nickel'(Голден Игл Никел)，总经理Džemil Acar（新增细节） 北马其顿 North Macedonia 瓦尔达尔区(Vardar) Kavadarci市 RKEF镍铁 镍铁 红土矿(褐铁矿)+混合  2026年1月的当地报道称，新业主计划自4月起逐步召回全部员工、恢复生产。2026年6月的报道则指出，工厂2025年全年没有产出，营业收入仅约16.4万欧元；此后没有找到复产确认。",
       "country_codes": [
         "MK"
       ],
@@ -5200,7 +5200,8 @@
       "global_scopes": [
         "npi"
       ],
-      "research_summary": "欧洲镍业(Euronickel Industries，原FENI Industries)卡瓦达尔齐镍铁厂位于北马其顿的瓦尔达尔区(Vardar) Kavadarci市。该项目采用RKEF镍铁路线，产品资料涉及镍铁。"
+      "research_summary": "欧洲镍业(Euronickel Industries，原FENI Industries)卡瓦达尔齐镍铁厂位于北马其顿的瓦尔达尔区(Vardar) Kavadarci市。该项目采用RKEF镍铁路线，产品资料涉及镍铁。",
+      "research_updated_at": "2026-09-30"
     },
     {
       "id": "GL003",
@@ -5282,7 +5283,7 @@
         "奥厄镍冶炼厂(Nickelhütte Aue)",
         "Nickelhütte Aue GmbH"
       ],
-      "search_text": "GL005 Nickelhütte Aue GmbH 奥厄镍冶炼厂(Nickelhütte Aue) Nickelhütte Aue GmbH NI-005 私营有限公司Nickelhütte Aue GmbH（董事总经理Volker Carluss，自2008年8月） 德国 Germany 萨克森州(Sachsen) Erzgebirgskreis县 Aue市 其它(说明:火法+湿法联合处理含镍/钴/钒二次原料如废催化剂、残渣、粉尘、污泥、蚀刻液、废电池及无PCB变压器，非原生矿石/精矿冶炼；按本普查收录规则应归类为'再生/二次') 镍/铜/钴/钒/钼化学品；有色金属精矿；黄铜/青铜合金 混合  工厂先在火焰炉、回转炉等火法设备中处理二次原料，把镍、钴、铜富集为硫化物类精矿，再经浸出、过滤、精炼和萃取，产出六水硫酸镍、六水氯化镍、硝酸镍溶液和硫酸钴等化学品。萨克森州许可公告列出熔炼车间（火焰炉）、焚烧装置（回转炉）和变压器拆解等设施。原料全部为二次物料，不处理原生矿石；各设备规格和产能没有公开。",
+      "search_text": "GL005 Nickelhütte Aue GmbH 奥厄镍冶炼厂(Nickelhütte Aue) Nickelhütte Aue GmbH NI-005 私营有限公司Nickelhütte Aue GmbH（董事总经理Volker Carluss，自2008年8月） 德国 Germany 萨克森州(Sachsen) Erzgebirgskreis县 Aue市 其它(说明:火法+湿法联合处理含镍/钴/钒二次原料如废催化剂、残渣、粉尘、污泥、蚀刻液、废电池及无PCB变压器，非原生矿石/精矿冶炼；按本普查收录规则应归类为'再生/二次') 镍/铜/钴/钒/钼化学品；有色金属精矿；黄铜/青铜合金 混合  工厂先在火焰炉、回转炉等火法设备中处理二次原料，把镍、钴、铜富集为硫化物类精矿，再经浸出、过滤、精炼和萃取，产出六水硫酸镍、六水氯化镍、硝酸镍溶液和硫酸钴等化学品。萨克森州许可公告列出熔炼车间（火焰炉）、焚烧装置（回转炉）和变压器拆解等设施。原料全部为二次物料，不处理原生矿石；各设备规格和产能没有公开。 2025年10月，奥厄镍冶炼厂遭勒索软件攻击，只有办公信息系统受影响，生产没有中断；公司约有500名员工。",
       "country_codes": [
         "DE"
       ],
@@ -5374,7 +5375,7 @@
         "塞尼亚(Senjen)镍矿冶炼厂",
         "Senjen Nickel Works (Senjens Nikkelverk)"
       ],
-      "search_text": "GL008 Senjen Nickel Works (Senjens Nikkelverk) 塞尼亚(Senjen)镍矿冶炼厂 Senjen Nickel Works (Senjens Nikkelverk) NI-008 已永久关闭;末代业主H.H. Vivian & Co. Ltd.(英国斯旺西公司) 挪威 Norway 特罗姆斯郡(Troms) 塞尼亚岛(Senja) 硫化矿熔炼-反射炉/鼓风炉(历史) 粗镍/镍锍,运往英国斯旺西Hafod Isha镍钴厂精炼 硫化矿精矿 ",
+      "search_text": "GL008 Senjen Nickel Works (Senjens Nikkelverk) 塞尼亚(Senjen)镍矿冶炼厂 Senjen Nickel Works (Senjens Nikkelverk) NI-008 已永久关闭;末代业主H.H. Vivian & Co. Ltd.(英国斯旺西公司) 挪威 Norway 特罗姆斯郡(Troms) 塞尼亚岛(Senja) 硫化矿熔炼-反射炉/鼓风炉(历史) 粗镍/镍锍,运往英国斯旺西Hafod Isha镍钴厂精炼 硫化矿精矿  Grace's Guide记载，H. H. Vivian and Co.于1883年注册，接手斯旺西的镍钴厂以及挪威塞尼亚的镍矿和冶炼厂。矿物数据库资料称该矿1872年开采、1886年关闭，但只是单一的二手来源。冶炼炉型、产品形态以及是否运往斯旺西精炼，没有找到独立出处。",
       "country_codes": [
         "NO"
       ],
@@ -5382,7 +5383,8 @@
       "global_scopes": [
         "matte"
       ],
-      "research_summary": "塞尼亚(Senjen)镍矿冶炼厂位于挪威特罗姆斯郡(Troms)的塞尼亚岛(Senja)，是一座已永久关闭的历史冶炼厂。该厂采用硫化矿熔炼-反射炉/鼓风炉(历史)路线，产品为粗镍/镍锍，运往英国斯旺西Hafod Isha镍钴厂精炼。"
+      "research_summary": "塞尼亚（Senjen）镍矿冶炼厂位于挪威特罗姆斯郡塞尼亚岛，是19世纪后期的镍矿开采和冶炼点。1883年，英国斯旺西的H. H. Vivian and Co.成立时接手了这里的镍矿和冶炼厂；矿冶活动约在1880年代结束，具体关闭年份及产品去向缺少原始史料。",
+      "research_updated_at": "2026-09-30"
     },
     {
       "id": "GL009",
@@ -5404,7 +5406,7 @@
         "嘉能可克里斯蒂安桑镍精炼厂(Nikkelverk)",
         "Glencore Nikkelverk (Kristiansand Nickel Refinery)"
       ],
-      "search_text": "GL009 Glencore Nikkelverk (Kristiansand Nickel Refinery) 嘉能可克里斯蒂安桑镍精炼厂(Nikkelverk) Glencore Nikkelverk (Kristiansand Nickel Refinery) NI-009 Glencore plc 100%，运营主体Glencore Nikkelverk AS 挪威 Norway Agder郡 Kristiansand市 电解精炼(硫化镍阳极) 电解镍/镍粉/钴产品/铜/贵金属(PGM)回收 高冰镍 Glencore-Nikkelverk-Feed",
+      "search_text": "GL009 Glencore Nikkelverk (Kristiansand Nickel Refinery) 嘉能可克里斯蒂安桑镍精炼厂(Nikkelverk) Glencore Nikkelverk (Kristiansand Nickel Refinery) NI-009 Glencore plc 100%，运营主体Glencore Nikkelverk AS 挪威 Norway Agder郡 Kristiansand市 电解精炼(硫化镍阳极) 电解镍/镍粉/钴产品/铜/贵金属(PGM)回收 高冰镍 Glencore-Nikkelverk-Feed 嘉能可2026年半年度生产报告显示，包括萨德伯里、Raglan和Nikkelverk的一体化镍业务（INO）上半年产镍1.97万吨；这是合并口径，不是本厂单独产量。",
       "country_codes": [
         "NO"
       ],
@@ -5412,7 +5414,8 @@
       "global_scopes": [
         "refined"
       ],
-      "research_summary": "嘉能可克里斯蒂安桑镍精炼厂(Nikkelverk)位于挪威的Agder郡 Kristiansand市。该项目采用电解精炼(硫化镍阳极)路线，产品资料涉及电解镍/镍粉/钴产品/铜/贵金属(PGM)回收。"
+      "research_summary": "嘉能可克里斯蒂安桑镍精炼厂(Nikkelverk)位于挪威的Agder郡 Kristiansand市。该项目采用电解精炼(硫化镍阳极)路线，产品资料涉及电解镍/镍粉/钴产品/铜/贵金属(PGM)回收。",
+      "research_updated_at": "2026-09-30"
     },
     {
       "id": "GL010",
@@ -5649,7 +5652,7 @@
         "诺里尔斯克镍业哈尔亚瓦尔塔精炼厂",
         "Nornickel Harjavalta (Norilsk Nickel Harjavalta Oy) Nickel Refinery"
       ],
-      "search_text": "GL017 Nornickel Harjavalta (Norilsk Nickel Harjavalta Oy) Nickel Refinery 诺里尔斯克镍业哈尔亚瓦尔塔精炼厂 Nornickel Harjavalta (Norilsk Nickel Harjavalta Oy) Nickel Refinery NI-017 PJSC MMC Norilsk Nickel (Nornickel) 100%，运营主体 Norilsk Nickel Harjavalta Oy 芬兰 Finland Satakunta州 Harjavalta镇（Harjavalta工业园区） 硫酸镍精炼(中间品/高冰镍)+电解精炼(硫化镍阳极) 电解镍(阴极)/镍盐/镍粉/硫酸镍/钴产品(硫酸钴) 高冰镍+混合 Harjavalta-FI",
+      "search_text": "GL017 Nornickel Harjavalta (Norilsk Nickel Harjavalta Oy) Nickel Refinery 诺里尔斯克镍业哈尔亚瓦尔塔精炼厂 Nornickel Harjavalta (Norilsk Nickel Harjavalta Oy) Nickel Refinery NI-017 PJSC MMC Norilsk Nickel (Nornickel) 100%，运营主体 Norilsk Nickel Harjavalta Oy 芬兰 Finland Satakunta州 Harjavalta镇（Harjavalta工业园区） 硫酸镍精炼(中间品/高冰镍)+电解精炼(硫化镍阳极) 电解镍(阴极)/镍盐/镍粉/硫酸镍/钴产品(硫酸钴) 高冰镍+混合 Harjavalta-FI 2026年3月，伦敦金属交易所通知，本厂两个镍品牌的最后注册日为2026年6月18日，此后不再接受新的注册，这属于交割品牌变动，不代表停产。2026年5月，芬兰媒体报道，受制裁影响，铜饼运回俄罗斯的运输暂停。",
       "country_codes": [
         "FI"
       ],
@@ -5658,7 +5661,8 @@
         "sulfate",
         "refined"
       ],
-      "research_summary": "诺里尔斯克镍业哈尔亚瓦尔塔精炼厂位于芬兰Satakunta州的Harjavalta镇(Harjavalta工业园区)，采用硫酸镍精炼(中间品/高冰镍)加电解精炼(硫化镍阳极)路线，产品包括电解镍(阴极)、镍盐、镍粉、硫酸镍和钴产品(硫酸钴)。"
+      "research_summary": "诺里尔斯克镍业哈尔亚瓦尔塔精炼厂位于芬兰Satakunta州的Harjavalta镇(Harjavalta工业园区)，采用硫酸镍精炼(中间品/高冰镍)加电解精炼(硫化镍阳极)路线，产品包括电解镍(阴极)、镍盐、镍粉、硫酸镍和钴产品(硫酸钴)。",
+      "research_updated_at": "2026-09-30"
     },
     {
       "id": "GL018",
@@ -5710,7 +5714,7 @@
         "哈福德伊沙(Hafod Isha)镍钴厂(维维安父子公司)",
         "Hafod Isha Nickel and Cobalt Works (H.H. Vivian & Co. Ltd.)"
       ],
-      "search_text": "GL020 Hafod Isha Nickel and Cobalt Works (H.H. Vivian & Co. Ltd.) 哈福德伊沙(Hafod Isha)镍钴厂(维维安父子公司) Hafod Isha Nickel and Cobalt Works (H.H. Vivian & Co. Ltd.) NI-020 已永久关闭;末代业主H.H. Vivian & Co. Ltd.,1924年并入British Copper Manufacturers Ltd.(该合并主要涉及铜业,镍钴业务此前应已结束) 英国 United Kingdom 威尔士 斯旺西(Swansea) 哈福德(Hafod) 硫化矿熔炼-反射炉/鼓风炉(历史) 粗镍、钴产品(具体精炼程度及品位未查实) 混合(1883-1889年挪威塞尼亚硫化矿石;1889-1894年及以后加拿大萨德伯里Murray矿硫化矿石/锍) ",
+      "search_text": "GL020 Hafod Isha Nickel and Cobalt Works (H.H. Vivian & Co. Ltd.) 哈福德伊沙(Hafod Isha)镍钴厂(维维安父子公司) Hafod Isha Nickel and Cobalt Works (H.H. Vivian & Co. Ltd.) NI-020 已永久关闭;末代业主H.H. Vivian & Co. Ltd.,1924年并入British Copper Manufacturers Ltd.(该合并主要涉及铜业,镍钴业务此前应已结束) 英国 United Kingdom 威尔士 斯旺西(Swansea) 哈福德(Hafod) 硫化矿熔炼-反射炉/鼓风炉(历史) 粗镍、钴产品(具体精炼程度及品位未查实) 混合(1883-1889年挪威塞尼亚硫化矿石;1889-1894年及以后加拿大萨德伯里Murray矿硫化矿石/锍)  Vivian家族在斯旺西哈福德经营铜业，约1855年另设镍钴专业工厂。1883年，H. H. Vivian and Co.注册成立，接手斯旺西的镍钴厂以及挪威塞尼亚的镍矿和冶炼厂；1889年至1894年间，公司还经营加拿大萨德伯里的Murray矿。 Grace's Guide记载，1900年Vivian在斯旺西的冶炼业务出售给新成立的英法镍业公司（Anglo-French Nickel Co），1908年哈福德的镍相关工厂也转入该公司；英法镍业由Vickers、John Brown、Cammell Laird、Beardmore和Le Nickel等共同持有。1914年该厂已是镍钴精炼厂，约有300名员工，产品包括镍粒、镍块、镍圆片、金属钴和钴氧化物。母公司Vivian & Sons的铜业务1924年并入British Copper Manufacturers，与镍厂无关。 镍钴厂的关闭年份和原因没有找到原始史料。",
       "country_codes": [
         "GB"
       ],
@@ -5718,7 +5722,8 @@
       "global_scopes": [
         "other"
       ],
-      "research_summary": "哈福德伊沙(Hafod Isha)镍钴厂(维维安父子公司)位于英国威尔士斯旺西(Swansea)的哈福德(Hafod)。该厂采用硫化矿熔炼-反射炉/鼓风炉(历史)路线，产品为粗镍和钴产品，具体精炼程度及品位不详。"
+      "research_summary": "哈福德伊沙（Hafod Isha）镍钴厂位于英国威尔士斯旺西，是Vivian家族1855年前后建立的镍钴专业工厂，1883年起由H. H. Vivian and Co.经营。1900年起斯旺西的冶炼业务陆续转给英法镍业公司（Anglo-French Nickel Co），1914年这里已是生产镍粒、镍块和钴产品的精炼厂。关闭年份未见史料。",
+      "research_updated_at": "2026-09-30"
     },
     {
       "id": "GL021",
@@ -6079,7 +6084,7 @@
         "布鲁克塔尔(斯韦特雷)镍铁厂",
         "Buruktal (Svetly) Ferronickel Plant — ООО «БНЗ» (Buruktalsky Nickel Plant)"
       ],
-      "search_text": "GL032 Buruktal (Svetly) Ferronickel Plant — ООО «БНЗ» (Buruktalsky Nickel Plant) 布鲁克塔尔(斯韦特雷)镍铁厂 Buruktal (Svetly) Ferronickel Plant — ООО «БНЗ» (Buruktalsky Nickel Plant) NI-032 不详（历经多任失败接盘投资方：2019年ШЖРК于2021年11月9日被判破产；2020年托利亚蒂投资人短期租赁生产线后同样失败并引发刑事调查；截至已知最新公开报道[2021年11月]工厂仍在破产拍卖中，2022-2026年无任何复产或最终处置的公开报道） 俄罗斯 Russia 奥伦堡州，斯韦特雷(Svetly) 电炉镍铁(非RKEF)+其它(2014年改造采用瓦纽科夫炉) 镍铁 红土矿(褐铁矿) ",
+      "search_text": "GL032 Buruktal (Svetly) Ferronickel Plant — ООО «БНЗ» (Buruktalsky Nickel Plant) 布鲁克塔尔(斯韦特雷)镍铁厂 Buruktal (Svetly) Ferronickel Plant — ООО «БНЗ» (Buruktalsky Nickel Plant) NI-032 不详（历经多任失败接盘投资方：2019年ШЖРК于2021年11月9日被判破产；2020年托利亚蒂投资人短期租赁生产线后同样失败并引发刑事调查；截至已知最新公开报道[2021年11月]工厂仍在破产拍卖中，2022-2026年无任何复产或最终处置的公开报道） 俄罗斯 Russia 奥伦堡州，斯韦特雷(Svetly) 电炉镍铁(非RKEF)+其它(2014年改造采用瓦纽科夫炉) 镍铁 红土矿(褐铁矿)  布鲁克塔尔镍厂自2018年起处于破产程序；2025年3月，破产管理人拍卖约6.33亿卢布的债权，没有复产报道。",
       "country_codes": [
         "RU"
       ],
@@ -6087,7 +6092,8 @@
       "global_scopes": [
         "npi"
       ],
-      "research_summary": "布鲁克塔尔(斯韦特雷)镍铁厂位于俄罗斯的奥伦堡州，斯韦特雷(Svetly)。该项目采用电炉镍铁(非RKEF)路线，并在2014年改造中采用瓦纽科夫炉，产品资料涉及镍铁。"
+      "research_summary": "布鲁克塔尔(斯韦特雷)镍铁厂位于俄罗斯的奥伦堡州，斯韦特雷(Svetly)。该项目采用电炉镍铁(非RKEF)路线，并在2014年改造中采用瓦纽科夫炉，产品资料涉及镍铁。",
+      "research_updated_at": "2026-09-30"
     },
     {
       "id": "GL033",
@@ -6296,7 +6302,7 @@
         "日本冶金工业 大江山制作所",
         "Nippon Yakin Kogyo Co., Ltd. Oheyama Works"
       ],
-      "search_text": "GL039 Nippon Yakin Kogyo Co., Ltd. Oheyama Works 日本冶金工业 大江山制作所 Nippon Yakin Kogyo Co., Ltd. Oheyama Works NI-039 日本冶金工业株式会社(Nippon Yakin Kogyo Co., Ltd.) 100% 日本 Japan 京都府宮津市大江山 (Kyoto Prefecture, Miyazu, Oheyama) 电炉镍铁(非RKEF) 镍铁 + 副产品NASSAND/NASFINESAND(镍铁渣，经JIS-A-5011认证的混凝土骨料/路基材料) 红土矿(腐殖土) ",
+      "search_text": "GL039 Nippon Yakin Kogyo Co., Ltd. Oheyama Works 日本冶金工业 大江山制作所 Nippon Yakin Kogyo Co., Ltd. Oheyama Works NI-039 日本冶金工业株式会社(Nippon Yakin Kogyo Co., Ltd.) 100% 日本 Japan 京都府宮津市大江山 (Kyoto Prefecture, Miyazu, Oheyama) 电炉镍铁(非RKEF) 镍铁 + 副产品NASSAND/NASFINESAND(镍铁渣，经JIS-A-5011认证的混凝土骨料/路基材料) 红土矿(腐殖土)  日本冶金工业的可持续发展资料列有大江山工厂2025财年的环境数据，其中再生原料占所用原料的58.3%，说明工厂在该财年运行。",
       "country_codes": [
         "JP"
       ],
@@ -6304,7 +6310,8 @@
       "global_scopes": [
         "npi"
       ],
-      "research_summary": "日本冶金工业 大江山制作所位于日本的京都府宮津市大江山 (Kyoto Prefecture, Miyazu, Oheyama)。该项目采用电炉镍铁(非RKEF)路线，产品为镍铁，副产品为NASSAND/NASFINESAND(镍铁渣，经JIS-A-5011认证的混凝土骨料/路基材料)。"
+      "research_summary": "日本冶金工业 大江山制作所位于日本的京都府宮津市大江山 (Kyoto Prefecture, Miyazu, Oheyama)。该项目采用电炉镍铁(非RKEF)路线，产品为镍铁，副产品为NASSAND/NASFINESAND(镍铁渣，经JIS-A-5011认证的混凝土骨料/路基材料)。",
+      "research_updated_at": "2026-09-30"
     },
     {
       "id": "GL040",
@@ -6326,7 +6333,7 @@
         "播磨精炼厂",
         "Harima Refinery"
       ],
-      "search_text": "GL040 Harima Refinery 播磨精炼厂 Harima Refinery NI-040 住友金属矿山株式会社(SMM) 100% 日本 Japan 兵庫県 (Hyogo Prefecture, Harima地区，具体市町未确认) 硫酸镍精炼(中间品/高冰镍) 硫酸镍 MSP SMM-Philippines-Japan",
+      "search_text": "GL040 Harima Refinery 播磨精炼厂 Harima Refinery NI-040 住友金属矿山株式会社(SMM) 100% 日本 Japan 兵庫県 (Hyogo Prefecture, Harima地区，具体市町未确认) 硫酸镍精炼(中间品/高冰镍) 硫酸镍 MSP SMM-Philippines-Japan 住友金属矿山2026年5月说明会资料称，播磨因转产电池材料新品种，2026年度计划减产；新居浜与播磨合计硫酸镍产量2025财年为7.99万吨，2026财年计划5.69万吨。",
       "country_codes": [
         "JP"
       ],
@@ -6334,7 +6341,8 @@
       "global_scopes": [
         "sulfate"
       ],
-      "research_summary": "播磨精炼厂位于日本兵庫県(Hyogo Prefecture)的Harima地区，具体市町不详。该厂采用硫酸镍精炼(中间品/高冰镍)路线，产品为硫酸镍。"
+      "research_summary": "播磨精炼厂位于日本兵庫県(Hyogo Prefecture)的Harima地区，具体市町不详。该厂采用硫酸镍精炼(中间品/高冰镍)路线，产品为硫酸镍。",
+      "research_updated_at": "2026-09-30"
     },
     {
       "id": "GL041",
@@ -6387,7 +6395,7 @@
         "日本矿业 镍钴分离厂(历史，选址未确认)",
         "Nippon Mining Co., Ltd. Nickel-Cobalt Separation Plant (historical)"
       ],
-      "search_text": "GL042 Nippon Mining Co., Ltd. Nickel-Cobalt Separation Plant (historical) 日本矿业 镍钴分离厂(历史，选址未确认) Nippon Mining Co., Ltd. Nickel-Cobalt Separation Plant (historical) NI-042 历史企业；日本矿业株式会社经多次并购重组，演变为JX金属(JX Advanced Metals)/ENEOS Holdings集团，该镍钴分离产能现状不详 日本 Japan 不详(可能为大分県佐贺关或茨城県日立，未确认) PGM副产贱金属精炼 镍(镍钴分离产品) + 钴 MSP ",
+      "search_text": "GL042 Nippon Mining Co., Ltd. Nickel-Cobalt Separation Plant (historical) 日本矿业 镍钴分离厂(历史，选址未确认) Nippon Mining Co., Ltd. Nickel-Cobalt Separation Plant (historical) NI-042 历史企业；日本矿业株式会社经多次并购重组，演变为JX金属(JX Advanced Metals)/ENEOS Holdings集团，该镍钴分离产能现状不详 日本 Japan 不详(可能为大分県佐贺关或茨城県日立，未确认) PGM副产贱金属精炼 镍(镍钴分离产品) + 钴 MSP  工厂以进口自澳大利亚Queensland Nickel的镍钴混合硫化物（MSP）为原料，采用日本矿业自主开发的溶剂萃取工艺分离镍和钴，分别产出镍、钴产品。",
       "country_codes": [
         "JP"
       ],
@@ -6395,7 +6403,8 @@
       "global_scopes": [
         "other"
       ],
-      "research_summary": "日本矿业镍钴分离厂(历史)位于日本，厂址不详，可能在大分県佐贺关或茨城県日立，均未确认。该厂采用PGM副产贱金属精炼路线，产品为镍(镍钴分离产品)和钴。"
+      "research_summary": "日本矿业（Nippon Mining）镍钴分离厂是日本矿业1975年建成的湿法分离工厂，以澳大利亚Queensland Nickel的混合硫化物为原料，用自主开发的溶剂萃取工艺分离镍和钴，设计能力为每月镍300吨、钴110吨。厂址和关闭年份没有找到原始资料。",
+      "research_updated_at": "2026-09-30"
     },
     {
       "id": "GL043",
@@ -6572,7 +6581,7 @@
         "韩国镍业公司(KNC)",
         "Korea Nickel Corporation (KNC)"
       ],
-      "search_text": "GL048 Korea Nickel Corporation (KNC) 韩国镍业公司(KNC) Korea Nickel Corporation (KNC) NI-048 已清算解散(末任股东：永丰集团/Youngpoong Group 61%、Vale Ltd. 25%、POSCO Holdings 14%、POSTECH 5%及其他少数股东) 韩国 South Korea 蔚山广域市温山 (Onsan, Ulsan；据行业背景资料推测，检索文本未直接确认具体厂址) 硫酸镍精炼(中间品/高冰镍) 精炼镍(具体产品形态未确认) 不详 ",
+      "search_text": "GL048 Korea Nickel Corporation (KNC) 韩国镍业公司(KNC) Korea Nickel Corporation (KNC) NI-048 已清算解散(末任股东：永丰集团/Youngpoong Group 61%、Vale Ltd. 25%、POSCO Holdings 14%、POSTECH 5%及其他少数股东) 韩国 South Korea 蔚山广域市温山 (Onsan, Ulsan；据行业背景资料推测，检索文本未直接确认具体厂址) 硫酸镍精炼(中间品/高冰镍) 精炼镍(具体产品形态未确认) 不详  KED Global 2023年报道称，韩国镍业公司由永丰集团、Vale和POSCO于1987年合资设立，负责加工Vale供应的镍原料并销售给POSCO；公司于2022年启动清算，终止了与Vale和POSCO的供货合同，预计2023年底前解散。报道没有写明工厂位置。",
       "country_codes": [
         "KR"
       ],
@@ -6580,7 +6589,8 @@
       "global_scopes": [
         "refined"
       ],
-      "research_summary": "韩国镍业公司(KNC)位于韩国蔚山广域市温山(Onsan, Ulsan)，具体厂址据行业背景资料推测，未获直接确认。该公司采用硫酸镍精炼(中间品/高冰镍)路线，产品为精炼镍(具体产品形态不详)，现已清算解散。"
+      "research_summary": "韩国镍业公司(KNC)位于韩国蔚山广域市温山(Onsan, Ulsan)，具体厂址据行业背景资料推测，未获直接确认。该公司采用硫酸镍精炼(中间品/高冰镍)路线，产品为精炼镍(具体产品形态不详)，现已清算解散。",
+      "research_updated_at": "2026-09-30"
     },
     {
       "id": "GL049",
@@ -6754,7 +6764,7 @@
         "LS MnM 温山镍钴锰硫酸盐新厂",
         "LS MnM Ulsan Nickel-Cobalt-Manganese Sulfate Plant"
       ],
-      "search_text": "GL054 LS MnM Ulsan Nickel-Cobalt-Manganese Sulfate Plant LS MnM 温山镍钴锰硫酸盐新厂 LS MnM Ulsan Nickel-Cobalt-Manganese Sulfate Plant NI-054 LS MnM Inc.(原LS-Nikko Copper) 韩国 South Korea 蔚山广域市温山国家产业园区 (Onsan National Industrial Complex, Ulsan) 硫酸镍精炼(中间品/高冰镍) 硫酸镍、硫酸钴、硫酸锰、氢氧化锂 混合 ",
+      "search_text": "GL054 LS MnM Ulsan Nickel-Cobalt-Manganese Sulfate Plant LS MnM 温山镍钴锰硫酸盐新厂 LS MnM Ulsan Nickel-Cobalt-Manganese Sulfate Plant NI-054 LS MnM Inc.(原LS-Nikko Copper) 韩国 South Korea 蔚山广域市温山国家产业园区 (Onsan National Industrial Complex, Ulsan) 硫酸镍精炼(中间品/高冰镍) 硫酸镍、硫酸钴、硫酸锰、氢氧化锂 混合  2026年4月报道称，LS MnM计划在温山冶炼厂附近建设连接MHP精炼和黑粉精炼设备的复合工厂生产硫酸镍，仍以将来时描述，尚无投产记录。",
       "country_codes": [
         "KR"
       ],
@@ -6763,7 +6773,8 @@
         "mhp",
         "sulfate"
       ],
-      "research_summary": "LS MnM温山镍钴锰硫酸盐新厂位于韩国蔚山广域市温山国家产业园区(Onsan National Industrial Complex, Ulsan)，采用硫酸镍精炼(中间品/高冰镍)路线，产品包括硫酸镍、硫酸钴、硫酸锰和氢氧化锂。"
+      "research_summary": "LS MnM温山镍钴锰硫酸盐新厂位于韩国蔚山广域市温山国家产业园区(Onsan National Industrial Complex, Ulsan)，采用硫酸镍精炼(中间品/高冰镍)路线，产品包括硫酸镍、硫酸钴、硫酸锰和氢氧化锂。",
+      "research_updated_at": "2026-09-30"
     },
     {
       "id": "GL055",
@@ -7210,7 +7221,7 @@
         "蒂奥乌鲁埃(Ouroué)冶炼厂",
         "Ouroué Foundry, Thio"
       ],
-      "search_text": "GL072 Ouroué Foundry, Thio 蒂奥乌鲁埃(Ouroué)冶炼厂 Ouroué Foundry, Thio NI-072 已永久关闭;末代业主为Société Le Nickel(SLN)前身相关企业 新喀里多尼亚 New Caledonia 南方省 蒂奥(Thio)乌鲁埃(Ouroué) 硫化矿熔炼-反射炉/鼓风炉(历史) 粗镍/镍锍(具体品位不详) 红土矿(腐殖土,蒂奥当地红土镍矿) ",
+      "search_text": "GL072 Ouroué Foundry, Thio 蒂奥乌鲁埃(Ouroué)冶炼厂 Ouroué Foundry, Thio NI-072 已永久关闭;末代业主为Société Le Nickel(SLN)前身相关企业 新喀里多尼亚 New Caledonia 南方省 蒂奥(Thio)乌鲁埃(Ouroué) 硫化矿熔炼-反射炉/鼓风炉(历史) 粗镍/镍锍(具体品位不详) 红土矿(腐殖土,蒂奥当地红土镍矿)  SLN官网介绍蒂奥的冶炼历史时写到，乌鲁埃冶炼厂运行于1889—1891年。冶炼炉型、产品规格和拆除年份没有找到原始史料。",
       "country_codes": [
         "NC"
       ],
@@ -7218,7 +7229,8 @@
       "global_scopes": [
         "matte"
       ],
-      "research_summary": "蒂奥乌鲁埃(Ouroué)冶炼厂位于新喀里多尼亚的南方省 蒂奥(Thio)乌鲁埃(Ouroué)。该项目采用硫化矿熔炼-反射炉/鼓风炉(历史)路线，产品为粗镍/镍锍(具体品位不详)。"
+      "research_summary": "蒂奥乌鲁埃（Ouroué）冶炼厂位于新喀里多尼亚南方省蒂奥，是SLN（Société Le Nickel）在当地的早期冶炼厂，1889年至1891年运行。",
+      "research_updated_at": "2026-09-30"
     },
     {
       "id": "GL073",
@@ -7271,7 +7283,7 @@
         "蒂奥教会区(Thio-Mission)冶炼厂",
         "Thio-Mission Foundry"
       ],
-      "search_text": "GL074 Thio-Mission Foundry 蒂奥教会区(Thio-Mission)冶炼厂 Thio-Mission Foundry NI-074 已永久关闭;末代业主为Société Le Nickel(SLN) 新喀里多尼亚 New Caledonia 南方省 蒂奥(Thio)教会区(Mission) 硫化矿熔炼-反射炉/鼓风炉(历史) 粗镍/镍锍(具体品位不详) 红土矿(腐殖土,蒂奥当地红土镍矿) ",
+      "search_text": "GL074 Thio-Mission Foundry 蒂奥教会区(Thio-Mission)冶炼厂 Thio-Mission Foundry NI-074 已永久关闭;末代业主为Société Le Nickel(SLN) 新喀里多尼亚 New Caledonia 南方省 蒂奥(Thio)教会区(Mission) 硫化矿熔炼-反射炉/鼓风炉(历史) 粗镍/镍锍(具体品位不详) 红土矿(腐殖土,蒂奥当地红土镍矿)  SLN官网介绍，继乌鲁埃之后，蒂奥教会区冶炼厂运行于1912—1930年。冶炼炉型和拆除年份没有找到原始史料。",
       "country_codes": [
         "NC"
       ],
@@ -7279,7 +7291,8 @@
       "global_scopes": [
         "matte"
       ],
-      "research_summary": "蒂奥教会区(Thio-Mission)冶炼厂位于新喀里多尼亚的南方省 蒂奥(Thio)教会区(Mission)。该项目采用硫化矿熔炼-反射炉/鼓风炉(历史)路线，产品资料涉及粗镍/镍锍(具体品位不详)。"
+      "research_summary": "蒂奥教会区（Thio-Mission）冶炼厂位于新喀里多尼亚南方省蒂奥，由SLN于1912年建成，1912年至1930年运行，产品为镍锍。",
+      "research_updated_at": "2026-09-30"
     },
     {
       "id": "GL076",
@@ -7789,7 +7802,7 @@
         "蒙德镍业公司维多利亚矿区冶炼厂",
         "Mond Nickel Company Victoria Mines Smelter"
       ],
-      "search_text": "GL096 Mond Nickel Company Victoria Mines Smelter 蒙德镍业公司维多利亚矿区冶炼厂 Mond Nickel Company Victoria Mines Smelter NI-096 已永久关闭并大部拆除(部分建筑迁至Coniston/Worthington);末代业主Mond Nickel Company 加拿大 Canada 安大略省 萨德伯里 维多利亚矿区(Victoria Mines,今属大萨德伯里市) 硫化矿熔炼-反射炉/鼓风炉(历史) 镍铜锍(matte) 硫化矿精矿 ",
+      "search_text": "GL096 Mond Nickel Company Victoria Mines Smelter 蒙德镍业公司维多利亚矿区冶炼厂 Mond Nickel Company Victoria Mines Smelter NI-096 已永久关闭并大部拆除(部分建筑迁至Coniston/Worthington);末代业主Mond Nickel Company 加拿大 Canada 安大略省 萨德伯里 维多利亚矿区(Victoria Mines,今属大萨德伯里市) 硫化矿熔炼-反射炉/鼓风炉(历史) 镍铜锍(matte) 硫化矿精矿  地方史料记载，维多利亚矿区冶炼厂约1900年投产，1902年12月至1904年底曾停产；1913年蒙德镍业关闭该冶炼厂和堆场，把全部设备迁往新建的科尼斯顿冶炼厂。产出的冶炼产品运往威尔士克莱达赫精炼。",
       "country_codes": [
         "CA"
       ],
@@ -7797,7 +7810,8 @@
       "global_scopes": [
         "matte"
       ],
-      "research_summary": "蒙德镍业公司维多利亚矿区冶炼厂位于加拿大的安大略省 萨德伯里 维多利亚矿区(Victoria Mines，今属大萨德伯里市)。该项目采用硫化矿熔炼-反射炉/鼓风炉(历史)路线，产品为镍铜锍(matte)。"
+      "research_summary": "蒙德镍业公司维多利亚矿区冶炼厂位于加拿大的安大略省 萨德伯里 维多利亚矿区(Victoria Mines，今属大萨德伯里市)。该项目采用硫化矿熔炼-反射炉/鼓风炉(历史)路线，产品为镍铜锍(matte)。",
+      "research_updated_at": "2026-09-30"
     },
     {
       "id": "GL097",
@@ -7941,7 +7955,7 @@
         "英美镍业公司镍尔顿(Nickelton)冶炼厂(默里矿区)",
         "British America Nickel Corporation – Nickelton Smelter"
       ],
-      "search_text": "GL101 British America Nickel Corporation – Nickelton Smelter 英美镍业公司镍尔顿(Nickelton)冶炼厂(默里矿区) British America Nickel Corporation – Nickelton Smelter NI-101 已永久关闭并拆除;末代业主英美镍业公司(British America Nickel Corporation, BANCo) 加拿大 Canada 安大略省 萨德伯里 科珀克利夫附近(Nickelton/Murray矿区) 硫化矿熔炼-反射炉/鼓风炉(历史) 镍铜锍(matte),运往魁北克德申(Deschênes)工厂(本报告同时收录)精炼 硫化矿精矿 BANCo-Nickelton-Deschenes",
+      "search_text": "GL101 British America Nickel Corporation – Nickelton Smelter 英美镍业公司镍尔顿(Nickelton)冶炼厂(默里矿区) British America Nickel Corporation – Nickelton Smelter NI-101 已永久关闭并拆除;末代业主英美镍业公司(British America Nickel Corporation, BANCo) 加拿大 Canada 安大略省 萨德伯里 科珀克利夫附近(Nickelton/Murray矿区) 硫化矿熔炼-反射炉/鼓风炉(历史) 镍铜锍(matte),运往魁北克德申(Deschênes)工厂(本报告同时收录)精炼 硫化矿精矿 BANCo-Nickelton-Deschenes Murray矿资料记载，该矿因英美镍业公司清算于1924年7月再次关闭，1925年国际镍公司从债权人手中购得。冶炼厂1920年1月17日点火，此前没有找到1914年前投产的依据；德申精炼厂1923年关闭，距冶炼厂投产不足四年。冶炼厂的拆除年份没有找到原始史料。",
       "country_codes": [
         "CA"
       ],
@@ -7949,7 +7963,8 @@
       "global_scopes": [
         "matte"
       ],
-      "research_summary": "英美镍业公司镍尔顿(Nickelton)冶炼厂(默里矿区)位于加拿大安大略省萨德伯里的科珀克利夫附近(Nickelton/Murray矿区)。该厂采用硫化矿熔炼路线，历史上使用反射炉或鼓风炉，产品为镍铜锍(matte)，运往魁北克德申(Deschênes)工厂(另有词条收录)精炼。"
+      "research_summary": "英美镍业公司镍尔顿(Nickelton)冶炼厂(默里矿区)位于加拿大安大略省萨德伯里的科珀克利夫附近(Nickelton/Murray矿区)。该厂采用硫化矿熔炼路线，历史上使用反射炉或鼓风炉，产品为镍铜锍(matte)，运往魁北克德申(Deschênes)工厂(另有词条收录)精炼。",
+      "research_updated_at": "2026-09-30"
     },
     {
       "id": "GL102",
@@ -8432,7 +8447,7 @@
         "Precision Periodic佛罗里达中部镍钴锰精炼厂（拟建）",
         "Precision Periodic Central Florida Nickel-Cobalt-Manganese Refinery (proposed)"
       ],
-      "search_text": "GL117 Precision Periodic Central Florida Nickel-Cobalt-Manganese Refinery (proposed) Precision Periodic佛罗里达中部镍钴锰精炼厂（拟建） Precision Periodic Central Florida Nickel-Cobalt-Manganese Refinery (proposed) NI-117 Precision Periodic 100%（拟建） 美国 United States 佛罗里达州中部（Central Florida），具体厂址尚未落实 硫酸镍精炼(中间品/高冰镍) 电池级硫酸镍、硫酸钴、硫酸锰 MHP ",
+      "search_text": "GL117 Precision Periodic Central Florida Nickel-Cobalt-Manganese Refinery (proposed) Precision Periodic佛罗里达中部镍钴锰精炼厂（拟建） Precision Periodic Central Florida Nickel-Cobalt-Manganese Refinery (proposed) NI-117 Precision Periodic 100%（拟建） 美国 United States 佛罗里达州中部（Central Florida），具体厂址尚未落实 硫酸镍精炼(中间品/高冰镍) 电池级硫酸镍、硫酸钴、硫酸锰 MHP  Precision Periodic于2026年7月7日公布计划，在佛罗里达州中部建设精炼厂，以混合氢氧化镍钴（MHP）为原料，采用公司专有吸附材料和模块化装置生产电池级镍、钴、锰硫酸盐，满负荷时每年含镍1万吨；公司称取得场地后数月内可首批生产，12至18个月达产。目前没有融资、许可或场地的独立公开记录。",
       "country_codes": [
         "US"
       ],
@@ -8440,7 +8455,8 @@
       "global_scopes": [
         "sulfate"
       ],
-      "research_summary": "Precision Periodic佛罗里达中部镍钴锰精炼厂（拟建）位于美国佛罗里达州中部（Central Florida），具体厂址尚未落实。该项目采用硫酸镍精炼(中间品/高冰镍)路线，产品包括电池级硫酸镍、硫酸钴和硫酸锰。"
+      "research_summary": "Precision Periodic佛罗里达中部镍钴锰精炼厂（拟建）位于美国佛罗里达州中部（Central Florida），具体厂址尚未落实。该项目采用硫酸镍精炼(中间品/高冰镍)路线，产品包括电池级硫酸镍、硫酸钴和硫酸锰。",
+      "research_updated_at": "2026-09-30"
     },
     {
       "id": "GL118",
@@ -8647,7 +8663,7 @@
         "蓬塔戈尔达镍厂（切·格瓦拉镍厂）",
         "Ernesto Che Guevara Nickel Plant (Punta Gorda)"
       ],
-      "search_text": "GL124 Ernesto Che Guevara Nickel Plant (Punta Gorda) 蓬塔戈尔达镍厂（切·格瓦拉镍厂） Ernesto Che Guevara Nickel Plant (Punta Gorda) NI-124 Empresa Niquelífera \"Comandante Ernesto Che Guevara\"（古巴国营）100% 古巴 Cuba 奥尔金省蓬塔戈尔达 (Punta Gorda, Holguín) Caron氨浸+氧化镍焙烧/烧结 氧化镍 红土矿(腐殖土) ",
+      "search_text": "GL124 Ernesto Che Guevara Nickel Plant (Punta Gorda) 蓬塔戈尔达镍厂（切·格瓦拉镍厂） Ernesto Che Guevara Nickel Plant (Punta Gorda) NI-124 Empresa Niquelífera \"Comandante Ernesto Che Guevara\"（古巴国营）100% 古巴 Cuba 奥尔金省蓬塔戈尔达 (Punta Gorda, Holguín) Caron氨浸+氧化镍焙烧/烧结 氧化镍 红土矿(腐殖土)  古巴媒体2026年4月24日报道，该厂在约两个月的技术停产后开始分阶段恢复生产，企业负责人称期间进行了清理和检修。2026年8月，美国制裁名单点名该企业。复产后的产量没有公开。",
       "country_codes": [
         "CU"
       ],
@@ -8655,7 +8671,8 @@
       "global_scopes": [
         "other"
       ],
-      "research_summary": "蓬塔戈尔达镍厂（切·格瓦拉镍厂）位于古巴奥尔金省的蓬塔戈尔达 (Punta Gorda, Holguín)。该厂采用Caron氨浸加氧化镍焙烧/烧结路线，产品为氧化镍。"
+      "research_summary": "蓬塔戈尔达镍厂（切·格瓦拉镍厂）位于古巴奥尔金省的蓬塔戈尔达 (Punta Gorda, Holguín)。该厂采用Caron氨浸加氧化镍焙烧/烧结路线，产品为氧化镍。",
+      "research_updated_at": "2026-09-30"
     },
     {
       "id": "GL125",
@@ -9320,7 +9337,7 @@
         "塔蒂镍业Activox贱金属精炼项目(未建成)",
         "Tati Nickel Activox Base-Metals Refinery Project"
       ],
-      "search_text": "GL147 Tati Nickel Activox Base-Metals Refinery Project 塔蒂镍业Activox贱金属精炼项目(未建成) Tati Nickel Activox Base-Metals Refinery Project NI-147 项目已中止，无运营方（原规划为LionOre Mining International Ltd. 85% / 博茨瓦纳政府 15%） 博茨瓦纳 Botswana 东北区(North-East District)，皮奎(Phikwe)地区 常压浸出(AL)+其它(Activox工艺，专有加压氧化浸出贱金属精炼技术) 计划中(未建成)：镍金属/镍中间品 硫化矿精矿 ",
+      "search_text": "GL147 Tati Nickel Activox Base-Metals Refinery Project 塔蒂镍业Activox贱金属精炼项目(未建成) Tati Nickel Activox Base-Metals Refinery Project NI-147 项目已中止，无运营方（原规划为LionOre Mining International Ltd. 85% / 博茨瓦纳政府 15%） 博茨瓦纳 Botswana 东北区(North-East District)，皮奎(Phikwe)地区 常压浸出(AL)+其它(Activox工艺，专有加压氧化浸出贱金属精炼技术) 计划中(未建成)：镍金属/镍中间品 硫化矿精矿  2008年报道称，由于成本相对2006年测算大幅上涨，加上区域电力供应不稳，诺里尔斯克镍业和博茨瓦纳政府决定无限期搁置Activox精炼厂，项目未进入建设阶段；作为一期的重介质选矿厂仍然投产。",
       "country_codes": [
         "BW"
       ],
@@ -9328,7 +9345,8 @@
       "global_scopes": [
         "other"
       ],
-      "research_summary": "塔蒂镍业Activox贱金属精炼项目(未建成)位于博茨瓦纳的东北区(North-East District)，皮奎(Phikwe)地区。该项目采用常压浸出(AL)+Activox工艺(专有加压氧化浸出贱金属精炼技术)路线，产品资料涉及计划中(未建成)：镍金属/镍中间品。"
+      "research_summary": "塔蒂镍业Activox贱金属精炼项目位于博茨瓦纳东北区，原计划以Activox加压氧化浸出工艺处理塔蒂镍业凤凰矿精矿。2006年8月获批，2007年诺里尔斯克镍业收购LionOre后承接85%权益（博茨瓦纳政府15%）；2008年因成本大幅上涨和区域电力不稳被无限期搁置，精炼厂没有建成。",
+      "research_updated_at": "2026-09-30"
     },
     {
       "id": "GL148",
@@ -9474,7 +9492,7 @@
         "宾杜拉镍冶炼及精炼厂(宾杜拉镍业公司/特洛伊矿)",
         "Bindura Smelter & Refinery Complex (Bindura Nickel Corporation / Trojan Mine)"
       ],
-      "search_text": "GL152 Bindura Smelter & Refinery Complex (Bindura Nickel Corporation / Trojan Mine) 宾杜拉镍冶炼及精炼厂(宾杜拉镍业公司/特洛伊矿) Bindura Smelter & Refinery Complex (Bindura Nickel Corporation / Trojan Mine) NI-152 Kuvimba Mining House（多数股东）持有的Bindura Nickel Corporation Limited(BNC，津巴布韦证交所/VFEX上市)；唯一在产子公司为Trojan Nickel Mine Limited(TNML) 津巴布韦 Zimbabwe 马绍纳兰中央省(Mashonaland Central)，宾杜拉市(Bindura) 硫化矿熔炼-电炉+硫化矿熔炼-反射炉/鼓风炉(历史)+电解精炼(硫化镍阳极) 电解镍阴极、硫化铜、氢氧化钴 硫化矿精矿 ",
+      "search_text": "GL152 Bindura Smelter & Refinery Complex (Bindura Nickel Corporation / Trojan Mine) 宾杜拉镍冶炼及精炼厂(宾杜拉镍业公司/特洛伊矿) Bindura Smelter & Refinery Complex (Bindura Nickel Corporation / Trojan Mine) NI-152 Kuvimba Mining House（多数股东）持有的Bindura Nickel Corporation Limited(BNC，津巴布韦证交所/VFEX上市)；唯一在产子公司为Trojan Nickel Mine Limited(TNML) 津巴布韦 Zimbabwe 马绍纳兰中央省(Mashonaland Central)，宾杜拉市(Bindura) 硫化矿熔炼-电炉+硫化矿熔炼-反射炉/鼓风炉(历史)+电解精炼(硫化镍阳极) 电解镍阴极、硫化铜、氢氧化钴 硫化矿精矿  宾杜拉镍业自2024年5月2日起在重整令下由管理人接管，特洛伊矿因绞车故障停产。2026年2月的报道称公司仍处于管理状态，当前镍价不足以支撑矿山经济运行；冶炼厂和精炼厂处于保养维护。",
       "country_codes": [
         "ZW"
       ],
@@ -9483,7 +9501,8 @@
         "mhp",
         "refined"
       ],
-      "research_summary": "宾杜拉镍冶炼及精炼厂(宾杜拉镍业公司/特洛伊矿)位于津巴布韦马绍纳兰中央省(Mashonaland Central)的宾杜拉市(Bindura)。该厂采用硫化矿熔炼-电炉、硫化矿熔炼-反射炉/鼓风炉(历史)及电解精炼(硫化镍阳极)路线，产品为电解镍阴极、硫化铜和氢氧化钴。"
+      "research_summary": "宾杜拉镍冶炼及精炼厂(宾杜拉镍业公司/特洛伊矿)位于津巴布韦马绍纳兰中央省(Mashonaland Central)的宾杜拉市(Bindura)。该厂采用硫化矿熔炼-电炉、硫化矿熔炼-反射炉/鼓风炉(历史)及电解精炼(硫化镍阳极)路线，产品为电解镍阴极、硫化铜和氢氧化钴。",
+      "research_updated_at": "2026-09-30"
     },
     {
       "id": "GL153",
@@ -9535,7 +9554,7 @@
         "哈特利铂矿铂族金属贱金属精炼厂(副产镍)",
         "Hartley Platinum Mine PGM Base-Metals Refinery (byproduct nickel)"
       ],
-      "search_text": "GL154 Hartley Platinum Mine PGM Base-Metals Refinery (byproduct nickel) 哈特利铂矿铂族金属贱金属精炼厂(副产镍) Hartley Platinum Mine PGM Base-Metals Refinery (byproduct nickel) NI-154 不详(项目历史股东已退出，现状不明；据一般行业认知该矿区后续演变关系可能与现Zimplats恩杰济矿区存在渊源，但本次调研未能确认两者是否为同一物理场址) 津巴布韦 Zimbabwe 马绍纳兰西省(Mashonaland West)，哈特利(Hartley)/恩杰济(Ngezi)地区 PGM副产贱金属精炼 电解镍(副产品) 混合 ",
+      "search_text": "GL154 Hartley Platinum Mine PGM Base-Metals Refinery (byproduct nickel) 哈特利铂矿铂族金属贱金属精炼厂(副产镍) Hartley Platinum Mine PGM Base-Metals Refinery (byproduct nickel) NI-154 不详(项目历史股东已退出，现状不明；据一般行业认知该矿区后续演变关系可能与现Zimplats恩杰济矿区存在渊源，但本次调研未能确认两者是否为同一物理场址) 津巴布韦 Zimbabwe 马绍纳兰西省(Mashonaland West)，哈特利(Hartley)/恩杰济(Ngezi)地区 PGM副产贱金属精炼 电解镍(副产品) 混合  矿山和冶炼设施1997年投产，1998年即停产封存。2000年底Zimplats购得哈特利权益，此后集团以恩杰济矿和塞卢斯冶金联合体为核心运营；2025年报道称，Zimplats正在开展研究和试验，评估以机械化方式重新开采哈特利矿，尚无时间表。",
       "country_codes": [
         "ZW"
       ],
@@ -9543,7 +9562,8 @@
       "global_scopes": [
         "refined"
       ],
-      "research_summary": "哈特利铂矿铂族金属贱金属精炼厂(副产镍)位于津巴布韦马绍纳兰西省(Mashonaland West)的哈特利(Hartley)/恩杰济(Ngezi)地区，采用PGM副产贱金属精炼路线，产品为电解镍(副产品)。"
+      "research_summary": "哈特利铂矿及其贱金属精炼设施位于津巴布韦马绍纳兰西省，由必和必拓与Delta Gold在1990年代开发，1997年投产，副产镍；1998年停产封存。2000年底，Zimplats从必和必拓手中购得哈特利资产，冶炼设施后来成为塞卢斯冶金联合体的一部分。",
+      "research_updated_at": "2026-09-30"
     },
     {
       "id": "GL155",
@@ -9716,7 +9736,7 @@
         "多米尼恩镍业公司布莱扎德矿冶炼厂",
         "Dominion Nickel Company Blezard Mine Smelter"
       ],
-      "search_text": "GL161 Dominion Nickel Company Blezard Mine Smelter 多米尼恩镍业公司布莱扎德矿冶炼厂 Dominion Nickel Company Blezard Mine Smelter NI-161 已永久关闭;创始股东含铁路承包商詹姆斯·沃辛顿(James Worthington)及后任北贝(North Bay)市长约翰·弗格森(John Ferguson) 加拿大 Canada 安大略省 大萨德伯里市 布莱扎德山谷(Blezard Valley) 硫化矿熔炼-反射炉/鼓风炉(历史) 粗镍/镍铜锍(具体品位未查实) 硫化矿精矿 ",
+      "search_text": "GL161 Dominion Nickel Company Blezard Mine Smelter 多米尼恩镍业公司布莱扎德矿冶炼厂 Dominion Nickel Company Blezard Mine Smelter NI-161 已永久关闭;创始股东含铁路承包商詹姆斯·沃辛顿(James Worthington)及后任北贝(North Bay)市长约翰·弗格森(John Ferguson) 加拿大 Canada 安大略省 大萨德伯里市 布莱扎德山谷(Blezard Valley) 硫化矿熔炼-反射炉/鼓风炉(历史) 粗镍/镍铜锍(具体品位未查实) 硫化矿精矿  多米尼恩镍业公司1893年因财务困难关闭布莱扎德矿，冶炼炉此后转供邻近的沃辛顿矿继续使用一段时间。厂区地面建筑已不存在，原矿井、冶炼炉和焙烧场遗址仍可辨认。",
       "country_codes": [
         "CA"
       ],
@@ -9724,7 +9744,8 @@
       "global_scopes": [
         "matte"
       ],
-      "research_summary": "多米尼恩镍业公司布莱扎德矿冶炼厂位于加拿大安大略省大萨德伯里市的布莱扎德山谷(Blezard Valley)，采用硫化矿熔炼-反射炉/鼓风炉(历史)路线，产品为粗镍/镍铜锍(具体品位不详)。该厂1893年前后停产。"
+      "research_summary": "多米尼恩镍业公司布莱扎德矿冶炼厂位于加拿大安大略省大萨德伯里市的布莱扎德山谷(Blezard Valley)，采用硫化矿熔炼-反射炉/鼓风炉(历史)路线，产品为粗镍/镍铜锍(具体品位不详)。该厂1893年前后停产。",
+      "research_updated_at": "2026-09-30"
     },
     {
       "id": "GL162",

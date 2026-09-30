@@ -14890,6 +14890,14 @@
       {
         "title": "ohridsky.com · 欧洲镍业(Euronickel Industries，原FENI Industries)卡瓦达尔齐镍铁厂参考资料",
         "url": "https://ohridsky.com/kavadarechkata-kompanija-euronikel-industri-koja-beshe-vo-stechaj-e-prodadena-na-holandskata-kompanija-polynickel-holding-bv-koja-e-del-od-turskata-grupatsija-yildirim-group/"
+      },
+      {
+        "title": "24.mk：Кавадаречки Фени е пред рестарт，2026年1月30日",
+        "url": "https://24.mk/details/kavadarechki-feni-e-pred-restart-i-vrakjanje-na-site-700-vraboteni"
+      },
+      {
+        "title": "Faktor.mk：Поранешен ФЕНИ не произвел ништо цела година，2026年6月4日",
+        "url": "https://faktor.mk/poranesno-feni"
       }
     ],
     "sections": [
@@ -14929,6 +14937,16 @@
         ],
         "refs": [
           0
+        ]
+      },
+      {
+        "title": "近年运行",
+        "paragraphs": [
+          "2026年1月的当地报道称，新业主计划自4月起逐步召回全部员工、恢复生产。2026年6月的报道则指出，工厂2025年全年没有产出，营业收入仅约16.4万欧元；此后没有找到复产确认。"
+        ],
+        "refs": [
+          9,
+          10
         ]
       }
     ],
@@ -15220,6 +15238,10 @@
       {
         "title": "萨克森州州政府管理局（LDS）：Nickelhütte Aue许可公告",
         "url": "https://www.lds.sachsen.de/bekanntmachung/?ID=10250&art_param=664"
+      },
+      {
+        "title": "Freie Presse：Nickelhütte Aue网络攻击后生产照常，2025年10月23日",
+        "url": "https://www.freiepresse.de/erzgebirge/aue/wir-haben-das-faxgeraet-reaktiviert-wie-ein-grossbetrieb-im-erzgebirge-mit-den-folgen-eines-cyberangriffs-kaempft-artikel14001213"
       }
     ],
     "sections": [
@@ -15250,6 +15272,15 @@
           5,
           6,
           7
+        ]
+      },
+      {
+        "title": "近年运行",
+        "paragraphs": [
+          "2025年10月，奥厄镍冶炼厂遭勒索软件攻击，只有办公信息系统受影响，生产没有中断；公司约有500名员工。"
+        ],
+        "refs": [
+          8
         ]
       }
     ],
@@ -15455,7 +15486,7 @@
   },
   "GL008": {
     "title": "Senjen Nickel Works (Senjens Nikkelverk) 塞尼亚(Senjen)镍矿冶炼厂",
-    "intro": "塞尼亚(Senjen)镍矿冶炼厂位于挪威特罗姆斯郡(Troms)的塞尼亚岛(Senja)，是一座已永久关闭的历史冶炼厂。该厂采用硫化矿熔炼-反射炉/鼓风炉(历史)路线，产品为粗镍/镍锍，运往英国斯旺西Hafod Isha镍钴厂精炼。",
+    "intro": "塞尼亚（Senjen）镍矿冶炼厂位于挪威特罗姆斯郡塞尼亚岛，是19世纪后期的镍矿开采和冶炼点。1883年，英国斯旺西的H. H. Vivian and Co.成立时接手了这里的镍矿和冶炼厂；矿冶活动约在1880年代结束，具体关闭年份及产品去向缺少原始史料。",
     "summary": "项目于1883年投产。底表记录的运行状态为“永久关闭”，状态资料核实年份为1894。",
     "facts": [
       [
@@ -15472,11 +15503,11 @@
       ],
       [
         "产品",
-        "粗镍/镍锍，运往英国斯旺西Hafod Isha镍钴厂精炼"
+        "镍冶炼产品（形态未见原始史料）"
       ],
       [
         "生产工艺",
-        "硫化矿熔炼-反射炉/鼓风炉(历史)"
+        "硫化矿熔炼（炉型未见原始史料）"
       ],
       [
         "投产年份",
@@ -15491,6 +15522,10 @@
       {
         "title": "en.wikipedia.org · 塞尼亚(Senjen)镍矿冶炼厂参考资料",
         "url": "https://en.wikipedia.org/wiki/Vivian_%26_Sons"
+      },
+      {
+        "title": "Grace's Guide：H. H. Vivian and Co",
+        "url": "https://www.gracesguide.co.uk/H._H._Vivian_and_Co"
       }
     ],
     "sections": [
@@ -15530,11 +15565,19 @@
         "refs": [
           0
         ]
+      },
+      {
+        "title": "史料核对",
+        "paragraphs": [
+          "Grace's Guide记载，H. H. Vivian and Co.于1883年注册，接手斯旺西的镍钴厂以及挪威塞尼亚的镍矿和冶炼厂。矿物数据库资料称该矿1872年开采、1886年关闭，但只是单一的二手来源。冶炼炉型、产品形态以及是否运往斯旺西精炼，没有找到独立出处。"
+        ],
+        "refs": [
+          2
+        ]
       }
     ],
     "pending": [
-      "挪威塞尼亚矿冶业务的具体关闭年份是哪一年？",
-      "关闭后厂区如何处置？"
+      "塞尼亚冶炼厂的关闭年份、炉型和产品去向。"
     ],
     "updated_at": "2026-09-30"
   },
@@ -15688,6 +15731,15 @@
         ],
         "refs": [
           0
+        ]
+      },
+      {
+        "title": "近年运行",
+        "paragraphs": [
+          "嘉能可2026年半年度生产报告显示，包括萨德伯里、Raglan和Nikkelverk的一体化镍业务（INO）上半年产镍1.97万吨；这是合并口径，不是本厂单独产量。"
+        ],
+        "refs": [
+          13
         ]
       }
     ],
@@ -16600,6 +16652,10 @@
       {
         "title": "nornik-upload.storage.yandexcloud.net · 诺里尔斯克镍业哈尔亚瓦尔塔精炼厂参考资料",
         "url": "https://nornik-upload.storage.yandexcloud.net/iblock/f5e/i2o2rf9s0nffsliymk52v4vnt048fjox/nornickel_production_results_fy2023_eng_full.pdf"
+      },
+      {
+        "title": "Yle Satakunta：Harjavalta铜饼运输暂停，2026年5月12日",
+        "url": "https://yle.fi/a/74-20225512"
       }
     ],
     "sections": [
@@ -16654,6 +16710,16 @@
         ],
         "refs": [
           0
+        ]
+      },
+      {
+        "title": "近年运行",
+        "paragraphs": [
+          "2026年3月，伦敦金属交易所通知，本厂两个镍品牌的最后注册日为2026年6月18日，此后不再接受新的注册，这属于交割品牌变动，不代表停产。2026年5月，芬兰媒体报道，受制裁影响，铜饼运回俄罗斯的运输暂停。"
+        ],
+        "refs": [
+          5,
+          19
         ]
       }
     ],
@@ -16767,7 +16833,7 @@
   },
   "GL020": {
     "title": "Hafod Isha Nickel and Cobalt Works (H.H. Vivian & Co. Ltd.) 哈福德伊沙(Hafod Isha)镍钴厂(维维安父子公司)",
-    "intro": "哈福德伊沙(Hafod Isha)镍钴厂(维维安父子公司)位于英国威尔士斯旺西(Swansea)的哈福德(Hafod)。该厂采用硫化矿熔炼-反射炉/鼓风炉(历史)路线，产品为粗镍和钴产品，具体精炼程度及品位不详。",
+    "intro": "哈福德伊沙（Hafod Isha）镍钴厂位于英国威尔士斯旺西，是Vivian家族1855年前后建立的镍钴专业工厂，1883年起由H. H. Vivian and Co.经营。1900年起斯旺西的冶炼业务陆续转给英法镍业公司（Anglo-French Nickel Co），1914年这里已是生产镍粒、镍块和钴产品的精炼厂。关闭年份未见史料。",
     "summary": "项目于1883年投产。底表记录的运行状态为“永久关闭”，状态资料核实年份为1894。",
     "facts": [
       [
@@ -16780,19 +16846,19 @@
       ],
       [
         "股东／运营方",
-        "已永久关闭；末代业主H.H. Vivian & Co. Ltd.，1924年并入British Copper Manufacturers Ltd.(该合并主要涉及铜业，镍钴业务此前应已结束)"
+        "已关闭；1883年起H. H. Vivian and Co.，1900—1908年起英法镍业公司（Anglo-French Nickel Co）"
       ],
       [
         "产品",
-        "粗镍、钴产品(具体精炼程度及品位不详)"
+        "镍粒、镍块、镍圆片、金属钴和钴氧化物（1914年）"
       ],
       [
         "生产工艺",
-        "硫化矿熔炼-反射炉/鼓风炉(历史)"
+        "镍钴精炼（具体工艺未见原始史料）"
       ],
       [
         "投产年份",
-        "1883"
+        "约1855（镍钴专业工厂）"
       ]
     ],
     "sources": [
@@ -16803,20 +16869,13 @@
       {
         "title": "en.wikipedia.org · 哈福德伊沙(Hafod Isha)镍钴厂(维维安父子公司)参考资料",
         "url": "https://en.wikipedia.org/wiki/Vivian_%26_Sons"
+      },
+      {
+        "title": "Grace's Guide：H. H. Vivian and Co",
+        "url": "https://www.gracesguide.co.uk/H._H._Vivian_and_Co"
       }
     ],
     "sections": [
-      {
-        "title": "历史与股权沿革",
-        "paragraphs": [
-          "H.H. Vivian(斯旺西哈福德铜业世家继承人，1st Baron Swansea)除主营铜业外，个人拥有Hafod Isha镍钴厂。1883年，他将镍业务公司化为H.H. Vivian & Co. Ltd.，在挪威塞尼亚(Senjen)开展镍矿开采与冶炼，矿石/锍运回斯旺西精炼。1889年至1894年间，该公司转而拥有并经营加拿大萨德伯里附近的Murray矿，以萨德伯里矿石替代挪威原料，当时正值加拿大取代挪威成为主导性镍矿来源地。这一记载据英文维基百科『Vivian & Sons』条目，证实了英国、挪威、加拿大三地镍工业早期的直接企业关联。",
-          "据此推测，Murray矿区的镍矿石很可能并未在萨德伯里当地就地熔炼，而是由所有者H.H. Vivian & Co.运至威尔士斯旺西的Hafod Isha厂精炼，这也可以解释为何萨德伯里地区史料中较少提及独立的'Vivian Murray矿冶炼厂'。",
-          "母公司Vivian & Sons专注铜业主线，1924年并入British Copper Manufacturers Ltd.，合并后的哈福德-莫尔法(Hafod-Morfa)厂持续轧制铜材至1980年最终关闭，该合并主要涉及铜业。镍钴业务应早于此结束，具体终止年份及后续处置情况不详。"
-        ],
-        "refs": [
-          0
-        ]
-      },
       {
         "title": "工艺、设备与原料",
         "paragraphs": [
@@ -16837,18 +16896,27 @@
         ]
       },
       {
-        "title": "运行状态与停产背景",
+        "title": "历史与股权沿革",
         "paragraphs": [
-          "关闭原因尚无定论。据推测，萨德伯里矿石大量涌现后，原料就地在北美加工(经由奥福德\"上下层分离法\"及加拿大铜业公司/国际镍公司体系)更具经济性，英国斯旺西的精炼环节逐步失去竞争力而停止。具体关闭年份及决策细节缺乏一手资料，1894年是参照该公司萨德伯里矿权终止年份得出的推断值。"
+          "Vivian家族在斯旺西哈福德经营铜业，约1855年另设镍钴专业工厂。1883年，H. H. Vivian and Co.注册成立，接手斯旺西的镍钴厂以及挪威塞尼亚的镍矿和冶炼厂；1889年至1894年间，公司还经营加拿大萨德伯里的Murray矿。",
+          "Grace's Guide记载，1900年Vivian在斯旺西的冶炼业务出售给新成立的英法镍业公司（Anglo-French Nickel Co），1908年哈福德的镍相关工厂也转入该公司；英法镍业由Vickers、John Brown、Cammell Laird、Beardmore和Le Nickel等共同持有。1914年该厂已是镍钴精炼厂，约有300名员工，产品包括镍粒、镍块、镍圆片、金属钴和钴氧化物。母公司Vivian & Sons的铜业务1924年并入British Copper Manufacturers，与镍厂无关。"
         ],
         "refs": [
-          0
+          2
+        ]
+      },
+      {
+        "title": "运行状态与停产背景",
+        "paragraphs": [
+          "镍钴厂的关闭年份和原因没有找到原始史料。"
+        ],
+        "refs": [
+          2
         ]
       }
     ],
     "pending": [
-      "镍钴业务的终止年份及后续处置情况如何？",
-      "厂区关闭的具体原因和决策细节是什么？"
+      "英法镍业时期斯旺西镍钴厂的关闭年份。"
     ],
     "updated_at": "2026-09-30"
   },
@@ -18413,6 +18481,15 @@
         "refs": [
           0
         ]
+      },
+      {
+        "title": "近年运行",
+        "paragraphs": [
+          "布鲁克塔尔镍厂自2018年起处于破产程序；2025年3月，破产管理人拍卖约6.33亿卢布的债权，没有复产报道。"
+        ],
+        "refs": [
+          8
+        ]
       }
     ],
     "pending": [
@@ -19280,6 +19357,15 @@
         "refs": [
           0
         ]
+      },
+      {
+        "title": "近年运行",
+        "paragraphs": [
+          "日本冶金工业的可持续发展资料列有大江山工厂2025财年的环境数据，其中再生原料占所用原料的58.3%，说明工厂在该财年运行。"
+        ],
+        "refs": [
+          1
+        ]
       }
     ],
     "pending": [
@@ -19409,6 +19495,15 @@
         ],
         "refs": [
           0
+        ]
+      },
+      {
+        "title": "近年运行",
+        "paragraphs": [
+          "住友金属矿山2026年5月说明会资料称，播磨因转产电池材料新品种，2026年度计划减产；新居浜与播磨合计硫酸镍产量2025财年为7.99万吨，2026财年计划5.69万吨。"
+        ],
+        "refs": [
+          6
         ]
       }
     ],
@@ -19596,7 +19691,7 @@
   },
   "GL042": {
     "title": "Nippon Mining Co., Ltd. Nickel-Cobalt Separation Plant (historical) 日本矿业 镍钴分离厂(历史，选址未确认)",
-    "intro": "日本矿业镍钴分离厂(历史)位于日本，厂址不详，可能在大分県佐贺关或茨城県日立，均未确认。该厂采用PGM副产贱金属精炼路线，产品为镍(镍钴分离产品)和钴。",
+    "intro": "日本矿业（Nippon Mining）镍钴分离厂是日本矿业1975年建成的湿法分离工厂，以澳大利亚Queensland Nickel的混合硫化物为原料，用自主开发的溶剂萃取工艺分离镍和钴，设计能力为每月镍300吨、钴110吨。厂址和关闭年份没有找到原始资料。",
     "summary": "项目于1975年投产。底表记录的运行状态为“不详”，状态资料核实年份为1975。",
     "facts": [
       [
@@ -19613,11 +19708,11 @@
       ],
       [
         "产品",
-        "镍(镍钴分离产品) + 钴"
+        "镍产品、钴产品"
       ],
       [
         "生产工艺",
-        "PGM副产贱金属精炼"
+        "混合硫化物浸出＋溶剂萃取镍钴分离"
       ],
       [
         "产能（镍吨／年）",
@@ -19650,21 +19745,21 @@
         ]
       },
       {
-        "title": "工艺、设备与原料",
-        "paragraphs": [
-          "该厂采用PGM副产贱金属精炼工艺，原料为MSP，即进口自澳大利亚Queensland Nickel Pty. Ltd.的混合硫化物(MSP)。"
-        ],
-        "refs": [
-          0
-        ]
-      },
-      {
         "title": "产能与扩建",
         "paragraphs": [
           "据OneMine《Nickel Industry in Japan》记载，1975年建成的镍钴分离厂设计月产能为镍300吨、钴110吨，折算年产能约镍3,600吨/年、钴1,320吨/年。该数字为1975年建厂初始设计产能，其后是否扩建或缩减不详。"
         ],
         "refs": [
           0
+        ]
+      },
+      {
+        "title": "工艺、设备与原料",
+        "paragraphs": [
+          "工厂以进口自澳大利亚Queensland Nickel的镍钴混合硫化物（MSP）为原料，采用日本矿业自主开发的溶剂萃取工艺分离镍和钴，分别产出镍、钴产品。"
+        ],
+        "refs": [
+          1
         ]
       }
     ],
@@ -20391,6 +20486,15 @@
         ],
         "refs": [
           0
+        ]
+      },
+      {
+        "title": "清算解散",
+        "paragraphs": [
+          "KED Global 2023年报道称，韩国镍业公司由永丰集团、Vale和POSCO于1987年合资设立，负责加工Vale供应的镍原料并销售给POSCO；公司于2022年启动清算，终止了与Vale和POSCO的供货合同，预计2023年底前解散。报道没有写明工厂位置。"
+        ],
+        "refs": [
+          1
         ]
       }
     ],
@@ -21171,6 +21275,10 @@
       {
         "title": "www.spglobal.com · LS MnM 温山镍钴锰硫酸盐新厂参考资料",
         "url": "https://www.spglobal.com/energy/en"
+      },
+      {
+        "title": "Insight：LS MnM温山复合工厂报道，2026年4月22日",
+        "url": "https://www.insight.co.kr/news/551137"
       }
     ],
     "sections": [
@@ -21222,6 +21330,15 @@
         ],
         "refs": [
           0
+        ]
+      },
+      {
+        "title": "近年进展",
+        "paragraphs": [
+          "2026年4月报道称，LS MnM计划在温山冶炼厂附近建设连接MHP精炼和黑粉精炼设备的复合工厂生产硫酸镍，仍以将来时描述，尚无投产记录。"
+        ],
+        "refs": [
+          4
         ]
       }
     ],
@@ -22674,7 +22791,7 @@
   },
   "GL072": {
     "title": "Ouroué Foundry, Thio 蒂奥乌鲁埃(Ouroué)冶炼厂",
-    "intro": "蒂奥乌鲁埃(Ouroué)冶炼厂位于新喀里多尼亚的南方省 蒂奥(Thio)乌鲁埃(Ouroué)。该项目采用硫化矿熔炼-反射炉/鼓风炉(历史)路线，产品为粗镍/镍锍(具体品位不详)。",
+    "intro": "蒂奥乌鲁埃（Ouroué）冶炼厂位于新喀里多尼亚南方省蒂奥，是SLN（Société Le Nickel）在当地的早期冶炼厂，1889年至1891年运行。",
     "summary": "项目于1889年投产。底表记录的运行状态为“已拆除”，状态资料核实年份为1891。",
     "facts": [
       [
@@ -22687,7 +22804,7 @@
       ],
       [
         "股东／运营方",
-        "已永久关闭；末代业主为Société Le Nickel(SLN)前身相关企业"
+        "已关闭；运营方为Société Le Nickel（SLN）"
       ],
       [
         "产品",
@@ -22695,7 +22812,7 @@
       ],
       [
         "生产工艺",
-        "硫化矿熔炼-反射炉/鼓风炉(历史)"
+        "硫化矿熔炼（炉型未见原始史料）"
       ],
       [
         "投产年份",
@@ -22710,6 +22827,10 @@
       {
         "title": "fr.wikipedia.org · 蒂奥乌鲁埃(Ouroué)冶炼厂参考资料",
         "url": "https://fr.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_Le_Nickel"
+      },
+      {
+        "title": "SLN（Eramet）：Thio, une longévité exceptionnelle",
+        "url": "https://sln.eramet.com/sln/nous-connaitre/nos-implantations/thio-une-longevite-exceptionnelle"
       }
     ],
     "sections": [
@@ -22749,6 +22870,15 @@
         ],
         "refs": [
           0
+        ]
+      },
+      {
+        "title": "史料核对",
+        "paragraphs": [
+          "SLN官网介绍蒂奥的冶炼历史时写到，乌鲁埃冶炼厂运行于1889—1891年。冶炼炉型、产品规格和拆除年份没有找到原始史料。"
+        ],
+        "refs": [
+          2
         ]
       }
     ],
@@ -22944,7 +23074,7 @@
   },
   "GL074": {
     "title": "Thio-Mission Foundry 蒂奥教会区(Thio-Mission)冶炼厂",
-    "intro": "蒂奥教会区(Thio-Mission)冶炼厂位于新喀里多尼亚的南方省 蒂奥(Thio)教会区(Mission)。该项目采用硫化矿熔炼-反射炉/鼓风炉(历史)路线，产品资料涉及粗镍/镍锍(具体品位不详)。",
+    "intro": "蒂奥教会区（Thio-Mission）冶炼厂位于新喀里多尼亚南方省蒂奥，由SLN于1912年建成，1912年至1930年运行，产品为镍锍。",
     "summary": "项目于1912年投产。底表记录的运行状态为“已拆除”，状态资料核实年份为1930。",
     "facts": [
       [
@@ -22965,7 +23095,7 @@
       ],
       [
         "生产工艺",
-        "硫化矿熔炼-反射炉/鼓风炉(历史)"
+        "硫化矿熔炼（炉型未见原始史料）"
       ],
       [
         "投产年份",
@@ -22980,6 +23110,10 @@
       {
         "title": "fr.wikipedia.org · 蒂奥教会区(Thio-Mission)冶炼厂参考资料",
         "url": "https://fr.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_Le_Nickel"
+      },
+      {
+        "title": "SLN（Eramet）：Thio, une longévité exceptionnelle",
+        "url": "https://sln.eramet.com/sln/nous-connaitre/nos-implantations/thio-une-longevite-exceptionnelle"
       }
     ],
     "sections": [
@@ -23019,6 +23153,15 @@
         ],
         "refs": [
           0
+        ]
+      },
+      {
+        "title": "史料核对",
+        "paragraphs": [
+          "SLN官网介绍，继乌鲁埃之后，蒂奥教会区冶炼厂运行于1912—1930年。冶炼炉型和拆除年份没有找到原始史料。"
+        ],
+        "refs": [
+          2
         ]
       }
     ],
@@ -25004,7 +25147,7 @@
       ],
       [
         "股东／运营方",
-        "已永久关闭并大部拆除(部分建筑迁至Coniston/Worthington)；末代业主Mond Nickel Company"
+        "已关闭并大部拆除（设备1913年迁往科尼斯顿）；末代业主Mond Nickel Company"
       ],
       [
         "产品",
@@ -25012,7 +25155,7 @@
       ],
       [
         "生产工艺",
-        "硫化矿熔炼-反射炉/鼓风炉(历史)"
+        "硫化矿熔炼（炉型未见原始史料）"
       ],
       [
         "投产年份",
@@ -25027,6 +25170,10 @@
       {
         "title": "en.wikipedia.org · 蒙德镍业公司维多利亚矿区冶炼厂参考资料",
         "url": "https://en.wikipedia.org/wiki/Mond_Nickel_Company"
+      },
+      {
+        "title": "Ghost Town Pix：Victoria Mines History",
+        "url": "https://ghosttownpix.com/victoria-mines-history/"
       }
     ],
     "sections": [
@@ -25065,6 +25212,15 @@
         ],
         "refs": [
           0
+        ]
+      },
+      {
+        "title": "史料核对",
+        "paragraphs": [
+          "地方史料记载，维多利亚矿区冶炼厂约1900年投产，1902年12月至1904年底曾停产；1913年蒙德镍业关闭该冶炼厂和堆场，把全部设备迁往新建的科尼斯顿冶炼厂。产出的冶炼产品运往威尔士克莱达赫精炼。"
+        ],
+        "refs": [
+          2
         ]
       }
     ],
@@ -25543,7 +25699,7 @@
       ],
       [
         "生产工艺",
-        "硫化矿熔炼-反射炉/鼓风炉(历史)"
+        "硫化矿熔炼产镍铜锍（炉型未见原始史料）"
       ],
       [
         "投产年份",
@@ -25562,6 +25718,10 @@
       {
         "title": "en.wikipedia.org · 英美镍业公司镍尔顿(Nickelton)冶炼厂(默里矿区)参考资料",
         "url": "https://en.wikipedia.org/wiki/James_Hamet_Dunn"
+      },
+      {
+        "title": "Wikipedia：Murray Mine",
+        "url": "https://en.wikipedia.org/wiki/Murray_Mine"
       }
     ],
     "sections": [
@@ -25601,6 +25761,15 @@
         ],
         "refs": [
           0
+        ]
+      },
+      {
+        "title": "史料核对",
+        "paragraphs": [
+          "Murray矿资料记载，该矿因英美镍业公司清算于1924年7月再次关闭，1925年国际镍公司从债权人手中购得。冶炼厂1920年1月17日点火，此前没有找到1914年前投产的依据；德申精炼厂1923年关闭，距冶炼厂投产不足四年。冶炼厂的拆除年份没有找到原始史料。"
+        ],
+        "refs": [
+          2
         ]
       }
     ],
@@ -27591,11 +27760,11 @@
       ],
       [
         "生产工艺",
-        "硫酸镍精炼(中间品/高冰镍)"
+        "以MHP为原料的湿法精炼（专有吸附材料、模块化装置）"
       ],
       [
         "产能（镍吨／年）",
-        "10,000（普查底表数值）"
+        "10,000（公司公布的满负荷含镍量）"
       ]
     ],
     "sources": [
@@ -27606,6 +27775,10 @@
       {
         "title": "news.smm.cn · Precision Periodic佛罗里达中部镍钴锰精炼厂（拟建）参考资料",
         "url": "https://news.smm.cn/live/detail/103994665"
+      },
+      {
+        "title": "Precision Periodic：Unveils Critical Mineral Refinery，2026年7月7日",
+        "url": "https://www.precisionperiodic.com/unveils-critical-mineral-refinery"
       }
     ],
     "sections": [
@@ -27636,6 +27809,15 @@
         ],
         "refs": [
           0
+        ]
+      },
+      {
+        "title": "2026年项目公布",
+        "paragraphs": [
+          "Precision Periodic于2026年7月7日公布计划，在佛罗里达州中部建设精炼厂，以混合氢氧化镍钴（MHP）为原料，采用公司专有吸附材料和模块化装置生产电池级镍、钴、锰硫酸盐，满负荷时每年含镍1万吨；公司称取得场地后数月内可首批生产，12至18个月达产。目前没有融资、许可或场地的独立公开记录。"
+        ],
+        "refs": [
+          2
         ]
       }
     ],
@@ -28504,6 +28686,10 @@
       {
         "title": "www.onei.gob.cu · 蓬塔戈尔达镍厂（切·格瓦拉镍厂）参考资料",
         "url": "https://www.onei.gob.cu/sites/default/files/publicaciones/2025-07/11-industria-manufacturera_aec2024_0.pdf"
+      },
+      {
+        "title": "Radio Angulo：Reinicia producción empresa de níquel en Moa，2026年4月24日",
+        "url": "https://www.radioangulo.cu/2026/04/24/reinicia-produccion-empresa-de-niquel-en-moa/"
       }
     ],
     "sections": [
@@ -28556,6 +28742,15 @@
         ],
         "refs": [
           0
+        ]
+      },
+      {
+        "title": "近年运行",
+        "paragraphs": [
+          "古巴媒体2026年4月24日报道，该厂在约两个月的技术停产后开始分阶段恢复生产，企业负责人称期间进行了清理和检修。2026年8月，美国制裁名单点名该企业。复产后的产量没有公开。"
+        ],
+        "refs": [
+          11
         ]
       }
     ],
@@ -31345,7 +31540,7 @@
   },
   "GL147": {
     "title": "Tati Nickel Activox Base-Metals Refinery Project 塔蒂镍业Activox贱金属精炼项目(未建成)",
-    "intro": "塔蒂镍业Activox贱金属精炼项目(未建成)位于博茨瓦纳的东北区(North-East District)，皮奎(Phikwe)地区。该项目采用常压浸出(AL)+Activox工艺(专有加压氧化浸出贱金属精炼技术)路线，产品资料涉及计划中(未建成)：镍金属/镍中间品。",
+    "intro": "塔蒂镍业Activox贱金属精炼项目位于博茨瓦纳东北区，原计划以Activox加压氧化浸出工艺处理塔蒂镍业凤凰矿精矿。2006年8月获批，2007年诺里尔斯克镍业收购LionOre后承接85%权益（博茨瓦纳政府15%）；2008年因成本大幅上涨和区域电力不稳被无限期搁置，精炼厂没有建成。",
     "summary": "底表记录的运行状态为“项目中止(未建成)”，状态资料核实年份为2006。",
     "facts": [
       [
@@ -31358,7 +31553,7 @@
       ],
       [
         "股东／运营方",
-        "项目已中止，无运营方（原规划为LionOre Mining International Ltd. 85% / 博茨瓦纳政府 15%）"
+        "项目无限期搁置；2007年后诺里尔斯克镍业85%、博茨瓦纳政府15%"
       ],
       [
         "产品",
@@ -31373,6 +31568,10 @@
       {
         "title": "全球普查底表 · NI-147 · 总表第148行",
         "url": "library/global-register.csv"
+      },
+      {
+        "title": "Mining Weekly：Activox project, Tati Nickel，2008年6月27日",
+        "url": "https://www.miningweekly.com/article/activox-project-tati-nickel-botswana-2008-06-27/rep_id:4745/company:multotec-2021-02-03"
       }
     ],
     "sections": [
@@ -31408,10 +31607,10 @@
       {
         "title": "运行状态与停产背景",
         "paragraphs": [
-          "该项目2006年8月获批后仅出现于当年USGS Minerals Yearbook记录，此后(2007年及以后)未见于任何后续版本的USGS资料或其它信源，据此推断项目在规划阶段即被搁置或取消。具体原因(资金、镍价周期、Norilsk Nickel收购LionOre后的战略调整等)未能独立核实。"
+          "2008年报道称，由于成本相对2006年测算大幅上涨，加上区域电力供应不稳，诺里尔斯克镍业和博茨瓦纳政府决定无限期搁置Activox精炼厂，项目未进入建设阶段；作为一期的重介质选矿厂仍然投产。"
         ],
         "refs": [
-          0
+          1
         ]
       }
     ],
@@ -31884,6 +32083,10 @@
       {
         "title": "www.onemine.org · 宾杜拉镍冶炼及精炼厂(宾杜拉镍业公司/特洛伊矿)参考资料",
         "url": "https://www.onemine.org/documents/bindura-nickel-corporation-smelter-operations"
+      },
+      {
+        "title": "Mining Zimbabwe：BNC administration status driven by business realities，2026年2月16日",
+        "url": "https://miningzimbabwe.com/bncs-administration-status-driven-by-business-realities-not-other-factors-mif/"
       }
     ],
     "sections": [
@@ -31948,6 +32151,15 @@
         ],
         "refs": [
           0
+        ]
+      },
+      {
+        "title": "近年运行",
+        "paragraphs": [
+          "宾杜拉镍业自2024年5月2日起在重整令下由管理人接管，特洛伊矿因绞车故障停产。2026年2月的报道称公司仍处于管理状态，当前镍价不足以支撑矿山经济运行；冶炼厂和精炼厂处于保养维护。"
+        ],
+        "refs": [
+          9
         ]
       }
     ],
@@ -32093,7 +32305,7 @@
   },
   "GL154": {
     "title": "Hartley Platinum Mine PGM Base-Metals Refinery (byproduct nickel) 哈特利铂矿铂族金属贱金属精炼厂(副产镍)",
-    "intro": "哈特利铂矿铂族金属贱金属精炼厂(副产镍)位于津巴布韦马绍纳兰西省(Mashonaland West)的哈特利(Hartley)/恩杰济(Ngezi)地区，采用PGM副产贱金属精炼路线，产品为电解镍(副产品)。",
+    "intro": "哈特利铂矿及其贱金属精炼设施位于津巴布韦马绍纳兰西省，由必和必拓与Delta Gold在1990年代开发，1997年投产，副产镍；1998年停产封存。2000年底，Zimplats从必和必拓手中购得哈特利资产，冶炼设施后来成为塞卢斯冶金联合体的一部分。",
     "summary": "项目于1997年投产。底表记录的运行状态为“不详”，状态资料核实年份为1997。",
     "facts": [
       [
@@ -32106,7 +32318,7 @@
       ],
       [
         "股东／运营方",
-        "不详(项目历史股东已退出，现状不明；据一般行业认知该矿区后续演变关系可能与现Zimplats恩杰济矿区存在渊源，但两者是否为同一物理场址未能确认)"
+        "2000年底起归Zimplats（Implats旗下）"
       ],
       [
         "产品",
@@ -32129,6 +32341,10 @@
       {
         "title": "全球普查底表 · NI-154 · 总表第155行",
         "url": "library/global-register.csv"
+      },
+      {
+        "title": "Mining Zimbabwe：Zimplats eyes Hartley Mine comeback after 20 years，2025年",
+        "url": "https://miningzimbabwe.com/zimplats-eyes-hartley-mine-comeback-after-20-years-as-platinum-prices-rebound/"
       }
     ],
     "sections": [
@@ -32164,16 +32380,15 @@
       {
         "title": "运行状态与停产背景",
         "paragraphs": [
-          "该设施1997年10月首次发运后，仅见于当年USGS Minerals Yearbook记录，此后未见于任何后续版本，具体停产/退出的年份及原因不明。"
+          "矿山和冶炼设施1997年投产，1998年即停产封存。2000年底Zimplats购得哈特利权益，此后集团以恩杰济矿和塞卢斯冶金联合体为核心运营；2025年报道称，Zimplats正在开展研究和试验，评估以机械化方式重新开采哈特利矿，尚无时间表。"
         ],
         "refs": [
-          0
+          1
         ]
       }
     ],
     "pending": [
-      "该设施何时、因何停产或退出？",
-      "该设施与Zimplats恩杰济矿区是否为同一场址或有资产渊源？"
+      "原贱金属精炼设施在Zimplats体系内的现状。"
     ],
     "updated_at": "2026-09-30"
   },
@@ -32674,7 +32889,7 @@
       ],
       [
         "生产工艺",
-        "硫化矿熔炼-反射炉/鼓风炉(历史)"
+        "硫化矿熔炼（炉型未见原始史料）"
       ],
       [
         "投产年份",
@@ -32724,10 +32939,10 @@
       {
         "title": "运行状态与停产背景",
         "paragraphs": [
-          "资金链断裂/财务困难导致DNC公司1893年停止运营(仅维持3年)；冶炼炉设施其后转供邻近沃辛顿矿继续使用一段时间，该延续使用阶段的具体终止年份不详。"
+          "多米尼恩镍业公司1893年因财务困难关闭布莱扎德矿，冶炼炉此后转供邻近的沃辛顿矿继续使用一段时间。厂区地面建筑已不存在，原矿井、冶炼炉和焙烧场遗址仍可辨认。"
         ],
         "refs": [
-          0
+          1
         ]
       }
     ],

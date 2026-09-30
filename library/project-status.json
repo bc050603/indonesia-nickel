@@ -4148,16 +4148,16 @@
       "products": []
     },
     "GL154": {
-      "key": "unknown",
-      "label": "不详",
-      "period": "状态始于1997年；普查核实年份1997",
-      "note": "据全球普查底表，状态为不详（始于1997年）；停产及变化背景见正文。",
-      "reviewed_at": "2026-09-18",
+      "key": "closed",
+      "label": "停产封存（1998年）",
+      "period": "1998年停产；2000年归Zimplats",
+      "note": "1997年投产、1998年停产封存；2000年底资产归Zimplats，2025年评估重开矿山。",
+      "reviewed_at": "2026-09-30",
       "article_id": "GL154",
       "sources": [
         {
-          "title": "全球普查底表 · NI-154 · 总表第155行",
-          "url": "library/global-register.csv"
+          "title": "Mining Zimbabwe：Zimplats eyes Hartley Mine comeback after 20 years，2025年",
+          "url": "https://miningzimbabwe.com/zimplats-eyes-hartley-mine-comeback-after-20-years-as-platinum-prices-rebound/"
         }
       ],
       "products": []

@@ -6930,6 +6930,15 @@
       "project_id": "MHP013"
     },
     {
+      "date": "2025-03-06",
+      "label": "破产管理人拍卖债权",
+      "detail": "布鲁克塔尔镍厂自2018年起处于破产程序；2025年3月，破产管理人拍卖约6.33亿卢布的债权，没有复产报道。",
+      "kind": "破产",
+      "project_id": "GL032",
+      "source_url": "https://mashnews.ru/buruktalskij-nikelevyij-zavod-xochet-vernut-633-mln-rublej-za-propavshie-splavyi.html",
+      "source_title": "Mashnews：Буруктальский никелевый завод хочет вернуть 633 млн рублей，2025年3月6日"
+    },
+    {
       "date": "2025-03-26",
       "label": "GEM香港收购51%",
       "detail": "Vale向GEM香港转让BNSI 51%权益并保留49%，公司控制权发生变化；该交易同时服务后续HPAL合作，不能沿用旧方案股权。",
@@ -7342,6 +7351,15 @@
       "source_url": "http://www.jcs.gov.cn/zfxxgk/fdzdgknr/zdmsxx/kjgl/art/2025/art_07450fb7b49141018c77a5e664e47fb7.html",
       "project_id": "CN153",
       "source_title": "“智”造升级 向“新”生长——金川集团高品质镍基新材料生产见闻"
+    },
+    {
+      "date": "2025-10",
+      "label": "网络攻击后生产照常",
+      "detail": "2025年10月，奥厄镍冶炼厂遭勒索软件攻击，只有办公信息系统受影响，生产没有中断；公司约有500名员工。",
+      "kind": "运行变化",
+      "project_id": "GL005",
+      "source_url": "https://www.freiepresse.de/erzgebirge/aue/wir-haben-das-faxgeraet-reaktiviert-wie-ein-grossbetrieb-im-erzgebirge-mit-den-folgen-eines-cyberangriffs-kaempft-artikel14001213",
+      "source_title": "Freie Presse：Nickelhütte Aue网络攻击后生产照常，2025年10月23日"
     },
     {
       "date": "2025-10",
@@ -7992,6 +8010,15 @@
       "source_title": "Kitco／路透：Nornickel to shift part of nickel output to copper plant during repairs，2026年2月13日"
     },
     {
+      "date": "2026-02-16",
+      "label": "仍在管理人接管下停产",
+      "detail": "镍价不支撑矿山经济运行。",
+      "kind": "停产",
+      "project_id": "GL152",
+      "source_url": "https://miningzimbabwe.com/bncs-administration-status-driven-by-business-realities-not-other-factors-mif/",
+      "source_title": "Mining Zimbabwe：BNC administration status driven by business realities，2026年2月16日"
+    },
+    {
       "date": "2026-02-17",
       "label": "暂停采矿、处理厂待机",
       "detail": "Sherritt 2026年2月宣布，受燃料短缺影响，莫阿将暂停采矿，处理厂转入待机；其加拿大精炼厂的原料随后于6月耗尽",
@@ -8026,6 +8053,15 @@
       "project_id": "GL150",
       "source_url": "https://ir.lifezonemetals.com/news/press-releases/news-details/2026/Lifezone-Announces-Exclusivity-Agreement-over-the-Musongati-Nickel-Project-in-Burundi/default.aspx",
       "source_title": "Lifezone Metals：Exclusivity Agreement over the Musongati Nickel Project in Burundi，2026年3月10日"
+    },
+    {
+      "date": "2026-03-20",
+      "label": "LME品牌最后注册日通知",
+      "detail": "2026年3月，伦敦金属交易所通知，本厂两个镍品牌的最后注册日为2026年6月18日，此后不再接受新的注册，这属于交割品",
+      "kind": "运行变化",
+      "project_id": "GL017",
+      "source_url": "https://www.163.com/dy/article/KORU73U20514AHGG.html",
+      "source_title": "网易／Mysteel：LME关于Harjavalta品牌注册的通知，2026年3月25日"
     },
     {
       "date": "2026-03-24",
@@ -8143,6 +8179,15 @@
       "source_url": "https://static.cninfo.com.cn/finalpage/2026-04-23/1225143464.PDF",
       "source_title": "P07合同2026-04-23",
       "project_id": "P26"
+    },
+    {
+      "date": "2026-04-24",
+      "label": "技术停产后分阶段复产",
+      "detail": "约两个月停产检修后恢复生产。",
+      "kind": "运行变化",
+      "project_id": "GL124",
+      "source_url": "https://www.radioangulo.cu/2026/04/24/reinicia-produccion-empresa-de-niquel-en-moa/",
+      "source_title": "Radio Angulo：Reinicia producción empresa de níquel en Moa，2026年4月24日"
     },
     {
       "date": "2026-04-27",
@@ -8281,6 +8326,15 @@
     },
     {
       "date": "2026-05-18",
+      "label": "2026年度计划减产",
+      "detail": "住友金属矿山2026年5月说明会资料称，播磨因转产电池材料新品种，2026年度计划减产；新居浜与播磨合计硫酸镍产量202",
+      "kind": "运行变化",
+      "project_id": "GL040",
+      "source_url": "https://www.smm.co.jp/ir/event/roadshow/pdf/2025/260518_setsumeikai.pdf",
+      "source_title": "住友金属矿山：2026年5月18日说明会资料，第55页"
+    },
+    {
+      "date": "2026-05-18",
       "label": "按计划推进，目标2027财年完工",
       "detail": "住友金属矿山2026年5月说明会资料称，日向镍锍生产设施按计划推进，目标在2027财年内完工，原料采购谈判也进展顺利。",
       "kind": "建设",
@@ -8352,6 +8406,15 @@
       "project_id": "CN167"
     },
     {
+      "date": "2026-06-04",
+      "label": "报道2025年全年无产出",
+      "detail": "2026年1月的当地报道称，新业主计划自4月起逐步召回全部员工、恢复生产。2026年6月的报道则指出，工厂2025年全年",
+      "kind": "停产",
+      "project_id": "GL001",
+      "source_url": "https://faktor.mk/poranesno-feni",
+      "source_title": "Faktor.mk：Поранешен ФЕНИ не произвел ништо цела година，2026年6月4日"
+    },
+    {
       "date": "2026-06-17",
       "label": "取消转换投资",
       "detail": "NIC宣布不再投资ONI matte converter，上海鼎信退回1,500万美元期权费。",
@@ -8413,6 +8476,15 @@
       "project_id": "MHP022",
       "source_url": "https://teraskabar.id/konstruksi-tambang-igp-sorlim-capai-50-di-kuartal-ii-2026",
       "source_title": "Teras Kabar：Konstruksi Tambang IGP Sorlim Capai 50% di Kuartal II 2026，2026年9月9日"
+    },
+    {
+      "date": "2026-07",
+      "label": "上半年INO产镍1.97万吨",
+      "detail": "嘉能可2026年半年度生产报告显示，包括萨德伯里、Raglan和Nikkelverk的一体化镍业务（INO）上半年产镍1",
+      "kind": "经营",
+      "project_id": "GL009",
+      "source_url": "https://www.glencore.com/.rest/api/v1/documents/static/e44bf57f-8768-4b27-8a33-39087d02d00a/GLEN_2026-H1ProductionReport.pdf",
+      "source_title": "Glencore：2026年半年度生产报告"
     },
     {
       "date": "2026-07",
@@ -56768,6 +56840,238 @@
         {
           "type": "project",
           "id": "GL151"
+        }
+      ]
+    },
+    {
+      "id": "UC2024",
+      "url": "https://www.gracesguide.co.uk/H._H._Vivian_and_Co",
+      "title": "Grace's Guide：H. H. Vivian and Co",
+      "titles": [
+        "Grace's Guide：H. H. Vivian and Co"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "GL008"
+        },
+        {
+          "type": "project",
+          "id": "GL020"
+        }
+      ]
+    },
+    {
+      "id": "UC2025",
+      "url": "https://sln.eramet.com/sln/nous-connaitre/nos-implantations/thio-une-longevite-exceptionnelle",
+      "title": "SLN（Eramet）：Thio, une longévité exceptionnelle",
+      "titles": [
+        "SLN（Eramet）：Thio, une longévité exceptionnelle"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "GL072"
+        },
+        {
+          "type": "project",
+          "id": "GL074"
+        }
+      ]
+    },
+    {
+      "id": "UC2026",
+      "url": "https://ghosttownpix.com/victoria-mines-history/",
+      "title": "Ghost Town Pix：Victoria Mines History",
+      "titles": [
+        "Ghost Town Pix：Victoria Mines History"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "GL096"
+        }
+      ]
+    },
+    {
+      "id": "UC2027",
+      "url": "https://en.wikipedia.org/wiki/Murray_Mine",
+      "title": "Wikipedia：Murray Mine",
+      "titles": [
+        "Wikipedia：Murray Mine"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "GL101"
+        }
+      ]
+    },
+    {
+      "id": "UC2028",
+      "url": "https://www.precisionperiodic.com/unveils-critical-mineral-refinery",
+      "title": "Precision Periodic：Unveils Critical Mineral Refinery，2026年7月7日",
+      "titles": [
+        "Precision Periodic：Unveils Critical Mineral Refinery，2026年7月7日"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "GL117"
+        }
+      ]
+    },
+    {
+      "id": "UC2029",
+      "url": "https://www.miningweekly.com/article/activox-project-tati-nickel-botswana-2008-06-27/rep_id:4745/company:multotec-2021-02-03",
+      "title": "Mining Weekly：Activox project, Tati Nickel，2008年6月27日",
+      "titles": [
+        "Mining Weekly：Activox project, Tati Nickel，2008年6月27日"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "GL147"
+        }
+      ]
+    },
+    {
+      "id": "UC2030",
+      "url": "https://miningzimbabwe.com/zimplats-eyes-hartley-mine-comeback-after-20-years-as-platinum-prices-rebound/",
+      "title": "Mining Zimbabwe：Zimplats eyes Hartley Mine comeback after 20 years，2025年",
+      "titles": [
+        "Mining Zimbabwe：Zimplats eyes Hartley Mine comeback after 20 years，2025年"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "GL154"
+        }
+      ]
+    },
+    {
+      "id": "UC2031",
+      "url": "https://www.radioangulo.cu/2026/04/24/reinicia-produccion-empresa-de-niquel-en-moa/",
+      "title": "Radio Angulo：Reinicia producción empresa de níquel en Moa，2026年4月24日",
+      "titles": [
+        "Radio Angulo：Reinicia producción empresa de níquel en Moa，2026年4月24日"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "GL124"
+        }
+      ]
+    },
+    {
+      "id": "UC2032",
+      "url": "https://miningzimbabwe.com/bncs-administration-status-driven-by-business-realities-not-other-factors-mif/",
+      "title": "Mining Zimbabwe：BNC administration status driven by business realities，2026年2月16日",
+      "titles": [
+        "Mining Zimbabwe：BNC administration status driven by business realities，2026年2月16日"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "GL152"
+        }
+      ]
+    },
+    {
+      "id": "UC2033",
+      "url": "https://www.insight.co.kr/news/551137",
+      "title": "Insight：LS MnM温山复合工厂报道，2026年4月22日",
+      "titles": [
+        "Insight：LS MnM温山复合工厂报道，2026年4月22日"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "GL054"
+        }
+      ]
+    },
+    {
+      "id": "UC2034",
+      "url": "https://24.mk/details/kavadarechki-feni-e-pred-restart-i-vrakjanje-na-site-700-vraboteni",
+      "title": "24.mk：Кавадаречки Фени е пред рестарт，2026年1月30日",
+      "titles": [
+        "24.mk：Кавадаречки Фени е пред рестарт，2026年1月30日"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "GL001"
+        }
+      ]
+    },
+    {
+      "id": "UC2035",
+      "url": "https://faktor.mk/poranesno-feni",
+      "title": "Faktor.mk：Поранешен ФЕНИ не произвел ништо цела година，2026年6月4日",
+      "titles": [
+        "Faktor.mk：Поранешен ФЕНИ не произвел ништо цела година，2026年6月4日"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "GL001"
+        }
+      ]
+    },
+    {
+      "id": "UC2036",
+      "url": "https://www.freiepresse.de/erzgebirge/aue/wir-haben-das-faxgeraet-reaktiviert-wie-ein-grossbetrieb-im-erzgebirge-mit-den-folgen-eines-cyberangriffs-kaempft-artikel14001213",
+      "title": "Freie Presse：Nickelhütte Aue网络攻击后生产照常，2025年10月23日",
+      "titles": [
+        "Freie Presse：Nickelhütte Aue网络攻击后生产照常，2025年10月23日"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "GL005"
+        }
+      ]
+    },
+    {
+      "id": "UC2037",
+      "url": "https://yle.fi/a/74-20225512",
+      "title": "Yle Satakunta：Harjavalta铜饼运输暂停，2026年5月12日",
+      "titles": [
+        "Yle Satakunta：Harjavalta铜饼运输暂停，2026年5月12日"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "GL017"
         }
       ]
     }

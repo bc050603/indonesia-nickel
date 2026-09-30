@@ -4482,6 +4482,15 @@
           "project_id": "GL001",
           "source_url": "library/global-register.csv",
           "source_title": "全球普查底表 · NI-001 · 总表第2行"
+        },
+        {
+          "date": "2026-06-04",
+          "label": "报道2025年全年无产出",
+          "detail": "2026年1月的当地报道称，新业主计划自4月起逐步召回全部员工、恢复生产。2026年6月的报道则指出，工厂2025年全年",
+          "kind": "停产",
+          "project_id": "GL001",
+          "source_url": "https://faktor.mk/poranesno-feni",
+          "source_title": "Faktor.mk：Поранешен ФЕНИ не произвел ништо цела година，2026年6月4日"
         }
       ],
       "coverage_note": "2024年5月Yıldırım Group收购后，是否已实际复产？；2024年下半年至2026年的实际生产状态如何？；两台电炉的复产状态、具体复产日期和产能目标是什么？"
@@ -4536,6 +4545,15 @@
           "project_id": "GL005",
           "source_url": "library/global-register.csv",
           "source_title": "全球普查底表 · NI-005 · 总表第6行"
+        },
+        {
+          "date": "2025-10",
+          "label": "网络攻击后生产照常",
+          "detail": "2025年10月，奥厄镍冶炼厂遭勒索软件攻击，只有办公信息系统受影响，生产没有中断；公司约有500名员工。",
+          "kind": "运行变化",
+          "project_id": "GL005",
+          "source_url": "https://www.freiepresse.de/erzgebirge/aue/wir-haben-das-faxgeraet-reaktiviert-wie-ein-grossbetrieb-im-erzgebirge-mit-den-folgen-eines-cyberangriffs-kaempft-artikel14001213",
+          "source_title": "Freie Presse：Nickelhütte Aue网络攻击后生产照常，2025年10月23日"
         }
       ],
       "coverage_note": "各车间设备规格与镍化学品产能。"
@@ -4655,7 +4673,7 @@
           "source_title": "全球普查底表 · NI-008 · 总表第9行"
         }
       ],
-      "coverage_note": "挪威塞尼亚矿冶业务的具体关闭年份是哪一年？；关闭后厂区如何处置？"
+      "coverage_note": "塞尼亚冶炼厂的关闭年份、炉型和产品去向。"
     },
     "GL009": {
       "project_id": "GL009",
@@ -4677,6 +4695,15 @@
           "project_id": "GL009",
           "source_url": "library/global-register.csv",
           "source_title": "全球普查底表 · NI-009 · 总表第10行"
+        },
+        {
+          "date": "2026-07",
+          "label": "上半年INO产镍1.97万吨",
+          "detail": "嘉能可2026年半年度生产报告显示，包括萨德伯里、Raglan和Nikkelverk的一体化镍业务（INO）上半年产镍1",
+          "kind": "经营",
+          "project_id": "GL009",
+          "source_url": "https://www.glencore.com/.rest/api/v1/documents/static/e44bf57f-8768-4b27-8a33-39087d02d00a/GLEN_2026-H1ProductionReport.pdf",
+          "source_title": "Glencore：2026年半年度生产报告"
         }
       ],
       "coverage_note": "Nikkelverk单厂精炼产量能否从INO合计口径中拆分出来？"
@@ -4923,6 +4950,15 @@
           "project_id": "GL017",
           "source_url": "library/global-register.csv",
           "source_title": "全球普查底表 · NI-017 · 总表第18行"
+        },
+        {
+          "date": "2026-03-20",
+          "label": "LME品牌最后注册日通知",
+          "detail": "2026年3月，伦敦金属交易所通知，本厂两个镍品牌的最后注册日为2026年6月18日，此后不再接受新的注册，这属于交割品",
+          "kind": "运行变化",
+          "project_id": "GL017",
+          "source_url": "https://www.163.com/dy/article/KORU73U20514AHGG.html",
+          "source_title": "网易／Mysteel：LME关于Harjavalta品牌注册的通知，2026年3月25日"
         }
       ],
       "coverage_note": "LME摘牌后，该厂2026年6月之后的运营是否持续？；Harjavalta单厂2022-2025年的产量是多少？；扩产至100,000+t/a的进度与最新电解槽数量如何？"
@@ -4973,7 +5009,7 @@
           "source_title": "全球普查底表 · NI-020 · 总表第21行"
         }
       ],
-      "coverage_note": "镍钴业务的终止年份及后续处置情况如何？；厂区关闭的具体原因和决策细节是什么？"
+      "coverage_note": "英法镍业时期斯旺西镍钴厂的关闭年份。"
     },
     "GL021": {
       "project_id": "GL021",
@@ -5295,6 +5331,15 @@
           "project_id": "GL032",
           "source_url": "library/global-register.csv",
           "source_title": "全球普查底表 · NI-032 · 总表第33行"
+        },
+        {
+          "date": "2025-03-06",
+          "label": "破产管理人拍卖债权",
+          "detail": "布鲁克塔尔镍厂自2018年起处于破产程序；2025年3月，破产管理人拍卖约6.33亿卢布的债权，没有复产报道。",
+          "kind": "破产",
+          "project_id": "GL032",
+          "source_url": "https://mashnews.ru/buruktalskij-nikelevyij-zavod-xochet-vernut-633-mln-rublej-za-propavshie-splavyi.html",
+          "source_title": "Mashnews：Буруктальский никелевый завод хочет вернуть 633 млн рублей，2025年3月6日"
         }
       ],
       "coverage_note": "布鲁克塔尔镍铁厂是否有复产、拆除或最终处置的消息？；瓦纽科夫炉技改后的设计产能是多少？"
@@ -5487,6 +5532,15 @@
           "project_id": "GL040",
           "source_url": "library/global-register.csv",
           "source_title": "全球普查底表 · NI-040 · 总表第41行"
+        },
+        {
+          "date": "2026-05-18",
+          "label": "2026年度计划减产",
+          "detail": "住友金属矿山2026年5月说明会资料称，播磨因转产电池材料新品种，2026年度计划减产；新居浜与播磨合计硫酸镍产量202",
+          "kind": "运行变化",
+          "project_id": "GL040",
+          "source_url": "https://www.smm.co.jp/ir/event/roadshow/pdf/2025/260518_setsumeikai.pdf",
+          "source_title": "住友金属矿山：2026年5月18日说明会资料，第55页"
         }
       ],
       "coverage_note": "播磨单厂的镍产量是多少(SMM仅披露与新居浜的合并数)？；两厂合计产量的单位是产品吨还是镍金属吨？；转型专产硫酸镍的具体年份是何时？"
@@ -5798,19 +5852,19 @@
       "project_id": "GL054",
       "events": [
         {
-          "date": "2026",
-          "label": "开始生产（底表投产年）",
-          "detail": "LS MnM 温山镍钴锰硫酸盐新厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
-          "kind": "投产",
+          "date": "2024",
+          "label": "在建",
+          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
+          "kind": "运营变化",
           "project_id": "GL054",
           "source_url": "library/global-register.csv",
           "source_title": "全球普查底表 · NI-054 · 总表第55行"
         },
         {
-          "date": "2024",
-          "label": "在建",
-          "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
-          "kind": "运营变化",
+          "date": "2026",
+          "label": "开始生产（底表投产年）",
+          "detail": "LS MnM 温山镍钴锰硫酸盐新厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
+          "kind": "投产",
           "project_id": "GL054",
           "source_url": "library/global-register.csv",
           "source_title": "全球普查底表 · NI-054 · 总表第55行"
@@ -7194,6 +7248,15 @@
           "project_id": "GL124",
           "source_url": "library/global-register.csv",
           "source_title": "全球普查底表 · NI-124 · 总表第125行"
+        },
+        {
+          "date": "2026-04-24",
+          "label": "技术停产后分阶段复产",
+          "detail": "约两个月停产检修后恢复生产。",
+          "kind": "运行变化",
+          "project_id": "GL124",
+          "source_url": "https://www.radioangulo.cu/2026/04/24/reinicia-produccion-empresa-de-niquel-en-moa/",
+          "source_title": "Radio Angulo：Reinicia producción empresa de níquel en Moa，2026年4月24日"
         }
       ],
       "coverage_note": "Punta Gorda厂2025-2026年的具体经营数据是什么？；该厂2024-2025年度的厂级产量拆分是多少？；“Punta Gorda”是否为Che Guevara联合企业内部子厂区？；ONEI《2024年古巴统计年鉴》制造业章节能否提供分厂数据？"
@@ -7896,6 +7959,15 @@
           "project_id": "GL152",
           "source_url": "library/global-register.csv",
           "source_title": "全球普查底表 · NI-152 · 总表第153行"
+        },
+        {
+          "date": "2026-02-16",
+          "label": "仍在管理人接管下停产",
+          "detail": "镍价不支撑矿山经济运行。",
+          "kind": "停产",
+          "project_id": "GL152",
+          "source_url": "https://miningzimbabwe.com/bncs-administration-status-driven-by-business-realities-not-other-factors-mif/",
+          "source_title": "Mining Zimbabwe：BNC administration status driven by business realities，2026年2月16日"
         }
       ],
       "coverage_note": "冶炼/精炼环节2021-2026年是否已复产？；Kuvimba Mining House的具体股比是多少？；管理人接管后的复苏方案进展如何？"
@@ -7946,7 +8018,7 @@
           "source_title": "全球普查底表 · NI-154 · 总表第155行"
         }
       ],
-      "coverage_note": "该设施何时、因何停产或退出？；该设施与Zimplats恩杰济矿区是否为同一场址或有资产渊源？"
+      "coverage_note": "原贱金属精炼设施在Zimplats体系内的现状。"
     },
     "GL155": {
       "project_id": "GL155",
@@ -18111,6 +18183,15 @@
       "project_id": "MHP013"
     },
     {
+      "date": "2025-03-06",
+      "label": "破产管理人拍卖债权",
+      "detail": "布鲁克塔尔镍厂自2018年起处于破产程序；2025年3月，破产管理人拍卖约6.33亿卢布的债权，没有复产报道。",
+      "kind": "破产",
+      "project_id": "GL032",
+      "source_url": "https://mashnews.ru/buruktalskij-nikelevyij-zavod-xochet-vernut-633-mln-rublej-za-propavshie-splavyi.html",
+      "source_title": "Mashnews：Буруктальский никелевый завод хочет вернуть 633 млн рублей，2025年3月6日"
+    },
+    {
       "date": "2025-03-13",
       "label": "官方名单再次确认长期停产",
       "detail": "玉溪市生态环境局以长期停产为由，将元江镍业移出环境信息依法披露企业名单。",
@@ -18532,6 +18613,15 @@
       "source_url": "http://www.jcs.gov.cn/zfxxgk/fdzdgknr/zdmsxx/kjgl/art/2025/art_07450fb7b49141018c77a5e664e47fb7.html",
       "project_id": "CN153",
       "source_title": "“智”造升级 向“新”生长——金川集团高品质镍基新材料生产见闻"
+    },
+    {
+      "date": "2025-10",
+      "label": "网络攻击后生产照常",
+      "detail": "2025年10月，奥厄镍冶炼厂遭勒索软件攻击，只有办公信息系统受影响，生产没有中断；公司约有500名员工。",
+      "kind": "运行变化",
+      "project_id": "GL005",
+      "source_url": "https://www.freiepresse.de/erzgebirge/aue/wir-haben-das-faxgeraet-reaktiviert-wie-ein-grossbetrieb-im-erzgebirge-mit-den-folgen-eines-cyberangriffs-kaempft-artikel14001213",
+      "source_title": "Freie Presse：Nickelhütte Aue网络攻击后生产照常，2025年10月23日"
     },
     {
       "date": "2025-10",
@@ -19191,6 +19281,15 @@
       "source_title": "Kitco／路透：Nornickel to shift part of nickel output to copper plant during repairs，2026年2月13日"
     },
     {
+      "date": "2026-02-16",
+      "label": "仍在管理人接管下停产",
+      "detail": "镍价不支撑矿山经济运行。",
+      "kind": "停产",
+      "project_id": "GL152",
+      "source_url": "https://miningzimbabwe.com/bncs-administration-status-driven-by-business-realities-not-other-factors-mif/",
+      "source_title": "Mining Zimbabwe：BNC administration status driven by business realities，2026年2月16日"
+    },
+    {
       "date": "2026-02-17",
       "label": "暂停采矿、处理厂待机",
       "detail": "Sherritt 2026年2月宣布，受燃料短缺影响，莫阿将暂停采矿，处理厂转入待机；其加拿大精炼厂的原料随后于6月耗尽",
@@ -19225,6 +19324,15 @@
       "project_id": "GL150",
       "source_url": "https://ir.lifezonemetals.com/news/press-releases/news-details/2026/Lifezone-Announces-Exclusivity-Agreement-over-the-Musongati-Nickel-Project-in-Burundi/default.aspx",
       "source_title": "Lifezone Metals：Exclusivity Agreement over the Musongati Nickel Project in Burundi，2026年3月10日"
+    },
+    {
+      "date": "2026-03-20",
+      "label": "LME品牌最后注册日通知",
+      "detail": "2026年3月，伦敦金属交易所通知，本厂两个镍品牌的最后注册日为2026年6月18日，此后不再接受新的注册，这属于交割品",
+      "kind": "运行变化",
+      "project_id": "GL017",
+      "source_url": "https://www.163.com/dy/article/KORU73U20514AHGG.html",
+      "source_title": "网易／Mysteel：LME关于Harjavalta品牌注册的通知，2026年3月25日"
     },
     {
       "date": "2026-03-24",
@@ -19342,6 +19450,15 @@
       "source_url": "https://static.cninfo.com.cn/finalpage/2026-04-23/1225143464.PDF",
       "source_title": "P07合同2026-04-23",
       "project_id": "P26"
+    },
+    {
+      "date": "2026-04-24",
+      "label": "技术停产后分阶段复产",
+      "detail": "约两个月停产检修后恢复生产。",
+      "kind": "运行变化",
+      "project_id": "GL124",
+      "source_url": "https://www.radioangulo.cu/2026/04/24/reinicia-produccion-empresa-de-niquel-en-moa/",
+      "source_title": "Radio Angulo：Reinicia producción empresa de níquel en Moa，2026年4月24日"
     },
     {
       "date": "2026-04-27",
@@ -19480,6 +19597,15 @@
     },
     {
       "date": "2026-05-18",
+      "label": "2026年度计划减产",
+      "detail": "住友金属矿山2026年5月说明会资料称，播磨因转产电池材料新品种，2026年度计划减产；新居浜与播磨合计硫酸镍产量202",
+      "kind": "运行变化",
+      "project_id": "GL040",
+      "source_url": "https://www.smm.co.jp/ir/event/roadshow/pdf/2025/260518_setsumeikai.pdf",
+      "source_title": "住友金属矿山：2026年5月18日说明会资料，第55页"
+    },
+    {
+      "date": "2026-05-18",
       "label": "按计划推进，目标2027财年完工",
       "detail": "住友金属矿山2026年5月说明会资料称，日向镍锍生产设施按计划推进，目标在2027财年内完工，原料采购谈判也进展顺利。",
       "kind": "建设",
@@ -19551,6 +19677,15 @@
       "project_id": "CN167"
     },
     {
+      "date": "2026-06-04",
+      "label": "报道2025年全年无产出",
+      "detail": "2026年1月的当地报道称，新业主计划自4月起逐步召回全部员工、恢复生产。2026年6月的报道则指出，工厂2025年全年",
+      "kind": "停产",
+      "project_id": "GL001",
+      "source_url": "https://faktor.mk/poranesno-feni",
+      "source_title": "Faktor.mk：Поранешен ФЕНИ не произвел ништо цела година，2026年6月4日"
+    },
+    {
       "date": "2026-06-17",
       "label": "取消转换投资",
       "detail": "NIC宣布不再投资ONI matte converter，上海鼎信退回1,500万美元期权费。",
@@ -19612,6 +19747,15 @@
       "project_id": "MHP022",
       "source_url": "https://teraskabar.id/konstruksi-tambang-igp-sorlim-capai-50-di-kuartal-ii-2026",
       "source_title": "Teras Kabar：Konstruksi Tambang IGP Sorlim Capai 50% di Kuartal II 2026，2026年9月9日"
+    },
+    {
+      "date": "2026-07",
+      "label": "上半年INO产镍1.97万吨",
+      "detail": "嘉能可2026年半年度生产报告显示，包括萨德伯里、Raglan和Nikkelverk的一体化镍业务（INO）上半年产镍1",
+      "kind": "经营",
+      "project_id": "GL009",
+      "source_url": "https://www.glencore.com/.rest/api/v1/documents/static/e44bf57f-8768-4b27-8a33-39087d02d00a/GLEN_2026-H1ProductionReport.pdf",
+      "source_title": "Glencore：2026年半年度生产报告"
     },
     {
       "date": "2026-07",
