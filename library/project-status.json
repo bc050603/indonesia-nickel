@@ -1,5 +1,5 @@
 {
-  "reviewed_at": "2026-09-28",
+  "reviewed_at": "2026-09-30",
   "definition": "运行状态以各条注明的资料时期为准。已投产不等于当前满负荷；历史已投产表示有旧生产记录但缺少近期运行披露；转产、停产和集团总览分别列示。",
   "projects": {
     "NPI004": {
@@ -4492,19 +4492,29 @@
       "products": []
     },
     "CN015": {
-      "key": "unknown",
-      "label": "状态待核（双法人）",
-      "period": "2019",
-      "note": "仅朝阳昊天见历史EF表，未证明与朝阳利鑫为同一厂或共同运行。",
-      "reviewed_at": "2026-09-21",
+      "key": "halted",
+      "label": "停产（朝阳昊天破产清算）",
+      "period": "2025年9月答复；2026年资产拍卖",
+      "note": "朝阳昊天已进入破产清算，资产由管理人委托拍卖；朝阳利鑫为另一法人，未见同期运行材料。",
+      "reviewed_at": "2026-09-30",
       "article_id": "CN015",
       "sources": [
         {
-          "title": "2019镍铁企业统计",
-          "url": "https://fr.scribd.com/document/510797525/%E4%B8%AD%E5%9B%BD%E5%92%8C%E5%B0%BC%E9%93%81%E5%B8%82%E5%9C%BA%E5%88%86%E6%9E%90%E5%91%8A-nickel-wenquan-2019"
+          "title": "朝阳县人民政府：对县十九届人大二次会议第35号建议的答复，2025年9月24日",
+          "url": "https://www.cyx.gov.cn/html/CYXZF/202509/0175869685100071.html"
+        },
+        {
+          "title": "比地招标网：朝阳拍卖行受朝阳昊天管理人委托的破产资产拍卖公告，2026年8月22日",
+          "url": "https://www.bidizhaobiao.com/company_400672590241509376.html"
         }
       ],
-      "products": []
+      "products": [
+        {
+          "product": "NPI／镍铁（朝阳昊天）",
+          "status": "破产清算",
+          "period": "2025—2026"
+        }
+      ]
     },
     "CN016": {
       "key": "unknown",
@@ -4808,19 +4818,25 @@
       "products": []
     },
     "CN035": {
-      "key": "unknown",
-      "label": "状态待核（名称对应待核）",
-      "period": "2007-2019",
-      "note": "国家准入为冶金化工，历史表“鑫扬冶化/福鑫”未完成法人对应。",
-      "reviewed_at": "2026-09-21",
+      "key": "closed",
+      "label": "已关闭（镍铁炉2022年拆除）",
+      "period": "2021—2022年度；2022年12月公布",
+      "note": "乌兰察布淘汰限制类装备完成情况记载鑫扬两台镍铁合金矿热炉主体设备已拆除。",
+      "reviewed_at": "2026-09-30",
       "article_id": "CN035",
       "sources": [
         {
-          "title": "发改委准入名单",
-          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/gg/200703/t20070312_961288.html"
+          "title": "新浪财经转载：2021—2022年度乌兰察布市淘汰限制类装备产能完成情况，2022年12月28日",
+          "url": "http://finance.sina.com.cn/money/future/indu/2022-12-28/doc-imxyetfn3713955.shtml"
         }
       ],
-      "products": []
+      "products": [
+        {
+          "product": "NPI／镍铁",
+          "status": "设备已拆除",
+          "period": "2022"
+        }
+      ]
     },
     "CN036": {
       "key": "unknown",
@@ -4854,18 +4870,33 @@
     },
     "CN038": {
       "key": "unknown",
-      "label": "状态待核",
-      "period": "企业介绍未注明年份",
-      "note": "企业介绍称RKEF+AOD全流程，但无近期官方运行证据。",
-      "reviewed_at": "2026-09-21",
+      "label": "状态待核（部分镍铁炉拟转铬铁）",
+      "period": "2025年9月",
+      "note": "2025年9月2台33000kVA镍铁炉转产高碳铬铁的产能置换方案获公告；一期镍铁炉未见近期运行或停产记录。",
+      "reviewed_at": "2026-09-30",
       "article_id": "CN038",
       "sources": [
         {
-          "title": "上泰企业介绍",
-          "url": "https://www.xhcs.com/hy/e12e3ed4b5403cec/intro/"
+          "title": "乌兰察布市工业和信息化局：上泰镍铁矿热炉转产高碳铬铁项目产能置换方案公告，2025年9月25日",
+          "url": "https://gxj.wulanchabu.gov.cn/tzgg/1883029.html"
+        },
+        {
+          "title": "网易：内蒙古上泰项目分期建设报道，2025年6月24日",
+          "url": "https://www.163.com/dy/article/K2PD1D8405368F0O.html"
         }
       ],
-      "products": []
+      "products": [
+        {
+          "product": "NPI／镍铁",
+          "status": "待核",
+          "period": "2025"
+        },
+        {
+          "product": "高碳铬铁",
+          "status": "转产方案已公告",
+          "period": "2025-09"
+        }
+      ]
     },
     "CN039": {
       "key": "unknown",
@@ -4928,19 +4959,34 @@
       "products": []
     },
     "CN043": {
-      "key": "unknown",
-      "label": "状态待核",
-      "period": "无可靠时间",
-      "note": "正文与来源仅为目录线索，未找到可核验运行资料。",
-      "reviewed_at": "2026-09-21",
+      "key": "converted",
+      "label": "已转产（镍铁→硅锰→高碳铬铁）",
+      "period": "2024年12月公示；2025年7月通报",
+      "note": "原2台镍铁炉改造为硅锰炉，此后原嘉铭硅锰炉由鑫五州技改为高碳铬铁炉。",
+      "reviewed_at": "2026-09-30",
       "article_id": "CN043",
       "sources": [
         {
-          "title": "原始中国企业目录来源",
-          "url": "library/china-sources.html"
+          "title": "乌兰察布市工业和信息化局：中央生态环境保护督察整改任务销号公示，2024年12月24日",
+          "url": "https://gxj.wulanchabu.gov.cn/tzgg/1716259.html"
+        },
+        {
+          "title": "化德县人民政府：化德县2025年上半年计划实施重大项目情况，2025年7月21日",
+          "url": "https://www.huade.gov.cn/ssqk80/1854419.html"
         }
       ],
-      "products": []
+      "products": [
+        {
+          "product": "NPI／镍铁",
+          "status": "已转产",
+          "period": "2024年前"
+        },
+        {
+          "product": "高碳铬铁（鑫五州）",
+          "status": "技改完成",
+          "period": "2023—2024"
+        }
+      ]
     },
     "CN044": {
       "key": "halted",
@@ -4988,19 +5034,34 @@
       "products": []
     },
     "CN047": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "2017",
-      "note": "报道为高碳铬铁项目建设，不能写为已投产或现行镍铁。 现有资料只描述当年的规划或建设，尚不能确定之后是否建成、取消或转作其他用途。",
-      "reviewed_at": "2026-09-21",
+      "key": "converted",
+      "label": "铬铁生产（2023年记录）",
+      "period": "2023年11月",
+      "note": "三台25000kVA铬铁矿热炉进入生产、一台调试；未见该公司镍铁生产记录。",
+      "reviewed_at": "2026-09-30",
       "article_id": "CN047",
       "sources": [
         {
-          "title": "中泰高碳铬铁走访",
-          "url": "https://www.ferro-alloys.com/News/Details/245845"
+          "title": "化德县人民政府：2023年化德县重大项目清单，2023年8月30日",
+          "url": "https://www.huade.gov.cn/bmxxgk/1385905.html"
+        },
+        {
+          "title": "化德县人民政府：截至十月份化德县各重点项目进展情况，2023年11月6日",
+          "url": "https://www.huade.gov.cn/bmxxgk/1437897.html"
         }
       ],
-      "products": []
+      "products": [
+        {
+          "product": "高碳铬铁",
+          "status": "三台炉投产",
+          "period": "2023-11"
+        },
+        {
+          "product": "NPI／镍铁",
+          "status": "未见生产记录",
+          "period": "—"
+        }
+      ]
     },
     "CN048": {
       "key": "unknown",
@@ -5049,15 +5110,15 @@
     },
     "CN051": {
       "key": "unknown",
-      "label": "状态待核（部分设备淘汰）",
-      "period": "2011",
-      "note": "光达冶金两台硅锰炉列入淘汰，仅证明部分落后设备退出；“烨兆”与光达关系未核实，也没有整厂关闭证据。",
-      "reviewed_at": "2026-09-21",
+      "label": "状态待核（铬铁炉已拆除）",
+      "period": "2011；2022",
+      "note": "2011年两台硅锰炉、2022年两台高碳铬铁炉先后淘汰拆除；未见镍铁设备记录，也没有整厂关闭文件。",
+      "reviewed_at": "2026-09-30",
       "article_id": "CN051",
       "sources": [
         {
-          "title": "工信部淘汰落后产能名单",
-          "url": "https://wap.miit.gov.cn/cms_files/filemanager/oldfile/miit/n973401/n974076/c3833522/part/3833526.pdf"
+          "title": "新浪财经转载：2021—2022年度乌兰察布市淘汰限制类装备产能完成情况，2022年12月28日",
+          "url": "http://finance.sina.com.cn/money/future/indu/2022-12-28/doc-imxyetfn3713955.shtml"
         }
       ],
       "products": []
@@ -5462,23 +5523,40 @@
       ]
     },
     "CN075": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "2025",
-      "note": "环评获批的是河南鑫金汇不锈钢有限公司的工艺优化，名称与索引主体不同；审批不能证明产线投产。",
-      "reviewed_at": "2026-09-21",
+      "key": "partial",
+      "label": "部分恢复（炼钢线复产，2025年记录）",
+      "period": "2025年5月停产；2025年10月调研",
+      "note": "2025年5月公示处于停产；10月集团月产钢约6000吨，未区分普碳钢与不锈钢，不锈钢生产恢复情况未见披露。",
+      "reviewed_at": "2026-09-30",
       "article_id": "CN075",
       "sources": [
         {
-          "title": "许昌市生态环境局：短流程再生不锈钢项目环评",
-          "url": "https://sthjj.xuchang.gov.cn/BigFileUpLoadStorage/temp/2025-06-24/875940a4-d619-4929-9a03-f3d261e281e8/%E6%B2%B3%E5%8D%97%E9%91%AB%E9%87%91%E6%B1%87%E4%B8%8D%E9%94%88%E9%92%A2%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E7%9F%AD%E6%B5%81%E5%86%8D%E7%94%9F%E4%B8%8D%E9%94%88%E9%92%A2%E5%B7%A5%E8%89%BA%E4%BC%98%E5%8C%96%E9%A1%B9%E7%9B%AE%E6%8A%A5%E5%91%8A%E5%85%A8%E6%96%87%E9%80%81%E5%AE%A1%E7%89%88.pdf"
+          "title": "许昌市人民政府：生态环境问题整改情况公示（河南鑫金汇／汇一不锈钢），2025年5月30日",
+          "url": "https://www.xuchang.gov.cn/zt/010048/010048002/20250530/7640e139-4e04-4a9d-8161-f929c2cb603e.html"
+        },
+        {
+          "title": "河南省发展和改革委员会：鑫金汇短流程再生不锈钢工艺优化项目节能报告审查意见（豫发改审批〔2025〕102号），2025年8月",
+          "url": "https://fgw.henan.gov.cn/2025/09-16/3227116.html"
+        },
+        {
+          "title": "许昌市工业和信息化局：市工信局赴长葛调研黑色金属加工企业，2025年10月13日",
+          "url": "https://gxj.xuchang.gov.cn/yclyjn/20251013/c729f295-a269-48a8-b2a8-6515ef5a6975.html"
+        },
+        {
+          "title": "动产融资统一登记公示系统：河南鑫金汇不锈钢有限公司司法协助执行公告，2025年12月",
+          "url": "https://www.zhongdengwang.org.cn/xzzxgg/cb665d13-bfb6-447b-b461-f6638fc93acd.html"
         }
       ],
       "products": [
         {
-          "product": "不锈钢（拟优化项目）",
-          "status": "unknown",
+          "product": "不锈钢（镍铁用户）",
+          "status": "恢复情况待核",
           "period": "2025"
+        },
+        {
+          "product": "粗钢（集团口径）",
+          "status": "月产约6000吨",
+          "period": "2025-10"
         }
       ]
     },
@@ -5932,28 +6010,36 @@
       ]
     },
     "CN094": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "2020",
-      "note": "2018终止上市和2020年报均不能单独证明红旗岭具体镍盐线目前运行或已关闭，故不以退市/重整推断状态。",
-      "reviewed_at": "2026-09-21",
+      "key": "operating",
+      "label": "已投产（2025—2026年记录）",
+      "period": "2025—2026年6月",
+      "note": "保温炉2025年稳定生产，电解镍获LME注册，2026年6月新电积镍线通电投产。",
+      "reviewed_at": "2026-09-30",
       "article_id": "CN094",
       "sources": [
         {
-          "title": "吉恩镍业2020年年度报告",
-          "url": "https://pdf.dfcfw.com/pdf/H2_AN202104261487960030_1.pdf"
+          "title": "吉恩镍业官网：企业新闻（保温炉稳定生产、LME注册）",
+          "url": "http://jlnickel.com.cn/qyxw"
+        },
+        {
+          "title": "亚洲金属网：“吉恩”牌电解镍获LME注册，2025年8月1日",
+          "url": "https://wap.asianmetal.cn/news/viewNews.am?nId=2850405"
+        },
+        {
+          "title": "SMM：吉恩镍业新电积镍产线通电投产，2026年6月23日",
+          "url": "https://news.smm.cn/live/detail/103966597"
         }
       ],
       "products": [
         {
-          "product": "镍冶炼",
-          "status": "unknown",
-          "period": "2020"
+          "product": "电解镍",
+          "status": "在产",
+          "period": "2025—2026"
         },
         {
-          "product": "镍盐（历史）",
-          "status": "unknown",
-          "period": "2020"
+          "product": "金属化镍阳极板",
+          "status": "在产",
+          "period": "2025"
         }
       ]
     },
@@ -6019,23 +6105,23 @@
       ]
     },
     "CN097": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "—",
-      "note": "电池级硫酸盐扩能技改属于环评项目；未找到现有装置的验收或产销量。",
-      "reviewed_at": "2026-09-21",
+      "key": "operating",
+      "label": "已投产（环评现状口径）",
+      "period": "2024年6月",
+      "note": "2024年扩能环评列现状六水硫酸镍产能1万金吨；扩能和黑粉资源化项目的投产另行记录。",
+      "reviewed_at": "2026-09-30",
       "article_id": "CN097",
       "sources": [
         {
-          "title": "万华环评公示",
-          "url": "https://www.whchem.com/cmscontent/2175.html"
+          "title": "中国石油和化学工业联合会：万华化学两大项目公示，2024年6月17日",
+          "url": "http://www.cpcif.org.cn/detail/f088ce9f-0ce9-49df-87f5-efa1660eafb7"
         }
       ],
       "products": [
         {
-          "product": "镍钴锰硫酸盐（扩能项目）",
-          "status": "unknown",
-          "period": "—"
+          "product": "硫酸镍",
+          "status": "现有装置",
+          "period": "2024"
         }
       ]
     },
@@ -6238,23 +6324,32 @@
       ]
     },
     "CN106": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "2025",
-      "note": "五矿新能披露的是集团管理关系；没有明确湖南金驰单厂镍钴加工或回收线的近期运行证据。",
-      "reviewed_at": "2026-09-21",
+      "key": "operating",
+      "label": "已投产（前驱体，2026年记录）",
+      "period": "2026年4月",
+      "note": "前驱体车间持续技改扩线；硫酸镍对外销售未见披露。",
+      "reviewed_at": "2026-09-30",
       "article_id": "CN106",
       "sources": [
         {
-          "title": "五矿新能：中冶新能源管理关系调整",
-          "url": "https://wkxn.minmetals.com.cn/xwzx_7726/gsxw/202504/t20250427_308507.html"
+          "title": "金驰能源材料有限公司镍钴金属溶解技改项目安全预评价报告，2020年1月6日",
+          "url": "https://www.hssti.cn/news/568.html"
+        },
+        {
+          "title": "东方财富财富号：五矿新能一季度经营报道，2026年4月27日",
+          "url": "https://caifuhao.eastmoney.com/news/20260427184131866053770"
         }
       ],
       "products": [
         {
-          "product": "电池材料配套（待核单厂）",
-          "status": "unknown",
-          "period": "2025"
+          "product": "前驱体／氢氧化镍",
+          "status": "在产",
+          "period": "2026"
+        },
+        {
+          "product": "硫酸镍",
+          "status": "未见外售披露",
+          "period": "—"
         }
       ]
     },
@@ -6342,28 +6437,23 @@
       ]
     },
     "CN110": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "2021",
-      "note": "肇庆厂电池级硫酸镍技改仍是环评口径；集团官网多基地信息不能下推为肇庆单线已投产。",
-      "reviewed_at": "2026-09-21",
+      "key": "operating",
+      "label": "已投产（肇庆基地，2025年记录）",
+      "period": "2025年",
+      "note": "招股申请文件列肇庆基地生产硫酸镍、硫酸钴和碳酸锂；产能产量为集团三基地合计。",
+      "reviewed_at": "2026-09-30",
       "article_id": "CN110",
       "sources": [
         {
-          "title": "金晟技改环评",
-          "url": "https://www.zqeia.com/sys-nd/42.html"
+          "title": "港交所披露易：广东金晟新能源股份有限公司申请版本（中文），2026年5月18日",
+          "url": "https://www1.hkexnews.hk/app/sehk/2026/108548/documents/sehk26051801596_c.pdf"
         }
       ],
       "products": [
         {
-          "product": "电池级硫酸镍（技改）",
-          "status": "unknown",
-          "period": "2021"
-        },
-        {
-          "product": "硫酸钴（调整）",
-          "status": "unknown",
-          "period": "2021"
+          "product": "硫酸镍",
+          "status": "在产（集团口径）",
+          "period": "2025"
         }
       ]
     },
@@ -6430,23 +6520,23 @@
       ]
     },
     "CN113": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "—",
-      "note": "只有项目线索，未找到正式验收、年报、排污许可或近期产销。",
-      "reviewed_at": "2026-09-21",
+      "key": "operating",
+      "label": "已投产（2024年记录）",
+      "period": "2024年6月",
+      "note": "事故调查报告显示2024年6月萃取除杂工序运行；此后运行情况未见更新。",
+      "reviewed_at": "2026-09-30",
       "article_id": "CN113",
       "sources": [
         {
-          "title": "葫芦岛环评线索",
-          "url": "https://www.qianlima.com/bid-501927428.html"
+          "title": "葫芦岛市人民政府：华信钴业“6·8”一般中毒和窒息事故调查报告，2024年9月",
+          "url": "https://www.hld.gov.cn/zwgk/fdzdgknr/zdly/shichangjianguan/aqsc/202409/t20240920_1186577.html"
         }
       ],
       "products": [
         {
-          "product": "新能源材料及金属盐（线索）",
-          "status": "unknown",
-          "period": "—"
+          "product": "硫酸镍",
+          "status": "在产",
+          "period": "2024-06"
         }
       ]
     },
@@ -6604,27 +6694,27 @@
       ]
     },
     "CN120": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "2011",
-      "note": "公开资料确认三元正极、电池业务，但未确认硫酸镍生产线。",
-      "reviewed_at": "2026-09-21",
+      "key": "halted",
+      "label": "宣告破产（2026年8月）",
+      "period": "2026年8月14日裁定（媒体报道）",
+      "note": "重整失败后宣告破产；各产线最后生产时间未披露。硫酸镍自产线仍无证据。",
+      "reviewed_at": "2026-09-30",
       "article_id": "CN120",
       "sources": [
         {
-          "title": "红网政务资料",
-          "url": "https://gov.rednet.cn/content/2020/05/06/7171058.html"
+          "title": "中国能源新闻网：锂电市场加速淘汰 桑顿新能源被申请破产重整，2024年9月24日",
+          "url": "https://www.cnenergynews.cn/news/2024/09/24/detail_20240924177344.html"
         },
         {
-          "title": "电源行业协会资料",
-          "url": "https://www.ciaps.org.cn/wap/index.php?itemid=7929&moduleid=21"
+          "title": "电池网：10余家锂电池产业链企业陷入破产危机，2026年9月13日",
+          "url": "https://www.itdcw.com/news/top/091315N302026.html"
         }
       ],
       "products": [
         {
           "product": "三元正极材料、电池",
-          "status": "未知",
-          "period": "2011"
+          "status": "破产清算",
+          "period": "2026-08"
         }
       ]
     },
@@ -6749,27 +6839,32 @@
       "products": []
     },
     "CN126": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "2018",
-      "note": "公开资料确认退役动力电池梯次利用与回收方向，未见近期镍线运行文件。",
-      "reviewed_at": "2026-09-21",
+      "key": "operating",
+      "label": "已投产（2026年记录）",
+      "period": "2026年5月",
+      "note": "回收线已建成，硫酸镍、硫酸钴以溶液出售；结晶车间为拟建技改。",
+      "reviewed_at": "2026-09-30",
       "article_id": "CN126",
       "sources": [
         {
-          "title": "天能企业资料",
-          "url": "https://www.cnebuyer.com/com/2021.html"
+          "title": "长兴县人民政府：浙江天能新材料有限公司技改提升项目环境影响评价公众参与情况说明，2026年5月",
+          "url": "https://www.zjcx.gov.cn/zfxxgk/sjpcjg/hzssthjjzxfj/fdzdgknr/shgysy/hjbh/hjyxpj/art/2026/art_4e83362dd81d46a385da9cdfb5b1d6e2.html"
         },
         {
-          "title": "天能验收监测",
-          "url": "https://www.cirs-ck.com/Uploads/file/20201119/1605752113_28501.pdf"
+          "title": "新浪财经：浙江天能年处理2.3万吨废旧锂电池项目技改提升，2026年5月19日",
+          "url": "http://finance.sina.com.cn/wm/2026-05-19/doc-inhymivp7524196.shtml"
         }
       ],
       "products": [
         {
-          "product": "镍钴锰锂回收产品",
-          "status": "未知",
-          "period": "2018"
+          "product": "硫酸镍溶液",
+          "status": "在产",
+          "period": "2026"
+        },
+        {
+          "product": "硫酸镍晶体",
+          "status": "技改拟建",
+          "period": "2026"
         }
       ]
     },
@@ -7053,27 +7148,23 @@
       ]
     },
     "CN138": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "2023",
-      "note": "仅见行业报道和采购公告，未找到企业近期生产或环评验收状态。",
-      "reviewed_at": "2026-09-21",
+      "key": "operating",
+      "label": "已投产（一期）",
+      "period": "2023年9月投产",
+      "note": "一期年处理2万吨废旧锂电池；二、三期未计入。",
+      "reviewed_at": "2026-09-30",
       "article_id": "CN138",
       "sources": [
         {
-          "title": "蜀矿环锂报道",
-          "url": "https://www.lidianshijie.com/mobile/news/show-43179.html"
-        },
-        {
-          "title": "采购公告",
-          "url": "https://www.qianlima.com/bid-630383903.html"
+          "title": "遂宁市经济合作局：四川射洪经开区全力建好“锂电之都”核心区，2023年9月18日",
+          "url": "https://sjjhzj.suining.gov.cn/xinwen/show/73cac23f344fcb907e0959985b57ec7f.html"
         }
       ],
       "products": [
         {
-          "product": "硫酸镍、硫酸钴、碳酸锂",
-          "status": "未知",
-          "period": "2023"
+          "product": "硫酸镍",
+          "status": "在产",
+          "period": "2023—"
         }
       ]
     },

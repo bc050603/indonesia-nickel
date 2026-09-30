@@ -1,5 +1,5 @@
 {
-  "asof": "2026-09-29",
+  "asof": "2026-09-30",
   "topics": [
     {
       "id": "nickel-sulphate",
@@ -4383,6 +4383,15 @@
       "project_id": "NPI067"
     },
     {
+      "date": "2022-01-13",
+      "label": "改制更名为金晟新能源",
+      "detail": "肇庆市金晟金属实业有限公司改制为股份公司并更名。",
+      "kind": "更名",
+      "project_id": "CN110",
+      "source_url": "https://www1.hkexnews.hk/app/sehk/2026/108548/documents/sehk26051801596_c.pdf",
+      "source_title": "港交所披露易：广东金晟新能源股份有限公司申请版本（中文），2026年5月18日"
+    },
+    {
       "date": "2022-02-17",
       "label": "高冰镍湿法项目投料试验",
       "detail": "高冰镍制硫酸镍工序开始投料试验。",
@@ -4624,6 +4633,24 @@
       "source_url": "https://vale.com/indonesia/indonesia-growth-projects-pomalaa",
       "source_title": "Vale IGP Pomalaa项目页",
       "project_id": "MHP018"
+    },
+    {
+      "date": "2022-12-28",
+      "label": "镍铁炉主体设备拆除完成",
+      "detail": "乌兰察布淘汰限制类装备完成情况列鑫扬两台镍铁合金矿热炉主体设备已拆除。",
+      "kind": "关闭",
+      "project_id": "CN035",
+      "source_url": "http://finance.sina.com.cn/money/future/indu/2022-12-28/doc-imxyetfn3713955.shtml",
+      "source_title": "新浪财经转载：2021—2022年度乌兰察布市淘汰限制类装备产能完成情况，2022年12月28日"
+    },
+    {
+      "date": "2022-12-28",
+      "label": "高碳铬铁炉主体设备拆除",
+      "detail": "乌兰察布淘汰限制类装备完成情况列光达两台高碳铬铁炉主体设备已拆除。",
+      "kind": "关闭",
+      "project_id": "CN051",
+      "source_url": "http://finance.sina.com.cn/money/future/indu/2022-12-28/doc-imxyetfn3713955.shtml",
+      "source_title": "新浪财经转载：2021—2022年度乌兰察布市淘汰限制类装备产能完成情况，2022年12月28日"
     },
     {
       "date": "2022Q4",
@@ -4932,6 +4959,15 @@
       "project_id": "MHP003"
     },
     {
+      "date": "2023-03-14",
+      "label": "精制硫酸镍项目备案",
+      "detail": "备案规模电池级硫酸镍24,785吨/年。",
+      "kind": "审批",
+      "project_id": "CN113",
+      "source_url": "https://www.hld.gov.cn/zwgk/fdzdgknr/zdly/shichangjianguan/aqsc/202409/t20240920_1186577.html",
+      "source_title": "葫芦岛市人民政府：华信钴业“6·8”一般中毒和窒息事故调查报告，2024年9月"
+    },
+    {
       "date": "2023-03-30",
       "label": "Vale、华友与Ford签署三方协议",
       "detail": "三方正式协议明确合作建设Pomalaa HPAL项目，由Vale矿区供应褐铁矿，在KNI设施生产MHP；签约时项目仍处建设期。",
@@ -5211,6 +5247,15 @@
       "project_id": "NPI067"
     },
     {
+      "date": "2023-09-06",
+      "label": "一期投产",
+      "detail": "年处理2万吨废旧锂电池，产电池级硫酸镍等。",
+      "kind": "投产",
+      "project_id": "CN138",
+      "source_url": "https://sjjhzj.suining.gov.cn/xinwen/show/73cac23f344fcb907e0959985b57ec7f.html",
+      "source_title": "遂宁市经济合作局：四川射洪经开区全力建好“锂电之都”核心区，2023年9月18日"
+    },
+    {
       "date": "2023-09-12",
       "label": "完成首次出铁",
       "detail": "东哈马黑拉项目完成首次metal tapping，证明RKEF主流程已经贯通。后续仍需继续调试设备、供电和原料系统。",
@@ -5263,6 +5308,15 @@
       "source_url": "https://en.gem.com.cn/CompanyNews/info_itemid_7445.html",
       "source_title": "格林美：荆门电积镍上期所注册，2024年6月19日",
       "project_id": "CN082"
+    },
+    {
+      "date": "2023-11-06",
+      "label": "三台铬铁矿热炉进入生产",
+      "detail": "化德县通报中泰镍铁技改扩建项目三台矿热炉已进入生产，一台调试。",
+      "kind": "投产",
+      "project_id": "CN047",
+      "source_url": "https://www.huade.gov.cn/bmxxgk/1437897.html",
+      "source_title": "化德县人民政府：截至十月份化德县各重点项目进展情况，2023年11月6日"
     },
     {
       "date": "2023-12",
@@ -5832,6 +5886,33 @@
       "project_id": "MHP013"
     },
     {
+      "date": "2024-06-05",
+      "label": "法院受理破产重整",
+      "detail": "湘潭中院受理贝特瑞等对桑顿的重整申请。",
+      "kind": "重整",
+      "project_id": "CN120",
+      "source_url": "https://www.itdcw.com/news/top/091315N302026.html",
+      "source_title": "电池网：10余家锂电池产业链企业陷入破产危机，2026年9月13日"
+    },
+    {
+      "date": "2024-06-07",
+      "label": "硫酸盐装置扩能环评公示",
+      "detail": "现状六水硫酸镍产能1万金吨，拟提升至1.8万金吨。",
+      "kind": "审批",
+      "project_id": "CN097",
+      "source_url": "http://www.cpcif.org.cn/detail/f088ce9f-0ce9-49df-87f5-efa1660eafb7",
+      "source_title": "中国石油和化学工业联合会：万华化学两大项目公示，2024年6月17日"
+    },
+    {
+      "date": "2024-06-08",
+      "label": "萃取工段安全事故",
+      "detail": "事故调查报告显示萃取除杂工序运行中发生中毒窒息事故。",
+      "kind": "安全事故",
+      "project_id": "CN113",
+      "source_url": "https://www.hld.gov.cn/zwgk/fdzdgknr/zdly/shichangjianguan/aqsc/202409/t20240920_1186577.html",
+      "source_title": "葫芦岛市人民政府：华信钴业“6·8”一般中毒和窒息事故调查报告，2024年9月"
+    },
+    {
       "date": "2024-06-17",
       "label": "荆门电积镍获上期所注册",
       "detail": "注册主体为荆门格林美，工艺为电积。",
@@ -6046,6 +6127,15 @@
       "source_url": "https://www.cngrgf.com.cn/gsxw/1398.html",
       "source_title": "中伟：钦州电解镍上期所注册，2024年12月20日",
       "project_id": "CN164"
+    },
+    {
+      "date": "2024-12-24",
+      "label": "镍铁炉改造硅锰炉列入整改销号",
+      "detail": "乌兰察布市工信局公示嘉铭2×30000kVA镍铁炉转型改造为2×36000kVA硅锰炉项目。",
+      "kind": "转产",
+      "project_id": "CN043",
+      "source_url": "https://gxj.wulanchabu.gov.cn/tzgg/1716259.html",
+      "source_title": "乌兰察布市工业和信息化局：中央生态环境保护督察整改任务销号公示，2024年12月24日"
     },
     {
       "date": "2024-12-24",
@@ -6625,6 +6715,15 @@
     },
     {
       "date": "2025-02",
+      "label": "新型保温炉烘炉试车",
+      "detail": "官网称约四个月后稳定产出金属化镍阳极板。",
+      "kind": "试产",
+      "project_id": "CN094",
+      "source_url": "http://jlnickel.com.cn/qyxw",
+      "source_title": "吉恩镍业官网：企业新闻（保温炉稳定生产、LME注册）"
+    },
+    {
+      "date": "2025-02",
       "label": "改扩建未建设",
       "detail": "审批项目暂未建设",
       "kind": "planned",
@@ -6777,6 +6876,15 @@
       "project_id": "CN137"
     },
     {
+      "date": "2025-05-30",
+      "label": "整改公示记载停产",
+      "detail": "许昌市公示企业已缴纳罚款，目前处于停产状态。",
+      "kind": "停产",
+      "project_id": "CN075",
+      "source_url": "https://www.xuchang.gov.cn/zt/010048/010048002/20250530/7640e139-4e04-4a9d-8161-f929c2cb603e.html",
+      "source_title": "许昌市人民政府：生态环境问题整改情况公示（河南鑫金汇／汇一不锈钢），2025年5月30日"
+    },
+    {
       "date": "2025-06",
       "label": "交易条件满足并设立NCH",
       "detail": "双方在2025年6月满足交割条件并设立NCH，项目公司股权为ANTAM 30%、Hong Kong CBL 70%；设立公司不代表已经产出MHP。",
@@ -6885,6 +6993,24 @@
       "source_title": "Lifezone：收购BHP的KNL权益，2025年7月18日"
     },
     {
+      "date": "2025-07-21",
+      "label": "原嘉铭硅锰炉技改为高碳铬铁",
+      "detail": "化德县通报鑫五州于2023—2024年将原嘉铭3台硅锰炉技改为高碳铬铁炉。",
+      "kind": "转产",
+      "project_id": "CN043",
+      "source_url": "https://www.huade.gov.cn/ssqk80/1854419.html",
+      "source_title": "化德县人民政府：化德县2025年上半年计划实施重大项目情况，2025年7月21日"
+    },
+    {
+      "date": "2025-08-01",
+      "label": "电解镍获LME注册",
+      "detail": "“吉恩”牌电解镍注册年产能5000吨。",
+      "kind": "认证",
+      "project_id": "CN094",
+      "source_url": "https://wap.asianmetal.cn/news/viewNews.am?nId=2850405",
+      "source_title": "亚洲金属网：“吉恩”牌电解镍获LME注册，2025年8月1日"
+    },
+    {
       "date": "2025-09-10",
       "label": "短流程项目环评获批报道",
       "detail": "行业报道介绍许昌市生态环境局批准鑫金汇不锈钢短流程再生不锈钢工艺优化项目。",
@@ -6901,6 +7027,24 @@
       "source_url": "https://en.gem.com.cn/CompanyNews/info_itemid_7734.html",
       "source_title": "GEM：QMB投产3万吨电积镍线",
       "project_id": "MHP011"
+    },
+    {
+      "date": "2025-09-24",
+      "label": "县政府确认破产清算",
+      "detail": "朝阳县政府答复称朝阳昊天早已申请破产，资产处于清算处置阶段。",
+      "kind": "破产",
+      "project_id": "CN015",
+      "source_url": "https://www.cyx.gov.cn/html/CYXZF/202509/0175869685100071.html",
+      "source_title": "朝阳县人民政府：对县十九届人大二次会议第35号建议的答复，2025年9月24日"
+    },
+    {
+      "date": "2025-09-25",
+      "label": "镍铁炉转产铬铁方案公告",
+      "detail": "乌兰察布市工信局公告2×33000kVA镍铁矿热炉转产高碳铬铁的产能置换方案，公示无异议。",
+      "kind": "审批",
+      "project_id": "CN038",
+      "source_url": "https://gxj.wulanchabu.gov.cn/tzgg/1883029.html",
+      "source_title": "乌兰察布市工业和信息化局：上泰镍铁矿热炉转产高碳铬铁项目产能置换方案公告，2025年9月25日"
     },
     {
       "date": "2025-09-28",
@@ -6928,6 +7072,15 @@
       "source_url": "https://assets.merdekabattery.com/dist/documents/FY2025%20Financial%20Results%20Presentation%20-%201%20April%202026.pdf",
       "source_title": "MBMA 2025财年业绩演示",
       "project_id": "P01"
+    },
+    {
+      "date": "2025-10-13",
+      "label": "调研记载月产钢约6000吨",
+      "detail": "许昌市工信局调研称集团绿色短流程炼钢线逐步稳定。",
+      "kind": "运行变化",
+      "project_id": "CN075",
+      "source_url": "https://gxj.xuchang.gov.cn/yclyjn/20251013/c729f295-a269-48a8-b2a8-6515ef5a6975.html",
+      "source_title": "许昌市工业和信息化局：市工信局赴长葛调研黑色金属加工企业，2025年10月13日"
     },
     {
       "date": "2025-10-30",
@@ -7524,6 +7677,15 @@
       "project_id": "P26"
     },
     {
+      "date": "2026-04-27",
+      "label": "E3线完成安装调试",
+      "detail": "五矿新能报道金驰前驱体E3线调试试机，D1、E4线升级改造。",
+      "kind": "调试",
+      "project_id": "CN106",
+      "source_url": "https://caifuhao.eastmoney.com/news/20260427184131866053770",
+      "source_title": "东方财富财富号：五矿新能一季度经营报道，2026年4月27日"
+    },
+    {
       "date": "2026-04-29",
       "label": "公告部分产线临时停产检修",
       "detail": "华友公告华飞自2026年5月1日起安排部分产线检修，背景包括硫磺价格上涨和长期高负荷运行，预计影响检修期约50%产量。",
@@ -7567,6 +7729,15 @@
       "source_url": "https://sherritt.com/sherritt-reports-second-quarter-2026-results/",
       "source_title": "Sherritt2026Q2业绩",
       "project_id": "MHP044"
+    },
+    {
+      "date": "2026-05-18",
+      "label": "结晶车间技改环评公示",
+      "detail": "已建回收线产品以溶液出售，拟新增结晶车间。",
+      "kind": "审批",
+      "project_id": "CN126",
+      "source_url": "https://www.zjcx.gov.cn/zfxxgk/sjpcjg/hzssthjjzxfj/fdzdgknr/shgysy/hjbh/hjyxpj/art/2026/art_4e83362dd81d46a385da9cdfb5b1d6e2.html",
+      "source_title": "长兴县人民政府：浙江天能新材料有限公司技改提升项目环境影响评价公众参与情况说明，2026年5月"
     },
     {
       "date": "2026-05-25",
@@ -7621,6 +7792,15 @@
       "source_url": "https://nickelindustries.com/carbon/assets/0007ea/000006/3078560.pdf",
       "project_id": "NPI031",
       "source_title": "Nickel Industries operating update, 17 June 2026"
+    },
+    {
+      "date": "2026-06-22",
+      "label": "新电积镍产线通电投产",
+      "detail": "SMM报道新电积镍产线通电投产。",
+      "kind": "投产",
+      "project_id": "CN094",
+      "source_url": "https://news.smm.cn/live/detail/103966597",
+      "source_title": "SMM：吉恩镍业新电积镍产线通电投产，2026年6月23日"
     },
     {
       "date": "2026-06-22",
@@ -7720,6 +7900,24 @@
       "source_url": "https://m.antaranews.com/amp/berita/5692560/vale-sebut-konstruksi-mekanis-smelter-nikel-hpal-pomalaa-tuntas",
       "project_id": "MHP018",
       "source_title": "ANTARA: Vale says Pomalaa HPAL mechanical construction complete, 13 Aug 2026"
+    },
+    {
+      "date": "2026-08-14",
+      "label": "终止重整并宣告破产",
+      "detail": "湘潭中院裁定终止重整程序，宣告破产（媒体报道）。",
+      "kind": "破产",
+      "project_id": "CN120",
+      "source_url": "https://www.itdcw.com/news/top/091315N302026.html",
+      "source_title": "电池网：10余家锂电池产业链企业陷入破产危机，2026年9月13日"
+    },
+    {
+      "date": "2026-08-22",
+      "label": "管理人委托拍卖破产资产",
+      "detail": "拍卖公告称受朝阳昊天管理人委托，公开拍卖其破产清算资产。",
+      "kind": "破产",
+      "project_id": "CN015",
+      "source_url": "https://www.bidizhaobiao.com/company_400672590241509376.html",
+      "source_title": "比地招标网：朝阳拍卖行受朝阳昊天管理人委托的破产资产拍卖公告，2026年8月22日"
     },
     {
       "date": "2026-09-10",
@@ -54049,6 +54247,426 @@
         {
           "type": "project",
           "id": "NPI038"
+        }
+      ]
+    },
+    {
+      "id": "UC1913",
+      "url": "https://www.cyx.gov.cn/html/CYXZF/202509/0175869685100071.html",
+      "title": "朝阳县人民政府：对县十九届人大二次会议第35号建议的答复，2025年9月24日",
+      "titles": [
+        "朝阳县人民政府：对县十九届人大二次会议第35号建议的答复，2025年9月24日"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN015"
+        }
+      ]
+    },
+    {
+      "id": "UC1914",
+      "url": "https://www.bidizhaobiao.com/company_400672590241509376.html",
+      "title": "比地招标网：朝阳拍卖行受朝阳昊天管理人委托的破产资产拍卖公告，2026年8月22日",
+      "titles": [
+        "比地招标网：朝阳拍卖行受朝阳昊天管理人委托的破产资产拍卖公告，2026年8月22日"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN015"
+        }
+      ]
+    },
+    {
+      "id": "UC1915",
+      "url": "http://finance.sina.com.cn/money/future/indu/2022-12-28/doc-imxyetfn3713955.shtml",
+      "title": "新浪财经转载：2021—2022年度乌兰察布市淘汰限制类装备产能完成情况，2022年12月28日",
+      "titles": [
+        "新浪财经转载：2021—2022年度乌兰察布市淘汰限制类装备产能完成情况，2022年12月28日"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN035"
+        },
+        {
+          "type": "project",
+          "id": "CN051"
+        }
+      ]
+    },
+    {
+      "id": "UC1916",
+      "url": "https://gxj.wulanchabu.gov.cn/tzgg/1883029.html",
+      "title": "乌兰察布市工业和信息化局：上泰镍铁矿热炉转产高碳铬铁项目产能置换方案公告，2025年9月25日",
+      "titles": [
+        "乌兰察布市工业和信息化局：上泰镍铁矿热炉转产高碳铬铁项目产能置换方案公告，2025年9月25日"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN038"
+        }
+      ]
+    },
+    {
+      "id": "UC1917",
+      "url": "https://www.163.com/dy/article/K2PD1D8405368F0O.html",
+      "title": "网易：内蒙古上泰项目分期建设报道，2025年6月24日",
+      "titles": [
+        "网易：内蒙古上泰项目分期建设报道，2025年6月24日"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN038"
+        }
+      ]
+    },
+    {
+      "id": "UC1918",
+      "url": "https://gxj.wulanchabu.gov.cn/tzgg/1716259.html",
+      "title": "乌兰察布市工业和信息化局：中央生态环境保护督察整改任务销号公示，2024年12月24日",
+      "titles": [
+        "乌兰察布市工业和信息化局：中央生态环境保护督察整改任务销号公示，2024年12月24日"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN043"
+        }
+      ]
+    },
+    {
+      "id": "UC1919",
+      "url": "https://www.huade.gov.cn/ssqk80/1854419.html",
+      "title": "化德县人民政府：化德县2025年上半年计划实施重大项目情况，2025年7月21日",
+      "titles": [
+        "化德县人民政府：化德县2025年上半年计划实施重大项目情况，2025年7月21日"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN043"
+        }
+      ]
+    },
+    {
+      "id": "UC1920",
+      "url": "https://www.huade.gov.cn/bmxxgk/1385905.html",
+      "title": "化德县人民政府：2023年化德县重大项目清单，2023年8月30日",
+      "titles": [
+        "化德县人民政府：2023年化德县重大项目清单，2023年8月30日"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN047"
+        }
+      ]
+    },
+    {
+      "id": "UC1921",
+      "url": "https://www.huade.gov.cn/bmxxgk/1437897.html",
+      "title": "化德县人民政府：截至十月份化德县各重点项目进展情况，2023年11月6日",
+      "titles": [
+        "化德县人民政府：截至十月份化德县各重点项目进展情况，2023年11月6日"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN047"
+        }
+      ]
+    },
+    {
+      "id": "UC1922",
+      "url": "https://www.xuchang.gov.cn/zt/010048/010048002/20250530/7640e139-4e04-4a9d-8161-f929c2cb603e.html",
+      "title": "许昌市人民政府：生态环境问题整改情况公示（河南鑫金汇／汇一不锈钢），2025年5月30日",
+      "titles": [
+        "许昌市人民政府：生态环境问题整改情况公示（河南鑫金汇／汇一不锈钢），2025年5月30日"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN075"
+        }
+      ]
+    },
+    {
+      "id": "UC1923",
+      "url": "https://fgw.henan.gov.cn/2025/09-16/3227116.html",
+      "title": "河南省发展和改革委员会：鑫金汇短流程再生不锈钢工艺优化项目节能报告审查意见（豫发改审批〔2025〕102号），2025年8月",
+      "titles": [
+        "河南省发展和改革委员会：鑫金汇短流程再生不锈钢工艺优化项目节能报告审查意见（豫发改审批〔2025〕102号），2025年8月"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN075"
+        }
+      ]
+    },
+    {
+      "id": "UC1924",
+      "url": "https://gxj.xuchang.gov.cn/yclyjn/20251013/c729f295-a269-48a8-b2a8-6515ef5a6975.html",
+      "title": "许昌市工业和信息化局：市工信局赴长葛调研黑色金属加工企业，2025年10月13日",
+      "titles": [
+        "许昌市工业和信息化局：市工信局赴长葛调研黑色金属加工企业，2025年10月13日"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN075"
+        }
+      ]
+    },
+    {
+      "id": "UC1925",
+      "url": "https://www.zhongdengwang.org.cn/xzzxgg/cb665d13-bfb6-447b-b461-f6638fc93acd.html",
+      "title": "动产融资统一登记公示系统：河南鑫金汇不锈钢有限公司司法协助执行公告，2025年12月",
+      "titles": [
+        "动产融资统一登记公示系统：河南鑫金汇不锈钢有限公司司法协助执行公告，2025年12月"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN075"
+        }
+      ]
+    },
+    {
+      "id": "UC1926",
+      "url": "http://jlnickel.com.cn/qyxw",
+      "title": "吉恩镍业官网：企业新闻（保温炉稳定生产、LME注册）",
+      "titles": [
+        "吉恩镍业官网：企业新闻（保温炉稳定生产、LME注册）"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN094"
+        }
+      ]
+    },
+    {
+      "id": "UC1927",
+      "url": "https://wap.asianmetal.cn/news/viewNews.am?nId=2850405",
+      "title": "亚洲金属网：“吉恩”牌电解镍获LME注册，2025年8月1日",
+      "titles": [
+        "亚洲金属网：“吉恩”牌电解镍获LME注册，2025年8月1日"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN094"
+        }
+      ]
+    },
+    {
+      "id": "UC1928",
+      "url": "https://news.smm.cn/live/detail/103966597",
+      "title": "SMM：吉恩镍业新电积镍产线通电投产，2026年6月23日",
+      "titles": [
+        "SMM：吉恩镍业新电积镍产线通电投产，2026年6月23日"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN094"
+        }
+      ]
+    },
+    {
+      "id": "UC1929",
+      "url": "http://www.cpcif.org.cn/detail/f088ce9f-0ce9-49df-87f5-efa1660eafb7",
+      "title": "中国石油和化学工业联合会：万华化学两大项目公示，2024年6月17日",
+      "titles": [
+        "中国石油和化学工业联合会：万华化学两大项目公示，2024年6月17日"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN097"
+        }
+      ]
+    },
+    {
+      "id": "UC1930",
+      "url": "https://www.hssti.cn/news/568.html",
+      "title": "金驰能源材料有限公司镍钴金属溶解技改项目安全预评价报告，2020年1月6日",
+      "titles": [
+        "金驰能源材料有限公司镍钴金属溶解技改项目安全预评价报告，2020年1月6日"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN106"
+        }
+      ]
+    },
+    {
+      "id": "UC1931",
+      "url": "https://caifuhao.eastmoney.com/news/20260427184131866053770",
+      "title": "东方财富财富号：五矿新能一季度经营报道，2026年4月27日",
+      "titles": [
+        "东方财富财富号：五矿新能一季度经营报道，2026年4月27日"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN106"
+        }
+      ]
+    },
+    {
+      "id": "UC1932",
+      "url": "https://www1.hkexnews.hk/app/sehk/2026/108548/documents/sehk26051801596_c.pdf",
+      "title": "港交所披露易：广东金晟新能源股份有限公司申请版本（中文），2026年5月18日",
+      "titles": [
+        "港交所披露易：广东金晟新能源股份有限公司申请版本（中文），2026年5月18日"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN110"
+        }
+      ]
+    },
+    {
+      "id": "UC1933",
+      "url": "https://www.hld.gov.cn/zwgk/fdzdgknr/zdly/shichangjianguan/aqsc/202409/t20240920_1186577.html",
+      "title": "葫芦岛市人民政府：华信钴业“6·8”一般中毒和窒息事故调查报告，2024年9月",
+      "titles": [
+        "葫芦岛市人民政府：华信钴业“6·8”一般中毒和窒息事故调查报告，2024年9月"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN113"
+        }
+      ]
+    },
+    {
+      "id": "UC1934",
+      "url": "https://www.cnenergynews.cn/news/2024/09/24/detail_20240924177344.html",
+      "title": "中国能源新闻网：锂电市场加速淘汰 桑顿新能源被申请破产重整，2024年9月24日",
+      "titles": [
+        "中国能源新闻网：锂电市场加速淘汰 桑顿新能源被申请破产重整，2024年9月24日"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN120"
+        }
+      ]
+    },
+    {
+      "id": "UC1935",
+      "url": "https://www.itdcw.com/news/top/091315N302026.html",
+      "title": "电池网：10余家锂电池产业链企业陷入破产危机，2026年9月13日",
+      "titles": [
+        "电池网：10余家锂电池产业链企业陷入破产危机，2026年9月13日"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN120"
+        }
+      ]
+    },
+    {
+      "id": "UC1936",
+      "url": "https://www.zjcx.gov.cn/zfxxgk/sjpcjg/hzssthjjzxfj/fdzdgknr/shgysy/hjbh/hjyxpj/art/2026/art_4e83362dd81d46a385da9cdfb5b1d6e2.html",
+      "title": "长兴县人民政府：浙江天能新材料有限公司技改提升项目环境影响评价公众参与情况说明，2026年5月",
+      "titles": [
+        "长兴县人民政府：浙江天能新材料有限公司技改提升项目环境影响评价公众参与情况说明，2026年5月"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN126"
+        }
+      ]
+    },
+    {
+      "id": "UC1937",
+      "url": "http://finance.sina.com.cn/wm/2026-05-19/doc-inhymivp7524196.shtml",
+      "title": "新浪财经：浙江天能年处理2.3万吨废旧锂电池项目技改提升，2026年5月19日",
+      "titles": [
+        "新浪财经：浙江天能年处理2.3万吨废旧锂电池项目技改提升，2026年5月19日"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN126"
+        }
+      ]
+    },
+    {
+      "id": "UC1938",
+      "url": "https://sjjhzj.suining.gov.cn/xinwen/show/73cac23f344fcb907e0959985b57ec7f.html",
+      "title": "遂宁市经济合作局：四川射洪经开区全力建好“锂电之都”核心区，2023年9月18日",
+      "titles": [
+        "遂宁市经济合作局：四川射洪经开区全力建好“锂电之都”核心区，2023年9月18日"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "CN138"
         }
       ]
     }
