@@ -1526,51 +1526,55 @@
     ]
   },
   "GL001": {
-    "title": "Euronickel Industries (formerly FENI Industries) Kavadarci Ferronickel Plant 欧洲镍业(Euronickel Industries，原FENI Industries)卡瓦达尔齐镍铁厂",
-    "english": "Euronickel Industries (formerly FENI Industries) Kavadarci Ferronickel Plant",
-    "chinese": "欧洲镍业(Euronickel Industries，原FENI Industries)卡瓦达尔齐镍铁厂",
+    "title": "Kavadarci Ferronickel Plant (Euronickel) 卡瓦达尔齐镍铁厂",
+    "english": "Kavadarci Ferronickel Plant (Euronickel)",
+    "chinese": "卡瓦达尔齐镍铁厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Euronickel Industries (formerly FENI Industries) Kavadarci Ferronickel Plant",
       "欧洲镍业(Euronickel Industries，原FENI Industries)卡瓦达尔齐镍铁厂",
-      "NI-001"
+      "NI-001",
+      "Euronickel Industries (formerly FENI Industries) Kavadarci Ferronickel Plant 欧洲镍业(Euronickel Industries，原FENI Industries)卡瓦达尔齐镍铁厂"
     ]
   },
   "GL003": {
-    "title": "Çaldağ Nickel Laterite Atmospheric Heap Leach Project 恰尔达(Çaldağ)红土镍常压堆浸项目",
-    "english": "Çaldağ Nickel Laterite Atmospheric Heap Leach Project",
-    "chinese": "恰尔达(Çaldağ)红土镍常压堆浸项目",
+    "title": "Çaldağ Nickel Heap Leach Project 恰尔达红土镍堆浸项目",
+    "english": "Çaldağ Nickel Heap Leach Project",
+    "chinese": "恰尔达红土镍堆浸项目",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Çaldağ Nickel Laterite Atmospheric Heap Leach Project",
       "恰尔达(Çaldağ)红土镍常压堆浸项目",
-      "NI-003"
+      "NI-003",
+      "Çaldağ Nickel Laterite Atmospheric Heap Leach Project 恰尔达(Çaldağ)红土镍常压堆浸项目"
     ]
   },
   "GL004": {
-    "title": "LARCO (GMM S.A.) Larymna Ferronickel Smelter 拉尔科(LARCO)拉里姆纳镍铁冶炼厂",
-    "english": "LARCO (GMM S.A.) Larymna Ferronickel Smelter",
-    "chinese": "拉尔科(LARCO)拉里姆纳镍铁冶炼厂",
+    "title": "Larymna Ferronickel Smelter (LARCO) 拉里姆纳镍铁冶炼厂",
+    "english": "Larymna Ferronickel Smelter (LARCO)",
+    "chinese": "拉里姆纳镍铁冶炼厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "LARCO (GMM S.A.) Larymna Ferronickel Smelter",
       "拉尔科(LARCO)拉里姆纳镍铁冶炼厂",
-      "NI-004"
+      "NI-004",
+      "LARCO (GMM S.A.) Larymna Ferronickel Smelter 拉尔科(LARCO)拉里姆纳镍铁冶炼厂"
     ]
   },
   "GL005": {
-    "title": "Nickelhütte Aue GmbH 奥厄镍冶炼厂(Nickelhütte Aue)",
-    "english": "Nickelhütte Aue GmbH",
-    "chinese": "奥厄镍冶炼厂(Nickelhütte Aue)",
+    "title": "Nickelhütte Aue 奥厄镍冶炼厂",
+    "english": "Nickelhütte Aue",
+    "chinese": "奥厄镍冶炼厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Nickelhütte Aue GmbH",
       "奥厄镍冶炼厂(Nickelhütte Aue)",
-      "NI-005"
+      "NI-005",
+      "Nickelhütte Aue GmbH 奥厄镍冶炼厂(Nickelhütte Aue)"
     ]
   },
   "GL006": {
@@ -1578,365 +1582,398 @@
     "english": "Ringerike Nikkelverk",
     "chinese": "灵厄里克镍厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Ringerike Nikkelverk (Ringerike Nickel Works)",
       "灵厄里克镍冶炼厂(Ringerike Nikkelverk)",
       "NI-006",
       "Ringerike Nikkelverk (Ringerike Nickel Works) 灵厄里克镍冶炼厂(Ringerike Nikkelverk)",
-      "Ringerike Nikkelverk 灵厄里克镍厂"
+      "Ringerike Nikkelverk 灵厄里克镍厂",
+      "Ringerike Nikkelverk",
+      "灵厄里克镍厂"
     ]
   },
   "GL007": {
-    "title": "Evje Nikkelverk (Flåt Nickel Smelter) 埃夫耶镍冶炼厂（弗洛特矿配套冶炼厂）",
-    "english": "Evje Nikkelverk (Flåt Nickel Smelter)",
-    "chinese": "埃夫耶镍冶炼厂（弗洛特矿配套冶炼厂）",
+    "title": "Evje Nikkelverk 埃夫耶镍冶炼厂",
+    "english": "Evje Nikkelverk",
+    "chinese": "埃夫耶镍冶炼厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Evje Nikkelverk (Flåt Nickel Smelter)",
       "埃夫耶镍冶炼厂（弗洛特矿配套冶炼厂）",
-      "NI-007"
+      "NI-007",
+      "Evje Nikkelverk (Flåt Nickel Smelter) 埃夫耶镍冶炼厂（弗洛特矿配套冶炼厂）"
     ]
   },
   "GL008": {
-    "title": "Senjen Nickel Works (Senjens Nikkelverk) 塞尼亚(Senjen)镍矿冶炼厂",
-    "english": "Senjen Nickel Works (Senjens Nikkelverk)",
-    "chinese": "塞尼亚(Senjen)镍矿冶炼厂",
+    "title": "Senjen Nickel Works 塞尼亚镍冶炼厂",
+    "english": "Senjen Nickel Works",
+    "chinese": "塞尼亚镍冶炼厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Senjen Nickel Works (Senjens Nikkelverk)",
       "塞尼亚(Senjen)镍矿冶炼厂",
-      "NI-008"
+      "NI-008",
+      "Senjen Nickel Works (Senjens Nikkelverk) 塞尼亚(Senjen)镍矿冶炼厂"
     ]
   },
   "GL009": {
-    "title": "Glencore Nikkelverk (Kristiansand Nickel Refinery) 嘉能可克里斯蒂安桑镍精炼厂(Nikkelverk)",
-    "english": "Glencore Nikkelverk (Kristiansand Nickel Refinery)",
-    "chinese": "嘉能可克里斯蒂安桑镍精炼厂(Nikkelverk)",
+    "title": "Glencore Nikkelverk 克里斯蒂安桑镍精炼厂",
+    "english": "Glencore Nikkelverk",
+    "chinese": "克里斯蒂安桑镍精炼厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Glencore Nikkelverk (Kristiansand Nickel Refinery)",
       "嘉能可克里斯蒂安桑镍精炼厂(Nikkelverk)",
-      "NI-009"
+      "NI-009",
+      "Glencore Nikkelverk (Kristiansand Nickel Refinery) 嘉能可克里斯蒂安桑镍精炼厂(Nikkelverk)"
     ]
   },
   "GL010": {
-    "title": "Niklová huta Sereď (Sereď Nickel-Cobalt Electrolytic Plant) 谢雷季(Sereď)镍钴电解厂",
-    "english": "Niklová huta Sereď (Sereď Nickel-Cobalt Electrolytic Plant)",
-    "chinese": "谢雷季(Sereď)镍钴电解厂",
+    "title": "Sereď Nickel Plant 谢雷季镍钴电解厂",
+    "english": "Sereď Nickel Plant",
+    "chinese": "谢雷季镍钴电解厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Niklová huta Sereď (Sereď Nickel-Cobalt Electrolytic Plant)",
       "谢雷季(Sereď)镍钴电解厂",
-      "NI-010"
+      "NI-010",
+      "Niklová huta Sereď (Sereď Nickel-Cobalt Electrolytic Plant) 谢雷季(Sereď)镍钴电解厂"
     ]
   },
   "GL011": {
-    "title": "Umicore Olen Site (Cobalt & Specialty Materials, incl. nickel sulphate line) 优美科(Umicore)奥伦(Olen)基地（钴与特种材料，含镍盐产线）",
-    "english": "Umicore Olen Site (Cobalt & Specialty Materials, incl. nickel sulphate line)",
-    "chinese": "优美科(Umicore)奥伦(Olen)基地（钴与特种材料，含镍盐产线）",
+    "title": "Umicore Olen Refinery 奥伦镍精炼厂",
+    "english": "Umicore Olen Refinery",
+    "chinese": "奥伦镍精炼厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Umicore Olen Site (Cobalt & Specialty Materials, incl. nickel sulphate line)",
       "优美科(Umicore)奥伦(Olen)基地（钴与特种材料，含镍盐产线）",
-      "NI-011"
+      "NI-011",
+      "Umicore Olen Site (Cobalt & Specialty Materials, incl. nickel sulphate line) 优美科(Umicore)奥伦(Olen)基地（钴与特种材料，含镍盐产线）"
     ]
   },
   "GL012": {
-    "title": "Septèmes-les-Vallons 塞普泰姆历史镍精炼厂",
-    "english": "Septèmes-les-Vallons",
-    "chinese": "塞普泰姆历史镍精炼厂",
+    "title": "Septèmes Nickel Works 塞普泰姆镍精炼厂",
+    "english": "Septèmes Nickel Works",
+    "chinese": "塞普泰姆镍精炼厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Septèmes-les-Vallons Nickel Foundry (Marbeau & Garnier)",
       "塞普泰姆莱瓦隆镍冶炼厂(马尔博与加尼耶创办)",
       "NI-012",
       "Septèmes-les-Vallons Nickel Foundry (Marbeau & Garnier) 塞普泰姆莱瓦隆镍冶炼厂(马尔博与加尼耶创办)",
-      "Septèmes-les-Vallons 塞普泰姆历史镍精炼厂"
+      "Septèmes-les-Vallons 塞普泰姆历史镍精炼厂",
+      "Septèmes-les-Vallons",
+      "塞普泰姆历史镍精炼厂"
     ]
   },
   "GL013": {
-    "title": "Sandouville Nickel Refinery (Le Havre) 桑杜维尔(Sandouville)镍精炼厂（勒阿弗尔附近）",
-    "english": "Sandouville Nickel Refinery (Le Havre)",
-    "chinese": "桑杜维尔(Sandouville)镍精炼厂（勒阿弗尔附近）",
+    "title": "Sandouville Nickel Refinery 桑杜维尔镍精炼厂",
+    "english": "Sandouville Nickel Refinery",
+    "chinese": "桑杜维尔镍精炼厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Sandouville Nickel Refinery (Le Havre)",
       "桑杜维尔(Sandouville)镍精炼厂（勒阿弗尔附近）",
-      "NI-013"
+      "NI-013",
+      "Sandouville Nickel Refinery (Le Havre) 桑杜维尔(Sandouville)镍精炼厂（勒阿弗尔附近）"
     ]
   },
   "GL014": {
-    "title": "Zakłady Górniczo-Hutnicze Szklary 什克拉雷矿冶厂",
-    "english": "Zakłady Górniczo-Hutnicze Szklary",
-    "chinese": "什克拉雷矿冶厂",
+    "title": "Szklary Nickel Works 什克拉雷镍矿冶厂",
+    "english": "Szklary Nickel Works",
+    "chinese": "什克拉雷镍矿冶厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Szklary Nickel Mine & Smelter (German era: \"Nickelwerke Frankenstein\"; Polish era: Zakłady Górniczo-Hutnicze Szklary)",
       "什克拉雷(Szklary)镍矿与冶炼厂【德国时期称\"法兰肯施泰因镍厂\"，波兰时期称什克拉雷矿冶联合企业】",
       "NI-014",
       "Szklary Nickel Mine & Smelter (German era: \"Nickelwerke Frankenstein\"; Polish era: Zakłady Górniczo-Hutnicze Szklary) 什克拉雷(Szklary)镍矿与冶炼厂【德国时期称\"法兰肯施泰因镍厂\"，波兰时期称什克拉雷矿冶联合企业】",
-      "Zakłady Górniczo-Hutnicze Szklary 什克拉雷矿冶厂"
+      "Zakłady Górniczo-Hutnicze Szklary 什克拉雷矿冶厂",
+      "Zakłady Górniczo-Hutnicze Szklary",
+      "什克拉雷矿冶厂"
     ]
   },
   "GL015": {
-    "title": "NewCo Ferronikeli Complex 纽科费罗尼克利(NewCo Ferronikeli)镍铁联合企业",
-    "english": "NewCo Ferronikeli Complex",
-    "chinese": "纽科费罗尼克利(NewCo Ferronikeli)镍铁联合企业",
+    "title": "Ferronikeli Drenas Plant 德雷纳斯镍铁厂（Ferronikeli）",
+    "english": "Ferronikeli Drenas Plant",
+    "chinese": "德雷纳斯镍铁厂（Ferronikeli）",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "NewCo Ferronikeli Complex",
       "纽科费罗尼克利(NewCo Ferronikeli)镍铁联合企业",
-      "NI-015"
+      "NI-015",
+      "NewCo Ferronikeli Complex 纽科费罗尼克利(NewCo Ferronikeli)镍铁联合企业"
     ]
   },
   "GL016": {
-    "title": "Boliden Harjavalta Smelter (nickel line) 波利登哈尔亚瓦尔塔冶炼厂（镍线）",
-    "english": "Boliden Harjavalta Smelter (nickel line)",
-    "chinese": "波利登哈尔亚瓦尔塔冶炼厂（镍线）",
+    "title": "Boliden Harjavalta Nickel Smelter 波利登哈尔亚瓦尔塔镍冶炼厂",
+    "english": "Boliden Harjavalta Nickel Smelter",
+    "chinese": "波利登哈尔亚瓦尔塔镍冶炼厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Boliden Harjavalta Smelter (nickel line)",
       "波利登哈尔亚瓦尔塔冶炼厂（镍线）",
-      "NI-016"
+      "NI-016",
+      "Boliden Harjavalta Smelter (nickel line) 波利登哈尔亚瓦尔塔冶炼厂（镍线）"
     ]
   },
   "GL017": {
-    "title": "Nornickel Harjavalta (Norilsk Nickel Harjavalta Oy) Nickel Refinery 诺里尔斯克镍业哈尔亚瓦尔塔精炼厂",
-    "english": "Nornickel Harjavalta (Norilsk Nickel Harjavalta Oy) Nickel Refinery",
-    "chinese": "诺里尔斯克镍业哈尔亚瓦尔塔精炼厂",
+    "title": "Nornickel Harjavalta Refinery 诺镍哈尔亚瓦尔塔精炼厂",
+    "english": "Nornickel Harjavalta Refinery",
+    "chinese": "诺镍哈尔亚瓦尔塔精炼厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Nornickel Harjavalta (Norilsk Nickel Harjavalta Oy) Nickel Refinery",
       "诺里尔斯克镍业哈尔亚瓦尔塔精炼厂",
-      "NI-017"
+      "NI-017",
+      "Nornickel Harjavalta (Norilsk Nickel Harjavalta Oy) Nickel Refinery 诺里尔斯克镍业哈尔亚瓦尔塔精炼厂"
     ]
   },
   "GL018": {
-    "title": "Kokkola (Umicore Finland) — planned 50kt nickel refinery (paused); existing cobalt/pCAM plant 科科拉(Umicore)镍精炼规划线(暂停)；现有钴精炼/pCAM厂",
-    "english": "Kokkola (Umicore Finland) — planned 50kt nickel refinery (paused); existing cobalt/pCAM plant",
-    "chinese": "科科拉(Umicore)镍精炼规划线(暂停)；现有钴精炼/pCAM厂",
+    "title": "Kokkola Nickel Refinery Project 科科拉镍精炼项目",
+    "english": "Kokkola Nickel Refinery Project",
+    "chinese": "科科拉镍精炼项目",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Kokkola (Umicore Finland) — planned 50kt nickel refinery (paused); existing cobalt/pCAM plant",
       "科科拉(Umicore)镍精炼规划线(暂停)；现有钴精炼/pCAM厂",
-      "NI-018"
+      "NI-018",
+      "Kokkola (Umicore Finland) — planned 50kt nickel refinery (paused); existing cobalt/pCAM plant 科科拉(Umicore)镍精炼规划线(暂停)；现有钴精炼/pCAM厂"
     ]
   },
   "GL020": {
-    "title": "Hafod Isha Nickel and Cobalt Works (H.H. Vivian & Co. Ltd.) 哈福德伊沙(Hafod Isha)镍钴厂(维维安父子公司)",
-    "english": "Hafod Isha Nickel and Cobalt Works (H.H. Vivian & Co. Ltd.)",
-    "chinese": "哈福德伊沙(Hafod Isha)镍钴厂(维维安父子公司)",
+    "title": "Hafod Isha Nickel and Cobalt Works 哈福德伊沙镍钴厂",
+    "english": "Hafod Isha Nickel and Cobalt Works",
+    "chinese": "哈福德伊沙镍钴厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Hafod Isha Nickel and Cobalt Works (H.H. Vivian & Co. Ltd.)",
       "哈福德伊沙(Hafod Isha)镍钴厂(维维安父子公司)",
-      "NI-020"
+      "NI-020",
+      "Hafod Isha Nickel and Cobalt Works (H.H. Vivian & Co. Ltd.) 哈福德伊沙(Hafod Isha)镍钴厂(维维安父子公司)"
     ]
   },
   "GL021": {
-    "title": "Vale Clydach Refinery 淡水河谷克莱达赫(Clydach)镍精炼厂",
-    "english": "Vale Clydach Refinery",
-    "chinese": "淡水河谷克莱达赫(Clydach)镍精炼厂",
+    "title": "Clydach Nickel Refinery 克莱达赫镍精炼厂",
+    "english": "Clydach Nickel Refinery",
+    "chinese": "克莱达赫镍精炼厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Vale Clydach Refinery",
       "淡水河谷克莱达赫(Clydach)镍精炼厂",
-      "NI-021"
+      "NI-021",
+      "Vale Clydach Refinery 淡水河谷克莱达赫(Clydach)镍精炼厂"
     ]
   },
   "GL022": {
-    "title": "INCO / Vale Acton Refinery (London) 国际镍公司(INCO)/淡水河谷阿克顿(Acton)精炼厂（伦敦）",
-    "english": "INCO / Vale Acton Refinery (London)",
-    "chinese": "国际镍公司(INCO)/淡水河谷阿克顿(Acton)精炼厂（伦敦）",
+    "title": "Acton Refinery (London) 阿克顿精炼厂（伦敦）",
+    "english": "Acton Refinery (London)",
+    "chinese": "阿克顿精炼厂（伦敦）",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "INCO / Vale Acton Refinery (London)",
       "国际镍公司(INCO)/淡水河谷阿克顿(Acton)精炼厂（伦敦）",
-      "NI-022"
+      "NI-022",
+      "INCO / Vale Acton Refinery (London) 国际镍公司(INCO)/淡水河谷阿克顿(Acton)精炼厂（伦敦）"
     ]
   },
   "GL023": {
-    "title": "Elbasan Metallurgical Combine – Nickel-Cobalt Plant (\"Steel of the Party\" / Kombinati Metalurgjik \"Çeliku i Partisë\") 埃尔巴桑冶金联合企业镍钴厂(\"党的钢铁\"联合企业)",
-    "english": "Elbasan Metallurgical Combine – Nickel-Cobalt Plant (\"Steel of the Party\" / Kombinati Metalurgjik \"Çeliku i Partisë\")",
-    "chinese": "埃尔巴桑冶金联合企业镍钴厂(\"党的钢铁\"联合企业)",
+    "title": "Elbasan Nickel-Cobalt Plant 埃尔巴桑镍钴厂",
+    "english": "Elbasan Nickel-Cobalt Plant",
+    "chinese": "埃尔巴桑镍钴厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Elbasan Metallurgical Combine – Nickel-Cobalt Plant (\"Steel of the Party\" / Kombinati Metalurgjik \"Çeliku i Partisë\")",
       "埃尔巴桑冶金联合企业镍钴厂(\"党的钢铁\"联合企业)",
-      "NI-023"
+      "NI-023",
+      "Elbasan Metallurgical Combine – Nickel-Cobalt Plant (\"Steel of the Party\" / Kombinati Metalurgjik \"Çeliku i Partisë\") 埃尔巴桑冶金联合企业镍钴厂(\"党的钢铁\"联合企业)"
     ]
   },
   "GL024": {
-    "title": "Pobuzhsky Ferronickel Plant (PFK) 波布日镍铁厂（PFK）",
-    "english": "Pobuzhsky Ferronickel Plant (PFK)",
-    "chinese": "波布日镍铁厂（PFK）",
+    "title": "Pobuzhsky Ferronickel Plant 波布日镍铁厂",
+    "english": "Pobuzhsky Ferronickel Plant",
+    "chinese": "波布日镍铁厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Pobuzhsky Ferronickel Plant (PFK)",
       "波布日镍铁厂（PFK）",
-      "NI-024"
+      "NI-024",
+      "Pobuzhsky Ferronickel Plant (PFK) 波布日镍铁厂（PFK）"
     ]
   },
   "GL025": {
-    "title": "Ufaleynickel (OAO/JSC Ufaleynickel) 乌法列镍厂",
-    "english": "Ufaleynickel (OAO/JSC Ufaleynickel)",
+    "title": "Ufaleynickel 乌法列镍厂",
+    "english": "Ufaleynickel",
     "chinese": "乌法列镍厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Ufaleynickel (OAO/JSC Ufaleynickel)",
       "乌法列镍厂",
-      "NI-025"
+      "NI-025",
+      "Ufaleynickel (OAO/JSC Ufaleynickel) 乌法列镍厂"
     ]
   },
   "GL026": {
-    "title": "Rezhnickel (ZAO/OAO Rezhnickel) 雷日镍厂",
-    "english": "Rezhnickel (ZAO/OAO Rezhnickel)",
+    "title": "Rezhnickel 雷日镍厂",
+    "english": "Rezhnickel",
     "chinese": "雷日镍厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Rezhnickel (ZAO/OAO Rezhnickel)",
       "雷日镍厂",
-      "NI-026"
+      "NI-026",
+      "Rezhnickel (ZAO/OAO Rezhnickel) 雷日镍厂"
     ]
   },
   "GL027": {
-    "title": "South Urals Nickel Combine (Kombinat Yuzhuralnickel), Orsk 南乌拉尔镍联合企业（奥尔斯克）",
-    "english": "South Urals Nickel Combine (Kombinat Yuzhuralnickel), Orsk",
-    "chinese": "南乌拉尔镍联合企业（奥尔斯克）",
+    "title": "Yuzhuralnickel Combine 南乌拉尔镍联合企业",
+    "english": "Yuzhuralnickel Combine",
+    "chinese": "南乌拉尔镍联合企业",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "South Urals Nickel Combine (Kombinat Yuzhuralnickel), Orsk",
       "南乌拉尔镍联合企业（奥尔斯克）",
-      "NI-027"
+      "NI-027",
+      "South Urals Nickel Combine (Kombinat Yuzhuralnickel), Orsk 南乌拉尔镍联合企业（奥尔斯克）"
     ]
   },
   "GL028": {
-    "title": "Severonickel (Kola MMC Refining Plant), Monchegorsk 北方镍厂（科拉矿冶公司精炼厂，蒙切戈尔斯克）",
-    "english": "Severonickel (Kola MMC Refining Plant), Monchegorsk",
-    "chinese": "北方镍厂（科拉矿冶公司精炼厂，蒙切戈尔斯克）",
+    "title": "Severonickel Combine (Monchegorsk) 北方镍联合企业（蒙切戈尔斯克）",
+    "english": "Severonickel Combine (Monchegorsk)",
+    "chinese": "北方镍联合企业（蒙切戈尔斯克）",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Severonickel (Kola MMC Refining Plant), Monchegorsk",
       "北方镍厂（科拉矿冶公司精炼厂，蒙切戈尔斯克）",
-      "NI-028"
+      "NI-028",
+      "Severonickel (Kola MMC Refining Plant), Monchegorsk 北方镍厂（科拉矿冶公司精炼厂，蒙切戈尔斯克）"
     ]
   },
   "GL029": {
-    "title": "Nickel Plant (Norilsk) [Никелевый завод] 诺里尔斯克镍厂（老镍厂）",
-    "english": "Nickel Plant (Norilsk) [Никелевый завод]",
-    "chinese": "诺里尔斯克镍厂（老镍厂）",
+    "title": "Norilsk Nickel Plant 诺里尔斯克镍厂",
+    "english": "Norilsk Nickel Plant",
+    "chinese": "诺里尔斯克镍厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Nickel Plant (Norilsk) [Никелевый завод]",
       "诺里尔斯克镍厂（老镍厂）",
-      "NI-029"
+      "NI-029",
+      "Nickel Plant (Norilsk) [Никелевый завод] 诺里尔斯克镍厂（老镍厂）"
     ]
   },
   "GL030": {
-    "title": "Pechenganickel Combine Smelter, Nikel 佩琴加镍厂（尼克尔镇冶炼厂）",
-    "english": "Pechenganickel Combine Smelter, Nikel",
-    "chinese": "佩琴加镍厂（尼克尔镇冶炼厂）",
+    "title": "Pechenganickel Smelter 佩琴加镍冶炼厂",
+    "english": "Pechenganickel Smelter",
+    "chinese": "佩琴加镍冶炼厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Pechenganickel Combine Smelter, Nikel",
       "佩琴加镍厂（尼克尔镇冶炼厂）",
-      "NI-030"
+      "NI-030",
+      "Pechenganickel Combine Smelter, Nikel 佩琴加镍厂（尼克尔镇冶炼厂）"
     ]
   },
   "GL031": {
-    "title": "Nadezhda Metallurgical Plant (NMP) 纳杰日达冶金厂（纳杰日金斯基冶金厂）",
-    "english": "Nadezhda Metallurgical Plant (NMP)",
-    "chinese": "纳杰日达冶金厂（纳杰日金斯基冶金厂）",
+    "title": "Nadezhda Metallurgical Plant 纳杰日达冶金厂",
+    "english": "Nadezhda Metallurgical Plant",
+    "chinese": "纳杰日达冶金厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Nadezhda Metallurgical Plant (NMP)",
       "纳杰日达冶金厂（纳杰日金斯基冶金厂）",
-      "NI-031"
+      "NI-031",
+      "Nadezhda Metallurgical Plant (NMP) 纳杰日达冶金厂（纳杰日金斯基冶金厂）"
     ]
   },
   "GL032": {
-    "title": "Buruktal (Svetly) Ferronickel Plant — ООО «БНЗ» (Buruktalsky Nickel Plant) 布鲁克塔尔(斯韦特雷)镍铁厂",
-    "english": "Buruktal (Svetly) Ferronickel Plant — ООО «БНЗ» (Buruktalsky Nickel Plant)",
-    "chinese": "布鲁克塔尔(斯韦特雷)镍铁厂",
+    "title": "Buruktal Ferronickel Plant 布鲁克塔尔镍铁厂",
+    "english": "Buruktal Ferronickel Plant",
+    "chinese": "布鲁克塔尔镍铁厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Buruktal (Svetly) Ferronickel Plant — ООО «БНЗ» (Buruktalsky Nickel Plant)",
       "布鲁克塔尔(斯韦特雷)镍铁厂",
-      "NI-032"
+      "NI-032",
+      "Buruktal (Svetly) Ferronickel Plant — ООО «БНЗ» (Buruktalsky Nickel Plant) 布鲁克塔尔(斯韦特雷)镍铁厂"
     ]
   },
   "GL033": {
-    "title": "Chernogorsky GOK (Kingash Ni-Cu-PGE integrated project) 切尔诺戈尔斯克矿冶联合体（金加什镍铜铂族金属一体化项目）",
-    "english": "Chernogorsky GOK (Kingash Ni-Cu-PGE integrated project)",
-    "chinese": "切尔诺戈尔斯克矿冶联合体（金加什镍铜铂族金属一体化项目）",
+    "title": "Chernogorsky GOK (Kingash Project) 切尔诺戈尔斯克矿冶联合体（金加什项目）",
+    "english": "Chernogorsky GOK (Kingash Project)",
+    "chinese": "切尔诺戈尔斯克矿冶联合体（金加什项目）",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Chernogorsky GOK (Kingash Ni-Cu-PGE integrated project)",
       "切尔诺戈尔斯克矿冶联合体（金加什镍铜铂族金属一体化项目）",
-      "NI-033"
+      "NI-033",
+      "Chernogorsky GOK (Kingash Ni-Cu-PGE integrated project) 切尔诺戈尔斯克矿冶联合体（金加什镍铜铂族金属一体化项目）"
     ]
   },
   "GL034": {
-    "title": "Copper Plant (Norilsk) 诺里尔斯克铜厂",
-    "english": "Copper Plant (Norilsk)",
+    "title": "Norilsk Copper Plant 诺里尔斯克铜厂",
+    "english": "Norilsk Copper Plant",
     "chinese": "诺里尔斯克铜厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Copper Plant (Norilsk)",
       "诺里尔斯克铜厂",
-      "NI-034"
+      "NI-034",
+      "Copper Plant (Norilsk) 诺里尔斯克铜厂"
     ]
   },
   "GL035": {
-    "title": "Kaznickel (Gornostayevskoye Ni-Co ISL Project) 哈萨克镍业（戈尔诺斯塔耶夫斯科耶镍钴原位溶浸项目）",
-    "english": "Kaznickel (Gornostayevskoye Ni-Co ISL Project)",
-    "chinese": "哈萨克镍业（戈尔诺斯塔耶夫斯科耶镍钴原位溶浸项目）",
+    "title": "Gornostayevskoye Nickel-Cobalt ISL Project 戈尔诺斯塔耶夫斯科耶镍钴原位溶浸项目",
+    "english": "Gornostayevskoye Nickel-Cobalt ISL Project",
+    "chinese": "戈尔诺斯塔耶夫斯科耶镍钴原位溶浸项目",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Kaznickel (Gornostayevskoye Ni-Co ISL Project)",
       "哈萨克镍业（戈尔诺斯塔耶夫斯科耶镍钴原位溶浸项目）",
-      "NI-035"
+      "NI-035",
+      "Kaznickel (Gornostayevskoye Ni-Co ISL Project) 哈萨克镍业（戈尔诺斯塔耶夫斯科耶镍钴原位溶浸项目）"
     ]
   },
   "GL036": {
-    "title": "Taiwan Nickel Refining Corporation 台湾镍业精炼股份有限公司",
-    "english": "Taiwan Nickel Refining Corporation",
-    "chinese": "台湾镍业精炼股份有限公司",
+    "title": "Kaohsiung Nickel Refinery (Taiwan Nickel Refining) 高雄镍精炼厂（台湾镍业精炼）",
+    "english": "Kaohsiung Nickel Refinery (Taiwan Nickel Refining)",
+    "chinese": "高雄镍精炼厂（台湾镍业精炼）",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Taiwan Nickel Refining Corporation",
       "台湾镍业精炼股份有限公司",
-      "NI-036"
+      "NI-036",
+      "Taiwan Nickel Refining Corporation 台湾镍业精炼股份有限公司"
     ]
   },
   "GL037": {
@@ -1944,35 +1981,38 @@
     "english": "Niihama Nickel Refinery",
     "chinese": "新居浜镍精炼厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Niihama Nickel Refinery",
       "新居浜镍精炼厂",
-      "NI-037"
+      "NI-037",
+      "Niihama Nickel Refinery 新居浜镍精炼厂"
     ]
   },
   "GL038": {
-    "title": "Shimura Kako Co., Ltd. 志村化工株式会社(电解镍厂，历史)",
-    "english": "Shimura Kako Co., Ltd.",
-    "chinese": "志村化工株式会社(电解镍厂，历史)",
+    "title": "Shimura Kako Electrolytic Nickel Plant 志村化工电解镍厂",
+    "english": "Shimura Kako Electrolytic Nickel Plant",
+    "chinese": "志村化工电解镍厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Shimura Kako Co., Ltd.",
       "志村化工株式会社(电解镍厂，历史)",
-      "NI-038"
+      "NI-038",
+      "Shimura Kako Co., Ltd. 志村化工株式会社(电解镍厂，历史)"
     ]
   },
   "GL039": {
-    "title": "Nippon Yakin Kogyo Co., Ltd. Oheyama Works 日本冶金工业 大江山制作所",
-    "english": "Nippon Yakin Kogyo Co., Ltd. Oheyama Works",
-    "chinese": "日本冶金工业 大江山制作所",
+    "title": "Oheyama Ferronickel Works 大江山镍铁厂",
+    "english": "Oheyama Ferronickel Works",
+    "chinese": "大江山镍铁厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Nippon Yakin Kogyo Co., Ltd. Oheyama Works",
       "日本冶金工业 大江山制作所",
-      "NI-039"
+      "NI-039",
+      "Nippon Yakin Kogyo Co., Ltd. Oheyama Works 日本冶金工业 大江山制作所"
     ]
   },
   "GL040": {
@@ -1980,215 +2020,233 @@
     "english": "Harima Refinery",
     "chinese": "播磨精炼厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Harima Refinery",
       "播磨精炼厂",
-      "NI-040"
+      "NI-040",
+      "Harima Refinery 播磨精炼厂"
     ]
   },
   "GL041": {
-    "title": "Pacific Metals Co., Ltd. (PAMCO) Hachinohe Works 太平洋金属八户制炼所",
-    "english": "Pacific Metals Co., Ltd. (PAMCO) Hachinohe Works",
-    "chinese": "太平洋金属八户制炼所",
+    "title": "Hachinohe Ferronickel Works 八户镍铁厂",
+    "english": "Hachinohe Ferronickel Works",
+    "chinese": "八户镍铁厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Pacific Metals Co., Ltd. (PAMCO) Hachinohe Works",
       "太平洋金属八户制炼所",
-      "NI-041"
+      "NI-041",
+      "Pacific Metals Co., Ltd. (PAMCO) Hachinohe Works 太平洋金属八户制炼所"
     ]
   },
   "GL042": {
-    "title": "Nippon Mining Co., Ltd. Nickel-Cobalt Separation Plant (historical) 日本矿业 镍钴分离厂(历史，选址未确认)",
-    "english": "Nippon Mining Co., Ltd. Nickel-Cobalt Separation Plant (historical)",
-    "chinese": "日本矿业 镍钴分离厂(历史，选址未确认)",
+    "title": "Nippon Mining Nickel-Cobalt Separation Plant 日本矿业镍钴分离厂",
+    "english": "Nippon Mining Nickel-Cobalt Separation Plant",
+    "chinese": "日本矿业镍钴分离厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Nippon Mining Co., Ltd. Nickel-Cobalt Separation Plant (historical)",
       "日本矿业 镍钴分离厂(历史，选址未确认)",
-      "NI-042"
+      "NI-042",
+      "Nippon Mining Co., Ltd. Nickel-Cobalt Separation Plant (historical) 日本矿业 镍钴分离厂(历史，选址未确认)"
     ]
   },
   "GL043": {
-    "title": "Hyuga Smelting Co., Ltd. 日向精炼所",
-    "english": "Hyuga Smelting Co., Ltd.",
+    "title": "Hyuga Smelting 日向精炼所",
+    "english": "Hyuga Smelting",
     "chinese": "日向精炼所",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Hyuga Smelting Co., Ltd.",
       "日向精炼所",
-      "NI-043"
+      "NI-043",
+      "Hyuga Smelting Co., Ltd. 日向精炼所"
     ]
   },
   "GL044": {
-    "title": "Mitsubishi Materials Naoshima Smelter (nickel byproduct) 三菱综合材料 直岛制炼所(镍副产)",
-    "english": "Mitsubishi Materials Naoshima Smelter (nickel byproduct)",
-    "chinese": "三菱综合材料 直岛制炼所(镍副产)",
+    "title": "Naoshima Smelter (nickel by-product) 直岛冶炼厂（副产镍）",
+    "english": "Naoshima Smelter (nickel by-product)",
+    "chinese": "直岛冶炼厂（副产镍）",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Mitsubishi Materials Naoshima Smelter (nickel byproduct)",
       "三菱综合材料 直岛制炼所(镍副产)",
-      "NI-044"
+      "NI-044",
+      "Mitsubishi Materials Naoshima Smelter (nickel byproduct) 三菱综合材料 直岛制炼所(镍副产)"
     ]
   },
   "GL045": {
-    "title": "Pacific Metals Hachinohe Polymetallic Nodule Processing Project 太平洋金属八户 多金属结核冶炼改造项目",
-    "english": "Pacific Metals Hachinohe Polymetallic Nodule Processing Project",
-    "chinese": "太平洋金属八户 多金属结核冶炼改造项目",
+    "title": "Hachinohe Polymetallic Nodule Project 八户多金属结核冶炼项目",
+    "english": "Hachinohe Polymetallic Nodule Project",
+    "chinese": "八户多金属结核冶炼项目",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Pacific Metals Hachinohe Polymetallic Nodule Processing Project",
       "太平洋金属八户 多金属结核冶炼改造项目",
-      "NI-045"
+      "NI-045",
+      "Pacific Metals Hachinohe Polymetallic Nodule Processing Project 太平洋金属八户 多金属结核冶炼改造项目"
     ]
   },
   "GL046": {
-    "title": "Sumitomo Metal Mining / Hyuga Smelting New Nickel Matte Production Facility 住友金属矿山/日向精炼 镍锍新产线",
-    "english": "Sumitomo Metal Mining / Hyuga Smelting New Nickel Matte Production Facility",
-    "chinese": "住友金属矿山/日向精炼 镍锍新产线",
+    "title": "Hyuga Nickel Matte Plant 日向镍锍新厂",
+    "english": "Hyuga Nickel Matte Plant",
+    "chinese": "日向镍锍新厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Sumitomo Metal Mining / Hyuga Smelting New Nickel Matte Production Facility",
       "住友金属矿山/日向精炼 镍锍新产线",
-      "NI-046"
+      "NI-046",
+      "Sumitomo Metal Mining / Hyuga Smelting New Nickel Matte Production Facility 住友金属矿山/日向精炼 镍锍新产线"
     ]
   },
   "GL047": {
-    "title": "Tokyo Nickel Co., Ltd. / Vale Japan Ltd. 东京镍业公司(后更名Vale Japan)松阪制炼所",
-    "english": "Tokyo Nickel Co., Ltd. / Vale Japan Ltd.",
-    "chinese": "东京镍业公司(后更名Vale Japan)松阪制炼所",
+    "title": "Matsusaka Nickel Refinery 松阪镍精炼厂",
+    "english": "Matsusaka Nickel Refinery",
+    "chinese": "松阪镍精炼厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Tokyo Nickel Co., Ltd. / Vale Japan Ltd.",
       "东京镍业公司(后更名Vale Japan)松阪制炼所",
-      "NI-047"
+      "NI-047",
+      "Tokyo Nickel Co., Ltd. / Vale Japan Ltd. 东京镍业公司(后更名Vale Japan)松阪制炼所"
     ]
   },
   "GL048": {
-    "title": "Korea Nickel Corporation (KNC) 韩国镍业公司(KNC)",
-    "english": "Korea Nickel Corporation (KNC)",
-    "chinese": "韩国镍业公司(KNC)",
+    "title": "Korea Nickel Corporation Refinery 韩国镍业精炼厂",
+    "english": "Korea Nickel Corporation Refinery",
+    "chinese": "韩国镍业精炼厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Korea Nickel Corporation (KNC)",
       "韩国镍业公司(KNC)",
-      "NI-048"
+      "NI-048",
+      "Korea Nickel Corporation (KNC) 韩国镍业公司(KNC)"
     ]
   },
   "GL049": {
-    "title": "SNNC Co., Ltd. (POSCO-SMSP Ferronickel Smelter) SNNC(POSCO-SMSP合资镍铁厂)",
-    "english": "SNNC Co., Ltd. (POSCO-SMSP Ferronickel Smelter)",
-    "chinese": "SNNC(POSCO-SMSP合资镍铁厂)",
+    "title": "SNNC Gwangyang Ferronickel Smelter SNNC光阳镍铁冶炼厂",
+    "english": "SNNC Gwangyang Ferronickel Smelter",
+    "chinese": "SNNC光阳镍铁冶炼厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "SNNC Co., Ltd. (POSCO-SMSP Ferronickel Smelter)",
       "SNNC(POSCO-SMSP合资镍铁厂)",
-      "NI-049"
+      "NI-049",
+      "SNNC Co., Ltd. (POSCO-SMSP Ferronickel Smelter) SNNC(POSCO-SMSP合资镍铁厂)"
     ]
   },
   "GL050": {
-    "title": "EcoPro Materials Pohang Plant (RMP / Nickel-Cobalt Refining + Precursor) EcoPro Materials 浦项厂(RMP镍钴精炼+前驱体)",
-    "english": "EcoPro Materials Pohang Plant (RMP / Nickel-Cobalt Refining + Precursor)",
-    "chinese": "EcoPro Materials 浦项厂(RMP镍钴精炼+前驱体)",
+    "title": "EcoPro Pohang Nickel Refinery EcoPro浦项镍精炼厂",
+    "english": "EcoPro Pohang Nickel Refinery",
+    "chinese": "EcoPro浦项镍精炼厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "EcoPro Materials Pohang Plant (RMP / Nickel-Cobalt Refining + Precursor)",
       "EcoPro Materials 浦项厂(RMP镍钴精炼+前驱体)",
-      "NI-050"
+      "NI-050",
+      "EcoPro Materials Pohang Plant (RMP / Nickel-Cobalt Refining + Precursor) EcoPro Materials 浦项厂(RMP镍钴精炼+前驱体)"
     ]
   },
   "GL051": {
-    "title": "POSCO High-Purity Nickel Refinery POSCO 光阳高纯镍精炼厂",
-    "english": "POSCO High-Purity Nickel Refinery",
-    "chinese": "POSCO 光阳高纯镍精炼厂",
+    "title": "POSCO Gwangyang High-Purity Nickel Refinery POSCO光阳高纯镍精炼厂",
+    "english": "POSCO Gwangyang High-Purity Nickel Refinery",
+    "chinese": "POSCO光阳高纯镍精炼厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "POSCO High-Purity Nickel Refinery",
       "POSCO 光阳高纯镍精炼厂",
-      "NI-051"
+      "NI-051",
+      "POSCO High-Purity Nickel Refinery POSCO 光阳高纯镍精炼厂"
     ]
   },
   "GL052": {
-    "title": "Torecom (LS MnM) Nickel Sulfate Refinery Torecom(LS MnM子公司) 牙山硫酸镍精炼厂",
-    "english": "Torecom (LS MnM) Nickel Sulfate Refinery",
-    "chinese": "Torecom(LS MnM子公司) 牙山硫酸镍精炼厂",
+    "title": "Torecom Asan Nickel Sulphate Plant Torecom牙山硫酸镍厂",
+    "english": "Torecom Asan Nickel Sulphate Plant",
+    "chinese": "Torecom牙山硫酸镍厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Torecom (LS MnM) Nickel Sulfate Refinery",
       "Torecom(LS MnM子公司) 牙山硫酸镍精炼厂",
-      "NI-052"
+      "NI-052",
+      "Torecom (LS MnM) Nickel Sulfate Refinery Torecom(LS MnM子公司) 牙山硫酸镍精炼厂"
     ]
   },
   "GL053": {
-    "title": "Korea Zinc \"All-in-One Nickel Smelter\" (KEMCO, new) 高丽亚锌 温山'一体化镍冶炼厂'(新建)",
-    "english": "Korea Zinc \"All-in-One Nickel Smelter\" (KEMCO, new)",
-    "chinese": "高丽亚锌 温山'一体化镍冶炼厂'(新建)",
+    "title": "Korea Zinc Onsan All-in-One Nickel Refinery 高丽亚锌温山一体化镍精炼厂",
+    "english": "Korea Zinc Onsan All-in-One Nickel Refinery",
+    "chinese": "高丽亚锌温山一体化镍精炼厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Korea Zinc \"All-in-One Nickel Smelter\" (KEMCO, new)",
       "高丽亚锌 温山'一体化镍冶炼厂'(新建)",
-      "NI-053"
+      "NI-053",
+      "Korea Zinc \"All-in-One Nickel Smelter\" (KEMCO, new) 高丽亚锌 温山'一体化镍冶炼厂'(新建)"
     ]
   },
   "GL054": {
-    "title": "LS MnM Ulsan Nickel-Cobalt-Manganese Sulfate Plant LS MnM 温山镍钴锰硫酸盐新厂",
-    "english": "LS MnM Ulsan Nickel-Cobalt-Manganese Sulfate Plant",
-    "chinese": "LS MnM 温山镍钴锰硫酸盐新厂",
+    "title": "LS MnM Onsan Nickel Sulphate Plant LS MnM温山硫酸镍厂",
+    "english": "LS MnM Onsan Nickel Sulphate Plant",
+    "chinese": "LS MnM温山硫酸镍厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "LS MnM Ulsan Nickel-Cobalt-Manganese Sulfate Plant",
       "LS MnM 温山镍钴锰硫酸盐新厂",
-      "NI-054"
+      "NI-054",
+      "LS MnM Ulsan Nickel-Cobalt-Manganese Sulfate Plant LS MnM 温山镍钴锰硫酸盐新厂"
     ]
   },
   "GL055": {
-    "title": "KEMCO (Korea Zinc) Onsan Nickel Sulphate Refinery (existing line) 高丽亚锌/KEMCO 温山硫酸镍精炼厂(既有产线)",
-    "english": "KEMCO (Korea Zinc) Onsan Nickel Sulphate Refinery (existing line)",
-    "chinese": "高丽亚锌/KEMCO 温山硫酸镍精炼厂(既有产线)",
+    "title": "KEMCO Onsan Nickel Sulphate Plant KEMCO温山硫酸镍厂",
+    "english": "KEMCO Onsan Nickel Sulphate Plant",
+    "chinese": "KEMCO温山硫酸镍厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "KEMCO (Korea Zinc) Onsan Nickel Sulphate Refinery (existing line)",
       "高丽亚锌/KEMCO 温山硫酸镍精炼厂(既有产线)",
-      "NI-055"
+      "NI-055",
+      "KEMCO (Korea Zinc) Onsan Nickel Sulphate Refinery (existing line) 高丽亚锌/KEMCO 温山硫酸镍精炼厂(既有产线)"
     ]
   },
   "GL056": {
-    "title": "Hindustan Copper Ltd — Indian Copper Complex Nickel-Copper-Acid Recovery Plant 印度斯坦铜业公司—印度铜业联合体镍-铜-酸回收装置",
-    "english": "Hindustan Copper Ltd — Indian Copper Complex Nickel-Copper-Acid Recovery Plant",
-    "chinese": "印度斯坦铜业公司—印度铜业联合体镍-铜-酸回收装置",
+    "title": "Ghatsila Nickel Recovery Plant (Indian Copper Complex) 加特西拉镍回收装置（印度铜业联合体）",
+    "english": "Ghatsila Nickel Recovery Plant (Indian Copper Complex)",
+    "chinese": "加特西拉镍回收装置（印度铜业联合体）",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Hindustan Copper Ltd — Indian Copper Complex Nickel-Copper-Acid Recovery Plant",
       "印度斯坦铜业公司—印度铜业联合体镍-铜-酸回收装置",
-      "NI-056"
+      "NI-056",
+      "Hindustan Copper Ltd — Indian Copper Complex Nickel-Copper-Acid Recovery Plant 印度斯坦铜业公司—印度铜业联合体镍-铜-酸回收装置"
     ]
   },
   "GL057": {
-    "title": "Nicomet Industries Ltd. (Vedanta Nicomet) 尼科梅特工业公司（Vedanta Nicomet）",
-    "english": "Nicomet Industries Ltd. (Vedanta Nicomet)",
-    "chinese": "尼科梅特工业公司（Vedanta Nicomet）",
+    "title": "Nicomet Goa Nickel-Cobalt Plant 尼科梅特果阿镍钴厂",
+    "english": "Nicomet Goa Nickel-Cobalt Plant",
+    "chinese": "尼科梅特果阿镍钴厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Nicomet Industries Ltd. (Vedanta Nicomet)",
       "尼科梅特工业公司（Vedanta Nicomet）",
-      "NI-057"
+      "NI-057",
+      "Nicomet Industries Ltd. (Vedanta Nicomet) 尼科梅特工业公司（Vedanta Nicomet）"
     ]
   },
   "GL058": {
@@ -2196,203 +2254,220 @@
     "english": "AFC Nickel Sulphate Plant",
     "chinese": "AFC硫酸镍厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "AFC Nickel Sulphate Plant",
       "AFC硫酸镍厂",
-      "NI-058"
+      "NI-058",
+      "AFC Nickel Sulphate Plant AFC硫酸镍厂"
     ]
   },
   "GL059": {
-    "title": "Tagaung Taung Nickel-Iron (Ferronickel) Project 德贡东（塔冈冬）镍铁冶炼项目",
-    "english": "Tagaung Taung Nickel-Iron (Ferronickel) Project",
-    "chinese": "德贡东（塔冈冬）镍铁冶炼项目",
+    "title": "Tagaung Taung Ferronickel Project 德贡东镍铁项目",
+    "english": "Tagaung Taung Ferronickel Project",
+    "chinese": "德贡东镍铁项目",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Tagaung Taung Nickel-Iron (Ferronickel) Project",
       "德贡东（塔冈冬）镍铁冶炼项目",
-      "NI-059"
+      "NI-059",
+      "Tagaung Taung Nickel-Iron (Ferronickel) Project 德贡东（塔冈冬）镍铁冶炼项目"
     ]
   },
   "GL060": {
-    "title": "Mwetaung (Gullu Mual) Nickel-Ferronickel Project 牟埃冬（古鲁穆阿）镍铁项目",
-    "english": "Mwetaung (Gullu Mual) Nickel-Ferronickel Project",
-    "chinese": "牟埃冬（古鲁穆阿）镍铁项目",
+    "title": "Mwetaung Ferronickel Project 牟埃冬镍铁项目",
+    "english": "Mwetaung Ferronickel Project",
+    "chinese": "牟埃冬镍铁项目",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Mwetaung (Gullu Mual) Nickel-Ferronickel Project",
       "牟埃冬（古鲁穆阿）镍铁项目",
-      "NI-060"
+      "NI-060",
+      "Mwetaung (Gullu Mual) Nickel-Ferronickel Project 牟埃冬（古鲁穆阿）镍铁项目"
     ]
   },
   "GL061": {
-    "title": "Nonoc Nickel Refinery (Marinduque Mining & Industrial Corp.); revival attempted by Philnico Industrial Corporation (PIC) 诺诺克岛镍精炼厂（马林杜克矿业公司建；后由Philnico公司尝试复产改造）",
-    "english": "Nonoc Nickel Refinery (Marinduque Mining & Industrial Corp.); revival attempted by Philnico Industrial Corporation (PIC)",
-    "chinese": "诺诺克岛镍精炼厂（马林杜克矿业公司建；后由Philnico公司尝试复产改造）",
+    "title": "Nonoc Nickel Refinery 诺诺克镍精炼厂",
+    "english": "Nonoc Nickel Refinery",
+    "chinese": "诺诺克镍精炼厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Nonoc Nickel Refinery (Marinduque Mining & Industrial Corp.); revival attempted by Philnico Industrial Corporation (PIC)",
       "诺诺克岛镍精炼厂（马林杜克矿业公司建；后由Philnico公司尝试复产改造）",
-      "NI-061"
+      "NI-061",
+      "Nonoc Nickel Refinery (Marinduque Mining & Industrial Corp.); revival attempted by Philnico Industrial Corporation (PIC) 诺诺克岛镍精炼厂（马林杜克矿业公司建；后由Philnico公司尝试复产改造）"
     ]
   },
   "GL064": {
-    "title": "Global Ferronickel Holdings (GFNI) Planned HPAL Plant Global Ferronickel Holdings拟建HPAL厂",
-    "english": "Global Ferronickel Holdings (GFNI) Planned HPAL Plant",
-    "chinese": "Global Ferronickel Holdings拟建HPAL厂",
+    "title": "GFNI HPAL Project GFNI湿法项目",
+    "english": "GFNI HPAL Project",
+    "chinese": "GFNI湿法项目",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Global Ferronickel Holdings (GFNI) Planned HPAL Plant",
       "Global Ferronickel Holdings拟建HPAL厂",
-      "NI-064"
+      "NI-064",
+      "Global Ferronickel Holdings (GFNI) Planned HPAL Plant Global Ferronickel Holdings拟建HPAL厂"
     ]
   },
   "GL065": {
-    "title": "Nickel Asia Corporation Third HPAL Plant (Pujada Peninsula Project) Nickel Asia第三座HPAL厂（普哈达半岛项目）",
-    "english": "Nickel Asia Corporation Third HPAL Plant (Pujada Peninsula Project)",
-    "chinese": "Nickel Asia第三座HPAL厂（普哈达半岛项目）",
+    "title": "Pujada HPAL Project 普哈达湿法项目",
+    "english": "Pujada HPAL Project",
+    "chinese": "普哈达湿法项目",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Nickel Asia Corporation Third HPAL Plant (Pujada Peninsula Project)",
       "Nickel Asia第三座HPAL厂（普哈达半岛项目）",
-      "NI-065"
+      "NI-065",
+      "Nickel Asia Corporation Third HPAL Plant (Pujada Peninsula Project) Nickel Asia第三座HPAL厂（普哈达半岛项目）"
     ]
   },
   "GL066": {
-    "title": "Nickel Asia – DMCI Mining Nickel Processing Plant Partnership Nickel Asia与DMCI Mining镍加工厂合作项目",
-    "english": "Nickel Asia – DMCI Mining Nickel Processing Plant Partnership",
-    "chinese": "Nickel Asia与DMCI Mining镍加工厂合作项目",
+    "title": "Nickel Asia–DMCI Nickel Processing Plant Nickel Asia与DMCI镍加工厂项目",
+    "english": "Nickel Asia–DMCI Nickel Processing Plant",
+    "chinese": "Nickel Asia与DMCI镍加工厂项目",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Nickel Asia – DMCI Mining Nickel Processing Plant Partnership",
       "Nickel Asia与DMCI Mining镍加工厂合作项目",
-      "NI-066"
+      "NI-066",
+      "Nickel Asia – DMCI Mining Nickel Processing Plant Partnership Nickel Asia与DMCI Mining镍加工厂合作项目"
     ]
   },
   "GL067": {
-    "title": "Zambales Ferro-Nickel Plant and Mining Project (Westchinamin Corp.) 三描礼士省镍铁厂及配套矿山项目（Westchinamin公司）",
-    "english": "Zambales Ferro-Nickel Plant and Mining Project (Westchinamin Corp.)",
-    "chinese": "三描礼士省镍铁厂及配套矿山项目（Westchinamin公司）",
+    "title": "Zambales Ferronickel Project 三描礼士镍铁项目",
+    "english": "Zambales Ferronickel Project",
+    "chinese": "三描礼士镍铁项目",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Zambales Ferro-Nickel Plant and Mining Project (Westchinamin Corp.)",
       "三描礼士省镍铁厂及配套矿山项目（Westchinamin公司）",
-      "NI-067"
+      "NI-067",
+      "Zambales Ferro-Nickel Plant and Mining Project (Westchinamin Corp.) 三描礼士省镍铁厂及配套矿山项目（Westchinamin公司）"
     ]
   },
   "GL068": {
-    "title": "Ban Phuc Nickel Mine & Concentrator 版福镍矿及选矿厂",
-    "english": "Ban Phuc Nickel Mine & Concentrator",
+    "title": "Ban Phuc Nickel Mine and Concentrator 版福镍矿及选矿厂",
+    "english": "Ban Phuc Nickel Mine and Concentrator",
     "chinese": "版福镍矿及选矿厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Ban Phuc Nickel Mine & Concentrator",
       "版福镍矿及选矿厂",
-      "NI-068"
+      "NI-068",
+      "Ban Phuc Nickel Mine & Concentrator 版福镍矿及选矿厂"
     ]
   },
   "GL069": {
-    "title": "Ta Khoa Refinery (TKR) 达卡精炼厂（塔科亚精炼厂）",
-    "english": "Ta Khoa Refinery (TKR)",
-    "chinese": "达卡精炼厂（塔科亚精炼厂）",
+    "title": "Ta Khoa Refinery 达卡精炼厂",
+    "english": "Ta Khoa Refinery",
+    "chinese": "达卡精炼厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Ta Khoa Refinery (TKR)",
       "达卡精炼厂（塔科亚精炼厂）",
-      "NI-069"
+      "NI-069",
+      "Ta Khoa Refinery (TKR) 达卡精炼厂（塔科亚精炼厂）"
     ]
   },
   "GL071": {
-    "title": "Pointe Chaleix Smelter 沙莱克斯角(Pointe Chaleix)冶炼厂（新喀里多尼亚第一座镍冶炼厂）",
+    "title": "Pointe Chaleix Smelter 沙莱克斯角冶炼厂",
     "english": "Pointe Chaleix Smelter",
-    "chinese": "沙莱克斯角(Pointe Chaleix)冶炼厂（新喀里多尼亚第一座镍冶炼厂）",
+    "chinese": "沙莱克斯角冶炼厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Pointe Chaleix Smelter",
       "沙莱克斯角(Pointe Chaleix)冶炼厂（新喀里多尼亚第一座镍冶炼厂）",
-      "NI-071"
+      "NI-071",
+      "Pointe Chaleix Smelter 沙莱克斯角(Pointe Chaleix)冶炼厂（新喀里多尼亚第一座镍冶炼厂）"
     ]
   },
   "GL072": {
-    "title": "Ouroué Foundry, Thio 蒂奥乌鲁埃(Ouroué)冶炼厂",
-    "english": "Ouroué Foundry, Thio",
-    "chinese": "蒂奥乌鲁埃(Ouroué)冶炼厂",
+    "title": "Ouroué Smelter (Thio) 乌鲁埃冶炼厂（蒂奥）",
+    "english": "Ouroué Smelter (Thio)",
+    "chinese": "乌鲁埃冶炼厂（蒂奥）",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Ouroué Foundry, Thio",
       "蒂奥乌鲁埃(Ouroué)冶炼厂",
-      "NI-072"
+      "NI-072",
+      "Ouroué Foundry, Thio 蒂奥乌鲁埃(Ouroué)冶炼厂"
     ]
   },
   "GL073": {
-    "title": "Doniambo Smelter (SLN) 多尼安博(Doniambo)冶炼厂",
-    "english": "Doniambo Smelter (SLN)",
-    "chinese": "多尼安博(Doniambo)冶炼厂",
+    "title": "Doniambo Smelter 多尼安博冶炼厂",
+    "english": "Doniambo Smelter",
+    "chinese": "多尼安博冶炼厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Doniambo Smelter (SLN)",
       "多尼安博(Doniambo)冶炼厂",
-      "NI-073"
+      "NI-073",
+      "Doniambo Smelter (SLN) 多尼安博(Doniambo)冶炼厂"
     ]
   },
   "GL074": {
-    "title": "Thio-Mission Foundry 蒂奥教会区(Thio-Mission)冶炼厂",
-    "english": "Thio-Mission Foundry",
-    "chinese": "蒂奥教会区(Thio-Mission)冶炼厂",
+    "title": "Thio-Mission Smelter 蒂奥教会区冶炼厂",
+    "english": "Thio-Mission Smelter",
+    "chinese": "蒂奥教会区冶炼厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Thio-Mission Foundry",
       "蒂奥教会区(Thio-Mission)冶炼厂",
-      "NI-074"
+      "NI-074",
+      "Thio-Mission Foundry 蒂奥教会区(Thio-Mission)冶炼厂"
     ]
   },
   "GL076": {
-    "title": "Koniambo Nickel SAS (KNS) Smelter 科尼安博(Koniambo)镍业公司(KNS)冶炼厂",
-    "english": "Koniambo Nickel SAS (KNS) Smelter",
-    "chinese": "科尼安博(Koniambo)镍业公司(KNS)冶炼厂",
+    "title": "Koniambo Smelter 科尼安博冶炼厂",
+    "english": "Koniambo Smelter",
+    "chinese": "科尼安博冶炼厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Koniambo Nickel SAS (KNS) Smelter",
       "科尼安博(Koniambo)镍业公司(KNS)冶炼厂",
-      "NI-076"
+      "NI-076",
+      "Koniambo Nickel SAS (KNS) Smelter 科尼安博(Koniambo)镍业公司(KNS)冶炼厂"
     ]
   },
   "GL077": {
-    "title": "Hauts Fourneaux de Nouméa (Nouméa Blast Furnaces Co.) 努美阿高炉公司(Hauts Fourneaux de Nouméa)",
-    "english": "Hauts Fourneaux de Nouméa (Nouméa Blast Furnaces Co.)",
-    "chinese": "努美阿高炉公司(Hauts Fourneaux de Nouméa)",
+    "title": "Nouméa Blast Furnaces 努美阿高炉厂",
+    "english": "Nouméa Blast Furnaces",
+    "chinese": "努美阿高炉厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Hauts Fourneaux de Nouméa (Nouméa Blast Furnaces Co.)",
       "努美阿高炉公司(Hauts Fourneaux de Nouméa)",
-      "NI-077"
+      "NI-077",
+      "Hauts Fourneaux de Nouméa (Nouméa Blast Furnaces Co.) 努美阿高炉公司(Hauts Fourneaux de Nouméa)"
     ]
   },
   "GL078": {
-    "title": "Kwinana Nickel Refinery (incl. Nickel Sulphate Plant) 奎纳纳镍精炼厂（含硫酸镍工厂）",
-    "english": "Kwinana Nickel Refinery (incl. Nickel Sulphate Plant)",
-    "chinese": "奎纳纳镍精炼厂（含硫酸镍工厂）",
+    "title": "Kwinana Nickel Refinery 奎纳纳镍精炼厂",
+    "english": "Kwinana Nickel Refinery",
+    "chinese": "奎纳纳镍精炼厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Kwinana Nickel Refinery (incl. Nickel Sulphate Plant)",
       "奎纳纳镍精炼厂（含硫酸镍工厂）",
-      "NI-078"
+      "NI-078",
+      "Kwinana Nickel Refinery (incl. Nickel Sulphate Plant) 奎纳纳镍精炼厂（含硫酸镍工厂）"
     ]
   },
   "GL079": {
@@ -2400,71 +2475,77 @@
     "english": "Kalgoorlie Nickel Smelter",
     "chinese": "卡尔古利镍冶炼厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Kalgoorlie Nickel Smelter",
       "卡尔古利镍冶炼厂",
-      "NI-079"
+      "NI-079",
+      "Kalgoorlie Nickel Smelter 卡尔古利镍冶炼厂"
     ]
   },
   "GL080": {
-    "title": "Yabulu Nickel Refinery (Palmer Nickel and Cobalt Refinery) 亚布鲁镍精炼厂（帕尔默镍钴精炼厂）",
-    "english": "Yabulu Nickel Refinery (Palmer Nickel and Cobalt Refinery)",
-    "chinese": "亚布鲁镍精炼厂（帕尔默镍钴精炼厂）",
+    "title": "Yabulu Nickel Refinery 亚布鲁镍精炼厂",
+    "english": "Yabulu Nickel Refinery",
+    "chinese": "亚布鲁镍精炼厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Yabulu Nickel Refinery (Palmer Nickel and Cobalt Refinery)",
       "亚布鲁镍精炼厂（帕尔默镍钴精炼厂）",
-      "NI-080"
+      "NI-080",
+      "Yabulu Nickel Refinery (Palmer Nickel and Cobalt Refinery) 亚布鲁镍精炼厂（帕尔默镍钴精炼厂）"
     ]
   },
   "GL085": {
-    "title": "Cobalt Blue Kwinana Cobalt-Nickel Refinery Cobalt Blue Kwinana钴镍精炼厂",
-    "english": "Cobalt Blue Kwinana Cobalt-Nickel Refinery",
-    "chinese": "Cobalt Blue Kwinana钴镍精炼厂",
+    "title": "Kwinana Cobalt Refinery (Cobalt Blue) 奎纳纳钴精炼厂（Cobalt Blue）",
+    "english": "Kwinana Cobalt Refinery (Cobalt Blue)",
+    "chinese": "奎纳纳钴精炼厂（Cobalt Blue）",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Cobalt Blue Kwinana Cobalt-Nickel Refinery",
       "Cobalt Blue Kwinana钴镍精炼厂",
-      "NI-085"
+      "NI-085",
+      "Cobalt Blue Kwinana Cobalt-Nickel Refinery Cobalt Blue Kwinana钴镍精炼厂"
     ]
   },
   "GL086": {
-    "title": "Kalgoorlie Nickel Project – Goongarrie Hub 卡尔古利镍项目—贡加里枢纽",
-    "english": "Kalgoorlie Nickel Project – Goongarrie Hub",
-    "chinese": "卡尔古利镍项目—贡加里枢纽",
+    "title": "Goongarrie Hub (Kalgoorlie Nickel Project) 贡加里枢纽（卡尔古利镍项目）",
+    "english": "Goongarrie Hub (Kalgoorlie Nickel Project)",
+    "chinese": "贡加里枢纽（卡尔古利镍项目）",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Kalgoorlie Nickel Project – Goongarrie Hub",
       "卡尔古利镍项目—贡加里枢纽",
-      "NI-086"
+      "NI-086",
+      "Kalgoorlie Nickel Project – Goongarrie Hub 卡尔古利镍项目—贡加里枢纽"
     ]
   },
   "GL087": {
-    "title": "Kalgoorlie pCAM Battery Materials Hub (Poseidon Nickel / Pure Battery Technologies) 卡尔古利前驱体正极材料(pCAM)电池材料枢纽",
-    "english": "Kalgoorlie pCAM Battery Materials Hub (Poseidon Nickel / Pure Battery Technologies)",
-    "chinese": "卡尔古利前驱体正极材料(pCAM)电池材料枢纽",
+    "title": "Kalgoorlie pCAM Battery Materials Hub 卡尔古利前驱体材料枢纽",
+    "english": "Kalgoorlie pCAM Battery Materials Hub",
+    "chinese": "卡尔古利前驱体材料枢纽",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Kalgoorlie pCAM Battery Materials Hub (Poseidon Nickel / Pure Battery Technologies)",
       "卡尔古利前驱体正极材料(pCAM)电池材料枢纽",
-      "NI-087"
+      "NI-087",
+      "Kalgoorlie pCAM Battery Materials Hub (Poseidon Nickel / Pure Battery Technologies) 卡尔古利前驱体正极材料(pCAM)电池材料枢纽"
     ]
   },
   "GL088": {
-    "title": "Kwinana Integrated Battery Material Facility (IGO / Wyloo Downstream Nickel Project) 奎纳纳一体化电池材料设施(IGO/Wyloo下游镍项目)",
-    "english": "Kwinana Integrated Battery Material Facility (IGO / Wyloo Downstream Nickel Project)",
-    "chinese": "奎纳纳一体化电池材料设施(IGO/Wyloo下游镍项目)",
+    "title": "Kwinana Integrated Battery Materials Facility 奎纳纳一体化电池材料厂",
+    "english": "Kwinana Integrated Battery Materials Facility",
+    "chinese": "奎纳纳一体化电池材料厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Kwinana Integrated Battery Material Facility (IGO / Wyloo Downstream Nickel Project)",
       "奎纳纳一体化电池材料设施(IGO/Wyloo下游镍项目)",
-      "NI-088"
+      "NI-088",
+      "Kwinana Integrated Battery Material Facility (IGO / Wyloo Downstream Nickel Project) 奎纳纳一体化电池材料设施(IGO/Wyloo下游镍项目)"
     ]
   },
   "GL089": {
@@ -2472,107 +2553,116 @@
     "english": "NiWest Nickel-Cobalt Project",
     "chinese": "NiWest镍钴项目",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "NiWest Nickel-Cobalt Project",
       "NiWest镍钴项目",
-      "NI-089"
+      "NI-089",
+      "NiWest Nickel-Cobalt Project NiWest镍钴项目"
     ]
   },
   "GL090": {
-    "title": "Sconi Cobalt-Nickel-Scandium Project 斯科尼(Sconi)钴镍钪项目",
+    "title": "Sconi Cobalt-Nickel-Scandium Project 斯科尼钴镍钪项目",
     "english": "Sconi Cobalt-Nickel-Scandium Project",
-    "chinese": "斯科尼(Sconi)钴镍钪项目",
+    "chinese": "斯科尼钴镍钪项目",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Sconi Cobalt-Nickel-Scandium Project",
       "斯科尼(Sconi)钴镍钪项目",
-      "NI-090"
+      "NI-090",
+      "Sconi Cobalt-Nickel-Scandium Project 斯科尼(Sconi)钴镍钪项目"
     ]
   },
   "GL091": {
-    "title": "Sunrise Nickel-Cobalt Project (formerly Clean TeQ Sunrise) 日出(Sunrise)镍钴项目（原Clean TeQ Sunrise项目，与Syerston钪项目同一矿区）",
-    "english": "Sunrise Nickel-Cobalt Project (formerly Clean TeQ Sunrise)",
-    "chinese": "日出(Sunrise)镍钴项目（原Clean TeQ Sunrise项目，与Syerston钪项目同一矿区）",
+    "title": "Sunrise Nickel-Cobalt Project 日出镍钴项目",
+    "english": "Sunrise Nickel-Cobalt Project",
+    "chinese": "日出镍钴项目",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Sunrise Nickel-Cobalt Project (formerly Clean TeQ Sunrise)",
       "日出(Sunrise)镍钴项目（原Clean TeQ Sunrise项目，与Syerston钪项目同一矿区）",
-      "NI-091"
+      "NI-091",
+      "Sunrise Nickel-Cobalt Project (formerly Clean TeQ Sunrise) 日出(Sunrise)镍钴项目（原Clean TeQ Sunrise项目，与Syerston钪项目同一矿区）"
     ]
   },
   "GL092": {
-    "title": "TECH Project (Townsville Energy Chemicals Hub) 昆士兰太平洋金属公司(QPM) TECH项目（汤斯维尔能源化工枢纽）",
-    "english": "TECH Project (Townsville Energy Chemicals Hub)",
-    "chinese": "昆士兰太平洋金属公司(QPM) TECH项目（汤斯维尔能源化工枢纽）",
+    "title": "Townsville Energy Chemicals Hub (TECH) 汤斯维尔能源化工枢纽（TECH项目）",
+    "english": "Townsville Energy Chemicals Hub (TECH)",
+    "chinese": "汤斯维尔能源化工枢纽（TECH项目）",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "TECH Project (Townsville Energy Chemicals Hub)",
       "昆士兰太平洋金属公司(QPM) TECH项目（汤斯维尔能源化工枢纽）",
-      "NI-092"
+      "NI-092",
+      "TECH Project (Townsville Energy Chemicals Hub) 昆士兰太平洋金属公司(QPM) TECH项目（汤斯维尔能源化工枢纽）"
     ]
   },
   "GL093": {
-    "title": "Wingellina Nickel-Cobalt Project (Central Musgrave Project) 温杰利纳(中马斯格雷夫)镍钴项目",
-    "english": "Wingellina Nickel-Cobalt Project (Central Musgrave Project)",
-    "chinese": "温杰利纳(中马斯格雷夫)镍钴项目",
+    "title": "Wingellina Nickel-Cobalt Project 温杰利纳镍钴项目",
+    "english": "Wingellina Nickel-Cobalt Project",
+    "chinese": "温杰利纳镍钴项目",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Wingellina Nickel-Cobalt Project (Central Musgrave Project)",
       "温杰利纳(中马斯格雷夫)镍钴项目",
-      "NI-093"
+      "NI-093",
+      "Wingellina Nickel-Cobalt Project (Central Musgrave Project) 温杰利纳(中马斯格雷夫)镍钴项目"
     ]
   },
   "GL094": {
-    "title": "Canadian Copper Company Copper Cliff Smelter (1888 original plant) 加拿大铜业公司科珀克利夫冶炼厂(1888年原始厂,萨德伯里首座冶炼厂)",
-    "english": "Canadian Copper Company Copper Cliff Smelter (1888 original plant)",
-    "chinese": "加拿大铜业公司科珀克利夫冶炼厂(1888年原始厂,萨德伯里首座冶炼厂)",
+    "title": "Copper Cliff Original Smelter (1888) 科珀克利夫首座冶炼厂（1888年）",
+    "english": "Copper Cliff Original Smelter (1888)",
+    "chinese": "科珀克利夫首座冶炼厂（1888年）",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Canadian Copper Company Copper Cliff Smelter (1888 original plant)",
       "加拿大铜业公司科珀克利夫冶炼厂(1888年原始厂,萨德伯里首座冶炼厂)",
-      "NI-094"
+      "NI-094",
+      "Canadian Copper Company Copper Cliff Smelter (1888 original plant) 加拿大铜业公司科珀克利夫冶炼厂(1888年原始厂,萨德伯里首座冶炼厂)"
     ]
   },
   "GL095": {
-    "title": "Copper Cliff Smelter Complex (Vale Sudbury Complex) 铜崖冶炼厂综合体（萨德伯里）",
-    "english": "Copper Cliff Smelter Complex (Vale Sudbury Complex)",
-    "chinese": "铜崖冶炼厂综合体（萨德伯里）",
+    "title": "Copper Cliff Smelter 铜崖冶炼厂",
+    "english": "Copper Cliff Smelter",
+    "chinese": "铜崖冶炼厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Copper Cliff Smelter Complex (Vale Sudbury Complex)",
       "铜崖冶炼厂综合体（萨德伯里）",
-      "NI-095"
+      "NI-095",
+      "Copper Cliff Smelter Complex (Vale Sudbury Complex) 铜崖冶炼厂综合体（萨德伯里）"
     ]
   },
   "GL096": {
-    "title": "Mond Nickel Company Victoria Mines Smelter 蒙德镍业公司维多利亚矿区冶炼厂",
-    "english": "Mond Nickel Company Victoria Mines Smelter",
-    "chinese": "蒙德镍业公司维多利亚矿区冶炼厂",
+    "title": "Victoria Mines Smelter 维多利亚矿区冶炼厂",
+    "english": "Victoria Mines Smelter",
+    "chinese": "维多利亚矿区冶炼厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Mond Nickel Company Victoria Mines Smelter",
       "蒙德镍业公司维多利亚矿区冶炼厂",
-      "NI-096"
+      "NI-096",
+      "Mond Nickel Company Victoria Mines Smelter 蒙德镍业公司维多利亚矿区冶炼厂"
     ]
   },
   "GL097": {
-    "title": "Deloro Smelting and Refining Company 德洛罗冶炼精炼公司（钴/银/砷为主，镍为伴生，存疑收录）",
-    "english": "Deloro Smelting and Refining Company",
-    "chinese": "德洛罗冶炼精炼公司（钴/银/砷为主，镍为伴生，存疑收录）",
+    "title": "Deloro Smelter 德洛罗冶炼厂",
+    "english": "Deloro Smelter",
+    "chinese": "德洛罗冶炼厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Deloro Smelting and Refining Company",
       "德洛罗冶炼精炼公司（钴/银/砷为主，镍为伴生，存疑收录）",
-      "NI-097"
+      "NI-097",
+      "Deloro Smelting and Refining Company 德洛罗冶炼精炼公司（钴/银/砷为主，镍为伴生，存疑收录）"
     ]
   },
   "GL098": {
@@ -2580,71 +2670,77 @@
     "english": "Coniston Smelter",
     "chinese": "科尼斯顿冶炼厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Coniston Smelter",
       "科尼斯顿冶炼厂",
-      "NI-098"
+      "NI-098",
+      "Coniston Smelter 科尼斯顿冶炼厂"
     ]
   },
   "GL099": {
-    "title": "British America Nickel Corporation – Deschênes, Quebec Hybinette Refinery 英美镍业公司魁北克德申海宾内特法精炼厂",
-    "english": "British America Nickel Corporation – Deschênes, Quebec Hybinette Refinery",
-    "chinese": "英美镍业公司魁北克德申海宾内特法精炼厂",
+    "title": "Deschênes Nickel Refinery 德申镍精炼厂",
+    "english": "Deschênes Nickel Refinery",
+    "chinese": "德申镍精炼厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "British America Nickel Corporation – Deschênes, Quebec Hybinette Refinery",
       "英美镍业公司魁北克德申海宾内特法精炼厂",
-      "NI-099"
+      "NI-099",
+      "British America Nickel Corporation – Deschênes, Quebec Hybinette Refinery 英美镍业公司魁北克德申海宾内特法精炼厂"
     ]
   },
   "GL100": {
-    "title": "Port Colborne Nickel Refinery 科尔本港镍精炼厂",
-    "english": "Port Colborne Nickel Refinery",
-    "chinese": "科尔本港镍精炼厂",
+    "title": "Port Colborne Refinery 科尔本港精炼厂",
+    "english": "Port Colborne Refinery",
+    "chinese": "科尔本港精炼厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Port Colborne Nickel Refinery",
       "科尔本港镍精炼厂",
-      "NI-100"
+      "NI-100",
+      "Port Colborne Nickel Refinery 科尔本港镍精炼厂"
     ]
   },
   "GL101": {
-    "title": "British America Nickel Corporation – Nickelton Smelter 英美镍业公司镍尔顿(Nickelton)冶炼厂(默里矿区)",
-    "english": "British America Nickel Corporation – Nickelton Smelter",
-    "chinese": "英美镍业公司镍尔顿(Nickelton)冶炼厂(默里矿区)",
+    "title": "Nickelton Smelter 镍尔顿冶炼厂",
+    "english": "Nickelton Smelter",
+    "chinese": "镍尔顿冶炼厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "British America Nickel Corporation – Nickelton Smelter",
       "英美镍业公司镍尔顿(Nickelton)冶炼厂(默里矿区)",
-      "NI-101"
+      "NI-101",
+      "British America Nickel Corporation – Nickelton Smelter 英美镍业公司镍尔顿(Nickelton)冶炼厂(默里矿区)"
     ]
   },
   "GL102": {
-    "title": "Sudbury Smelter (Falconbridge / Glencore Sudbury Integrated Nickel Operations) 萨德伯里冶炼厂（原Falconbridge，现Glencore萨德伯里一体化镍业务）",
-    "english": "Sudbury Smelter (Falconbridge / Glencore Sudbury Integrated Nickel Operations)",
-    "chinese": "萨德伯里冶炼厂（原Falconbridge，现Glencore萨德伯里一体化镍业务）",
+    "title": "Sudbury Smelter (Glencore) 萨德伯里冶炼厂（嘉能可）",
+    "english": "Sudbury Smelter (Glencore)",
+    "chinese": "萨德伯里冶炼厂（嘉能可）",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Sudbury Smelter (Falconbridge / Glencore Sudbury Integrated Nickel Operations)",
       "萨德伯里冶炼厂（原Falconbridge，现Glencore萨德伯里一体化镍业务）",
-      "NI-102"
+      "NI-102",
+      "Sudbury Smelter (Falconbridge / Glencore Sudbury Integrated Nickel Operations) 萨德伯里冶炼厂（原Falconbridge，现Glencore萨德伯里一体化镍业务）"
     ]
   },
   "GL103": {
-    "title": "Sherritt Fort Saskatchewan Metals Processing Plant 谢里特堡萨斯喀彻温精炼厂",
-    "english": "Sherritt Fort Saskatchewan Metals Processing Plant",
-    "chinese": "谢里特堡萨斯喀彻温精炼厂",
+    "title": "Fort Saskatchewan Refinery 萨斯喀彻温堡精炼厂",
+    "english": "Fort Saskatchewan Refinery",
+    "chinese": "萨斯喀彻温堡精炼厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Sherritt Fort Saskatchewan Metals Processing Plant",
       "谢里特堡萨斯喀彻温精炼厂",
-      "NI-103"
+      "NI-103",
+      "Sherritt Fort Saskatchewan Metals Processing Plant 谢里特堡萨斯喀彻温精炼厂"
     ]
   },
   "GL104": {
@@ -2652,11 +2748,12 @@
     "english": "Thompson Refinery",
     "chinese": "汤普森精炼厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Thompson Refinery",
       "汤普森精炼厂",
-      "NI-104"
+      "NI-104",
+      "Thompson Refinery 汤普森精炼厂"
     ]
   },
   "GL105": {
@@ -2664,287 +2761,311 @@
     "english": "Thompson Smelter",
     "chinese": "汤普森冶炼厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Thompson Smelter",
       "汤普森冶炼厂",
-      "NI-105"
+      "NI-105",
+      "Thompson Smelter 汤普森冶炼厂"
     ]
   },
   "GL106": {
-    "title": "Copper Cliff Nickel Refinery (CCNR) 铜崖镍精炼厂（羰基法）",
-    "english": "Copper Cliff Nickel Refinery (CCNR)",
-    "chinese": "铜崖镍精炼厂（羰基法）",
+    "title": "Copper Cliff Nickel Refinery 铜崖镍精炼厂",
+    "english": "Copper Cliff Nickel Refinery",
+    "chinese": "铜崖镍精炼厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Copper Cliff Nickel Refinery (CCNR)",
       "铜崖镍精炼厂（羰基法）",
-      "NI-106"
+      "NI-106",
+      "Copper Cliff Nickel Refinery (CCNR) 铜崖镍精炼厂（羰基法）"
     ]
   },
   "GL107": {
-    "title": "Long Harbour Processing Plant 朗哈伯（长港）湿法冶炼厂",
+    "title": "Long Harbour Processing Plant 长港湿法精炼厂",
     "english": "Long Harbour Processing Plant",
-    "chinese": "朗哈伯（长港）湿法冶炼厂",
+    "chinese": "长港湿法精炼厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Long Harbour Processing Plant",
       "朗哈伯（长港）湿法冶炼厂",
-      "NI-107"
+      "NI-107",
+      "Long Harbour Processing Plant 朗哈伯（长港）湿法冶炼厂"
     ]
   },
   "GL108": {
-    "title": "Argentia Hydrometallurgical Demonstration/Commercial Plant (proposed; superseded by Long Harbour) 阿金夏（阿真蒂亚）湿法冶炼示范/商业化项目（未按原计划建成，后被Long Harbour取代）",
-    "english": "Argentia Hydrometallurgical Demonstration/Commercial Plant (proposed; superseded by Long Harbour)",
-    "chinese": "阿金夏（阿真蒂亚）湿法冶炼示范/商业化项目（未按原计划建成，后被Long Harbour取代）",
+    "title": "Argentia Hydromet Plant Project 阿真蒂亚湿法项目",
+    "english": "Argentia Hydromet Plant Project",
+    "chinese": "阿真蒂亚湿法项目",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Argentia Hydrometallurgical Demonstration/Commercial Plant (proposed; superseded by Long Harbour)",
       "阿金夏（阿真蒂亚）湿法冶炼示范/商业化项目（未按原计划建成，后被Long Harbour取代）",
-      "NI-108"
+      "NI-108",
+      "Argentia Hydrometallurgical Demonstration/Commercial Plant (proposed; superseded by Long Harbour) 阿金夏（阿真蒂亚）湿法冶炼示范/商业化项目（未按原计划建成，后被Long Harbour取代）"
     ]
   },
   "GL109": {
-    "title": "Crawford Nickel-Cobalt Project & NetZero Metals Downstream Processing (planned) 克劳福德镍钴项目及NetZero Metals下游加工厂（规划中）",
-    "english": "Crawford Nickel-Cobalt Project & NetZero Metals Downstream Processing (planned)",
-    "chinese": "克劳福德镍钴项目及NetZero Metals下游加工厂（规划中）",
+    "title": "Crawford Nickel Project 克劳福德镍项目",
+    "english": "Crawford Nickel Project",
+    "chinese": "克劳福德镍项目",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Crawford Nickel-Cobalt Project & NetZero Metals Downstream Processing (planned)",
       "克劳福德镍钴项目及NetZero Metals下游加工厂（规划中）",
-      "NI-109"
+      "NI-109",
+      "Crawford Nickel-Cobalt Project & NetZero Metals Downstream Processing (planned) 克劳福德镍钴项目及NetZero Metals下游加工厂（规划中）"
     ]
   },
   "GL110": {
-    "title": "American Nickel Works, Camden, New Jersey 美国镍业公司(卡姆登镍厂，约瑟夫·沃顿创办)",
-    "english": "American Nickel Works, Camden, New Jersey",
-    "chinese": "美国镍业公司(卡姆登镍厂，约瑟夫·沃顿创办)",
+    "title": "Camden Nickel Works 卡姆登镍厂",
+    "english": "Camden Nickel Works",
+    "chinese": "卡姆登镍厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "American Nickel Works, Camden, New Jersey",
       "美国镍业公司(卡姆登镍厂，约瑟夫·沃顿创办)",
-      "NI-110"
+      "NI-110",
+      "American Nickel Works, Camden, New Jersey 美国镍业公司(卡姆登镍厂，约瑟夫·沃顿创办)"
     ]
   },
   "GL111": {
-    "title": "Orford Copper Company Refinery (Constable Hook, Bayonne, NJ) 奥福德铜业公司炼厂（新泽西州贝永市）",
-    "english": "Orford Copper Company Refinery (Constable Hook, Bayonne, NJ)",
-    "chinese": "奥福德铜业公司炼厂（新泽西州贝永市）",
+    "title": "Orford Refinery (Bayonne) 奥福德精炼厂（贝永）",
+    "english": "Orford Refinery (Bayonne)",
+    "chinese": "奥福德精炼厂（贝永）",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Orford Copper Company Refinery (Constable Hook, Bayonne, NJ)",
       "奥福德铜业公司炼厂（新泽西州贝永市）",
-      "NI-111"
+      "NI-111",
+      "Orford Copper Company Refinery (Constable Hook, Bayonne, NJ) 奥福德铜业公司炼厂（新泽西州贝永市）"
     ]
   },
   "GL112": {
-    "title": "Hanna Nickel Smelting Co. / Glenbrook Nickel Co. Smelter (Riddle, Oregon / Nickel Mountain) 汉纳镍冶炼公司/格伦布鲁克镍业公司里德尔冶炼厂（俄勒冈州镍山）",
-    "english": "Hanna Nickel Smelting Co. / Glenbrook Nickel Co. Smelter (Riddle, Oregon / Nickel Mountain)",
-    "chinese": "汉纳镍冶炼公司/格伦布鲁克镍业公司里德尔冶炼厂（俄勒冈州镍山）",
+    "title": "Riddle Nickel Smelter 里德尔镍冶炼厂",
+    "english": "Riddle Nickel Smelter",
+    "chinese": "里德尔镍冶炼厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Hanna Nickel Smelting Co. / Glenbrook Nickel Co. Smelter (Riddle, Oregon / Nickel Mountain)",
       "汉纳镍冶炼公司/格伦布鲁克镍业公司里德尔冶炼厂（俄勒冈州镍山）",
-      "NI-112"
+      "NI-112",
+      "Hanna Nickel Smelting Co. / Glenbrook Nickel Co. Smelter (Riddle, Oregon / Nickel Mountain) 汉纳镍冶炼公司/格伦布鲁克镍业公司里德尔冶炼厂（俄勒冈州镍山）"
     ]
   },
   "GL113": {
-    "title": "Westwin Elements Lawton Nickel-Cobalt Refinery (Pilot/Demonstration Plant) 西温元素公司劳顿镍钴精炼厂（中试/示范装置）",
-    "english": "Westwin Elements Lawton Nickel-Cobalt Refinery (Pilot/Demonstration Plant)",
-    "chinese": "西温元素公司劳顿镍钴精炼厂（中试/示范装置）",
+    "title": "Westwin Lawton Refinery 西温劳顿精炼厂",
+    "english": "Westwin Lawton Refinery",
+    "chinese": "西温劳顿精炼厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Westwin Elements Lawton Nickel-Cobalt Refinery (Pilot/Demonstration Plant)",
       "西温元素公司劳顿镍钴精炼厂（中试/示范装置）",
-      "NI-113"
+      "NI-113",
+      "Westwin Elements Lawton Nickel-Cobalt Refinery (Pilot/Demonstration Plant) 西温元素公司劳顿镍钴精炼厂（中试/示范装置）"
     ]
   },
   "GL114": {
-    "title": "Electra Battery Materials Nickel Sulphate Refinery (proposed) Electra电池材料公司硫酸镍精炼厂（拟建）",
-    "english": "Electra Battery Materials Nickel Sulphate Refinery (proposed)",
-    "chinese": "Electra电池材料公司硫酸镍精炼厂（拟建）",
+    "title": "Electra Nickel Sulphate Refinery Project Electra硫酸镍精炼项目",
+    "english": "Electra Nickel Sulphate Refinery Project",
+    "chinese": "Electra硫酸镍精炼项目",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Electra Battery Materials Nickel Sulphate Refinery (proposed)",
       "Electra电池材料公司硫酸镍精炼厂（拟建）",
-      "NI-114"
+      "NI-114",
+      "Electra Battery Materials Nickel Sulphate Refinery (proposed) Electra电池材料公司硫酸镍精炼厂（拟建）"
     ]
   },
   "GL115": {
-    "title": "Missouri Cobalt / US Strategic Metals Battery Active Materials Plant 密苏里钴业/美国战略金属公司电池活性材料厂（含镍）",
-    "english": "Missouri Cobalt / US Strategic Metals Battery Active Materials Plant",
-    "chinese": "密苏里钴业/美国战略金属公司电池活性材料厂（含镍）",
+    "title": "Fredericktown Battery Materials Plant 弗雷德里克敦电池材料厂",
+    "english": "Fredericktown Battery Materials Plant",
+    "chinese": "弗雷德里克敦电池材料厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Missouri Cobalt / US Strategic Metals Battery Active Materials Plant",
       "密苏里钴业/美国战略金属公司电池活性材料厂（含镍）",
-      "NI-115"
+      "NI-115",
+      "Missouri Cobalt / US Strategic Metals Battery Active Materials Plant 密苏里钴业/美国战略金属公司电池活性材料厂（含镍）"
     ]
   },
   "GL116": {
-    "title": "NorthMet Project Hydrometallurgical Plant (PolyMet / NewRange Copper Nickel) 北金属(NorthMet)项目湿法冶炼厂（PolyMet/新域铜镍，规划中）",
-    "english": "NorthMet Project Hydrometallurgical Plant (PolyMet / NewRange Copper Nickel)",
-    "chinese": "北金属(NorthMet)项目湿法冶炼厂（PolyMet/新域铜镍，规划中）",
+    "title": "NorthMet Project 北金属项目",
+    "english": "NorthMet Project",
+    "chinese": "北金属项目",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "NorthMet Project Hydrometallurgical Plant (PolyMet / NewRange Copper Nickel)",
       "北金属(NorthMet)项目湿法冶炼厂（PolyMet/新域铜镍，规划中）",
-      "NI-116"
+      "NI-116",
+      "NorthMet Project Hydrometallurgical Plant (PolyMet / NewRange Copper Nickel) 北金属(NorthMet)项目湿法冶炼厂（PolyMet/新域铜镍，规划中）"
     ]
   },
   "GL117": {
-    "title": "Precision Periodic Central Florida Nickel-Cobalt-Manganese Refinery (proposed) Precision Periodic佛罗里达中部镍钴锰精炼厂（拟建）",
-    "english": "Precision Periodic Central Florida Nickel-Cobalt-Manganese Refinery (proposed)",
-    "chinese": "Precision Periodic佛罗里达中部镍钴锰精炼厂（拟建）",
+    "title": "Central Florida Nickel Refinery Project (Precision Periodic) 佛罗里达中部镍精炼项目",
+    "english": "Central Florida Nickel Refinery Project (Precision Periodic)",
+    "chinese": "佛罗里达中部镍精炼项目",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Precision Periodic Central Florida Nickel-Cobalt-Manganese Refinery (proposed)",
       "Precision Periodic佛罗里达中部镍钴锰精炼厂（拟建）",
-      "NI-117"
+      "NI-117",
+      "Precision Periodic Central Florida Nickel-Cobalt-Manganese Refinery (proposed) Precision Periodic佛罗里达中部镍钴锰精炼厂（拟建）"
     ]
   },
   "GL118": {
-    "title": "Stillwater/Sibanye-Stillwater Columbus Base Metal Refinery (PGM by-product nickel) 斯蒂尔沃特/西班牙优山比耶-斯蒂尔沃特哥伦布贱金属精炼厂（铂族金属副产镍）",
-    "english": "Stillwater/Sibanye-Stillwater Columbus Base Metal Refinery (PGM by-product nickel)",
-    "chinese": "斯蒂尔沃特/西班牙优山比耶-斯蒂尔沃特哥伦布贱金属精炼厂（铂族金属副产镍）",
+    "title": "Columbus Base Metal Refinery 哥伦布贱金属精炼厂",
+    "english": "Columbus Base Metal Refinery",
+    "chinese": "哥伦布贱金属精炼厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Stillwater/Sibanye-Stillwater Columbus Base Metal Refinery (PGM by-product nickel)",
       "斯蒂尔沃特/西班牙优山比耶-斯蒂尔沃特哥伦布贱金属精炼厂（铂族金属副产镍）",
-      "NI-118"
+      "NI-118",
+      "Stillwater/Sibanye-Stillwater Columbus Base Metal Refinery (PGM by-product nickel) 斯蒂尔沃特/西班牙优山比耶-斯蒂尔沃特哥伦布贱金属精炼厂（铂族金属副产镍）"
     ]
   },
   "GL119": {
-    "title": "Talon Metals Beulah Minerals Processing Facility (Tamarack Project processing plant, North Dakota) — CANCELLED 塔隆金属公司北达科他州比尤拉矿物加工厂（塔马拉克项目配套设施，已放弃）",
-    "english": "Talon Metals Beulah Minerals Processing Facility (Tamarack Project processing plant, North Dakota) — CANCELLED",
-    "chinese": "塔隆金属公司北达科他州比尤拉矿物加工厂（塔马拉克项目配套设施，已放弃）",
+    "title": "Beulah Processing Facility Project (Tamarack) 比尤拉加工厂项目（塔马拉克）",
+    "english": "Beulah Processing Facility Project (Tamarack)",
+    "chinese": "比尤拉加工厂项目（塔马拉克）",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Talon Metals Beulah Minerals Processing Facility (Tamarack Project processing plant, North Dakota) — CANCELLED",
       "塔隆金属公司北达科他州比尤拉矿物加工厂（塔马拉克项目配套设施，已放弃）",
-      "NI-119"
+      "NI-119",
+      "Talon Metals Beulah Minerals Processing Facility (Tamarack Project processing plant, North Dakota) — CANCELLED 塔隆金属公司北达科他州比尤拉矿物加工厂（塔马拉克项目配套设施，已放弃）"
     ]
   },
   "GL120": {
-    "title": "Westwin Elements Bryan County Nickel Refinery (proposed) 西温元素公司佐治亚州布莱恩县镍精炼厂（拟议中）",
-    "english": "Westwin Elements Bryan County Nickel Refinery (proposed)",
-    "chinese": "西温元素公司佐治亚州布莱恩县镍精炼厂（拟议中）",
+    "title": "Westwin Bryan County Refinery Project 西温布莱恩县精炼项目",
+    "english": "Westwin Bryan County Refinery Project",
+    "chinese": "西温布莱恩县精炼项目",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Westwin Elements Bryan County Nickel Refinery (proposed)",
       "西温元素公司佐治亚州布莱恩县镍精炼厂（拟议中）",
-      "NI-120"
+      "NI-120",
+      "Westwin Elements Bryan County Nickel Refinery (proposed) 西温元素公司佐治亚州布莱恩县镍精炼厂（拟议中）"
     ]
   },
   "GL121": {
-    "title": "Fenix Nickel Project (Pronico ferronickel plant / CGN mine, formerly Exmibal/Inco) 菲尼克斯镍项目（普罗尼科镍铁厂，原EXMIBAL/Inco矿）",
-    "english": "Fenix Nickel Project (Pronico ferronickel plant / CGN mine, formerly Exmibal/Inco)",
-    "chinese": "菲尼克斯镍项目（普罗尼科镍铁厂，原EXMIBAL/Inco矿）",
+    "title": "Fenix Ferronickel Plant (El Estor) 菲尼克斯镍铁厂（埃尔埃斯托尔）",
+    "english": "Fenix Ferronickel Plant (El Estor)",
+    "chinese": "菲尼克斯镍铁厂（埃尔埃斯托尔）",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Fenix Nickel Project (Pronico ferronickel plant / CGN mine, formerly Exmibal/Inco)",
       "菲尼克斯镍项目（普罗尼科镍铁厂，原EXMIBAL/Inco矿）",
-      "NI-121"
+      "NI-121",
+      "Fenix Nickel Project (Pronico ferronickel plant / CGN mine, formerly Exmibal/Inco) 菲尼克斯镍项目（普罗尼科镍铁厂，原EXMIBAL/Inco矿）"
     ]
   },
   "GL122": {
-    "title": "Nicaro Nickel Plant (Comandante René Ramos Latour) 尼卡罗镍厂（雷内·拉莫斯·拉图尔镍厂）",
-    "english": "Nicaro Nickel Plant (Comandante René Ramos Latour)",
-    "chinese": "尼卡罗镍厂（雷内·拉莫斯·拉图尔镍厂）",
+    "title": "Nicaro Nickel Plant 尼卡罗镍厂",
+    "english": "Nicaro Nickel Plant",
+    "chinese": "尼卡罗镍厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Nicaro Nickel Plant (Comandante René Ramos Latour)",
       "尼卡罗镍厂（雷内·拉莫斯·拉图尔镍厂）",
-      "NI-122"
+      "NI-122",
+      "Nicaro Nickel Plant (Comandante René Ramos Latour) 尼卡罗镍厂（雷内·拉莫斯·拉图尔镍厂）"
     ]
   },
   "GL123": {
-    "title": "Moa Nickel S.A. – Pedro Sotto Alba Plant 莫阿镍厂（佩德罗·索托·阿尔瓦厂）",
-    "english": "Moa Nickel S.A. – Pedro Sotto Alba Plant",
-    "chinese": "莫阿镍厂（佩德罗·索托·阿尔瓦厂）",
+    "title": "Moa Nickel Plant (Pedro Sotto Alba) 莫阿镍厂（佩德罗·索托·阿尔瓦）",
+    "english": "Moa Nickel Plant (Pedro Sotto Alba)",
+    "chinese": "莫阿镍厂（佩德罗·索托·阿尔瓦）",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Moa Nickel S.A. – Pedro Sotto Alba Plant",
       "莫阿镍厂（佩德罗·索托·阿尔瓦厂）",
-      "NI-123"
+      "NI-123",
+      "Moa Nickel S.A. – Pedro Sotto Alba Plant 莫阿镍厂（佩德罗·索托·阿尔瓦厂）"
     ]
   },
   "GL124": {
-    "title": "Ernesto Che Guevara Nickel Plant (Punta Gorda) 蓬塔戈尔达镍厂（切·格瓦拉镍厂）",
-    "english": "Ernesto Che Guevara Nickel Plant (Punta Gorda)",
-    "chinese": "蓬塔戈尔达镍厂（切·格瓦拉镍厂）",
+    "title": "Punta Gorda Nickel Plant (Che Guevara) 蓬塔戈尔达镍厂（切·格瓦拉）",
+    "english": "Punta Gorda Nickel Plant (Che Guevara)",
+    "chinese": "蓬塔戈尔达镍厂（切·格瓦拉）",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Ernesto Che Guevara Nickel Plant (Punta Gorda)",
       "蓬塔戈尔达镍厂（切·格瓦拉镍厂）",
-      "NI-124"
+      "NI-124",
+      "Ernesto Che Guevara Nickel Plant (Punta Gorda) 蓬塔戈尔达镍厂（切·格瓦拉镍厂）"
     ]
   },
   "GL125": {
-    "title": "Las Camariocas Plant (Comandante Camilo Cienfuegos, unfinished) 拉斯卡马里奥卡斯镍厂（卡米洛·西恩富戈斯镍厂，未完工）",
-    "english": "Las Camariocas Plant (Comandante Camilo Cienfuegos, unfinished)",
-    "chinese": "拉斯卡马里奥卡斯镍厂（卡米洛·西恩富戈斯镍厂，未完工）",
+    "title": "Las Camariocas Nickel Plant 拉斯卡马里奥卡斯镍厂",
+    "english": "Las Camariocas Nickel Plant",
+    "chinese": "拉斯卡马里奥卡斯镍厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Las Camariocas Plant (Comandante Camilo Cienfuegos, unfinished)",
       "拉斯卡马里奥卡斯镍厂（卡米洛·西恩富戈斯镍厂，未完工）",
-      "NI-125"
+      "NI-125",
+      "Las Camariocas Plant (Comandante Camilo Cienfuegos, unfinished) 拉斯卡马里奥卡斯镍厂（卡米洛·西恩富戈斯镍厂，未完工）"
     ]
   },
   "GL126": {
-    "title": "San Felipe Nickel Project (planned) 圣费利佩镍项目（规划，卡马圭省）",
-    "english": "San Felipe Nickel Project (planned)",
-    "chinese": "圣费利佩镍项目（规划，卡马圭省）",
+    "title": "San Felipe Nickel Project 圣费利佩镍项目",
+    "english": "San Felipe Nickel Project",
+    "chinese": "圣费利佩镍项目",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "San Felipe Nickel Project (planned)",
       "圣费利佩镍项目（规划，卡马圭省）",
-      "NI-126"
+      "NI-126",
+      "San Felipe Nickel Project (planned) 圣费利佩镍项目（规划，卡马圭省）"
     ]
   },
   "GL127": {
-    "title": "Cerro Matoso Ferronickel Mine and Smelter 塞罗马托索镍铁厂",
-    "english": "Cerro Matoso Ferronickel Mine and Smelter",
+    "title": "Cerro Matoso 塞罗马托索镍铁厂",
+    "english": "Cerro Matoso",
     "chinese": "塞罗马托索镍铁厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Cerro Matoso Ferronickel Mine and Smelter",
       "塞罗马托索镍铁厂",
-      "NI-127"
+      "NI-127",
+      "Cerro Matoso Ferronickel Mine and Smelter 塞罗马托索镍铁厂"
     ]
   },
   "GL128": {
-    "title": "Falcondo (Falconbridge Dominicana) Ferronickel Plant 法尔康多镍铁厂（博纳奥）",
-    "english": "Falcondo (Falconbridge Dominicana) Ferronickel Plant",
-    "chinese": "法尔康多镍铁厂（博纳奥）",
+    "title": "Falcondo Ferronickel Plant 法尔康多镍铁厂",
+    "english": "Falcondo Ferronickel Plant",
+    "chinese": "法尔康多镍铁厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Falcondo (Falconbridge Dominicana) Ferronickel Plant",
       "法尔康多镍铁厂（博纳奥）",
-      "NI-128"
+      "NI-128",
+      "Falcondo (Falconbridge Dominicana) Ferronickel Plant 法尔康多镍铁厂（博纳奥）"
     ]
   },
   "GL129": {
@@ -2952,11 +3073,12 @@
     "english": "Loma de Níquel Ferronickel Plant",
     "chinese": "洛马德尼克尔镍铁厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Loma de Níquel Ferronickel Plant",
       "洛马德尼克尔镍铁厂",
-      "NI-129"
+      "NI-129",
+      "Loma de Níquel Ferronickel Plant 洛马德尼克尔镍铁厂"
     ]
   },
   "GL130": {
@@ -2964,49 +3086,54 @@
     "english": "Morro do Níquel",
     "chinese": "莫罗镍铁厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Morro do Níquel Plant",
       "莫罗-多-尼克尔镍厂",
       "NI-130",
       "Morro do Níquel Plant 莫罗-多-尼克尔镍厂",
-      "Morro do Níquel 莫罗镍铁厂"
+      "Morro do Níquel 莫罗镍铁厂",
+      "Morro do Níquel",
+      "莫罗镍铁厂"
     ]
   },
   "GL131": {
-    "title": "Companhia Níquel Tocantins (CNT) Caron Plant 托坎廷斯镍公司（尼克兰迪亚Caron氨浸厂）",
-    "english": "Companhia Níquel Tocantins (CNT) Caron Plant",
-    "chinese": "托坎廷斯镍公司（尼克兰迪亚Caron氨浸厂）",
+    "title": "Niquelândia Caron Plant (CNT) 尼克兰迪亚氨浸厂（托坎廷斯镍业）",
+    "english": "Niquelândia Caron Plant (CNT)",
+    "chinese": "尼克兰迪亚氨浸厂（托坎廷斯镍业）",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Companhia Níquel Tocantins (CNT) Caron Plant",
       "托坎廷斯镍公司（尼克兰迪亚Caron氨浸厂）",
-      "NI-131"
+      "NI-131",
+      "Companhia Níquel Tocantins (CNT) Caron Plant 托坎廷斯镍公司（尼克兰迪亚Caron氨浸厂）"
     ]
   },
   "GL132": {
-    "title": "Codemin Ferronickel Plant (Niquelândia) 科德明镍铁厂（尼克兰迪亚）",
-    "english": "Codemin Ferronickel Plant (Niquelândia)",
-    "chinese": "科德明镍铁厂（尼克兰迪亚）",
+    "title": "Codemin Ferronickel Plant 科德明镍铁厂",
+    "english": "Codemin Ferronickel Plant",
+    "chinese": "科德明镍铁厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Codemin Ferronickel Plant (Niquelândia)",
       "科德明镍铁厂（尼克兰迪亚）",
-      "NI-132"
+      "NI-132",
+      "Codemin Ferronickel Plant (Niquelândia) 科德明镍铁厂（尼克兰迪亚）"
     ]
   },
   "GL133": {
-    "title": "Mineração Serra da Fortaleza (Fortaleza de Minas Nickel Matte Smelter) 福塔莱萨-德米纳斯镍厂（塞拉福塔莱萨矿业）",
-    "english": "Mineração Serra da Fortaleza (Fortaleza de Minas Nickel Matte Smelter)",
-    "chinese": "福塔莱萨-德米纳斯镍厂（塞拉福塔莱萨矿业）",
+    "title": "Fortaleza de Minas Nickel Smelter 福塔莱萨德米纳斯镍冶炼厂",
+    "english": "Fortaleza de Minas Nickel Smelter",
+    "chinese": "福塔莱萨德米纳斯镍冶炼厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Mineração Serra da Fortaleza (Fortaleza de Minas Nickel Matte Smelter)",
       "福塔莱萨-德米纳斯镍厂（塞拉福塔莱萨矿业）",
-      "NI-133"
+      "NI-133",
+      "Mineração Serra da Fortaleza (Fortaleza de Minas Nickel Matte Smelter) 福塔莱萨-德米纳斯镍厂（塞拉福塔莱萨矿业）"
     ]
   },
   "GL134": {
@@ -3014,11 +3141,12 @@
     "english": "Barro Alto Ferronickel Plant",
     "chinese": "巴罗阿尔托镍铁厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Barro Alto Ferronickel Plant",
       "巴罗阿尔托镍铁厂",
-      "NI-134"
+      "NI-134",
+      "Barro Alto Ferronickel Plant 巴罗阿尔托镍铁厂"
     ]
   },
   "GL135": {
@@ -3026,265 +3154,288 @@
     "english": "Onça Puma Ferronickel Plant",
     "chinese": "翁萨普马镍铁厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Onça Puma Ferronickel Plant",
       "翁萨普马镍铁厂",
-      "NI-135"
+      "NI-135",
+      "Onça Puma Ferronickel Plant 翁萨普马镍铁厂"
     ]
   },
   "GL136": {
-    "title": "Araguaia Ferronickel Project (Horizonte Minerals) 阿拉瓜亚镍铁项目",
-    "english": "Araguaia Ferronickel Project (Horizonte Minerals)",
+    "title": "Araguaia Ferronickel Project 阿拉瓜亚镍铁项目",
+    "english": "Araguaia Ferronickel Project",
     "chinese": "阿拉瓜亚镍铁项目",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Araguaia Ferronickel Project (Horizonte Minerals)",
       "阿拉瓜亚镍铁项目",
-      "NI-136"
+      "NI-136",
+      "Araguaia Ferronickel Project (Horizonte Minerals) 阿拉瓜亚镍铁项目"
     ]
   },
   "GL138": {
-    "title": "São Miguel Paulista Electrolytic Nickel Refinery 圣米格尔保利斯塔电解镍精炼厂",
-    "english": "São Miguel Paulista Electrolytic Nickel Refinery",
-    "chinese": "圣米格尔保利斯塔电解镍精炼厂",
+    "title": "São Miguel Paulista Nickel Refinery 圣米格尔保利斯塔镍精炼厂",
+    "english": "São Miguel Paulista Nickel Refinery",
+    "chinese": "圣米格尔保利斯塔镍精炼厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "São Miguel Paulista Electrolytic Nickel Refinery",
       "圣米格尔保利斯塔电解镍精炼厂",
-      "NI-138"
+      "NI-138",
+      "São Miguel Paulista Electrolytic Nickel Refinery 圣米格尔保利斯塔电解镍精炼厂"
     ]
   },
   "GL139": {
-    "title": "Vermelho Nickel-Cobalt Project (Horizonte Minerals) 维尔梅柳镍钴项目",
-    "english": "Vermelho Nickel-Cobalt Project (Horizonte Minerals)",
+    "title": "Vermelho Nickel-Cobalt Project 维尔梅柳镍钴项目",
+    "english": "Vermelho Nickel-Cobalt Project",
     "chinese": "维尔梅柳镍钴项目",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Vermelho Nickel-Cobalt Project (Horizonte Minerals)",
       "维尔梅柳镍钴项目",
-      "NI-139"
+      "NI-139",
+      "Vermelho Nickel-Cobalt Project (Horizonte Minerals) 维尔梅柳镍钴项目"
     ]
   },
   "GL140": {
-    "title": "Impala Refining Services Base Metals Refinery (Springs) 英帕拉铂业斯普林斯贱金属精炼厂",
-    "english": "Impala Refining Services Base Metals Refinery (Springs)",
-    "chinese": "英帕拉铂业斯普林斯贱金属精炼厂",
+    "title": "Springs Base Metals Refinery (Impala) 斯普林斯贱金属精炼厂（英帕拉）",
+    "english": "Springs Base Metals Refinery (Impala)",
+    "chinese": "斯普林斯贱金属精炼厂（英帕拉）",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Impala Refining Services Base Metals Refinery (Springs)",
       "英帕拉铂业斯普林斯贱金属精炼厂",
-      "NI-140"
+      "NI-140",
+      "Impala Refining Services Base Metals Refinery (Springs) 英帕拉铂业斯普林斯贱金属精炼厂"
     ]
   },
   "GL141": {
-    "title": "Nkomati Nickel Mine (MMZ & PCMZ concentrators) 恩科马蒂镍矿选矿厂",
-    "english": "Nkomati Nickel Mine (MMZ & PCMZ concentrators)",
-    "chinese": "恩科马蒂镍矿选矿厂",
+    "title": "Nkomati Nickel Mine 恩科马蒂镍矿",
+    "english": "Nkomati Nickel Mine",
+    "chinese": "恩科马蒂镍矿",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Nkomati Nickel Mine (MMZ & PCMZ concentrators)",
       "恩科马蒂镍矿选矿厂",
-      "NI-141"
+      "NI-141",
+      "Nkomati Nickel Mine (MMZ & PCMZ concentrators) 恩科马蒂镍矿选矿厂"
     ]
   },
   "GL142": {
-    "title": "Northam Platinum Zondereinde Smelter & Base Metals Refinery 诺瑟姆铂业桑德雷恩德冶炼厂及贱金属精炼厂",
-    "english": "Northam Platinum Zondereinde Smelter & Base Metals Refinery",
-    "chinese": "诺瑟姆铂业桑德雷恩德冶炼厂及贱金属精炼厂",
+    "title": "Zondereinde Smelter and Base Metals Refinery 桑德雷恩德冶炼厂及贱金属精炼厂",
+    "english": "Zondereinde Smelter and Base Metals Refinery",
+    "chinese": "桑德雷恩德冶炼厂及贱金属精炼厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Northam Platinum Zondereinde Smelter & Base Metals Refinery",
       "诺瑟姆铂业桑德雷恩德冶炼厂及贱金属精炼厂",
-      "NI-142"
+      "NI-142",
+      "Northam Platinum Zondereinde Smelter & Base Metals Refinery 诺瑟姆铂业桑德雷恩德冶炼厂及贱金属精炼厂"
     ]
   },
   "GL143": {
-    "title": "Thakadu Nickel Sulfate Plant, Marikana 萨卡杜硫酸镍厂(马里卡纳)",
-    "english": "Thakadu Nickel Sulfate Plant, Marikana",
-    "chinese": "萨卡杜硫酸镍厂(马里卡纳)",
+    "title": "Thakadu Nickel Sulphate Plant 萨卡杜硫酸镍厂",
+    "english": "Thakadu Nickel Sulphate Plant",
+    "chinese": "萨卡杜硫酸镍厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Thakadu Nickel Sulfate Plant, Marikana",
       "萨卡杜硫酸镍厂(马里卡纳)",
-      "NI-143"
+      "NI-143",
+      "Thakadu Nickel Sulfate Plant, Marikana 萨卡杜硫酸镍厂(马里卡纳)"
     ]
   },
   "GL144": {
-    "title": "Lonmin (Sibanye-Stillwater) Base Metals Refinery 隆明(西班尼-思达伟)贱金属精炼厂",
-    "english": "Lonmin (Sibanye-Stillwater) Base Metals Refinery",
-    "chinese": "隆明(西班尼-思达伟)贱金属精炼厂",
+    "title": "Marikana Base Metals Refinery 马里卡纳贱金属精炼厂",
+    "english": "Marikana Base Metals Refinery",
+    "chinese": "马里卡纳贱金属精炼厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Lonmin (Sibanye-Stillwater) Base Metals Refinery",
       "隆明(西班尼-思达伟)贱金属精炼厂",
-      "NI-144"
+      "NI-144",
+      "Lonmin (Sibanye-Stillwater) Base Metals Refinery 隆明(西班尼-思达伟)贱金属精炼厂"
     ]
   },
   "GL145": {
-    "title": "Rustenburg Base Metals Refinery (RBMR) / Waterval Smelter Complex 鲁斯滕堡贱金属精炼厂(RBMR，含瓦特瓦尔冶炼厂)",
-    "english": "Rustenburg Base Metals Refinery (RBMR) / Waterval Smelter Complex",
-    "chinese": "鲁斯滕堡贱金属精炼厂(RBMR，含瓦特瓦尔冶炼厂)",
+    "title": "Rustenburg Base Metals Refinery 鲁斯滕堡贱金属精炼厂",
+    "english": "Rustenburg Base Metals Refinery",
+    "chinese": "鲁斯滕堡贱金属精炼厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Rustenburg Base Metals Refinery (RBMR) / Waterval Smelter Complex",
       "鲁斯滕堡贱金属精炼厂(RBMR，含瓦特瓦尔冶炼厂)",
-      "NI-145"
+      "NI-145",
+      "Rustenburg Base Metals Refinery (RBMR) / Waterval Smelter Complex 鲁斯滕堡贱金属精炼厂(RBMR，含瓦特瓦尔冶炼厂)"
     ]
   },
   "GL146": {
-    "title": "BCL Smelter (Selebi-Phikwe Nickel-Copper Smelter) BCL塞莱比皮奎镍铜冶炼厂",
-    "english": "BCL Smelter (Selebi-Phikwe Nickel-Copper Smelter)",
-    "chinese": "BCL塞莱比皮奎镍铜冶炼厂",
+    "title": "Selebi-Phikwe Smelter (BCL) 塞莱比皮奎冶炼厂（BCL）",
+    "english": "Selebi-Phikwe Smelter (BCL)",
+    "chinese": "塞莱比皮奎冶炼厂（BCL）",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "BCL Smelter (Selebi-Phikwe Nickel-Copper Smelter)",
       "BCL塞莱比皮奎镍铜冶炼厂",
-      "NI-146"
+      "NI-146",
+      "BCL Smelter (Selebi-Phikwe Nickel-Copper Smelter) BCL塞莱比皮奎镍铜冶炼厂"
     ]
   },
   "GL147": {
-    "title": "Tati Nickel Activox Base-Metals Refinery Project 塔蒂镍业Activox贱金属精炼项目(未建成)",
-    "english": "Tati Nickel Activox Base-Metals Refinery Project",
-    "chinese": "塔蒂镍业Activox贱金属精炼项目(未建成)",
+    "title": "Tati Activox Refinery Project 塔蒂Activox精炼项目",
+    "english": "Tati Activox Refinery Project",
+    "chinese": "塔蒂Activox精炼项目",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Tati Nickel Activox Base-Metals Refinery Project",
       "塔蒂镍业Activox贱金属精炼项目(未建成)",
-      "NI-147"
+      "NI-147",
+      "Tati Nickel Activox Base-Metals Refinery Project 塔蒂镍业Activox贱金属精炼项目(未建成)"
     ]
   },
   "GL148": {
-    "title": "Kabanga Nickel Project & Kahama Hydrometallurgical Refinery (planned) 卡班加镍矿及卡哈马湿法冶金精炼厂(规划中)",
-    "english": "Kabanga Nickel Project & Kahama Hydrometallurgical Refinery (planned)",
-    "chinese": "卡班加镍矿及卡哈马湿法冶金精炼厂(规划中)",
+    "title": "Kabanga Nickel Project 卡班加镍项目",
+    "english": "Kabanga Nickel Project",
+    "chinese": "卡班加镍项目",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Kabanga Nickel Project & Kahama Hydrometallurgical Refinery (planned)",
       "卡班加镍矿及卡哈马湿法冶金精炼厂(规划中)",
-      "NI-148"
+      "NI-148",
+      "Kabanga Nickel Project & Kahama Hydrometallurgical Refinery (planned) 卡班加镍矿及卡哈马湿法冶金精炼厂(规划中)"
     ]
   },
   "GL149": {
-    "title": "Ntaka Hill Nickel-Cobalt Laterite Project 恩塔卡山镍钴红土矿项目",
-    "english": "Ntaka Hill Nickel-Cobalt Laterite Project",
-    "chinese": "恩塔卡山镍钴红土矿项目",
+    "title": "Ntaka Hill Nickel Project 恩塔卡山镍项目",
+    "english": "Ntaka Hill Nickel Project",
+    "chinese": "恩塔卡山镍项目",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Ntaka Hill Nickel-Cobalt Laterite Project",
       "恩塔卡山镍钴红土矿项目",
-      "NI-149"
+      "NI-149",
+      "Ntaka Hill Nickel-Cobalt Laterite Project 恩塔卡山镍钴红土矿项目"
     ]
   },
   "GL150": {
-    "title": "Musongati Nickel Laterite Project (planned, never built) 穆松加蒂镍红土矿项目(规划中，从未建成)",
-    "english": "Musongati Nickel Laterite Project (planned, never built)",
-    "chinese": "穆松加蒂镍红土矿项目(规划中，从未建成)",
+    "title": "Musongati Nickel Project 穆松加蒂镍项目",
+    "english": "Musongati Nickel Project",
+    "chinese": "穆松加蒂镍项目",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Musongati Nickel Laterite Project (planned, never built)",
       "穆松加蒂镍红土矿项目(规划中，从未建成)",
-      "NI-150"
+      "NI-150",
+      "Musongati Nickel Laterite Project (planned, never built) 穆松加蒂镍红土矿项目(规划中，从未建成)"
     ]
   },
   "GL151": {
-    "title": "Bou Azzer Cobalt-Nickel Complex (CTT / Managem) 布阿泽尔钴镍联合厂(CTT/曼纳吉姆)",
-    "english": "Bou Azzer Cobalt-Nickel Complex (CTT / Managem)",
-    "chinese": "布阿泽尔钴镍联合厂(CTT/曼纳吉姆)",
+    "title": "Bou Azzer Cobalt-Nickel Plant 布阿泽尔钴镍厂",
+    "english": "Bou Azzer Cobalt-Nickel Plant",
+    "chinese": "布阿泽尔钴镍厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Bou Azzer Cobalt-Nickel Complex (CTT / Managem)",
       "布阿泽尔钴镍联合厂(CTT/曼纳吉姆)",
-      "NI-151"
+      "NI-151",
+      "Bou Azzer Cobalt-Nickel Complex (CTT / Managem) 布阿泽尔钴镍联合厂(CTT/曼纳吉姆)"
     ]
   },
   "GL152": {
-    "title": "Bindura Smelter & Refinery Complex (Bindura Nickel Corporation / Trojan Mine) 宾杜拉镍冶炼及精炼厂(宾杜拉镍业公司/特洛伊矿)",
-    "english": "Bindura Smelter & Refinery Complex (Bindura Nickel Corporation / Trojan Mine)",
-    "chinese": "宾杜拉镍冶炼及精炼厂(宾杜拉镍业公司/特洛伊矿)",
+    "title": "Bindura Nickel Smelter and Refinery 宾杜拉镍冶炼精炼厂",
+    "english": "Bindura Nickel Smelter and Refinery",
+    "chinese": "宾杜拉镍冶炼精炼厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Bindura Smelter & Refinery Complex (Bindura Nickel Corporation / Trojan Mine)",
       "宾杜拉镍冶炼及精炼厂(宾杜拉镍业公司/特洛伊矿)",
-      "NI-152"
+      "NI-152",
+      "Bindura Smelter & Refinery Complex (Bindura Nickel Corporation / Trojan Mine) 宾杜拉镍冶炼及精炼厂(宾杜拉镍业公司/特洛伊矿)"
     ]
   },
   "GL153": {
-    "title": "Empress Nickel Refinery (ENR) 皇后镍精炼厂",
-    "english": "Empress Nickel Refinery (ENR)",
+    "title": "Empress Nickel Refinery 皇后镍精炼厂",
+    "english": "Empress Nickel Refinery",
     "chinese": "皇后镍精炼厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Empress Nickel Refinery (ENR)",
       "皇后镍精炼厂",
-      "NI-153"
+      "NI-153",
+      "Empress Nickel Refinery (ENR) 皇后镍精炼厂"
     ]
   },
   "GL154": {
-    "title": "Hartley Platinum Mine PGM Base-Metals Refinery (byproduct nickel) 哈特利铂矿铂族金属贱金属精炼厂(副产镍)",
-    "english": "Hartley Platinum Mine PGM Base-Metals Refinery (byproduct nickel)",
-    "chinese": "哈特利铂矿铂族金属贱金属精炼厂(副产镍)",
+    "title": "Hartley Platinum Base Metals Refinery 哈特利铂矿贱金属精炼厂",
+    "english": "Hartley Platinum Base Metals Refinery",
+    "chinese": "哈特利铂矿贱金属精炼厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Hartley Platinum Mine PGM Base-Metals Refinery (byproduct nickel)",
       "哈特利铂矿铂族金属贱金属精炼厂(副产镍)",
-      "NI-154"
+      "NI-154",
+      "Hartley Platinum Mine PGM Base-Metals Refinery (byproduct nickel) 哈特利铂矿铂族金属贱金属精炼厂(副产镍)"
     ]
   },
   "GL155": {
-    "title": "Zimplats Selous Metallurgical Complex (Smelter) 津巴布韦铂业塞卢斯冶炼厂",
-    "english": "Zimplats Selous Metallurgical Complex (Smelter)",
-    "chinese": "津巴布韦铂业塞卢斯冶炼厂",
+    "title": "Selous Metallurgical Complex (Zimplats) 塞卢斯冶金联合体（津巴布韦铂业）",
+    "english": "Selous Metallurgical Complex (Zimplats)",
+    "chinese": "塞卢斯冶金联合体（津巴布韦铂业）",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Zimplats Selous Metallurgical Complex (Smelter)",
       "津巴布韦铂业塞卢斯冶炼厂",
-      "NI-155"
+      "NI-155",
+      "Zimplats Selous Metallurgical Complex (Smelter) 津巴布韦铂业塞卢斯冶炼厂"
     ]
   },
   "GL156": {
-    "title": "Western Côte d'Ivoire Nickel Laterite Prospects (Sipilou / Foungouesso / Moyango / Biankouma) — exploration/pre-development stage 科特迪瓦西部镍红土矿勘探项目群(西皮鲁/丰古埃索/莫扬戈/比安库马)",
-    "english": "Western Côte d'Ivoire Nickel Laterite Prospects (Sipilou / Foungouesso / Moyango / Biankouma) — exploration/pre-development stage",
-    "chinese": "科特迪瓦西部镍红土矿勘探项目群(西皮鲁/丰古埃索/莫扬戈/比安库马)",
+    "title": "Western Côte d'Ivoire Nickel Projects 科特迪瓦西部镍矿项目群",
+    "english": "Western Côte d'Ivoire Nickel Projects",
+    "chinese": "科特迪瓦西部镍矿项目群",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Western Côte d'Ivoire Nickel Laterite Prospects (Sipilou / Foungouesso / Moyango / Biankouma) — exploration/pre-development stage",
       "科特迪瓦西部镍红土矿勘探项目群(西皮鲁/丰古埃索/莫扬戈/比安库马)",
-      "NI-156"
+      "NI-156",
+      "Western Côte d'Ivoire Nickel Laterite Prospects (Sipilou / Foungouesso / Moyango / Biankouma) — exploration/pre-development stage 科特迪瓦西部镍红土矿勘探项目群(西皮鲁/丰古埃索/莫扬戈/比安库马)"
     ]
   },
   "GL158": {
-    "title": "Kleva gruva 克莱瓦镍矿与历史冶炼业务",
-    "english": "Kleva gruva",
-    "chinese": "克莱瓦镍矿与历史冶炼业务",
+    "title": "Kleva Nickel Mine and Works 克莱瓦镍矿及冶炼",
+    "english": "Kleva Nickel Mine and Works",
+    "chinese": "克莱瓦镍矿及冶炼",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Kleva Nickel Mine & Smelter (Kleva gruva)",
       "克莱瓦(Kleva)镍矿及冶炼厂",
       "NI-158",
       "Kleva Nickel Mine & Smelter (Kleva gruva) 克莱瓦(Kleva)镍矿及冶炼厂",
-      "Kleva gruva 克莱瓦镍矿与历史冶炼业务"
+      "Kleva gruva 克莱瓦镍矿与历史冶炼业务",
+      "Kleva gruva",
+      "克莱瓦镍矿与历史冶炼业务"
     ]
   },
   "GL159": {
@@ -3292,97 +3443,106 @@
     "english": "Bamble Nikkelverk",
     "chinese": "巴姆布勒镍厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Bamble Nikkelverk (Bamble Nickel Works)",
       "巴姆布勒(Bamble)镍厂",
       "NI-159",
       "Bamble Nikkelverk (Bamble Nickel Works) 巴姆布勒(Bamble)镍厂",
-      "Bamble Nikkelverk 巴姆布勒镍厂"
+      "Bamble Nikkelverk 巴姆布勒镍厂",
+      "Bamble Nikkelverk",
+      "巴姆布勒镍厂"
     ]
   },
   "GL160": {
-    "title": "Drury Nickel Company Smelter (Chicago Mine) 德鲁里镍业公司芝加哥矿冶炼厂",
-    "english": "Drury Nickel Company Smelter (Chicago Mine)",
-    "chinese": "德鲁里镍业公司芝加哥矿冶炼厂",
+    "title": "Chicago Mine Smelter (Drury Nickel) 芝加哥矿冶炼厂（德鲁里镍业）",
+    "english": "Chicago Mine Smelter (Drury Nickel)",
+    "chinese": "芝加哥矿冶炼厂（德鲁里镍业）",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Drury Nickel Company Smelter (Chicago Mine)",
       "德鲁里镍业公司芝加哥矿冶炼厂",
-      "NI-160"
+      "NI-160",
+      "Drury Nickel Company Smelter (Chicago Mine) 德鲁里镍业公司芝加哥矿冶炼厂"
     ]
   },
   "GL161": {
-    "title": "Dominion Nickel Company Blezard Mine Smelter 多米尼恩镍业公司布莱扎德矿冶炼厂",
-    "english": "Dominion Nickel Company Blezard Mine Smelter",
-    "chinese": "多米尼恩镍业公司布莱扎德矿冶炼厂",
+    "title": "Blezard Mine Smelter 布莱扎德矿冶炼厂",
+    "english": "Blezard Mine Smelter",
+    "chinese": "布莱扎德矿冶炼厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Dominion Nickel Company Blezard Mine Smelter",
       "多米尼恩镍业公司布莱扎德矿冶炼厂",
-      "NI-161"
+      "NI-161",
+      "Dominion Nickel Company Blezard Mine Smelter 多米尼恩镍业公司布莱扎德矿冶炼厂"
     ]
   },
   "GL162": {
-    "title": "Schladming-Hopfriesen Nickel Smelter (Gersdorff Nickel Works) 施拉德明-霍普夫里森镍冶炼厂(格斯多夫镍业)",
-    "english": "Schladming-Hopfriesen Nickel Smelter (Gersdorff Nickel Works)",
-    "chinese": "施拉德明-霍普夫里森镍冶炼厂(格斯多夫镍业)",
+    "title": "Schladming Nickel Smelter 施拉德明镍冶炼厂",
+    "english": "Schladming Nickel Smelter",
+    "chinese": "施拉德明镍冶炼厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Schladming-Hopfriesen Nickel Smelter (Gersdorff Nickel Works)",
       "施拉德明-霍普夫里森镍冶炼厂(格斯多夫镍业)",
-      "NI-162"
+      "NI-162",
+      "Schladming-Hopfriesen Nickel Smelter (Gersdorff Nickel Works) 施拉德明-霍普夫里森镍冶炼厂(格斯多夫镍业)"
     ]
   },
   "GL163": {
-    "title": "Mond Nickel Carbonyl Experimental/Model Refinery, Smethwick 蒙德(Mond)斯梅斯维克镍羰基法实验/模型精炼厂",
-    "english": "Mond Nickel Carbonyl Experimental/Model Refinery, Smethwick",
-    "chinese": "蒙德(Mond)斯梅斯维克镍羰基法实验/模型精炼厂",
+    "title": "Smethwick Mond Carbonyl Refinery 斯梅斯维克蒙德羰基法精炼厂",
+    "english": "Smethwick Mond Carbonyl Refinery",
+    "chinese": "斯梅斯维克蒙德羰基法精炼厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Mond Nickel Carbonyl Experimental/Model Refinery, Smethwick",
       "蒙德(Mond)斯梅斯维克镍羰基法实验/模型精炼厂",
-      "NI-163"
+      "NI-163",
+      "Mond Nickel Carbonyl Experimental/Model Refinery, Smethwick 蒙德(Mond)斯梅斯维克镍羰基法实验/模型精炼厂"
     ]
   },
   "GL164": {
-    "title": "Vale Bécancour Nickel Sulphate Plant (Vale Base Metals Nickel Sulphate Project) 淡水河谷贝坎库尔硫酸镍厂",
-    "english": "Vale Bécancour Nickel Sulphate Plant (Vale Base Metals Nickel Sulphate Project)",
-    "chinese": "淡水河谷贝坎库尔硫酸镍厂",
+    "title": "Bécancour Nickel Sulphate Plant 贝坎库尔硫酸镍厂",
+    "english": "Bécancour Nickel Sulphate Plant",
+    "chinese": "贝坎库尔硫酸镍厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Vale Bécancour Nickel Sulphate Plant (Vale Base Metals Nickel Sulphate Project)",
       "淡水河谷贝坎库尔硫酸镍厂",
-      "NI-164"
+      "NI-164",
+      "Vale Bécancour Nickel Sulphate Plant (Vale Base Metals Nickel Sulphate Project) 淡水河谷贝坎库尔硫酸镍厂"
     ]
   },
   "GL165": {
-    "title": "Wyloo Sudbury Battery Materials Processing Facility 怀洛(Wyloo)萨德伯里电池材料加工厂",
-    "english": "Wyloo Sudbury Battery Materials Processing Facility",
-    "chinese": "怀洛(Wyloo)萨德伯里电池材料加工厂",
+    "title": "Wyloo Sudbury Battery Materials Plant 怀洛萨德伯里电池材料厂",
+    "english": "Wyloo Sudbury Battery Materials Plant",
+    "chinese": "怀洛萨德伯里电池材料厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Wyloo Sudbury Battery Materials Processing Facility",
       "怀洛(Wyloo)萨德伯里电池材料加工厂",
-      "NI-165"
+      "NI-165",
+      "Wyloo Sudbury Battery Materials Processing Facility 怀洛(Wyloo)萨德伯里电池材料加工厂"
     ]
   },
   "GL166": {
-    "title": "Ferronickel Kombinat Ertis LLP (ТОО «Ферроникелевый комбинат «Ертіс»）／ Ferronickel Plant Ertis LLP 额尔齐斯(Ertis)铁镍联合企业有限公司（存疑，或为集团内部筹备型壳公司）",
-    "english": "Ferronickel Kombinat Ertis LLP (ТОО «Ферроникелевый комбинат «Ертіс»）／ Ferronickel Plant Ertis LLP",
-    "chinese": "额尔齐斯(Ertis)铁镍联合企业有限公司（存疑，或为集团内部筹备型壳公司）",
+    "title": "Ertis Ferronickel Plant 额尔齐斯镍铁厂",
+    "english": "Ertis Ferronickel Plant",
+    "chinese": "额尔齐斯镍铁厂",
     "chinese_basis": "用户全球普查底表",
-    "identity_kind": "工厂／产线项目名称，法人主体见股权资料",
+    "identity_kind": "项目／工厂名称；运营与股权见正文",
     "aliases": [
       "Ferronickel Kombinat Ertis LLP (ТОО «Ферроникелевый комбинат «Ертіс»）／ Ferronickel Plant Ertis LLP",
       "额尔齐斯(Ertis)铁镍联合企业有限公司（存疑，或为集团内部筹备型壳公司）",
-      "NI-166"
+      "NI-166",
+      "Ferronickel Kombinat Ertis LLP (ТОО «Ферроникелевый комбинат «Ертіс»）／ Ferronickel Plant Ertis LLP 额尔齐斯(Ertis)铁镍联合企业有限公司（存疑，或为集团内部筹备型壳公司）"
     ]
   },
   "CN001": {
