@@ -11,7 +11,7 @@ const pcMeta=id=>PC_META.find(p=>p.id===id||p.topic===id);
 const pcId=id=>U().project_matte_map[id]||id;
 const pcIndonesian=p=>geoLoc(p.id)?.island_id!=='overseas';
 function pcRows(m){return EXPORTS.records.filter(r=>r.product===m.trade)}
-function pcProjects(m){const shipped=new Set(pcRows(m).map(r=>r.project)),matte=new Set((m.matte||[]).map(pcId));return U().projects.filter(p=>pcIndonesian(p)&&(m.matte?matte.has(p.id)||shipped.has(p.id):geoScope(p,m.scope)||shipped.has(p.id)))}
+function pcProjects(m){const shipped=new Set(window.EXPORTS?pcRows(m).map(r=>r.project):Object.keys(window.EX_SUMMARY?.byProject||{}).filter(id=>EX_SUMMARY.byProject[id][m.trade])),matte=new Set((m.matte||[]).map(pcId));return U().projects.filter(p=>pcIndonesian(p)&&(m.matte?matte.has(p.id)||shipped.has(p.id):geoScope(p,m.scope)||shipped.has(p.id)))}
 function pcRefs(ss=[]){return `<div class="pc-refs">${ss.map(s=>`<a href="${E(s.url)}" target="_blank" rel="noopener">${E(s.title)} ↗</a>`).join('')}</div>`}
 function pcProse(m){let d=window.PRODUCT_CHAPTERS?.[m.id];return (d?.sections||[]).map(s=>`<section class="pc-prose-section"><h3>${E(s.title)}</h3>${s.paragraphs.map(p=>`<p>${E(p)}</p>`).join('')}${pcRefs(s.sources)}</section>`).join('')}
 function pcRole(m,p){if(m.matte){let ms=p.matte_ids.map(P).filter(Boolean);return ms.map(x=>x.products[m.id]).filter(Boolean).join('；')||(pcRows(m).some(r=>r.project===p.id)?'匹配到该品目出口；制造归属见项目档案':'相关供料或后续加工项目')}let rf=RF().projects.find(x=>x.id===p.id);return rf&&['sulfate','refined'].includes(m.id)?(rf.role==='trade'?'贸易／下游关联主体':rf.products):p.classification||'产品角色见项目档案'}
