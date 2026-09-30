@@ -8,6 +8,7 @@
    b.onclick=function(){f.classList.toggle('open');label()};sels.forEach(function(s){s.addEventListener('change',label)});label();f.parentNode.insertBefore(b,f);
   });
  }
- function run(){var m=document.getElementById('main');if(m)enhanceFilters(m)}
+ function notes(root){root.querySelectorAll('.geo-table .op-note').forEach(function(n){if(!n.title)n.title=n.textContent})}
+ function run(){var m=document.getElementById('main');if(m){enhanceFilters(m);notes(m)}}
  var m=document.getElementById('main');if(m&&window.MutationObserver)new MutationObserver(run).observe(m,{childList:true});run();
 })();

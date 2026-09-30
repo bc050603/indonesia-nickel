@@ -76,3 +76,10 @@ a.prose-link{color:var(--red);text-decoration-line:underline;text-decoration-sty
  .filters.fx-collapsible:not(.open)>select{display:none}
  .filters.fx-collapsible{padding-top:10px}
 }
+/* UX 2026-09-30 (2): long directory tables scroll inside the viewport with a sticky header; status notes clamp to three lines. */
+.table-wrap:has(>.geo-table){max-height:78vh;overflow:auto;border:1px solid #e3e7eb;border-radius:4px}
+.geo-table thead th{position:sticky;top:0;z-index:2;background:#fff;box-shadow:0 1px 0 #d9dee3}
+.geo-table .op-note{display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+@media print{.table-wrap:has(>.geo-table){max-height:none;overflow:visible;border:0}.geo-table .op-note{display:block;-webkit-line-clamp:unset}}
+.table-wrap:has(>.geo-table){max-height:calc(100vh - 150px)}
+@media(min-width:1180px){.geo-table td:first-child{min-width:185px}.geo-table .op-note{min-width:0;max-width:230px}.geo-table td,.geo-table th{padding-left:10px;padding-right:10px}}
