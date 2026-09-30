@@ -240,9 +240,18 @@
           "source_url": "https://decent-china.com/public/uploads/files/20180212/1518414991109735.pdf",
           "source_title": "青山园区2016年度报告",
           "project_id": "NPI029"
+        },
+        {
+          "date": "2026-04-10",
+          "label": "原镍铁高炉改造为普碳钢高炉后点火",
+          "detail": "1,216m³普碳钢高炉点火开炉，产品为钢坯、板坯。",
+          "kind": "转产",
+          "project_id": "NPI029",
+          "source_url": "http://www.csteelnews.com/qypd/qydt/202604/t20260417_109203.html",
+          "source_title": "中国钢铁新闻网：桂鑫钢铁印尼项目高炉投产，2026年4月17日"
         }
       ],
-      "coverage_note": "仍缺：现行BF台数；是否另有NPI RKEF及投产节点；2026有效产能；直接股东现状"
+      "coverage_note": "现行BF台数；是否另有NPI RKEF及投产节点；2026有效产能；直接股东现状；改造高炉的资产归属（PMMI与TSI的法人对应）与桂鑫—青山合资股权原件。"
     },
     "NPI032": {
       "project_id": "NPI032",
@@ -758,7 +767,7 @@
           "project_id": "P02"
         }
       ],
-      "coverage_note": "仍缺：未公开的具体承购期限、价格和数量不作推定；具体限制见生产判断及主文章节"
+      "coverage_note": "未公开的具体承购期限、价格和数量不作推定；具体限制见生产判断及主文章节"
     },
     "P11": {
       "project_id": "P11",
@@ -2166,9 +2175,27 @@
           "source_url": "https://www.antam.com/uploads/pengembangan-perusahaan-tahun-2023.pdf",
           "source_title": "ANTAM 2023年项目进展",
           "project_id": "NPI072"
+        },
+        {
+          "date": "2024-01",
+          "label": "调试后停运",
+          "detail": "因PLN供电不稳和镍铁价格下跌停止运行，转入设备保全。",
+          "kind": "停产",
+          "project_id": "NPI072",
+          "source_url": "https://mind.id/temp/AR-2024_MINDID-072025.pdf",
+          "source_title": "MIND ID 2024年年报，PDF第176—178、312、690页，2025年7月"
+        },
+        {
+          "date": "2024-10",
+          "label": "决定改用原Pomalaa发电机组",
+          "detail": "ANTAM管理层决定以原Pomalaa电站替代PLN供电。",
+          "kind": "运行变化",
+          "project_id": "NPI072",
+          "source_url": "https://mind.id/temp/AR-2024_MINDID-072025.pdf",
+          "source_title": "MIND ID 2024年年报，PDF第176—178、312、690页，2025年7月"
         }
       ],
-      "coverage_note": "已整理可由正文来源定位的历史节点。 具体仍缺：稳定商业运行日期和当前负荷；Pomalaa与Haltim的分厂产量；主要客户和长期合同"
+      "coverage_note": "柴油电站搬迁调试完成与复产日期；Pomalaa与Haltim的分厂产量。"
     },
     "NPI075": {
       "project_id": "NPI075",
@@ -2302,7 +2329,7 @@
           "project_id": "P33"
         }
       ],
-      "coverage_note": "仍缺：首炉、首批合格产品和商业许可；具体火法设备及4万吨的产品口径；承购方、接收工厂和定价安排"
+      "coverage_note": "首炉、首批合格产品和商业许可；具体火法设备及4万吨的产品口径；承购方、接收工厂和定价安排"
     },
     "P40": {
       "project_id": "P40",
@@ -2620,9 +2647,18 @@
           "source_url": "https://nickelindustries.com/carbon/assets/0007ea/000006/3081388.pdf",
           "source_title": "NIC Strategic partnership monetises Sampala and acquires CNE",
           "project_id": "MHP028"
+        },
+        {
+          "date": "2026-09-17",
+          "label": "交易仍待股东批准",
+          "detail": "报道称诚盛交易因关联方关系仍需NIC股东批准。",
+          "kind": "股权",
+          "project_id": "MHP028",
+          "source_url": "https://www.metalnomist.com/2026/09/nickel-industries-hpal-expansion.html",
+          "source_title": "Metalnomist：Nickel Industries HPAL expansion，2026年9月17日"
         }
       ],
-      "coverage_note": "仍缺：条件交易是否全部完成、其余工厂直接股东、Bluezone14.3%完整身份和终端承购仍未确认。"
+      "coverage_note": "NIC股东大会批准及交易交割日期；其余工厂直接股东、Bluezone完整身份和终端承购。"
     },
     "MHP032": {
       "project_id": "MHP032",
@@ -3352,9 +3388,18 @@
           "source_url": "https://ht.china-cdt.com/dthwtz/xwzx/jygl/2026/5/I1508530722397224960.html",
           "source_title": "大唐海外投资与象屿OSS项目交流",
           "project_id": "NPI041"
+        },
+        {
+          "date": "2026-09-11",
+          "label": "象盛镍业股东变更",
+          "detail": "江苏德龙所持49%转由象屿系厦门胜立投资持有。",
+          "kind": "股权",
+          "project_id": "NPI041",
+          "source_url": "http://finance.sina.com.cn/stock/relnews/cn/2026-09-16/doc-inirzfsw3351760.shtml",
+          "source_title": "新浪财经：厦门象盛镍业完成股东变更，2026年9月16日"
         }
       ],
-      "coverage_note": "已整理现有正文中的关键里程碑。具体仍缺：2026逐炉运行负荷与现行设备清单；具名终端钢厂分配、排他承购条款与期限；重整后最新股权结构"
+      "coverage_note": "2026逐炉运行负荷与现行设备清单；具名终端钢厂分配、排他承购条款与期限；象盛镍业至PT OSS各中间层的直接、间接持股比例。"
     },
     "NPI044": {
       "project_id": "NPI044",
@@ -3839,7 +3884,7 @@
           "project_id": "P34"
         }
       ],
-      "coverage_note": "已整理现有正文中的关键里程碑。具体仍缺：未公开的具体承购期限、价格和数量不作推定；具体限制见生产判断及主文章节"
+      "coverage_note": "未公开的具体承购期限、价格和数量不作推定；具体限制见生产判断及主文章节"
     },
     "P41": {
       "project_id": "P41",
@@ -8233,8 +8278,27 @@
     },
     "CN024": {
       "project_id": "CN024",
-      "events": [],
-      "coverage_note": ""
+      "events": [
+        {
+          "date": "2020-11",
+          "label": "项目停产",
+          "detail": "督察整改材料称因市场行情和资金不足停产。",
+          "kind": "停产",
+          "project_id": "CN024",
+          "source_url": "https://hbj.linyi.gov.cn/info/1044/55317.htm",
+          "source_title": "临沂市生态环境局：第一轮省级督察反馈意见（序号75）整改销号公示，2024年4月16日"
+        },
+        {
+          "date": "2021-06",
+          "label": "排污许可注销",
+          "detail": "第二轮督察整改公示称排污许可已于2021年6月注销。",
+          "kind": "关闭",
+          "project_id": "CN024",
+          "source_url": "https://hbj.linyi.gov.cn/info/1044/56344.htm",
+          "source_title": "临沂市生态环境局：第二轮省级督察反馈意见（序号23）整改公示，2024年10月10日"
+        }
+      ],
+      "coverage_note": "法人股东及母公司；原料和客户、海外关联；“山东金海汇”与“临沂金海汇”的工商沿革；停产前实际投产线数和产量。"
     },
     "CN025": {
       "project_id": "CN025",
@@ -9053,9 +9117,18 @@
           "source_url": "https://www.nhclsq.com/s208003.html",
           "source_title": "联合荣大：广西戎鑫达高炉喷注施工项目",
           "project_id": "CN067"
+        },
+        {
+          "date": "2026-05-07",
+          "label": "排污许可证注销",
+          "detail": "钦州市生态环境局同意企业注销排污许可证申请。",
+          "kind": "许可",
+          "project_id": "CN067",
+          "source_url": "http://sthjj.qinzhou.gov.cn/hjbh/hjhcsp/t27531681.shtml",
+          "source_title": "钦州市生态环境局：同意注销广西戎鑫达资源有限公司排污许可证的函（钦环审函〔2026〕10号），2026年5月7日"
         }
       ],
-      "coverage_note": ""
+      "coverage_note": "核对450立方米高炉后续复产、关停或资产转让记录，以及戎鑫达与港口客户的具体货物合同。；排污许可注销原因；450立方米高炉最后生产时间与资产处置。"
     },
     "CN068": {
       "project_id": "CN068",
@@ -9270,11 +9343,29 @@
           "project_id": "CN076"
         }
       ],
-      "coverage_note": ""
+      "coverage_note": "“万汇”“和恒”的法人全称、租赁合同与承租炉线。"
     },
     "CN077": {
       "project_id": "CN077",
       "events": [
+        {
+          "date": "2019-06",
+          "label": "重整方案通过",
+          "detail": "亿晨破产重整方案通过，后改制为钢基新材料。",
+          "kind": "重整",
+          "project_id": "CN077",
+          "source_url": "https://static.sse.com.cn/disclosure/bond/announcement/corporate/c/new/2023-08-31/139306_20230831_X1VX.pdf",
+          "source_title": "临沂城市发展集团2023年公司债券中期报告，第12—13页，2023年8月31日"
+        },
+        {
+          "date": "2023-06",
+          "label": "两条RKEF线投产",
+          "detail": "债券中期报告称已建成投产2条线，年产含镍10%镍铁13万吨。",
+          "kind": "投产",
+          "project_id": "CN077",
+          "source_url": "https://static.sse.com.cn/disclosure/bond/announcement/corporate/c/new/2023-08-31/139306_20230831_X1VX.pdf",
+          "source_title": "临沂城市发展集团2023年公司债券中期报告，第12—13页，2023年8月31日"
+        },
         {
           "date": "2023-08-31",
           "label": "破产重整被债券报告披露",
@@ -9285,7 +9376,7 @@
           "project_id": "CN077"
         }
       ],
-      "coverage_note": ""
+      "coverage_note": "2023年后各线运行情况；新增2条线是否投产。"
     },
     "CN078": {
       "project_id": "CN078",
@@ -9548,9 +9639,27 @@
           "source_url": "https://wkxn.minmetals.com.cn/xwzx_7726/gsxw/202504/t20250427_308507.html",
           "source_title": "五矿新能：中冶新能源管理关系调整，2025年4月27日",
           "project_id": "CN087"
+        },
+        {
+          "date": "2025-12-02",
+          "label": "二期硫酸镍钴蒸发系统单体试车",
+          "detail": "两套蒸发系统完成单体试车。",
+          "kind": "试产",
+          "project_id": "CN087",
+          "source_url": "https://www.22mcc.com.cn/22yejituan/xwzx/xmdt/202512/t20251202_355613.html",
+          "source_title": "中国二十二冶集团：中冶新材料二期硫酸镍钴厂房蒸发系统单体试车，2025年12月2日"
+        },
+        {
+          "date": "2026-01-20",
+          "label": "二期项目正式投产",
+          "detail": "唐山媒体报道中冶瑞木二期在曹妃甸正式投产。",
+          "kind": "投产",
+          "project_id": "CN087",
+          "source_url": "https://www.thepaper.cn/newsDetail_forward_32430125",
+          "source_title": "澎湃新闻／唐山劳动日报：中冶瑞木新能源二期项目正式投产，2026年1月20日"
         }
       ],
-      "coverage_note": ""
+      "coverage_note": "核对当前股权比例和后续股权变更，管理托管不等于收购完成。；补充瑞木供料及具体下游客户的合同期限、定价和实际交付。"
     },
     "CN088": {
       "project_id": "CN088",
@@ -9744,12 +9853,31 @@
     "CN099": {
       "project_id": "CN099",
       "events": [],
-      "coverage_note": ""
+      "coverage_note": "补充路加正式环评批复、分期建设进度、验收和下游客户；安全评价不等于投产证明。；安全评价线索未厘清“浙江路加新能源”与临海“浙江路加新材料”的法人及生产关系。；公开工商资料中未见“浙江路加新能源有限公司”，只见浙江路加新材料有限公司；两者关系未证实，不合并或删除本条。"
     },
     "CN100": {
       "project_id": "CN100",
-      "events": [],
-      "coverage_note": ""
+      "events": [
+        {
+          "date": "2014-01",
+          "label": "一期硫酸镍项目验收",
+          "detail": "年产1万吨硫酸镍盐一期项目通过环保验收。",
+          "kind": "验收",
+          "project_id": "CN100",
+          "source_url": "https://sthjj.chizhou.gov.cn/upload_cz/download?siteId=57&id=365291",
+          "source_title": "池州市生态环境局：池州西恩环境治理和工艺优化项目环评征求意见稿，2022年9月，PDF第4—5、42—44页"
+        },
+        {
+          "date": "2015-04-29",
+          "label": "固废综合利用技改验收",
+          "detail": "含硫酸镍6000吨/年的技改项目通过验收。",
+          "kind": "验收",
+          "project_id": "CN100",
+          "source_url": "https://sthjj.chizhou.gov.cn/upload_cz/download?siteId=57&id=365291",
+          "source_title": "池州市生态环境局：池州西恩环境治理和工艺优化项目环评征求意见稿，2022年9月，PDF第4—5、42—44页"
+        }
+      ],
+      "coverage_note": "补充池州各期投产和验收节点、最新股东层级、具名镍盐客户及持续供货合同。；池州厂区近年硫酸镍实际产量。"
     },
     "CN101": {
       "project_id": "CN101",
@@ -13194,6 +13322,15 @@
       "project_id": "NPI071"
     },
     {
+      "date": "2014-01",
+      "label": "一期硫酸镍项目验收",
+      "detail": "年产1万吨硫酸镍盐一期项目通过环保验收。",
+      "kind": "验收",
+      "project_id": "CN100",
+      "source_url": "https://sthjj.chizhou.gov.cn/upload_cz/download?siteId=57&id=365291",
+      "source_title": "池州市生态环境局：池州西恩环境治理和工艺优化项目环评征求意见稿，2022年9月，PDF第4—5、42—44页"
+    },
+    {
       "date": "2014-05-21",
       "label": "Nornickel签署资产出售",
       "detail": "Nornickel宣布将Cawse连同相关资产出售给Wingstar，购买方承担环境修复义务；出售使旧所有权结构失效。",
@@ -13390,6 +13527,15 @@
       "source_url": "https://nornickel.com/upload/iblock/00a/fy2014_ifrs_press_release_ang_final_1_full.pdf",
       "source_title": "Nornickel2014审计业绩",
       "project_id": "MHP040"
+    },
+    {
+      "date": "2015-04-29",
+      "label": "固废综合利用技改验收",
+      "detail": "含硫酸镍6000吨/年的技改项目通过验收。",
+      "kind": "验收",
+      "project_id": "CN100",
+      "source_url": "https://sthjj.chizhou.gov.cn/upload_cz/download?siteId=57&id=365291",
+      "source_title": "池州市生态环境局：池州西恩环境治理和工艺优化项目环评征求意见稿，2022年9月，PDF第4—5、42—44页"
     },
     {
       "date": "2015-05",
@@ -14158,6 +14304,15 @@
     },
     {
       "date": "2019-06",
+      "label": "重整方案通过",
+      "detail": "亿晨破产重整方案通过，后改制为钢基新材料。",
+      "kind": "重整",
+      "project_id": "CN077",
+      "source_url": "https://static.sse.com.cn/disclosure/bond/announcement/corporate/c/new/2023-08-31/139306_20230831_X1VX.pdf",
+      "source_title": "临沂城市发展集团2023年公司债券中期报告，第12—13页，2023年8月31日"
+    },
+    {
+      "date": "2019-06",
       "label": "签署战略合作框架",
       "detail": "与张家港华义化工有限公司签署框架协议。",
       "kind": "合作",
@@ -14434,6 +14589,15 @@
       "source_url": "https://file.finance.sina.com.cn/211.154.219.97%3A9494/MRGG/CNSESH_STOCK/2020/2020-10/2020-10-17/6659932.PDF",
       "source_title": "华友：华科4.5万镍金属吨高冰镍项目公告",
       "project_id": "NPI022"
+    },
+    {
+      "date": "2020-11",
+      "label": "项目停产",
+      "detail": "督察整改材料称因市场行情和资金不足停产。",
+      "kind": "停产",
+      "project_id": "CN024",
+      "source_url": "https://hbj.linyi.gov.cn/info/1044/55317.htm",
+      "source_title": "临沂市生态环境局：第一轮省级督察反馈意见（序号75）整改销号公示，2024年4月16日"
     },
     {
       "date": "2020-11",
@@ -14722,6 +14886,15 @@
       "source_url": "https://wap.asianmetal.cn/interview/2025/interview_anshengcao.shtml",
       "source_title": "亚洲金属：祺生金属总经理曹安生访谈，2025年",
       "project_id": "CN163"
+    },
+    {
+      "date": "2021-06",
+      "label": "排污许可注销",
+      "detail": "第二轮督察整改公示称排污许可已于2021年6月注销。",
+      "kind": "关闭",
+      "project_id": "CN024",
+      "source_url": "https://hbj.linyi.gov.cn/info/1044/56344.htm",
+      "source_title": "临沂市生态环境局：第二轮省级督察反馈意见（序号23）整改公示，2024年10月10日"
     },
     {
       "date": "2021-06",
@@ -15733,6 +15906,15 @@
     },
     {
       "date": "2023-06",
+      "label": "两条RKEF线投产",
+      "detail": "债券中期报告称已建成投产2条线，年产含镍10%镍铁13万吨。",
+      "kind": "投产",
+      "project_id": "CN077",
+      "source_url": "https://static.sse.com.cn/disclosure/bond/announcement/corporate/c/new/2023-08-31/139306_20230831_X1VX.pdf",
+      "source_title": "临沂城市发展集团2023年公司债券中期报告，第12—13页，2023年8月31日"
+    },
+    {
+      "date": "2023-06",
       "label": "一期电积镍获上期所注册",
       "detail": "公司在二期注册新闻中回顾一期节点。",
       "kind": "品牌与市场",
@@ -16461,6 +16643,15 @@
       "project_id": "RF003"
     },
     {
+      "date": "2024-01",
+      "label": "调试后停运",
+      "detail": "因PLN供电不稳和镍铁价格下跌停止运行，转入设备保全。",
+      "kind": "停产",
+      "project_id": "NPI072",
+      "source_url": "https://mind.id/temp/AR-2024_MINDID-072025.pdf",
+      "source_title": "MIND ID 2024年年报，PDF第176—178、312、690页，2025年7月"
+    },
+    {
       "date": "2024-01-18",
       "label": "披露重整后业务方向",
       "detail": "司法报道介绍拟从镍铁加工转向临港化工配套服务。",
@@ -16756,6 +16947,15 @@
       "source_url": "https://www.bi.go.id/en/iru/presentation/Documents/Republic%20of%20Indonesia%20Presentation%20Book%20-%20October%202024.pdf",
       "source_title": "印尼央行国家投资介绍",
       "project_id": "NPI059"
+    },
+    {
+      "date": "2024-10",
+      "label": "决定改用原Pomalaa发电机组",
+      "detail": "ANTAM管理层决定以原Pomalaa电站替代PLN供电。",
+      "kind": "运行变化",
+      "project_id": "NPI072",
+      "source_url": "https://mind.id/temp/AR-2024_MINDID-072025.pdf",
+      "source_title": "MIND ID 2024年年报，PDF第176—178、312、690页，2025年7月"
     },
     {
       "date": "2024-10-12",
@@ -17964,6 +18164,15 @@
       "project_id": "P38"
     },
     {
+      "date": "2025-12-02",
+      "label": "二期硫酸镍钴蒸发系统单体试车",
+      "detail": "两套蒸发系统完成单体试车。",
+      "kind": "试产",
+      "project_id": "CN087",
+      "source_url": "https://www.22mcc.com.cn/22yejituan/xwzx/xmdt/202512/t20251202_355613.html",
+      "source_title": "中国二十二冶集团：中冶新材料二期硫酸镍钴厂房蒸发系统单体试车，2025年12月2日"
+    },
+    {
       "date": "2025-12-03",
       "label": "前驱体与四氧化三钴技改公示",
       "detail": "现有前驱体67,000吨/年，技改后39,500吨/年。",
@@ -18423,6 +18632,15 @@
       "project_id": "P48"
     },
     {
+      "date": "2026-01-20",
+      "label": "二期项目正式投产",
+      "detail": "唐山媒体报道中冶瑞木二期在曹妃甸正式投产。",
+      "kind": "投产",
+      "project_id": "CN087",
+      "source_url": "https://www.thepaper.cn/newsDetail_forward_32430125",
+      "source_title": "澎湃新闻／唐山劳动日报：中冶瑞木新能源二期项目正式投产，2026年1月20日"
+    },
+    {
       "date": "2026-02",
       "label": "气旋Gezani导致暂时停产",
       "detail": "Ambatovy公告气旋Gezani损坏Toamasina厂区并导致项目暂时停产，后续恢复进度需与当月生产状态分开。",
@@ -18523,6 +18741,15 @@
     },
     {
       "date": "2026-04-10",
+      "label": "原镍铁高炉改造为普碳钢高炉后点火",
+      "detail": "1,216m³普碳钢高炉点火开炉，产品为钢坯、板坯。",
+      "kind": "转产",
+      "project_id": "NPI029",
+      "source_url": "http://www.csteelnews.com/qypd/qydt/202604/t20260417_109203.html",
+      "source_title": "中国钢铁新闻网：桂鑫钢铁印尼项目高炉投产，2026年4月17日"
+    },
+    {
+      "date": "2026-04-10",
       "label": "项目点火",
       "detail": "项目完成点火并进入启动阶段，表明建设开始转向热态调试；点火不是稳定合格产销，也不能据此确认设计能力全部释放。",
       "kind": "投产",
@@ -18592,6 +18819,15 @@
       "source_url": "https://ambatovy.com/en/amri-acquires-majority-stake-in-ambatovy/",
       "source_title": "Ambatovy：AMRI取得多数权益",
       "project_id": "MHP048"
+    },
+    {
+      "date": "2026-05-07",
+      "label": "排污许可证注销",
+      "detail": "钦州市生态环境局同意企业注销排污许可证申请。",
+      "kind": "许可",
+      "project_id": "CN067",
+      "source_url": "http://sthjj.qinzhou.gov.cn/hjbh/hjhcsp/t27531681.shtml",
+      "source_title": "钦州市生态环境局：同意注销广西戎鑫达资源有限公司排污许可证的函（钦环审函〔2026〕10号），2026年5月7日"
     },
     {
       "date": "2026-05-07",
@@ -18837,6 +19073,15 @@
       "project_id": "NPI009"
     },
     {
+      "date": "2026-09-11",
+      "label": "象盛镍业股东变更",
+      "detail": "江苏德龙所持49%转由象屿系厦门胜立投资持有。",
+      "kind": "股权",
+      "project_id": "NPI041",
+      "source_url": "http://finance.sina.com.cn/stock/relnews/cn/2026-09-16/doc-inirzfsw3351760.shtml",
+      "source_title": "新浪财经：厦门象盛镍业完成股东变更，2026年9月16日"
+    },
+    {
       "date": "2026-09-14",
       "label": "披露竣工与投产目标",
       "detail": "格林美称目标2026年底竣工、2027年上半年投产。",
@@ -18853,6 +19098,15 @@
       "source_url": "https://nickelindustries.com/carbon/assets/0007ea/000009/3120121.pdf",
       "source_title": "NIC Operating Update",
       "project_id": "MHP017"
+    },
+    {
+      "date": "2026-09-17",
+      "label": "交易仍待股东批准",
+      "detail": "报道称诚盛交易因关联方关系仍需NIC股东批准。",
+      "kind": "股权",
+      "project_id": "MHP028",
+      "source_url": "https://www.metalnomist.com/2026/09/nickel-industries-hpal-expansion.html",
+      "source_title": "Metalnomist：Nickel Industries HPAL expansion，2026年9月17日"
     },
     {
       "date": "2026H1",

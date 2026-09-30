@@ -1866,13 +1866,17 @@
       "history": "2026年6月24日框架公告；2027年中预计投运。原表不可直接标“已投产”。",
       "customers": "NIC公告预计对应份额10208镍吨/年可由NIC全球营销，说明公司保留销售空间；不等同于已经存在具名终端客户或全厂独家包销。",
       "rationale": "NIC以矿权益换取下游MHP权益，合作伙伴提供项目建设资金，旨在让大型褐铁矿资源进入电池材料链，减少NIC直接现金建设负担。",
-      "uncertainties": "条件交易是否全部完成、其余工厂直接股东、Bluezone14.3%完整身份和终端承购未闭合。",
+      "uncertainties": "NIC股东大会批准及交易交割日期；其余工厂直接股东、Bluezone完整身份和终端承购。",
       "sources": [
         {
           "title": "NIC Strategic partnership monetises Sampala and acquires CNE",
           "url": "https://nickelindustries.com/carbon/assets/0007ea/000006/3081388.pdf",
           "date": "2026-06-24",
           "evidence": "PT Chengsheng New Energy；28357镍吨/年；NIC拟有效36%，Sampala矿变成NIC42%、JAYA30%、本地28%；以矿股权交换CNE权益，条件交易；2027年中调试目标；NIC份额10208镍吨可全球营销。"
+        },
+        {
+          "title": "Metalnomist：Nickel Industries HPAL expansion，2026年9月17日",
+          "url": "https://www.metalnomist.com/2026/09/nickel-industries-hpal-expansion.html"
         }
       ],
       "id": "MHP028",

@@ -321,12 +321,21 @@
     },
     "NPI029": {
       "key": "operating",
-      "label": "已投产 · 现况待更新",
-      "period": "2016年历史生产披露",
-      "note": "已有低镍铁与炼钢经营，最新镍线开工情况未披露。",
-      "reviewed_at": "2026-09-18",
+      "label": "已投产 · 现况待更新（一座原镍铁高炉2026年改产普碳钢）",
+      "period": "2026年4月",
+      "note": "报道称一座原580m³镍铁高炉改造为1216m³普碳钢高炉，2026年4月10日点火；其余镍铁能力的运行情况未披露。",
+      "reviewed_at": "2026-09-30",
       "article_id": "NPI029",
-      "sources": [],
+      "sources": [
+        {
+          "title": "SMM：印尼青山园区原580m³镍铁高炉升级为1216m³普碳钢高炉，2026年3月20日",
+          "url": "https://news.smm.cn/live/detail/103817258"
+        },
+        {
+          "title": "中国钢铁新闻网：桂鑫钢铁印尼项目高炉投产，2026年4月17日",
+          "url": "http://www.csteelnews.com/qypd/qydt/202604/t20260417_109203.html"
+        }
+      ],
       "products": []
     },
     "NPI030": {
@@ -856,19 +865,25 @@
       "products": []
     },
     "NPI072": {
-      "key": "operating",
-      "label": "已投产",
-      "period": "2023年9月12日首次出铁",
-      "note": "商业进度与达产情况见项目正文。",
-      "reviewed_at": "2026-09-18",
+      "key": "care",
+      "label": "停运保全（2024年1月起）",
+      "period": "2024年1月起；MIND ID 2024年报",
+      "note": "调试期产1,981吨镍铁后，2024年1月因供电不稳和价格下跌停运；2025年计划保全设备至柴油电站搬迁调试完成。2025—2026年复产未见披露。",
+      "reviewed_at": "2026-09-30",
       "article_id": "NPI072",
       "sources": [
         {
-          "title": "ANTAM 2023年项目进展",
-          "url": "https://www.antam.com/uploads/pengembangan-perusahaan-tahun-2023.pdf"
+          "title": "MIND ID 2024年年报，PDF第176—178、312、690页，2025年7月",
+          "url": "https://mind.id/temp/AR-2024_MINDID-072025.pdf"
         }
       ],
-      "products": []
+      "products": [
+        {
+          "product": "FeNi",
+          "status": "停运保全",
+          "period": "2024-01起"
+        }
+      ]
     },
     "NPI073": {
       "key": "unknown",
@@ -927,11 +942,16 @@
     "P02": {
       "key": "operating",
       "label": "已投产",
-      "period": "2026年初二期全线投产",
-      "note": "已有低冰镍及高冰镍连续生产路线。",
-      "reviewed_at": "2026-09-18",
+      "period": "2026年上半年（中伟半年报第13页）",
+      "note": "中伟半年报称莫罗瓦利基地二期低冰镍、高冰镍产线全线拉通投产；“六线”说法仅见转载报道。",
+      "reviewed_at": "2026-09-30",
       "article_id": "P02",
-      "sources": [],
+      "sources": [
+        {
+          "title": "中伟股份2026年半年度报告",
+          "url": "https://disc.static.szse.cn/disc/disk03/finalpage/2026-08-25/53856f2b-83a4-477b-913d-79194ee16cf7.PDF"
+        }
+      ],
       "products": []
     },
     "P05": {
@@ -1093,21 +1113,31 @@
     "P33": {
       "key": "unbuilt",
       "label": "未投产 · 建设中",
-      "period": "2026年上半年",
-      "note": "在建项目，未确认首产。",
-      "reviewed_at": "2026-09-18",
+      "period": "2026年6月30日（中伟半年报第126页）",
+      "note": "半年报在建工程列“维达贝兴全冰镍四万吨项目”，未见投产记录。",
+      "reviewed_at": "2026-09-30",
       "article_id": "P33",
-      "sources": [],
+      "sources": [
+        {
+          "title": "中伟股份2026年半年度报告",
+          "url": "https://disc.static.szse.cn/disc/disk03/finalpage/2026-08-25/53856f2b-83a4-477b-913d-79194ee16cf7.PDF"
+        }
+      ],
       "products": []
     },
     "P34": {
       "key": "unbuilt",
       "label": "未投产 · 建设中",
-      "period": "2026年上半年",
-      "note": "4万吨冰镍项目仍列在建工程。",
-      "reviewed_at": "2026-09-18",
+      "period": "2026年6月30日（中伟半年报第126页）",
+      "note": "半年报在建工程列“维达贝兴新冰镍四万吨项目”，未见投产记录。",
+      "reviewed_at": "2026-09-30",
       "article_id": "P34",
-      "sources": [],
+      "sources": [
+        {
+          "title": "中伟股份2026年半年度报告",
+          "url": "https://disc.static.szse.cn/disc/disk03/finalpage/2026-08-25/53856f2b-83a4-477b-913d-79194ee16cf7.PDF"
+        }
+      ],
       "products": []
     },
     "P38": {
@@ -4687,19 +4717,29 @@
       "products": []
     },
     "CN024": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "2018",
-      "note": "仅见RKEF规划及园区信息，未见验收或投产材料。 现有资料只描述当年的规划或建设，尚不能确定之后是否建成、取消或转作其他用途。",
-      "reviewed_at": "2026-09-21",
+      "key": "halted",
+      "label": "停产（2020年11月起）",
+      "period": "2020年11月停产；2021年6月排污许可注销",
+      "note": "督察整改公示称2020年11月起长期停产，2021年6月排污许可注销。",
+      "reviewed_at": "2026-09-30",
       "article_id": "CN024",
       "sources": [
         {
-          "title": "华泰期货行业资料",
-          "url": "https://www.htfc.com/wz_upload/png_upload/20181203/1543791036551733e7e.pdf"
+          "title": "临沂市生态环境局：第一轮省级督察反馈意见（序号75）整改销号公示，2024年4月16日",
+          "url": "https://hbj.linyi.gov.cn/info/1044/55317.htm"
+        },
+        {
+          "title": "临沂市生态环境局：第二轮省级督察反馈意见（序号23）整改公示，2024年10月10日",
+          "url": "https://hbj.linyi.gov.cn/info/1044/56344.htm"
         }
       ],
-      "products": []
+      "products": [
+        {
+          "product": "镍基复合材料／镍铁",
+          "status": "停产",
+          "period": "2020-11起"
+        }
+      ]
     },
     "CN025": {
       "key": "unknown",
@@ -5425,15 +5465,15 @@
     },
     "CN067": {
       "key": "unknown",
-      "label": "状态待核（2017检修）",
-      "period": "2017-2019",
-      "note": "高炉2017年检修完成且2019年仍在重点排污名录，但没有新近运行资料。",
-      "reviewed_at": "2026-09-21",
+      "label": "状态待核（2026年排污许可注销）",
+      "period": "2017检修；2026年5月许可注销",
+      "note": "高炉2017年检修；2026年5月应企业申请注销排污许可证，原因未载。",
+      "reviewed_at": "2026-09-30",
       "article_id": "CN067",
       "sources": [
         {
-          "title": "广西重点排污单位名录",
-          "url": "https://sthjt.gxzf.gov.cn/zdxxgk/10888729003554922.pdf"
+          "title": "钦州市生态环境局：同意注销广西戎鑫达资源有限公司排污许可证的函（钦环审函〔2026〕10号），2026年5月7日",
+          "url": "http://sthjj.qinzhou.gov.cn/hjbh/hjhcsp/t27531681.shtml"
         }
       ],
       "products": []
@@ -5623,37 +5663,37 @@
     },
     "CN076": {
       "key": "unknown",
-      "label": "运行状态待核",
-      "period": "2026",
-      "note": "这是历史租赁/名称档案；对外合作线索不证明原厂、承租方或具体炉线当前生产。",
-      "reviewed_at": "2026-09-21",
+      "label": "名称/租赁档案（与CN042同厂）",
+      "period": "2025年底全线停产",
+      "note": "对应和谊同一厂区；四条镍铁线2025年底停产，见CN042。万汇、和恒法人未识别。",
+      "reviewed_at": "2026-09-30",
       "article_id": "CN076",
       "sources": [
         {
-          "title": "内蒙古和谊铁合金项目对外合作公告",
+          "title": "Mysteel：内蒙古和谊镍铁项目对外合作公告，2026年4月",
           "url": "https://nie.mysteel.com/a/26040114/EC199B6E9C9375C1.html"
         }
       ],
       "products": []
     },
     "CN077": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "2023",
-      "note": "破产重整记录不能自动推定整厂已停产或复产；未发现该项目/炉线的近期运行披露。",
-      "reviewed_at": "2026-09-21",
+      "key": "operating",
+      "label": "已投产（重整后由钢基新材料运营，2023年中记录）",
+      "period": "2023年中",
+      "note": "亿晨资产重整后由临沂城发钢基新材料运营；2023年中2条线投产（13万吨/年，含镍10%镍铁），2条线安装收尾。",
+      "reviewed_at": "2026-09-30",
       "article_id": "CN077",
       "sources": [
         {
-          "title": "临沂城市发展集团2023年债券中期报告",
+          "title": "临沂城市发展集团2023年公司债券中期报告，第12—13页，2023年8月31日",
           "url": "https://static.sse.com.cn/disclosure/bond/announcement/corporate/c/new/2023-08-31/139306_20230831_X1VX.pdf"
         }
       ],
       "products": [
         {
-          "product": "镍铬合金（历史项目）",
-          "status": "unknown",
-          "period": "2023"
+          "product": "NPI／镍铁（10%）",
+          "status": "2条线投产",
+          "period": "2023年中"
         }
       ]
     },
@@ -5894,23 +5934,31 @@
       ]
     },
     "CN087": {
-      "key": "historical",
-      "label": "历史已投产",
-      "period": "2018",
-      "note": "中国中冶2018年披露项目投产；五矿新能2025年管理关系调整仅证实主体延续，未直接证明当前产线运行。",
-      "reviewed_at": "2026-09-21",
+      "key": "operating",
+      "label": "已投产（二期2026年1月报道投产）",
+      "period": "2026年1月",
+      "note": "一期2018年12月投产；二期硫酸镍钴厂房2025年12月单体试车，2026年1月报道二期正式投产。",
+      "reviewed_at": "2026-09-30",
       "article_id": "CN087",
       "sources": [
         {
-          "title": "五矿新能：中冶新能源管理关系调整",
-          "url": "https://wkxn.minmetals.com.cn/xwzx_7726/gsxw/202504/t20250427_308507.html"
+          "title": "采招网：河北唐山中冶新材料项目二期（建设单位中冶瑞木新能源科技有限公司），2022年3月10日",
+          "url": "https://www.bidcenter.com.cn/njrl/riliNjdateils-3-1443737.html"
+        },
+        {
+          "title": "中国二十二冶集团：中冶新材料二期硫酸镍钴厂房蒸发系统单体试车，2025年12月2日",
+          "url": "https://www.22mcc.com.cn/22yejituan/xwzx/xmdt/202512/t20251202_355613.html"
+        },
+        {
+          "title": "澎湃新闻／唐山劳动日报：中冶瑞木新能源二期项目正式投产，2026年1月20日",
+          "url": "https://www.thepaper.cn/newsDetail_forward_32430125"
         }
       ],
       "products": [
         {
-          "product": "新能源材料",
-          "status": "historical",
-          "period": "2018"
+          "product": "硫酸镍钴（二期）",
+          "status": "投产",
+          "period": "2026-01"
         }
       ]
     },
@@ -6232,22 +6280,22 @@
       ]
     },
     "CN100": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "2022",
-      "note": "招股书可说明上海西恩体系及资源循环业务，未直接证明池州子公司当期生产。",
-      "reviewed_at": "2026-09-21",
+      "key": "operating",
+      "label": "已投产（2022年环评现有工程口径）",
+      "period": "2014—2015年验收；2022年环评",
+      "note": "厂区硫酸镍线2014—2015年验收，2022年环评列为已投入生产；近年产量未见披露。",
+      "reviewed_at": "2026-09-30",
       "article_id": "CN100",
       "sources": [
         {
-          "title": "上海西恩科技招股说明书",
-          "url": "https://reportdocs.static.szse.cn/UpFiles/rasinfodisc1/202208/RAS_202208_00018281D2B0B03FC9D4EEE2BC14B03F.pdf"
+          "title": "池州市生态环境局：池州西恩环境治理和工艺优化项目环评征求意见稿，2022年9月，PDF第4—5、42—44页",
+          "url": "https://sthjj.chizhou.gov.cn/upload_cz/download?siteId=57&id=365291"
         }
       ],
       "products": [
         {
-          "product": "镍盐（资源循环）",
-          "status": "unknown",
+          "product": "硫酸镍",
+          "status": "现有产线",
           "period": "2022"
         }
       ]

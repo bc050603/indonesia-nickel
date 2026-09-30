@@ -2318,7 +2318,7 @@
         "钢铁"
       ],
       "classification": "镍铁／不锈钢链",
-      "search_text": "{\"row\": 29, \"name\": \"PT Tsingshan Steel Indonesia (PT TSI) 青山钢铁印尼\", \"legal\": \"PT Tsingshan Steel Indonesia\", \"group\": \"青山/IMIP\", \"ownership\": \"历史行业资料称Shanghai Decent80%、IMIP20%；尚未以当前直接股东原件复核。\", \"lines_verified\": null, \"lines_note\": \"原表1RKEF+1BF不能确认。2016官方列2台高炉；仅可保留为历史设备证据，不升级为当期2台在产。\", \"capacity_verified\": 20000, \"capacity_basis\": \"2016历史设计、镍吨/年、100%项目\", \"capacity_note\": \"官方50万实物吨、Ni≤4%、2万镍吨；原表57500来自50万×11.5%的数值关系，不能用于低镍铁。\", \"status\": \"低镍铁/炼钢历史项目；2026当期炉型数量和在产状态待核\", \"status_date\": \"2016设计；2022园区名录\", \"products\": [\"低镍铁（Ni≤4%历史规格）\", \"钢铁\"], \"process\": \"高炉BF；原表额外RKEF未核\", \"offtake\": \"新增逐票补证：2023-03-06至2023-04-09，3条商业NPI/FeNi，22,190.29实物吨。主要买方：FU AN QINGTUO PRECISION STAINLESS STEEL CO LTD 82.9%；CHONGQING YU FENG IMP EXP CO LTD 17.1%。比例仅为本样本实物吨；买方身份与最终用料厂分别核查，出口不等于自产。 原公开资料说明：高铁低镍产品与200系不锈钢/炼钢链相关；未核2026全部客户和热送比例。\", \"matte_link\": \"没有本厂低冰镍或高冰镍生产的直接证据。\", \"history\": [\"2016园区报告已列2台580m³级高炉设计。\"], \"narrative\": [\"TSI必须从高品位NPI厂中单独拿出来理解。青山园区原件把它列为使用褐铁矿的高炉项目，产品含镍不超过4%、含铁至少85%；铁也是主要价值来源。它与使用腐泥土矿的RKEF高镍铁不能套同一个平均品位。\", \"原表57,500镍吨缺乏独立设计依据，2016年明确披露的历史设计是20,000镍吨。原表同时写1条RKEF和1台高炉，也与早期2台高炉记录不一致；这可能涉及后续设备变动或填表混用，现阶段不强行选一种当作2026现场状态。\"], \"confidence\": \"历史工艺与口径纠错高；当期设备低\", \"unresolved\": [\"现行BF台数\", \"是否另有NPI RKEF及投产节点\", \"2026有效产能\", \"直接股东现状\"], \"sources\": [{\"title\": \"青山园区2016年度报告\", \"url\": \"https://decent-china.com/public/uploads/files/20180212/1518414991109735.pdf\", \"date\": \"2016年度\", \"locator\": \"PDF42–44；印刷80–85；表8.9–8.11\", \"claim\": \"历史设计及工艺：SMI4条/3万镍吨，GCNS8条/6万镍吨，ITSS8条/6万镍吨；TSI2台高炉/2万镍吨，低镍铁Ni≤4%；镍铁热送不锈钢。\", \"id\": \"NS040\"}, {\"title\": \"IMIP Klaster Edisi 12\", \"url\": \"https://imip.co.id/wp-content/uploads/2024/09/Majalah-Klaster-Edisi-12.pdf\", \"date\": \"2022-01（封面；网页路径2024仅上传年月）\", \"locator\": \"印刷/PDF6；封面与版权页1–2核对出版日期\", \"claim\": \"2022年1月刊载的年度实物产量/规模表，非2024新产能公告；GCNS/ITSS60万、SMI/IRNC/OSMI/WNII/LSI30万、TSI50万实物吨。\", \"id\": \"NS041\"}, {\"title\": \"AEER跨国企业与印尼镍下游化\", \"url\": \"https://www.aeer.or.id/wp-content/uploads/2023/09/Perusahaan-perusahaan-Multinasional-dan-Hilirisasi-Nikel-di-Indonesia.pdf\", \"date\": \"2023\", \"locator\": \"印刷66\", \"claim\": \"历史股权及50万实物吨高炉镍铁/200系钢用途；二手材料。\", \"id\": \"NS042\"}, {\"title\": \"用户提供的全品种逐票数据：本轮NPI核查版\", \"url\": \"https://bc050603.github.io/indonesia-nickel/library/npi-trade-audit.xlsx\", \"date\": \"覆盖2023-01至2026-08；2026-09-17提供\", \"locator\": \"明细总表按出口商筛选；TR编号对应原全量明细行\", \"claim\": \"具名出口商、交易/收货抬头、实物重量和货描。经过整理的用户资料，不等于报关原件或自产证明。\", \"id\": \"NS150\"}], \"input_capacity\": 57500, \"input_rkef\": 1, \"input_bf\": 1, \"capacity_date\": \"2016历史设计\", \"public_offtake_before_trade\": \"高铁低镍产品与200系不锈钢/炼钢链相关；未核2026全部客户和热送比例。\", \"trade_evidence\": {\"records\": 3, \"tonnes\": 22190.29, \"first\": \"2023-03-06\", \"last\": \"2023-04-09\", \"buyer_count\": 2}, \"id\": \"NPI029\", \"region\": \"IMIP\", \"original\": {\"name\": \"PT Tsingshan Steel Indonesia (PT TSI) 青山钢铁印尼\", \"nature\": \"中资\", \"process\": \"BF+RKEF\", \"rkef\": 1, \"bf\": 1, \"ef\": null, \"capacity\": 57500, \"matte\": null, \"status\": \"运营中\", \"purpose\": \"一体化自用\", \"grade\": 0.115}, \"capacity_type\": \"历史设计参考\", \"role\": \"镍铁／不锈钢链\", \"source_ids\": [\"NS040\", \"NS041\", \"NS042\", \"NS150\"], \"matte_ids\": []} PT Tsingshan Steel Indonesia (TSI) 青山钢铁印尼 青山钢铁印尼",
+      "search_text": "{\"row\": 29, \"name\": \"PT Tsingshan Steel Indonesia (PT TSI) 青山钢铁印尼\", \"legal\": \"PT Tsingshan Steel Indonesia\", \"group\": \"青山/IMIP\", \"ownership\": \"历史行业资料称Shanghai Decent80%、IMIP20%；尚未以当前直接股东原件复核。\", \"lines_verified\": null, \"lines_note\": \"原表1RKEF+1BF不能确认。2016官方列2台高炉；仅可保留为历史设备证据，不升级为当期2台在产。\", \"capacity_verified\": 20000, \"capacity_basis\": \"2016历史设计、镍吨/年、100%项目\", \"capacity_note\": \"官方50万实物吨、Ni≤4%、2万镍吨；原表57500来自50万×11.5%的数值关系，不能用于低镍铁。\", \"status\": \"低镍铁/炼钢历史项目；2026当期炉型数量和在产状态待核\", \"status_date\": \"2016设计；2022园区名录\", \"products\": [\"低镍铁（Ni≤4%历史规格）\", \"钢铁\"], \"process\": \"高炉BF；原表额外RKEF未核\", \"offtake\": \"新增逐票补证：2023-03-06至2023-04-09，3条商业NPI/FeNi，22,190.29实物吨。主要买方：FU AN QINGTUO PRECISION STAINLESS STEEL CO LTD 82.9%；CHONGQING YU FENG IMP EXP CO LTD 17.1%。比例仅为本样本实物吨；买方身份与最终用料厂分别核查，出口不等于自产。 原公开资料说明：高铁低镍产品与200系不锈钢/炼钢链相关；未核2026全部客户和热送比例。\", \"matte_link\": \"没有本厂低冰镍或高冰镍生产的直接证据。\", \"history\": [\"2016园区报告已列2台580m³级高炉设计。\"], \"narrative\": [\"TSI必须从高品位NPI厂中单独拿出来理解。青山园区原件把它列为使用褐铁矿的高炉项目，产品含镍不超过4%、含铁至少85%；铁也是主要价值来源。它与使用腐泥土矿的RKEF高镍铁不能套同一个平均品位。\", \"原表57,500镍吨缺乏独立设计依据，2016年明确披露的历史设计是20,000镍吨。原表同时写1条RKEF和1台高炉，也与早期2台高炉记录不一致；这可能涉及后续设备变动或填表混用，现阶段不强行选一种当作2026现场状态。\"], \"confidence\": \"历史工艺与口径纠错高；当期设备低\", \"unresolved\": [\"现行BF台数\", \"是否另有NPI RKEF及投产节点\", \"2026有效产能\", \"直接股东现状\"], \"sources\": [{\"title\": \"青山园区2016年度报告\", \"url\": \"https://decent-china.com/public/uploads/files/20180212/1518414991109735.pdf\", \"date\": \"2016年度\", \"locator\": \"PDF42–44；印刷80–85；表8.9–8.11\", \"claim\": \"历史设计及工艺：SMI4条/3万镍吨，GCNS8条/6万镍吨，ITSS8条/6万镍吨；TSI2台高炉/2万镍吨，低镍铁Ni≤4%；镍铁热送不锈钢。\", \"id\": \"NS040\"}, {\"title\": \"IMIP Klaster Edisi 12\", \"url\": \"https://imip.co.id/wp-content/uploads/2024/09/Majalah-Klaster-Edisi-12.pdf\", \"date\": \"2022-01（封面；网页路径2024仅上传年月）\", \"locator\": \"印刷/PDF6；封面与版权页1–2核对出版日期\", \"claim\": \"2022年1月刊载的年度实物产量/规模表，非2024新产能公告；GCNS/ITSS60万、SMI/IRNC/OSMI/WNII/LSI30万、TSI50万实物吨。\", \"id\": \"NS041\"}, {\"title\": \"AEER跨国企业与印尼镍下游化\", \"url\": \"https://www.aeer.or.id/wp-content/uploads/2023/09/Perusahaan-perusahaan-Multinasional-dan-Hilirisasi-Nikel-di-Indonesia.pdf\", \"date\": \"2023\", \"locator\": \"印刷66\", \"claim\": \"历史股权及50万实物吨高炉镍铁/200系钢用途；二手材料。\", \"id\": \"NS042\"}, {\"title\": \"用户提供的全品种逐票数据：本轮NPI核查版\", \"url\": \"https://bc050603.github.io/indonesia-nickel/library/npi-trade-audit.xlsx\", \"date\": \"覆盖2023-01至2026-08；2026-09-17提供\", \"locator\": \"明细总表按出口商筛选；TR编号对应原全量明细行\", \"claim\": \"具名出口商、交易/收货抬头、实物重量和货描。经过整理的用户资料，不等于报关原件或自产证明。\", \"id\": \"NS150\"}], \"input_capacity\": 57500, \"input_rkef\": 1, \"input_bf\": 1, \"capacity_date\": \"2016历史设计\", \"public_offtake_before_trade\": \"高铁低镍产品与200系不锈钢/炼钢链相关；未核2026全部客户和热送比例。\", \"trade_evidence\": {\"records\": 3, \"tonnes\": 22190.29, \"first\": \"2023-03-06\", \"last\": \"2023-04-09\", \"buyer_count\": 2}, \"id\": \"NPI029\", \"region\": \"IMIP\", \"original\": {\"name\": \"PT Tsingshan Steel Indonesia (PT TSI) 青山钢铁印尼\", \"nature\": \"中资\", \"process\": \"BF+RKEF\", \"rkef\": 1, \"bf\": 1, \"ef\": null, \"capacity\": 57500, \"matte\": null, \"status\": \"运营中\", \"purpose\": \"一体化自用\", \"grade\": 0.115}, \"capacity_type\": \"历史设计参考\", \"role\": \"镍铁／不锈钢链\", \"source_ids\": [\"NS040\", \"NS041\", \"NS042\", \"NS150\"], \"matte_ids\": []} PT Tsingshan Steel Indonesia (TSI) 青山钢铁印尼 青山钢铁印尼 2026年行业报道称，青山园区内桂鑫钢铁与青山TSI合资重组的炼铁厂，把一座原580立方米镍铁高炉升级改造为1,216立方米普碳钢高炉，配套烧结机、竖炉、转炉、连铸和热轧，主营钢坯和板坯；高炉于2026年4月10日点火开炉。报道对运营主体的称呼不一，有的写作PT Permai Metal Indonesia，有的写作TSI炼铁厂。这次改造只涉及这一座高炉，不能据此把TSI其他镍铁能力视为全部转产。",
       "mhp_ids": [],
       "display_name": "PT Tsingshan Steel Indonesia (TSI) 青山钢铁印尼",
       "aliases": [
@@ -2328,7 +2328,9 @@
       ],
       "country_codes": [
         "ID"
-      ]
+      ],
+      "research_summary": "青山钢铁印尼（PT Tsingshan Steel Indonesia）是青山在莫罗瓦利工业园区布局的钢铁企业之一。其历史生产资料记载了高炉冶炼低镍铁的路线，这与园区内常见的回转窑—电炉镍铁工艺有所不同。",
+      "research_updated_at": "2026-09-30"
     },
     {
       "id": "NPI030",
@@ -2621,7 +2623,7 @@
         "NPI/FeNi"
       ],
       "classification": "镍铁／不锈钢链",
-      "search_text": "{\"row\": 41, \"name\": \"PT Obsidian Stainless Steel (OSS) 德龙二期\", \"legal\": \"PT Obsidian Stainless Steel\", \"group\": \"厦门象屿集团／江苏德龙\", \"ownership\": \"历史象屿集团51%、江苏德龙49%；不等于上市厦门象屿直接持股51%。重整后的最终股权需更新。\", \"lines_verified\": null, \"lines_note\": \"原表32条保留；2021行业资料是32条规划，不能直接认定2026在开炉数。\", \"capacity_verified\": null, \"capacity_basis\": \"原表镍吨/年，独立现行设计待核\", \"capacity_note\": \"原表190000镍吨保留待核；250万吨是配套不锈钢规模，不能当镍吨。\", \"status\": \"既有一体化项目；2026有官方运营访问记录，逐炉负荷未核\", \"status_date\": \"2026-05-25\", \"products\": [\"NPI/FeNi\"], \"process\": \"RKEF\", \"offtake\": \"新增逐票补证：2023-01-19至2026-08-26，522条商业NPI/FeNi，5,130,348.26实物吨。主要买方：XIAMEN XIANGSHENG NICKEL INDUSTRY CO LTD 66.5%；FUJIAN XINGDA IMPORT EXPORT TRADING CO LTD 13.9%；HONG KONG XIANGZHENG TRADING CO LTD 9.1%。比例仅为本样本实物吨；买方身份与最终用料厂分别核查，出口不等于自产。 原公开资料说明：厦门象屿上市公司2024-055回复披露，向OSS体系采购镍铁合金与钢坯，再售下游钢厂；“OSS公司”合称PT OSS、厦门象盛镍业、香港象正贸易，不能全部归为单一工厂直接出口。原料采购、成品销售及物流构成一体化供应链服务。\", \"matte_link\": \"未取得本法人低冰镍或高冰镍实际生产证据。\", \"history\": [\"Morosi镍铁—不锈钢一体化项目；扩建期的投运炉数与最终规划曾不同。\"], \"narrative\": [\"OSS既是镍铁—不锈钢一体化生产项目，也嵌在象屿的供应链业务中。上市公司回复说明，象屿采购其镍铁合金和钢坯后再销售下游钢厂；文件将印尼OSS、厦门象盛和香港象正合称“OSS公司”，因此采购金额不能全部归为印尼工厂的NPI出口。\", \"回复披露采购的OSS镍铁合金镍含量约11%，用于解释与其他较高品位产品的价格差异。这是当时交易产品特征，不能反推所有年份设计品位。预付款服务于稳定货源，发运、装船、清关及雨季延长周转；2023采购下降由价格变化、OSS产能利用调整和贸易节奏共同影响。不能单凭采购金额下降推定同比减产幅度。\", \"原表32条、19万镍吨继续保留为待核数。250万吨不锈钢规模、镍铁和钢坯合并采购额、累计钢铁与镍铁产量，都不能代替NPI含镍年产能。\"], \"confidence\": \"分字段判断，现行运行能力仍需更新\", \"unresolved\": [\"2026逐炉运行负荷与现行设备清单\", \"具名终端钢厂分配、排他承购条款与期限\", \"重整后最新股权结构\"], \"sources\": [{\"title\": \"商务部归档反倾销调查披露\", \"url\": \"https://picpolicy.mofcom.gov.cn/file/20240725/93111721871609921.pdf\", \"date\": \"2024-07\", \"locator\": \"关联公司股权披露\", \"claim\": \"象屿与德龙51%/49%历史结构\", \"id\": \"NS059\"}, {\"title\": \"大唐海外投资与象屿OSS项目交流\", \"url\": \"https://ht.china-cdt.com/dthwtz/xwzx/jygl/2026/5/I1508530722397224960.html\", \"date\": \"2026-05-25\", \"locator\": \"正文\", \"claim\": \"2026项目及电厂活动，不证明满产\", \"id\": \"NS060\"}, {\"title\": \"厦门象屿2024-055：2023年报信息披露监管问询回复\", \"url\": \"https://paper.cnstock.com/html/2024-07/12/content_1942741.htm\", \"date\": \"2024-07-12\", \"locator\": \"OSS采购、预付款、镍铁品位及关联采购段\", \"claim\": \"披露OSS三家法人集合、镍铁与钢坯采购转售、11%交易品位及采购变化原因；不是单厂NPI出口统计。\", \"id\": \"NS130\"}, {\"title\": \"用户提供的全品种逐票数据：本轮NPI核查版\", \"url\": \"https://bc050603.github.io/indonesia-nickel/library/npi-trade-audit.xlsx\", \"date\": \"覆盖2023-01至2026-08；2026-09-17提供\", \"locator\": \"明细总表按出口商筛选；TR编号对应原全量明细行\", \"claim\": \"具名出口商、交易/收货抬头、实物重量和货描。经过整理的用户资料，不等于报关原件或自产证明。\", \"id\": \"NS150\"}], \"why_long_term\": \"象屿以采购预付款锁定稳定供应，组织原材料和成品物流；镍铁用于不锈钢，钢坯再由下游加工。长期协同有供应链与资金安排基础，但未取得排他、最低承购量及合同到期日。\", \"deep_review_changes\": [\"上市公司问询回复闭合采购与转售链条，区分OSS集合口径与单厂\", \"补充预付款、货物流转和2023采购减少的商业原因\"], \"public_offtake_before_trade\": \"厦门象屿上市公司2024-055回复披露，向OSS体系采购镍铁合金与钢坯，再售下游钢厂；“OSS公司”合称PT OSS、厦门象盛镍业、香港象正贸易，不能全部归为单一工厂直接出口。原料采购、成品销售及物流构成一体化供应链服务。\", \"trade_evidence\": {\"records\": 522, \"tonnes\": 5130348.26, \"first\": \"2023-01-19\", \"last\": \"2026-08-26\", \"buyer_count\": 16}, \"id\": \"NPI041\", \"region\": \"Delong\", \"original\": {\"name\": \"PT Obsidian Stainless Steel (OSS) 德龙二期\", \"nature\": \"中资\", \"process\": \"RKEF\", \"rkef\": 32, \"bf\": null, \"ef\": null, \"capacity\": 190000, \"matte\": null, \"status\": \"运营中\", \"purpose\": \"外销NPI\", \"grade\": 0.115}, \"capacity_date\": \"2026-05-25\", \"capacity_type\": \"待核\", \"role\": \"镍铁／不锈钢链\", \"source_ids\": [\"NS059\", \"NS060\", \"NS130\", \"NS150\"], \"matte_ids\": []} PT Obsidian Stainless Steel (OSS) 德龙二期 PT Obsidian Stainless Steel (OSS) 德龙二期",
+      "search_text": "{\"row\": 41, \"name\": \"PT Obsidian Stainless Steel (OSS) 德龙二期\", \"legal\": \"PT Obsidian Stainless Steel\", \"group\": \"厦门象屿集团／江苏德龙\", \"ownership\": \"历史象屿集团51%、江苏德龙49%；不等于上市厦门象屿直接持股51%。重整后的最终股权需更新。\", \"lines_verified\": null, \"lines_note\": \"原表32条保留；2021行业资料是32条规划，不能直接认定2026在开炉数。\", \"capacity_verified\": null, \"capacity_basis\": \"原表镍吨/年，独立现行设计待核\", \"capacity_note\": \"原表190000镍吨保留待核；250万吨是配套不锈钢规模，不能当镍吨。\", \"status\": \"既有一体化项目；2026有官方运营访问记录，逐炉负荷未核\", \"status_date\": \"2026-05-25\", \"products\": [\"NPI/FeNi\"], \"process\": \"RKEF\", \"offtake\": \"新增逐票补证：2023-01-19至2026-08-26，522条商业NPI/FeNi，5,130,348.26实物吨。主要买方：XIAMEN XIANGSHENG NICKEL INDUSTRY CO LTD 66.5%；FUJIAN XINGDA IMPORT EXPORT TRADING CO LTD 13.9%；HONG KONG XIANGZHENG TRADING CO LTD 9.1%。比例仅为本样本实物吨；买方身份与最终用料厂分别核查，出口不等于自产。 原公开资料说明：厦门象屿上市公司2024-055回复披露，向OSS体系采购镍铁合金与钢坯，再售下游钢厂；“OSS公司”合称PT OSS、厦门象盛镍业、香港象正贸易，不能全部归为单一工厂直接出口。原料采购、成品销售及物流构成一体化供应链服务。\", \"matte_link\": \"未取得本法人低冰镍或高冰镍实际生产证据。\", \"history\": [\"Morosi镍铁—不锈钢一体化项目；扩建期的投运炉数与最终规划曾不同。\"], \"narrative\": [\"OSS既是镍铁—不锈钢一体化生产项目，也嵌在象屿的供应链业务中。上市公司回复说明，象屿采购其镍铁合金和钢坯后再销售下游钢厂；文件将印尼OSS、厦门象盛和香港象正合称“OSS公司”，因此采购金额不能全部归为印尼工厂的NPI出口。\", \"回复披露采购的OSS镍铁合金镍含量约11%，用于解释与其他较高品位产品的价格差异。这是当时交易产品特征，不能反推所有年份设计品位。预付款服务于稳定货源，发运、装船、清关及雨季延长周转；2023采购下降由价格变化、OSS产能利用调整和贸易节奏共同影响。不能单凭采购金额下降推定同比减产幅度。\", \"原表32条、19万镍吨继续保留为待核数。250万吨不锈钢规模、镍铁和钢坯合并采购额、累计钢铁与镍铁产量，都不能代替NPI含镍年产能。\"], \"confidence\": \"分字段判断，现行运行能力仍需更新\", \"unresolved\": [\"2026逐炉运行负荷与现行设备清单\", \"具名终端钢厂分配、排他承购条款与期限\", \"重整后最新股权结构\"], \"sources\": [{\"title\": \"商务部归档反倾销调查披露\", \"url\": \"https://picpolicy.mofcom.gov.cn/file/20240725/93111721871609921.pdf\", \"date\": \"2024-07\", \"locator\": \"关联公司股权披露\", \"claim\": \"象屿与德龙51%/49%历史结构\", \"id\": \"NS059\"}, {\"title\": \"大唐海外投资与象屿OSS项目交流\", \"url\": \"https://ht.china-cdt.com/dthwtz/xwzx/jygl/2026/5/I1508530722397224960.html\", \"date\": \"2026-05-25\", \"locator\": \"正文\", \"claim\": \"2026项目及电厂活动，不证明满产\", \"id\": \"NS060\"}, {\"title\": \"厦门象屿2024-055：2023年报信息披露监管问询回复\", \"url\": \"https://paper.cnstock.com/html/2024-07/12/content_1942741.htm\", \"date\": \"2024-07-12\", \"locator\": \"OSS采购、预付款、镍铁品位及关联采购段\", \"claim\": \"披露OSS三家法人集合、镍铁与钢坯采购转售、11%交易品位及采购变化原因；不是单厂NPI出口统计。\", \"id\": \"NS130\"}, {\"title\": \"用户提供的全品种逐票数据：本轮NPI核查版\", \"url\": \"https://bc050603.github.io/indonesia-nickel/library/npi-trade-audit.xlsx\", \"date\": \"覆盖2023-01至2026-08；2026-09-17提供\", \"locator\": \"明细总表按出口商筛选；TR编号对应原全量明细行\", \"claim\": \"具名出口商、交易/收货抬头、实物重量和货描。经过整理的用户资料，不等于报关原件或自产证明。\", \"id\": \"NS150\"}], \"why_long_term\": \"象屿以采购预付款锁定稳定供应，组织原材料和成品物流；镍铁用于不锈钢，钢坯再由下游加工。长期协同有供应链与资金安排基础，但未取得排他、最低承购量及合同到期日。\", \"deep_review_changes\": [\"上市公司问询回复闭合采购与转售链条，区分OSS集合口径与单厂\", \"补充预付款、货物流转和2023采购减少的商业原因\"], \"public_offtake_before_trade\": \"厦门象屿上市公司2024-055回复披露，向OSS体系采购镍铁合金与钢坯，再售下游钢厂；“OSS公司”合称PT OSS、厦门象盛镍业、香港象正贸易，不能全部归为单一工厂直接出口。原料采购、成品销售及物流构成一体化供应链服务。\", \"trade_evidence\": {\"records\": 522, \"tonnes\": 5130348.26, \"first\": \"2023-01-19\", \"last\": \"2026-08-26\", \"buyer_count\": 16}, \"id\": \"NPI041\", \"region\": \"Delong\", \"original\": {\"name\": \"PT Obsidian Stainless Steel (OSS) 德龙二期\", \"nature\": \"中资\", \"process\": \"RKEF\", \"rkef\": 32, \"bf\": null, \"ef\": null, \"capacity\": 190000, \"matte\": null, \"status\": \"运营中\", \"purpose\": \"外销NPI\", \"grade\": 0.115}, \"capacity_date\": \"2026-05-25\", \"capacity_type\": \"待核\", \"role\": \"镍铁／不锈钢链\", \"source_ids\": [\"NS059\", \"NS060\", \"NS130\", \"NS150\"], \"matte_ids\": []} PT Obsidian Stainless Steel (OSS) 德龙二期 PT Obsidian Stainless Steel (OSS) 德龙二期 财经报道援引国家企业信用信息公示系统称，OSS项目的境内运营主体厦门象盛镍业有限公司于2026年9月11日完成股东变更：原江苏德龙所持49%由厦门象屿投资旗下全资子公司厦门胜立投资接手，象屿集团直接持股51%、通过胜立间接持股49%。这是境内平台层面的变化；象盛镍业经由哪些中间层持有印尼OSS、各层比例如何，报道没有披露。",
       "mhp_ids": [],
       "display_name": "PT Obsidian Stainless Steel (OSS) 德龙二期",
       "aliases": [
@@ -2630,7 +2632,9 @@
       ],
       "country_codes": [
         "ID"
-      ]
+      ],
+      "research_summary": "奥斯达不锈钢（PT Obsidian Stainless Steel，简称OSS），又称德龙二期，是位于印度尼西亚东南苏拉威西的镍铁和不锈钢一体化项目。历史投资结构由象屿集团持51%、江苏德龙持49%，重整后的最终权益仍需更新。",
+      "research_updated_at": "2026-09-30"
     },
     {
       "id": "NPI042",
@@ -3284,7 +3288,7 @@
         "FeNi"
       ],
       "classification": "镍铁／不锈钢链",
-      "search_text": "{\"row\": 72, \"name\": \"ANTAM Haltim 安塔姆·东哈马黑拉\", \"legal\": \"PT Aneka Tambang Tbk — P3FH East Halmahera ferronickel plant\", \"group\": \"ANTAM / MIND ID\", \"ownership\": \"原P3FH建设与ANTAM经营体系；勿与2025新增PT Feni Haltim合资扩建工程混同\", \"lines_verified\": 1, \"lines_note\": \"13500TNi一期生产线；后续扩建不能并入。\", \"capacity_verified\": 13500, \"capacity_basis\": \"P3FH一期明确含镍吨/年\", \"capacity_note\": \"不是产品实物量；更早27000方案与一期13500分开。\", \"status\": \"2023-09已首次出铁；2025Q1仍标调试，稳定商业运行及当前负荷未确认\", \"status_date\": \"2025-Q1\", \"products\": [\"FeNi\"], \"process\": \"RKEF/FeNi路线，非高冰镍\", \"offtake\": \"ANTAM2026H1报告称FeNi销售7605镍吨，出口中国、印度和韩国，用于不锈钢。这是集团产品口径，未披露具名买方，也未按Pomalaa/Haltim逐厂分配。\", \"matte_link\": \"未取得低冰镍或高冰镍实际生产证据，不能仅按炉型推定。\", \"history\": [\"2023-07-07初期运行启动\", \"2023-09-12首次metal tapping（ANTAM原件），不是仅点火\", \"2024集团年报披露2025设备保全等待柴油电源搬迁及调试\"], \"narrative\": [\"Haltim不能简单称为从未投产的闲置项目：ANTAM原件记2023年7月7日点火、7月19日通电、9月12日首次出铁。但首次出铁不代表持续商业负荷，2024年报对2025安排仍包括设备保全和供电配套，2025Q1演示也仍标commissioning。\", \"13500镍吨是一期设计能力，不应加在Pomalaa现役产量上。2025年另见Feni Haltim新RKEF合资工程，须按法人、工程期次区分；同属东哈马黑拉不等于旧厂已经改成冰镍或电池厂。\", \"2026年上半年ANTAM集团FeNi产量7788镍吨、销量7605镍吨，上年同期分别9067和5763镍吨。产量下降而销量上升并不矛盾，产销时点和库存可能影响两者，但报告没有足够分厂与库存流转数据支持单一原因归因。不能把集团数分别填入两个厂后再相加。\"], \"confidence\": \"高：一期能力及状态历史；当前负荷待核\", \"unresolved\": [\"本厂当期稳定运行及逐线负荷\", \"集团FeNi产量中本厂的明确贡献\", \"具名客户、定价条款及承购期限\"], \"sources\": [{\"title\": \"MIND ID启动说明\", \"url\": \"https://mind.id/news/dukung-hilirisasi-pertambangan-grup-mind-id-antam-operasikan-pabrik-feronikel-haltim\", \"date\": \"2023-07-11\", \"locator\": \"正文\", \"claim\": \"7月7日初期运行启动\", \"id\": \"NS108\"}, {\"title\": \"MIND ID2024年报\", \"url\": \"https://mind.id/temp/AR-2024_MINDID-072025.pdf\", \"date\": \"2024\", \"locator\": \"检索P3FH / preservation\", \"claim\": \"P3FH 2025设备保全至PLTD搬迁及调试完成\", \"id\": \"NS109\"}, {\"title\": \"ANTAM2025Q1投资者演示\", \"url\": \"https://www.antam.com/downloads/materi-medan-investor-meeting---connectivity-2025\", \"date\": \"2025-Q1\", \"locator\": \"运营地图页：Kolaka / East Halmahera\", \"claim\": \"Kolaka27000TNi商业运营；Haltim13500TNi调试\", \"id\": \"NS087\"}, {\"title\": \"ANTAM2023项目进展原件\", \"url\": \"https://www.antam.com/uploads/pengembangan-perusahaan-tahun-2023.pdf\", \"date\": \"2023年报\", \"locator\": \"Haltim commissioning段\", \"claim\": \"2023-07-07 burner-on；7月19日switch-on；9月12日首次出铁；13500TNi\", \"id\": \"NS110\"}, {\"title\": \"ANTAM2026H1运营报告（发行人披露转载）\", \"url\": \"https://financialfilings.com/filings/aneka-tambang-persero-tbk-pt/interim-quarterly-report/2026/49844308/\", \"date\": \"2026-07-31\", \"locator\": \"Ferronickel段\", \"claim\": \"集团FeNi产量7788TNi、销量7605TNi；出口中国、印度、韩国。未按Pomalaa/Haltim拆分。\", \"id\": \"NS138\"}, {\"title\": \"ANTAM2026H1财务报告（发行人披露转载）\", \"url\": \"https://financialfilings.com/filings/aneka-tambang-persero-tbk-pt/interim-quarterly-report/2026/58193609/\", \"date\": \"2026-08-28\", \"locator\": \"附注11及38(o)\", \"claim\": \"Haltim工程及电力配套；2022供电协议期限在2023改为3年，不据此推断2026运行或停机。\", \"id\": \"NS148\"}], \"group_production\": {\"scope\": \"ANTAM合并FeNi，不分配单厂\", \"period\": \"2026H1\", \"production_tni\": 7788, \"sales_tni\": 7605, \"prior_production_tni\": 9067, \"prior_sales_tni\": 5763}, \"deep_review_changes\": [\"补入2026H1集团FeNi产销与目的地，明确不分摊到单厂\"], \"id\": \"NPI072\", \"region\": \"Other Indonesia\", \"original\": {\"name\": \"ANTAM Haltim 安塔姆·东哈马黑拉\", \"nature\": \"印资\", \"process\": \"RKEF\", \"rkef\": 1, \"bf\": null, \"ef\": null, \"capacity\": 13500, \"matte\": null, \"status\": \"闲置\", \"purpose\": \"外销NPI\", \"grade\": 0.2}, \"capacity_date\": \"2025-Q1\", \"capacity_type\": \"具名能力披露\", \"role\": \"镍铁／不锈钢链\", \"source_ids\": [\"NS108\", \"NS109\", \"NS087\", \"NS110\", \"NS138\", \"NS148\"], \"matte_ids\": []} PT Aneka Tambang Tbk — East Halmahera 安塔姆东哈马黑拉镍铁厂 ANTAM东哈马黑拉镍铁厂",
+      "search_text": "{\"row\": 72, \"name\": \"ANTAM Haltim 安塔姆·东哈马黑拉\", \"legal\": \"PT Aneka Tambang Tbk — P3FH East Halmahera ferronickel plant\", \"group\": \"ANTAM / MIND ID\", \"ownership\": \"原P3FH建设与ANTAM经营体系；勿与2025新增PT Feni Haltim合资扩建工程混同\", \"lines_verified\": 1, \"lines_note\": \"13500TNi一期生产线；后续扩建不能并入。\", \"capacity_verified\": 13500, \"capacity_basis\": \"P3FH一期明确含镍吨/年\", \"capacity_note\": \"不是产品实物量；更早27000方案与一期13500分开。\", \"status\": \"2023-09已首次出铁；2025Q1仍标调试，稳定商业运行及当前负荷未确认\", \"status_date\": \"2025-Q1\", \"products\": [\"FeNi\"], \"process\": \"RKEF/FeNi路线，非高冰镍\", \"offtake\": \"ANTAM2026H1报告称FeNi销售7605镍吨，出口中国、印度和韩国，用于不锈钢。这是集团产品口径，未披露具名买方，也未按Pomalaa/Haltim逐厂分配。\", \"matte_link\": \"未取得低冰镍或高冰镍实际生产证据，不能仅按炉型推定。\", \"history\": [\"2023-07-07初期运行启动\", \"2023-09-12首次metal tapping（ANTAM原件），不是仅点火\", \"2024集团年报披露2025设备保全等待柴油电源搬迁及调试\"], \"narrative\": [\"Haltim不能简单称为从未投产的闲置项目：ANTAM原件记2023年7月7日点火、7月19日通电、9月12日首次出铁。但首次出铁不代表持续商业负荷，2024年报对2025安排仍包括设备保全和供电配套，2025Q1演示也仍标commissioning。\", \"13500镍吨是一期设计能力，不应加在Pomalaa现役产量上。2025年另见Feni Haltim新RKEF合资工程，须按法人、工程期次区分；同属东哈马黑拉不等于旧厂已经改成冰镍或电池厂。\", \"2026年上半年ANTAM集团FeNi产量7788镍吨、销量7605镍吨，上年同期分别9067和5763镍吨。产量下降而销量上升并不矛盾，产销时点和库存可能影响两者，但报告没有足够分厂与库存流转数据支持单一原因归因。不能把集团数分别填入两个厂后再相加。\"], \"confidence\": \"高：一期能力及状态历史；当前负荷待核\", \"unresolved\": [\"本厂当期稳定运行及逐线负荷\", \"集团FeNi产量中本厂的明确贡献\", \"具名客户、定价条款及承购期限\"], \"sources\": [{\"title\": \"MIND ID启动说明\", \"url\": \"https://mind.id/news/dukung-hilirisasi-pertambangan-grup-mind-id-antam-operasikan-pabrik-feronikel-haltim\", \"date\": \"2023-07-11\", \"locator\": \"正文\", \"claim\": \"7月7日初期运行启动\", \"id\": \"NS108\"}, {\"title\": \"MIND ID2024年报\", \"url\": \"https://mind.id/temp/AR-2024_MINDID-072025.pdf\", \"date\": \"2024\", \"locator\": \"检索P3FH / preservation\", \"claim\": \"P3FH 2025设备保全至PLTD搬迁及调试完成\", \"id\": \"NS109\"}, {\"title\": \"ANTAM2025Q1投资者演示\", \"url\": \"https://www.antam.com/downloads/materi-medan-investor-meeting---connectivity-2025\", \"date\": \"2025-Q1\", \"locator\": \"运营地图页：Kolaka / East Halmahera\", \"claim\": \"Kolaka27000TNi商业运营；Haltim13500TNi调试\", \"id\": \"NS087\"}, {\"title\": \"ANTAM2023项目进展原件\", \"url\": \"https://www.antam.com/uploads/pengembangan-perusahaan-tahun-2023.pdf\", \"date\": \"2023年报\", \"locator\": \"Haltim commissioning段\", \"claim\": \"2023-07-07 burner-on；7月19日switch-on；9月12日首次出铁；13500TNi\", \"id\": \"NS110\"}, {\"title\": \"ANTAM2026H1运营报告（发行人披露转载）\", \"url\": \"https://financialfilings.com/filings/aneka-tambang-persero-tbk-pt/interim-quarterly-report/2026/49844308/\", \"date\": \"2026-07-31\", \"locator\": \"Ferronickel段\", \"claim\": \"集团FeNi产量7788TNi、销量7605TNi；出口中国、印度、韩国。未按Pomalaa/Haltim拆分。\", \"id\": \"NS138\"}, {\"title\": \"ANTAM2026H1财务报告（发行人披露转载）\", \"url\": \"https://financialfilings.com/filings/aneka-tambang-persero-tbk-pt/interim-quarterly-report/2026/58193609/\", \"date\": \"2026-08-28\", \"locator\": \"附注11及38(o)\", \"claim\": \"Haltim工程及电力配套；2022供电协议期限在2023改为3年，不据此推断2026运行或停机。\", \"id\": \"NS148\"}], \"group_production\": {\"scope\": \"ANTAM合并FeNi，不分配单厂\", \"period\": \"2026H1\", \"production_tni\": 7788, \"sales_tni\": 7605, \"prior_production_tni\": 9067, \"prior_sales_tni\": 5763}, \"deep_review_changes\": [\"补入2026H1集团FeNi产销与目的地，明确不分摊到单厂\"], \"id\": \"NPI072\", \"region\": \"Other Indonesia\", \"original\": {\"name\": \"ANTAM Haltim 安塔姆·东哈马黑拉\", \"nature\": \"印资\", \"process\": \"RKEF\", \"rkef\": 1, \"bf\": null, \"ef\": null, \"capacity\": 13500, \"matte\": null, \"status\": \"闲置\", \"purpose\": \"外销NPI\", \"grade\": 0.2}, \"capacity_date\": \"2025-Q1\", \"capacity_type\": \"具名能力披露\", \"role\": \"镍铁／不锈钢链\", \"source_ids\": [\"NS108\", \"NS109\", \"NS087\", \"NS110\", \"NS138\", \"NS148\"], \"matte_ids\": []} PT Aneka Tambang Tbk — East Halmahera 安塔姆东哈马黑拉镍铁厂 ANTAM东哈马黑拉镍铁厂 MIND ID 2024年年报记载，东哈马黑拉镍铁厂2023年9月至2024年1月调试期间共生产1,981吨镍铁。由于PLN供电不稳和镍铁价格下跌，项目自2024年1月起停止运行，现场工作限于设备和设施保全。2024年10月，ANTAM管理层决定改用原Pomalaa的发电机组供电；2025年的工作计划是保全设备，直到柴油电站搬迁并完成调试。年报会计附注仍把该项目列为在建工程，预计2025—2026年完成。",
       "mhp_ids": [],
       "display_name": "PT Aneka Tambang Tbk — East Halmahera 安塔姆东哈马黑拉镍铁厂",
       "aliases": [
@@ -3294,7 +3298,9 @@
       ],
       "country_codes": [
         "ID"
-      ]
+      ],
+      "research_summary": "ANTAM东哈马黑拉镍铁厂（Ferronickel Haltim，简称P3FH）是印度尼西亚国有矿业集团MIND ID旗下ANTAM建设的镍铁项目，位于北马鲁古省东哈马黑拉。项目采用RKEF路线，设计能力为每年1.35万镍金属吨。",
+      "research_updated_at": "2026-09-30"
     },
     {
       "id": "NPI073",
@@ -3406,7 +3412,7 @@
       "ownership": "中伟原70%，2025-12起85%；Rigqueza余股",
       "products": [],
       "classification": "低冰镍＋高冰镍一体化，二期全线投产",
-      "search_text": "{\"id\": \"P02\", \"name\": \"中青新能源\", \"legal\": \"PT Zhongtsing New Energy\", \"aliases\": [\"PT Zhongtsing New Energy\", \"P02\"], \"region\": \"IMIP\", \"ownership\": \"中伟原70%，2025-12起85%；Rigqueza余股\", \"classification\": \"低冰镍＋高冰镍一体化，二期全线投产\", \"products\": {\"npi\": \"未列为主要产品\", \"low-matte\": \"在产\", \"high-matte\": \"在产\"}, \"milestones\": \"二期2026年初全线投产，2026H1确认全流程\", \"flows\": \"中伟控股贸易渠道；具体境内外分配随交易核；历史出口样本买方：Guangxi Zhongwei New Energy Technology Co., Ltd.（仅交易身份，非承购推定）\", \"unknowns\": \"未公开的具体承购期限、价格和数量不作推定；具体限制见生产判断及主文章节\", \"confidence\": \"已确认\", \"period\": \"2026H1\", \"basis\": \"中伟2026H1 PDF13确认矿→低冰镍→高冰镍全线拉通；M01\", \"sources\": [\"S056\", \"S057\", \"S055\", \"S028\", \"S029\"], \"intro_paragraphs\": [\"中青新能源是中伟与Rigqueza在IMIP建设的矿石至冰镍项目，低冰镍和高冰镍两段均已得到生产披露支持。中伟持股从原来的70%增至2025年末的85%，项目为其镍原料及材料业务提供上游入口。2026年初二期全线投产后，可以在印尼完成更多转换工序，而不必把所有中间品运回中国再升级。\", \"其出口结构已有时间上的变化：2025年已经出现高冰镍，不能把二期投产理解成此前完全没有高冰镍。2026年另有约40%—45%镍的中间品送往伟明盛青、温州方向，具体产品类别和接收工序仍需核对。这部分不是中伟钦州自供；同一工厂不同批次可以走集团精炼和外部客户两种渠道。\"], \"events\": [{\"date\": \"2025\", \"label\": \"已见高冰镍出口\", \"detail\": \"V19样本确认当年存在高冰镍发货，非始于2026\", \"source_url\": null}, {\"date\": \"2025-12\", \"label\": \"中伟增持\", \"detail\": \"权益从70%增加至85%\", \"source_url\": \"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0330/2026033004142_c.pdf\"}, {\"date\": \"2026年初\", \"label\": \"二期全线投产\", \"detail\": \"低冰镍与高冰镍一体化衔接\", \"source_url\": \"https://cngrgf.com.cn/gsxw/1722.html\"}, {\"date\": \"2026\", \"label\": \"分开核对中间品用途\", \"detail\": \"约40%—45%Ni物料到伟明盛青、温州，非中伟钦州自供\", \"source_url\": null}], \"related_topics\": [\"low-matte\", \"high-matte\", \"conversion\", \"wet-refining\"], \"annual\": {\"2023\": 0, \"2024\": 36414.33, \"2025\": 64181.31, \"2026\": 52472.305}, \"monthly\": {\"2023-01\": 0, \"2023-02\": 0, \"2023-03\": 0, \"2023-04\": 0, \"2023-05\": 0, \"2023-06\": 0, \"2023-07\": 0, \"2023-08\": 0, \"2023-09\": 0, \"2023-10\": 0, \"2023-11\": 0, \"2023-12\": 0, \"2024-01\": 2233.16, \"2024-02\": 0, \"2024-03\": 2882.8, \"2024-04\": 0, \"2024-05\": 2126.23, \"2024-06\": 1848.98, \"2024-07\": 4196.92, \"2024-08\": 0, \"2024-09\": 7635.96, \"2024-10\": 4742.1, \"2024-11\": 5390.57, \"2024-12\": 5357.61, \"2025-01\": 5740.26, \"2025-02\": 7678.04, \"2025-03\": 4175.51, \"2025-04\": 4877.54, \"2025-05\": 6065.39, \"2025-06\": 0, \"2025-07\": 1879.47, \"2025-08\": 5898.2, \"2025-09\": 5773.99, \"2025-10\": 9319.59, \"2025-11\": 5617.68, \"2025-12\": 7155.64, \"2026-01\": 7454.16, \"2026-02\": 6909.67, \"2026-03\": 9632.67, \"2026-04\": 7114.78, \"2026-05\": 2145.14, \"2026-06\": 6604.99, \"2026-07\": 6963.77, \"2026-08\": 5647.125}, \"shipments\": 92, \"total\": 153067.945, \"product_mix\": {\"低冰镍候选\": 79787.53, \"疑高冰：HS及货描冲突\": 13884.18, \"高冰镍关联\": 59396.235}, \"update_note\": \"2025年已出现明确高冰镍出口。2026另7票40.33%—45.20%Ni中间品发往伟明盛青/温州，产品类别待进一步核实，不作钦州自供。\"} PT Zhongtsing New Energy 中青新能源 中青新能源",
+      "search_text": "{\"id\": \"P02\", \"name\": \"中青新能源\", \"legal\": \"PT Zhongtsing New Energy\", \"aliases\": [\"PT Zhongtsing New Energy\", \"P02\"], \"region\": \"IMIP\", \"ownership\": \"中伟原70%，2025-12起85%；Rigqueza余股\", \"classification\": \"低冰镍＋高冰镍一体化，二期全线投产\", \"products\": {\"npi\": \"未列为主要产品\", \"low-matte\": \"在产\", \"high-matte\": \"在产\"}, \"milestones\": \"二期2026年初全线投产，2026H1确认全流程\", \"flows\": \"中伟控股贸易渠道；具体境内外分配随交易核；历史出口样本买方：Guangxi Zhongwei New Energy Technology Co., Ltd.（仅交易身份，非承购推定）\", \"unknowns\": \"未公开的具体承购期限、价格和数量不作推定；具体限制见生产判断及主文章节\", \"confidence\": \"已确认\", \"period\": \"2026H1\", \"basis\": \"中伟2026H1 PDF13确认矿→低冰镍→高冰镍全线拉通；M01\", \"sources\": [\"S056\", \"S057\", \"S055\", \"S028\", \"S029\"], \"intro_paragraphs\": [\"中青新能源是中伟与Rigqueza在IMIP建设的矿石至冰镍项目，低冰镍和高冰镍两段均已得到生产披露支持。中伟持股从原来的70%增至2025年末的85%，项目为其镍原料及材料业务提供上游入口。2026年初二期全线投产后，可以在印尼完成更多转换工序，而不必把所有中间品运回中国再升级。\", \"其出口结构已有时间上的变化：2025年已经出现高冰镍，不能把二期投产理解成此前完全没有高冰镍。2026年另有约40%—45%镍的中间品送往伟明盛青、温州方向，具体产品类别和接收工序仍需核对。这部分不是中伟钦州自供；同一工厂不同批次可以走集团精炼和外部客户两种渠道。\"], \"events\": [{\"date\": \"2025\", \"label\": \"已见高冰镍出口\", \"detail\": \"V19样本确认当年存在高冰镍发货，非始于2026\", \"source_url\": null}, {\"date\": \"2025-12\", \"label\": \"中伟增持\", \"detail\": \"权益从70%增加至85%\", \"source_url\": \"https://www.hkexnews.hk/listedco/listconews/sehk/2026/0330/2026033004142_c.pdf\"}, {\"date\": \"2026年初\", \"label\": \"二期全线投产\", \"detail\": \"低冰镍与高冰镍一体化衔接\", \"source_url\": \"https://cngrgf.com.cn/gsxw/1722.html\"}, {\"date\": \"2026\", \"label\": \"分开核对中间品用途\", \"detail\": \"约40%—45%Ni物料到伟明盛青、温州，非中伟钦州自供\", \"source_url\": null}], \"related_topics\": [\"low-matte\", \"high-matte\", \"conversion\", \"wet-refining\"], \"annual\": {\"2023\": 0, \"2024\": 36414.33, \"2025\": 64181.31, \"2026\": 52472.305}, \"monthly\": {\"2023-01\": 0, \"2023-02\": 0, \"2023-03\": 0, \"2023-04\": 0, \"2023-05\": 0, \"2023-06\": 0, \"2023-07\": 0, \"2023-08\": 0, \"2023-09\": 0, \"2023-10\": 0, \"2023-11\": 0, \"2023-12\": 0, \"2024-01\": 2233.16, \"2024-02\": 0, \"2024-03\": 2882.8, \"2024-04\": 0, \"2024-05\": 2126.23, \"2024-06\": 1848.98, \"2024-07\": 4196.92, \"2024-08\": 0, \"2024-09\": 7635.96, \"2024-10\": 4742.1, \"2024-11\": 5390.57, \"2024-12\": 5357.61, \"2025-01\": 5740.26, \"2025-02\": 7678.04, \"2025-03\": 4175.51, \"2025-04\": 4877.54, \"2025-05\": 6065.39, \"2025-06\": 0, \"2025-07\": 1879.47, \"2025-08\": 5898.2, \"2025-09\": 5773.99, \"2025-10\": 9319.59, \"2025-11\": 5617.68, \"2025-12\": 7155.64, \"2026-01\": 7454.16, \"2026-02\": 6909.67, \"2026-03\": 9632.67, \"2026-04\": 7114.78, \"2026-05\": 2145.14, \"2026-06\": 6604.99, \"2026-07\": 6963.77, \"2026-08\": 5647.125}, \"shipments\": 92, \"total\": 153067.945, \"product_mix\": {\"低冰镍候选\": 79787.53, \"疑高冰：HS及货描冲突\": 13884.18, \"高冰镍关联\": 59396.235}, \"update_note\": \"2025年已出现明确高冰镍出口。2026另7票40.33%—45.20%Ni中间品发往伟明盛青/温州，产品类别待进一步核实，不作钦州自供。\"} PT Zhongtsing New Energy 中青新能源 中青新能源 中伟2026年半年度报告第13页记载，印尼莫罗瓦利基地二期镍冶炼产线（红土镍矿转低冰镍、低冰镍转高冰镍）全线拉通投产；同报告第164页列PT Zhongtsing New Energy为持股85%的子公司。报告没有提到“六线”，也没有逐条列出生产线；“六线全面贯通”见于转载报道。",
       "mhp_ids": [],
       "display_name": "PT Zhongtsing New Energy 中青新能源",
       "aliases": [
@@ -3415,7 +3421,9 @@
       ],
       "country_codes": [
         "ID"
-      ]
+      ],
+      "research_summary": "中青新能源（PT Zhongtsing New Energy）是中伟与Rigqueza在印尼莫罗瓦利工业园区建设的镍冶炼企业。工厂从矿石出发，衔接低冰镍和高冰镍两段加工，为镍盐精炼和电池材料生产提供原料。",
+      "research_updated_at": "2026-09-30"
     },
     {
       "id": "P05",
@@ -3721,7 +3729,7 @@
       "ownership": "中伟间接70%；Rigqueza 30%（招股书时点）",
       "products": [],
       "classification": "在建项目；未确认投产",
-      "search_text": "{\"id\": \"P33\", \"name\": \"兴全\", \"legal\": \"PT CNGR Xing quan New Energy\", \"aliases\": [\"PT CNGR Xing quan New Energy\", \"P33\"], \"region\": \"IWIP\", \"ownership\": \"中伟间接70%；Rigqueza 30%（招股书时点）\", \"classification\": \"在建项目；未确认投产\", \"products\": {\"npi\": \"未判断\", \"low-matte\": \"不计在产\", \"high-matte\": \"不计在产\"}, \"milestones\": \"2026H1在建工程列4万吨冰镍项目\", \"flows\": \"中伟体系规划，实际买方待核\", \"unknowns\": \"未公开的具体承购期限、价格和数量不作推定；具体限制见生产判断及主文章节\", \"confidence\": \"暂定\", \"period\": \"2026H1\", \"basis\": \"M01 PDF126列4万冰镍在建，PDF165法人与间接70%权益；不计确认在产\", \"sources\": [\"S028\", \"S031\"], \"intro_paragraphs\": [\"兴全是中伟与Rigqueza相关体系中的建设项目，2026年半年报在建工程列出冰镍项目，法人及间接70%权益也能对应。因此它比只保留名称的候选项目更明确，但仍属于施工资产，而非已确认供货工厂。\", \"这类新项目可以增加集团未来镍中间品选择，实际是低冰镍外售、当地继续转换还是进入国内精炼，要等工艺投运和销售资料确定。现阶段不把规划4万吨写成实际产量，也不预设由钦州全量承接。\"], \"events\": [{\"date\": \"2026H1\", \"label\": \"在建工程披露\", \"detail\": \"4万吨冰镍项目未确认首产\", \"source_url\": \"https://disc.static.szse.cn/disc/disk03/finalpage/2026-08-25/53856f2b-83a4-477b-913d-79194ee16cf7.PDF\"}], \"related_topics\": [\"low-matte\", \"conversion\", \"wet-refining\"], \"annual\": {\"2023\": 0, \"2024\": 0, \"2025\": 0, \"2026\": 0}, \"monthly\": {\"2023-01\": 0, \"2023-02\": 0, \"2023-03\": 0, \"2023-04\": 0, \"2023-05\": 0, \"2023-06\": 0, \"2023-07\": 0, \"2023-08\": 0, \"2023-09\": 0, \"2023-10\": 0, \"2023-11\": 0, \"2023-12\": 0, \"2024-01\": 0, \"2024-02\": 0, \"2024-03\": 0, \"2024-04\": 0, \"2024-05\": 0, \"2024-06\": 0, \"2024-07\": 0, \"2024-08\": 0, \"2024-09\": 0, \"2024-10\": 0, \"2024-11\": 0, \"2024-12\": 0, \"2025-01\": 0, \"2025-02\": 0, \"2025-03\": 0, \"2025-04\": 0, \"2025-05\": 0, \"2025-06\": 0, \"2025-07\": 0, \"2025-08\": 0, \"2025-09\": 0, \"2025-10\": 0, \"2025-11\": 0, \"2025-12\": 0, \"2026-01\": 0, \"2026-02\": 0, \"2026-03\": 0, \"2026-04\": 0, \"2026-05\": 0, \"2026-06\": 0, \"2026-07\": 0, \"2026-08\": 0}, \"shipments\": 0, \"total\": 0, \"product_mix\": {}} PT CNGR Xing quan New Energy 中伟兴全新能源 兴全新能源",
+      "search_text": "{\"id\": \"P33\", \"name\": \"兴全\", \"legal\": \"PT CNGR Xing quan New Energy\", \"aliases\": [\"PT CNGR Xing quan New Energy\", \"P33\"], \"region\": \"IWIP\", \"ownership\": \"中伟间接70%；Rigqueza 30%（招股书时点）\", \"classification\": \"在建项目；未确认投产\", \"products\": {\"npi\": \"未判断\", \"low-matte\": \"不计在产\", \"high-matte\": \"不计在产\"}, \"milestones\": \"2026H1在建工程列4万吨冰镍项目\", \"flows\": \"中伟体系规划，实际买方待核\", \"unknowns\": \"未公开的具体承购期限、价格和数量不作推定；具体限制见生产判断及主文章节\", \"confidence\": \"暂定\", \"period\": \"2026H1\", \"basis\": \"M01 PDF126列4万冰镍在建，PDF165法人与间接70%权益；不计确认在产\", \"sources\": [\"S028\", \"S031\"], \"intro_paragraphs\": [\"兴全是中伟与Rigqueza相关体系中的建设项目，2026年半年报在建工程列出冰镍项目，法人及间接70%权益也能对应。因此它比只保留名称的候选项目更明确，但仍属于施工资产，而非已确认供货工厂。\", \"这类新项目可以增加集团未来镍中间品选择，实际是低冰镍外售、当地继续转换还是进入国内精炼，要等工艺投运和销售资料确定。现阶段不把规划4万吨写成实际产量，也不预设由钦州全量承接。\"], \"events\": [{\"date\": \"2026H1\", \"label\": \"在建工程披露\", \"detail\": \"4万吨冰镍项目未确认首产\", \"source_url\": \"https://disc.static.szse.cn/disc/disk03/finalpage/2026-08-25/53856f2b-83a4-477b-913d-79194ee16cf7.PDF\"}], \"related_topics\": [\"low-matte\", \"conversion\", \"wet-refining\"], \"annual\": {\"2023\": 0, \"2024\": 0, \"2025\": 0, \"2026\": 0}, \"monthly\": {\"2023-01\": 0, \"2023-02\": 0, \"2023-03\": 0, \"2023-04\": 0, \"2023-05\": 0, \"2023-06\": 0, \"2023-07\": 0, \"2023-08\": 0, \"2023-09\": 0, \"2023-10\": 0, \"2023-11\": 0, \"2023-12\": 0, \"2024-01\": 0, \"2024-02\": 0, \"2024-03\": 0, \"2024-04\": 0, \"2024-05\": 0, \"2024-06\": 0, \"2024-07\": 0, \"2024-08\": 0, \"2024-09\": 0, \"2024-10\": 0, \"2024-11\": 0, \"2024-12\": 0, \"2025-01\": 0, \"2025-02\": 0, \"2025-03\": 0, \"2025-04\": 0, \"2025-05\": 0, \"2025-06\": 0, \"2025-07\": 0, \"2025-08\": 0, \"2025-09\": 0, \"2025-10\": 0, \"2025-11\": 0, \"2025-12\": 0, \"2026-01\": 0, \"2026-02\": 0, \"2026-03\": 0, \"2026-04\": 0, \"2026-05\": 0, \"2026-06\": 0, \"2026-07\": 0, \"2026-08\": 0}, \"shipments\": 0, \"total\": 0, \"product_mix\": {}} PT CNGR Xing quan New Energy 中伟兴全新能源 兴全新能源 中伟2026年半年度报告第126页在建工程明细列示“维达贝兴全冰镍四万吨项目”，期末账面价值约2,491万元；第165页列PT CNGR Xing quan New Energy为持股70%的子公司。报告没有该项目的投产或转固记录。设备安装、点火和商业首产尚未出现在公开材料中，4万吨不计入2026年在产供应。",
       "mhp_ids": [],
       "display_name": "PT CNGR Xing quan New Energy 中伟兴全新能源",
       "aliases": [
@@ -3731,7 +3739,9 @@
       ],
       "country_codes": [
         "ID"
-      ]
+      ],
+      "research_summary": "兴全新能源（PT CNGR Xing Quan New Energy）是中伟新材料在纬达贝工业园区推进的冰镍建设项目。中伟间接持有70%权益，Rigqueza持有30%。",
+      "research_updated_at": "2026-09-30"
     },
     {
       "id": "P34",
@@ -3746,7 +3756,7 @@
       "ownership": "中伟间接70%；Rigqueza 30%（招股书时点）",
       "products": [],
       "classification": "在建项目；未确认投产",
-      "search_text": "{\"id\": \"P34\", \"name\": \"兴新\", \"legal\": \"PT CNGR Xing xin New Energy\", \"aliases\": [\"PT CNGR Xing xin New Energy\", \"P34\"], \"region\": \"IWIP\", \"ownership\": \"中伟间接70%；Rigqueza 30%（招股书时点）\", \"classification\": \"在建项目；未确认投产\", \"products\": {\"npi\": \"未判断\", \"low-matte\": \"不计在产\", \"high-matte\": \"不计在产\"}, \"milestones\": \"2026H1在建工程列4万吨冰镍项目\", \"flows\": \"中伟体系规划，实际买方待核\", \"unknowns\": \"未公开的具体承购期限、价格和数量不作推定；具体限制见生产判断及主文章节\", \"confidence\": \"暂定\", \"period\": \"2026H1\", \"basis\": \"M01 PDF126列4万冰镍在建，PDF165法人与间接70%权益；不计确认在产\", \"sources\": [\"S028\", \"S031\"], \"intro_paragraphs\": [\"兴新与兴全一样，已有中伟间接权益和在建工程信息，是可以独立追踪的建设项目。它不能因为名称相似而与兴球、兴全合并，也不能把同一份集团总规划重复分配到各行。\", \"公开材料尚未确认商业生产或第一批合格产品，所以其作用是描述未来建设进度，而不是增加当期冰镍供给。具体工艺段、客户、承购比例和国内接收地点仍待运行资料补齐；集团具备硫酸镍和精炼能力只是产业背景，不是本项目已经履约的证据。\"], \"events\": [{\"date\": \"2026H1\", \"label\": \"在建工程披露\", \"detail\": \"4万吨冰镍项目未确认首产\", \"source_url\": \"https://disc.static.szse.cn/disc/disk03/finalpage/2026-08-25/53856f2b-83a4-477b-913d-79194ee16cf7.PDF\"}], \"related_topics\": [\"nickel-sulphate\", \"wet-refining\", \"commercial-arrangements\"], \"annual\": {\"2023\": 0, \"2024\": 0, \"2025\": 0, \"2026\": 0}, \"monthly\": {\"2023-01\": 0, \"2023-02\": 0, \"2023-03\": 0, \"2023-04\": 0, \"2023-05\": 0, \"2023-06\": 0, \"2023-07\": 0, \"2023-08\": 0, \"2023-09\": 0, \"2023-10\": 0, \"2023-11\": 0, \"2023-12\": 0, \"2024-01\": 0, \"2024-02\": 0, \"2024-03\": 0, \"2024-04\": 0, \"2024-05\": 0, \"2024-06\": 0, \"2024-07\": 0, \"2024-08\": 0, \"2024-09\": 0, \"2024-10\": 0, \"2024-11\": 0, \"2024-12\": 0, \"2025-01\": 0, \"2025-02\": 0, \"2025-03\": 0, \"2025-04\": 0, \"2025-05\": 0, \"2025-06\": 0, \"2025-07\": 0, \"2025-08\": 0, \"2025-09\": 0, \"2025-10\": 0, \"2025-11\": 0, \"2025-12\": 0, \"2026-01\": 0, \"2026-02\": 0, \"2026-03\": 0, \"2026-04\": 0, \"2026-05\": 0, \"2026-06\": 0, \"2026-07\": 0, \"2026-08\": 0}, \"shipments\": 0, \"total\": 0, \"product_mix\": {}} PT CNGR Xing xin New Energy 中伟兴新新能源 兴新",
+      "search_text": "{\"id\": \"P34\", \"name\": \"兴新\", \"legal\": \"PT CNGR Xing xin New Energy\", \"aliases\": [\"PT CNGR Xing xin New Energy\", \"P34\"], \"region\": \"IWIP\", \"ownership\": \"中伟间接70%；Rigqueza 30%（招股书时点）\", \"classification\": \"在建项目；未确认投产\", \"products\": {\"npi\": \"未判断\", \"low-matte\": \"不计在产\", \"high-matte\": \"不计在产\"}, \"milestones\": \"2026H1在建工程列4万吨冰镍项目\", \"flows\": \"中伟体系规划，实际买方待核\", \"unknowns\": \"未公开的具体承购期限、价格和数量不作推定；具体限制见生产判断及主文章节\", \"confidence\": \"暂定\", \"period\": \"2026H1\", \"basis\": \"M01 PDF126列4万冰镍在建，PDF165法人与间接70%权益；不计确认在产\", \"sources\": [\"S028\", \"S031\"], \"intro_paragraphs\": [\"兴新与兴全一样，已有中伟间接权益和在建工程信息，是可以独立追踪的建设项目。它不能因为名称相似而与兴球、兴全合并，也不能把同一份集团总规划重复分配到各行。\", \"公开材料尚未确认商业生产或第一批合格产品，所以其作用是描述未来建设进度，而不是增加当期冰镍供给。具体工艺段、客户、承购比例和国内接收地点仍待运行资料补齐；集团具备硫酸镍和精炼能力只是产业背景，不是本项目已经履约的证据。\"], \"events\": [{\"date\": \"2026H1\", \"label\": \"在建工程披露\", \"detail\": \"4万吨冰镍项目未确认首产\", \"source_url\": \"https://disc.static.szse.cn/disc/disk03/finalpage/2026-08-25/53856f2b-83a4-477b-913d-79194ee16cf7.PDF\"}], \"related_topics\": [\"nickel-sulphate\", \"wet-refining\", \"commercial-arrangements\"], \"annual\": {\"2023\": 0, \"2024\": 0, \"2025\": 0, \"2026\": 0}, \"monthly\": {\"2023-01\": 0, \"2023-02\": 0, \"2023-03\": 0, \"2023-04\": 0, \"2023-05\": 0, \"2023-06\": 0, \"2023-07\": 0, \"2023-08\": 0, \"2023-09\": 0, \"2023-10\": 0, \"2023-11\": 0, \"2023-12\": 0, \"2024-01\": 0, \"2024-02\": 0, \"2024-03\": 0, \"2024-04\": 0, \"2024-05\": 0, \"2024-06\": 0, \"2024-07\": 0, \"2024-08\": 0, \"2024-09\": 0, \"2024-10\": 0, \"2024-11\": 0, \"2024-12\": 0, \"2025-01\": 0, \"2025-02\": 0, \"2025-03\": 0, \"2025-04\": 0, \"2025-05\": 0, \"2025-06\": 0, \"2025-07\": 0, \"2025-08\": 0, \"2025-09\": 0, \"2025-10\": 0, \"2025-11\": 0, \"2025-12\": 0, \"2026-01\": 0, \"2026-02\": 0, \"2026-03\": 0, \"2026-04\": 0, \"2026-05\": 0, \"2026-06\": 0, \"2026-07\": 0, \"2026-08\": 0}, \"shipments\": 0, \"total\": 0, \"product_mix\": {}} PT CNGR Xing xin New Energy 中伟兴新新能源 兴新 中伟2026年半年度报告第126页在建工程明细列示“维达贝兴新冰镍四万吨项目”，期末账面价值约2,312万元；第165页列PT CNGR Xing xin New Energy为持股70%的子公司。报告没有该项目的投产或转固记录，4万吨冰镍在首产前不计入当期供应。同页的中青、南加里曼丹等其他冰镍项目属于不同法人。",
       "mhp_ids": [],
       "display_name": "PT CNGR Xing xin New Energy 中伟兴新新能源",
       "aliases": [
@@ -3755,7 +3765,9 @@
       ],
       "country_codes": [
         "ID"
-      ]
+      ],
+      "research_summary": "PT CNGR Xingxin New Energy（兴新）是中伟新材料在纬达贝工业园区推进的冰镍项目。中伟间接持有70%，Rigqueza持有30%。项目与中伟其他纬达贝资产名称相近，但拥有独立法人和建设记录。",
+      "research_updated_at": "2026-09-30"
     },
     {
       "id": "P38",
@@ -4482,7 +4494,7 @@
       "mhp_ids": [
         "MHP028"
       ],
-      "search_text": " {\"row\": 28, \"name\": \"诚盛 CNE\", \"legal\": \"PT Chengsheng New Energy\", \"group\": \"NIC/印尼本地伙伴/JAYA的条件交易\", \"status\": \"建设中；2027年中调试目标，尚无产出。\", \"capacity\": \"28357镍吨/年MHP；原表29000为近似规划数，采用公告精确设计值。\", \"ownership\": \"2026-06-24绑定框架拟以Sampala矿30%权益交换JAYA持有的CNE85.7%收购权，NIC最终有效CNE36%；矿层次为NIC42%、JAYA30%、本地28%，与工厂股权不是同一张表。成交仍需最终协议、尽调、审批及股东程序。\", \"process\": \"ENC同址扩展HPAL；共享矿浆及尾矿输送体系。\", \"ore\": \"独家使用Sampala矿料；并与TMI共同建设长期矿到厂配套。\", \"history\": \"2026年6月24日框架公告；2027年中预计投运。原表不可直接标“已投产”。\", \"customers\": \"NIC公告预计对应份额10208镍吨/年可由NIC全球营销，说明公司保留销售空间；不等同于已经存在具名终端客户或全厂独家包销。\", \"rationale\": \"NIC以矿权益换取下游MHP权益，合作伙伴提供项目建设资金，旨在让大型褐铁矿资源进入电池材料链，减少NIC直接现金建设负担。\", \"uncertainties\": \"条件交易是否全部完成、其余工厂直接股东、Bluezone14.3%完整身份和终端承购未闭合。\", \"sources\": [{\"title\": \"NIC Strategic partnership monetises Sampala and acquires CNE\", \"url\": \"https://nickelindustries.com/carbon/assets/0007ea/000006/3081388.pdf\", \"date\": \"2026-06-24\", \"evidence\": \"PT Chengsheng New Energy；28357镍吨/年；NIC拟有效36%，Sampala矿变成NIC42%、JAYA30%、本地28%；以矿股权交换CNE权益，条件交易；2027年中调试目标；NIC份额10208镍吨可全球营销。\"}], \"id\": \"MHP028\", \"original\": {\"A\": \"诚盛新能源责任有限公司\", \"B\": \"Morowali\", \"C\": \"MHP\", \"D\": \"HPAL\", \"E\": \"2027年中\", \"G\": 2.9000000000000004, \"H\": \"sampala\", \"I\": \"红土镍矿\", \"J\": \"是\", \"K\": \"sampala85.7{nickel industry（青山）42，印尼本地企业28.jaya印尼30}，Bluezone新加坡14.3\"}, \"region\": \"Morowali\", \"country\": \"印尼\", \"classification\": \"MHP生产／开发项目\", \"source_ids\": [\"MS049\"], \"canonical_id\": \"MHP028\"} PT Chengsheng New Energy (CNE) 诚盛新能源 诚盛新能源（Chengsheng New Energy）",
+      "search_text": " {\"row\": 28, \"name\": \"诚盛 CNE\", \"legal\": \"PT Chengsheng New Energy\", \"group\": \"NIC/印尼本地伙伴/JAYA的条件交易\", \"status\": \"建设中；2027年中调试目标，尚无产出。\", \"capacity\": \"28357镍吨/年MHP；原表29000为近似规划数，采用公告精确设计值。\", \"ownership\": \"2026-06-24绑定框架拟以Sampala矿30%权益交换JAYA持有的CNE85.7%收购权，NIC最终有效CNE36%；矿层次为NIC42%、JAYA30%、本地28%，与工厂股权不是同一张表。成交仍需最终协议、尽调、审批及股东程序。\", \"process\": \"ENC同址扩展HPAL；共享矿浆及尾矿输送体系。\", \"ore\": \"独家使用Sampala矿料；并与TMI共同建设长期矿到厂配套。\", \"history\": \"2026年6月24日框架公告；2027年中预计投运。原表不可直接标“已投产”。\", \"customers\": \"NIC公告预计对应份额10208镍吨/年可由NIC全球营销，说明公司保留销售空间；不等同于已经存在具名终端客户或全厂独家包销。\", \"rationale\": \"NIC以矿权益换取下游MHP权益，合作伙伴提供项目建设资金，旨在让大型褐铁矿资源进入电池材料链，减少NIC直接现金建设负担。\", \"uncertainties\": \"条件交易是否全部完成、其余工厂直接股东、Bluezone14.3%完整身份和终端承购未闭合。\", \"sources\": [{\"title\": \"NIC Strategic partnership monetises Sampala and acquires CNE\", \"url\": \"https://nickelindustries.com/carbon/assets/0007ea/000006/3081388.pdf\", \"date\": \"2026-06-24\", \"evidence\": \"PT Chengsheng New Energy；28357镍吨/年；NIC拟有效36%，Sampala矿变成NIC42%、JAYA30%、本地28%；以矿股权交换CNE权益，条件交易；2027年中调试目标；NIC份额10208镍吨可全球营销。\"}], \"id\": \"MHP028\", \"original\": {\"A\": \"诚盛新能源责任有限公司\", \"B\": \"Morowali\", \"C\": \"MHP\", \"D\": \"HPAL\", \"E\": \"2027年中\", \"G\": 2.9000000000000004, \"H\": \"sampala\", \"I\": \"红土镍矿\", \"J\": \"是\", \"K\": \"sampala85.7{nickel industry（青山）42，印尼本地企业28.jaya印尼30}，Bluezone新加坡14.3\"}, \"region\": \"Morowali\", \"country\": \"印尼\", \"classification\": \"MHP生产／开发项目\", \"source_ids\": [\"MS049\"], \"canonical_id\": \"MHP028\"} PT Chengsheng New Energy (CNE) 诚盛新能源 诚盛新能源（Chengsheng New Energy） 2026年9月17日的行业报道称，由于Nickel Industries一名董事与出售方投资公司有关联，诚盛交易仍需股东批准。截至该报道，没有交割或权益生效的公告；2026年7月的签约仪式针对的是TMI项目，不代表诚盛交易完成。",
       "display_name": "PT Chengsheng New Energy (CNE) 诚盛新能源",
       "aliases": [
         "诚盛 CNE",
@@ -4491,7 +4503,9 @@
       ],
       "country_codes": [
         "ID"
-      ]
+      ],
+      "research_summary": "诚盛新能源（PT Chengsheng New Energy，简称CNE）是在印尼莫罗瓦利推进的高压酸浸项目，规划生产混合氢氧化镍钴（MHP）。项目与晨曦新能源的设施布局相衔接，计划利用Sampala矿山的褐铁矿。",
+      "research_updated_at": "2026-09-30"
     },
     {
       "id": "MHP029",
@@ -10344,7 +10358,7 @@
       "aliases": [
         "临沂金海汇科技有限公司"
       ],
-      "search_text": "临沂金海汇科技有限公司 临沂金海汇科技有限公司 山东 股权沿革见项目正文及资料 临沂金海汇科技有限公司是山东莒南镍基复合材料产业园企业，行业研究资料曾将其列为规划中的RKEF项目；公开园区页面确认镍基复合材料工业园位于莒南县。上市公司担保披露中出现该公司厂房担保。 临沂金海汇科技有限公司",
+      "search_text": "临沂金海汇科技有限公司 临沂金海汇科技有限公司 山东 股权沿革见项目正文及资料 临沂金海汇科技有限公司是山东莒南镍基复合材料产业园企业，行业研究资料曾将其列为规划中的RKEF项目；公开园区页面确认镍基复合材料工业园位于莒南县。上市公司担保披露中出现该公司厂房担保。 临沂金海汇科技有限公司 临沂市2024年4月公布的第一轮督察整改销号材料，把“山东金海汇科技有限公司年产50万吨镍基节能环保复合材料建设项目”与“临沂市金海汇科技有限公司搬迁安置实施方案”写在同一整改事项下，安置对象是同一批居民；材料称该公司因市场行情和资金不足，已于2020年11月停产至今。同年10月第二轮督察整改公示直接点名临沂金海汇科技有限公司长期停产，排污许可已于2021年6月注销。两份文件混用“山东”与“临沂”两个名称，指向同一项目，但没有给出工商沿革。",
       "country_codes": [
         "CN"
       ],
@@ -10352,7 +10366,9 @@
         "npi"
       ],
       "china_id": "CN024",
-      "record_type": "source-scope"
+      "record_type": "source-scope",
+      "research_summary": "临沂金海汇科技有限公司是山东莒南镍基复合材料产业园企业，行业研究资料曾将其列为规划中的RKEF项目；公开园区页面确认镍基复合材料工业园位于莒南县。上市公司担保披露中出现该公司厂房担保。",
+      "research_updated_at": "2026-09-30"
     },
     {
       "id": "CN025",
@@ -11575,7 +11591,7 @@
       "aliases": [
         "广西戎鑫达资源有限公司"
       ],
-      "search_text": "广西戎鑫达资源有限公司 广西戎鑫达资源有限公司 广西 股权沿革见项目正文及资料 广西戎鑫达资源有限公司位于钦州市钦北区，公开施工记录称其拥有一座450立方米高炉用于生产镍铁，2017年4月底停炉检修并在7月完成炉衬喷注。自治区重点排污单位名录同时记录其统一社会信用代码，环保名录还注明其原名为广西新合力冶金有限公司。 广西戎鑫达资源有限公司",
+      "search_text": "广西戎鑫达资源有限公司 广西戎鑫达资源有限公司 广西 股权沿革见项目正文及资料 广西戎鑫达资源有限公司位于钦州市钦北区，公开施工记录称其拥有一座450立方米高炉用于生产镍铁，2017年4月底停炉检修并在7月完成炉衬喷注。自治区重点排污单位名录同时记录其统一社会信用代码，环保名录还注明其原名为广西新合力冶金有限公司。 广西戎鑫达资源有限公司 2026年5月7日，钦州市生态环境局应企业申请，同意注销广西戎鑫达资源有限公司的排污许可证（钦环审函〔2026〕10号）。复函没有说明注销原因，也没有写450立方米高炉的停产或处置时间。",
       "country_codes": [
         "CN"
       ],
@@ -11583,7 +11599,9 @@
         "npi"
       ],
       "china_id": "CN067",
-      "record_type": "source-scope"
+      "record_type": "source-scope",
+      "research_summary": "广西戎鑫达资源有限公司位于钦州市钦北区，公开施工记录称其拥有一座450立方米高炉用于生产镍铁，2017年4月底停炉检修并在7月完成炉衬喷注。自治区重点排污单位名录同时记录其统一社会信用代码，环保名录还注明其原名为广西新合力冶金有限公司。",
+      "research_updated_at": "2026-09-30"
     },
     {
       "id": "CN068",
@@ -11835,7 +11853,7 @@
       "aliases": [
         "内蒙古和谊镍铬复合材料有限公司(租给万汇) 和恒"
       ],
-      "search_text": "内蒙古和谊镍铬复合材料有限公司(租给万汇) 和恒 内蒙古和谊镍铬复合材料有限公司(租给万汇) 和恒 内蒙古 股权沿革见项目正文及资料 CN076是‘内蒙古和谊镍铬复合材料有限公司（租给万汇）和恒’的历史租赁/名称档案。 内蒙古和谊镍铬复合材料有限公司(租给万汇) 和恒",
+      "search_text": "内蒙古和谊镍铬复合材料有限公司(租给万汇) 和恒 内蒙古和谊镍铬复合材料有限公司(租给万汇) 和恒 内蒙古 股权沿革见项目正文及资料 CN076是‘内蒙古和谊镍铬复合材料有限公司（租给万汇）和恒’的历史租赁/名称档案。 内蒙古和谊镍铬复合材料有限公司(租给万汇) 和恒 和谊公司2026年发布的对外合作公告介绍，厂区共有4条镍铁线，包括2条RKEF和2条EF，均于2025年底停产，公司寻求整体转让、租赁或合资。这些炉线在CN042条目中记录。原档案中的“万汇”“和恒”在已查公开资料中没有出现，其法人身份和承租的具体炉线仍无法确认。",
       "country_codes": [
         "CN"
       ],
@@ -11843,7 +11861,9 @@
         "npi"
       ],
       "china_id": "CN076",
-      "record_type": "source-scope"
+      "record_type": "source-scope",
+      "research_summary": "CN076是“内蒙古和谊镍铬复合材料有限公司（租给万汇）和恒”的历史租赁/名称档案，对应的是奈曼旗工业园内和谊公司同一厂区，与CN042为同一座工厂，不是另一座独立在产厂。",
+      "research_updated_at": "2026-09-30"
     },
     {
       "id": "CN077",
@@ -11863,7 +11883,7 @@
       "aliases": [
         "亿晨镍铬合金（临沂钢投）"
       ],
-      "search_text": "亿晨镍铬合金（临沂钢投） 亿晨镍铬合金（临沂钢投） 山东 股权沿革见项目正文及资料 亿晨镍铬合金（临沂钢投）是临沂区域镍铬合金项目/重整档案。临沂城发公开债券报告确认临沂亿晨曾进入莒南县法院破产重整程序，并将其与钢基新材料项目区分记录。 亿晨镍铬合金（临沂钢投）",
+      "search_text": "亿晨镍铬合金（临沂钢投） 亿晨镍铬合金（临沂钢投） 山东 股权沿革见项目正文及资料 亿晨镍铬合金（临沂钢投）是临沂区域镍铬合金项目/重整档案。临沂城发公开债券报告确认临沂亿晨曾进入莒南县法院破产重整程序，并将其与钢基新材料项目区分记录。 亿晨镍铬合金（临沂钢投） 临沂城发集团2023年公司债券中期报告记载，临沂城发钢基新材料科技有限公司由原临沂亿晨镍铬合金有限公司通过破产重整改制而来：亿晨项目2012年11月备案，2014年停建，2018年8月起进入破产重整，2019年6月重整方案通过，2020年3月重启建设。截至2023年中，钢基新材料已建成投产2条生产线，可年产含镍10%的镍铁合金13万吨；另有2条线处于设备安装收尾阶段，视市场情况投产；项目批复建设16条RKEF线。",
       "country_codes": [
         "CN"
       ],
@@ -11871,7 +11891,9 @@
         "npi"
       ],
       "china_id": "CN077",
-      "record_type": "source-scope"
+      "record_type": "source-scope",
+      "research_summary": "亿晨镍铬合金（临沂钢投）是临沂区域镍铬合金项目/重整档案。临沂城发公开债券报告确认临沂亿晨曾进入莒南县法院破产重整程序，并将其与钢基新材料项目区分记录。",
+      "research_updated_at": "2026-09-30"
     },
     {
       "id": "CN078",
@@ -12147,7 +12169,7 @@
       "aliases": [
         "中冶瑞木新能源科技有限公司"
       ],
-      "search_text": "中冶瑞木新能源科技有限公司 中冶瑞木新能源科技有限公司 河北 股权沿革见项目正文及资料 中冶瑞木新能源科技有限公司位于河北曹妃甸，是将海外镍钴资源与国内电池材料制造衔接起来的项目。它以巴布亚新几内亚瑞木镍钴资源为上游背景，由资源开发方与电池产业伙伴共同推动建设。 中冶瑞木新能源科技有限公司",
+      "search_text": "中冶瑞木新能源科技有限公司 中冶瑞木新能源科技有限公司 河北 股权沿革见项目正文及资料 中冶瑞木新能源科技有限公司位于河北曹妃甸，是将海外镍钴资源与国内电池材料制造衔接起来的项目。它以巴布亚新几内亚瑞木镍钴资源为上游背景，由资源开发方与电池产业伙伴共同推动建设。 中冶瑞木新能源科技有限公司 采招网2022年登记的“中冶新材料项目二期”建设单位即中冶瑞木新能源科技有限公司，厂址在曹妃甸钢铁电力产业园区。中国二十二冶2025年12月报道，二期硫酸镍钴厂房的两套蒸发系统完成单体试车，为全线联动投产创造条件。2026年1月，唐山当地媒体报道中冶瑞木二期项目在曹妃甸正式投产，二期总投资13.43亿元。报道没有给出硫酸镍钴线商业生产的具体日期。",
       "country_codes": [
         "CN"
       ],
@@ -12155,7 +12177,9 @@
         "sulfate"
       ],
       "china_id": "CN087",
-      "record_type": "source-scope"
+      "record_type": "source-scope",
+      "research_summary": "中冶瑞木新能源科技有限公司位于河北曹妃甸，是将海外镍钴资源与国内电池材料制造衔接起来的项目。它以巴布亚新几内亚瑞木镍钴资源为上游背景，由资源开发方与电池产业伙伴共同推动建设。",
+      "research_updated_at": "2026-09-30"
     },
     {
       "id": "CN088",
@@ -12512,7 +12536,9 @@
         "sulfate"
       ],
       "china_id": "CN099",
-      "record_type": "source-scope"
+      "record_type": "source-scope",
+      "research_summary": "浙江路加新能源有限公司是中国项目目录中的浙江镍盐业务条目，与临海“浙江路加新材料有限公司”的名称及法人关系另行核对。",
+      "research_updated_at": "2026-09-30"
     },
     {
       "id": "CN100",
@@ -12533,7 +12559,7 @@
       "aliases": [
         "池州西恩新材料科技有限公司"
       ],
-      "search_text": "Chizhou CN Material New Materials Technology Co., Ltd. 池州西恩新材料科技有限公司 池州西恩新材料科技有限公司 安徽 上海西恩科技 池州西恩新材料科技有限公司位于安徽池州，属于上海西恩科技的资源循环利用业务。其镍盐生产与工业废物处理和有价金属回收相连，是由环保处理向材料产品延伸的一类企业。 池州西恩新材料科技有限公司",
+      "search_text": "Chizhou CN Material New Materials Technology Co., Ltd. 池州西恩新材料科技有限公司 池州西恩新材料科技有限公司 安徽 上海西恩科技 池州西恩新材料科技有限公司位于安徽池州，属于上海西恩科技的资源循环利用业务。其镍盐生产与工业废物处理和有价金属回收相连，是由环保处理向材料产品延伸的一类企业。 池州西恩新材料科技有限公司 池州西恩2022年环评征求意见稿追述，年产5000吨镍综合开发利用项目于2012年8月获准试生产，其中一期年产1万吨硫酸镍盐及副产品项目于2014年1月通过环保验收；5万吨固废综合利用技改（硫酸镍6000吨/年）于2014年10月获准试生产，2015年4月通过验收。技改后原项目只保留红土粗镍生产4000吨/年六水硫酸镍和190吨/年七水硫酸钴线。环评把这些现有项目列为已投入生产；文件没有给出近年的实际产量。",
       "country_codes": [
         "CN"
       ],
@@ -12542,7 +12568,9 @@
         "refined"
       ],
       "china_id": "CN100",
-      "record_type": "source-scope"
+      "record_type": "source-scope",
+      "research_summary": "池州西恩新材料科技有限公司位于安徽池州，属于上海西恩科技的资源循环利用业务。其镍盐生产与工业废物处理和有价金属回收相连，是由环保处理向材料产品延伸的一类企业。",
+      "research_updated_at": "2026-09-30"
     },
     {
       "id": "CN101",
