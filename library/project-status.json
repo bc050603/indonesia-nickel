@@ -1960,8 +1960,8 @@
     "GL001": {
       "key": "halted",
       "label": "停产(可复产)",
-      "period": "底表核实年份：2025；状态始于2024年",
-      "note": "该记录按全球普查底表列为停产(可复产)。停产及变化背景见正文。",
+      "period": "状态始于2024年；普查核实年份2025",
+      "note": "据全球普查底表，状态为停产(可复产)（始于2024年）；停产及变化背景见正文。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL001",
       "sources": [
@@ -1975,8 +1975,8 @@
     "GL003": {
       "key": "care",
       "label": "保养维护(C&M)",
-      "period": "底表核实年份：2013；状态始于2013年",
-      "note": "该记录按全球普查底表列为保养维护(C&M)。停产及变化背景见正文。",
+      "period": "状态始于2013年；普查核实年份2013",
+      "note": "据全球普查底表，状态为保养维护(C&M)（始于2013年）；停产及变化背景见正文。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL003",
       "sources": [
@@ -1990,8 +1990,8 @@
     "GL004": {
       "key": "closed",
       "label": "永久关闭",
-      "period": "底表核实年份：2024；状态始于2022年",
-      "note": "该记录按全球普查底表列为永久关闭。停产及变化背景见正文。",
+      "period": "状态始于2022年；普查核实年份2024",
+      "note": "据全球普查底表，状态为永久关闭（始于2022年）；停产及变化背景见正文。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL004",
       "sources": [
@@ -2005,8 +2005,8 @@
     "GL005": {
       "key": "operating",
       "label": "在产",
-      "period": "底表核实年份：2025；状态始于2025年",
-      "note": "该记录按全球普查底表列为在产。",
+      "period": "状态始于2025年；普查核实年份2025",
+      "note": "据全球普查底表，状态为在产（始于2025年）。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL005",
       "sources": [
@@ -2047,8 +2047,8 @@
     "GL007": {
       "key": "closed",
       "label": "永久关闭",
-      "period": "底表核实年份：1946；状态始于1946年",
-      "note": "该记录按全球普查底表列为永久关闭。停产及变化背景见正文。",
+      "period": "状态始于1946年；普查核实年份1946",
+      "note": "据全球普查底表，状态为永久关闭（始于1946年）；停产及变化背景见正文。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL007",
       "sources": [
@@ -2062,8 +2062,8 @@
     "GL008": {
       "key": "closed",
       "label": "永久关闭",
-      "period": "底表核实年份：1894；状态始于1894年",
-      "note": "该记录按全球普查底表列为永久关闭。停产及变化背景见正文。",
+      "period": "状态始于1894年；普查核实年份1894",
+      "note": "据全球普查底表，状态为永久关闭（始于1894年）；停产及变化背景见正文。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL008",
       "sources": [
@@ -2077,8 +2077,8 @@
     "GL009": {
       "key": "operating",
       "label": "在产",
-      "period": "底表核实年份：2025；状态始于2025年",
-      "note": "该记录按全球普查底表列为在产。",
+      "period": "状态始于2025年；普查核实年份2025",
+      "note": "据全球普查底表，状态为在产（始于2025年）。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL009",
       "sources": [
@@ -2092,8 +2092,8 @@
     "GL010": {
       "key": "closed",
       "label": "永久关闭",
-      "period": "底表核实年份：1992；状态始于1992年",
-      "note": "该记录按全球普查底表列为永久关闭。停产及变化背景见正文。",
+      "period": "状态始于1992年；普查核实年份1992",
+      "note": "据全球普查底表，状态为永久关闭（始于1992年）；停产及变化背景见正文。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL010",
       "sources": [
@@ -2107,8 +2107,8 @@
     "GL011": {
       "key": "operating",
       "label": "在产",
-      "period": "底表核实年份：2025；状态始于2025年",
-      "note": "该记录按全球普查底表列为在产。",
+      "period": "状态始于2025年；普查核实年份2025",
+      "note": "据全球普查底表，状态为在产（始于2025年）。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL011",
       "sources": [
@@ -2141,14 +2141,14 @@
     "GL013": {
       "key": "care",
       "label": "保养维护(C&M)",
-      "period": "底表核实年份：2025；状态始于2025年",
-      "note": "该记录按全球普查底表列为保养维护(C&M)。停产及变化背景见正文。",
-      "reviewed_at": "2026-09-18",
+      "period": "2025年6月30日起",
+      "note": "Sibanye-Stillwater官网称，桑杜维尔精炼厂镍阴极生产已经停止，最后一批镍锍于2025年1月初到厂，工厂自2025年6月30日起处于保养维护状态",
+      "reviewed_at": "2026-09-30",
       "article_id": "GL013",
       "sources": [
         {
-          "title": "全球普查底表 · NI-013 · 总表第14行",
-          "url": "library/global-register.csv"
+          "title": "Sibanye-Stillwater：Sandouville",
+          "url": "https://www.sibanyestillwater.com/business/europe/sandouville/"
         }
       ],
       "products": []
@@ -2173,16 +2173,16 @@
       "products": []
     },
     "GL015": {
-      "key": "operating",
-      "label": "在产",
-      "period": "底表核实年份：2023；状态始于2023年",
-      "note": "该记录按全球普查底表列为在产。",
-      "reviewed_at": "2026-09-18",
+      "key": "halted",
+      "label": "停产（2025年3月起）",
+      "period": "2025年3月起",
+      "note": "2026年2月的当地报道称，NewCo Ferronikeli为减轻高电价压力，于2025年3月关停电炉，此后没有产量；2025年底600余名工人被解约，只留下约80名行政人员，公司表示待市场好转再考虑重启",
+      "reviewed_at": "2026-09-30",
       "article_id": "GL015",
       "sources": [
         {
-          "title": "全球普查底表 · NI-015 · 总表第16行",
-          "url": "library/global-register.csv"
+          "title": "Gazeta Express：Ferronikeli two decades after privatisation, 80 workers, zero production，2026年2月2日",
+          "url": "https://www.gazetaexpress.com/en/ferronikeli-pas-dy-dekadash-privatizim-80-punetore-zero-prodhim/"
         }
       ],
       "products": []
@@ -2190,14 +2190,14 @@
     "GL016": {
       "key": "operating",
       "label": "在产",
-      "period": "底表核实年份：2026；状态始于2025年",
-      "note": "该记录按全球普查底表列为在产。",
-      "reviewed_at": "2026-09-18",
+      "period": "2026年二季度",
+      "note": "Boliden 2026年二季度材料称，哈尔亚瓦尔塔镍产量表现强劲，其间有计划检修",
+      "reviewed_at": "2026-09-30",
       "article_id": "GL016",
       "sources": [
         {
-          "title": "全球普查底表 · NI-016 · 总表第17行",
-          "url": "library/global-register.csv"
+          "title": "Investing.com：Boliden Q2 2026 slides",
+          "url": "https://www.investing.com/news/company-news/boliden-q2-2026-slides-metal-prices-lift-profit-despite-mine-disruption-93CH-4802200"
         }
       ],
       "products": []
@@ -2205,8 +2205,8 @@
     "GL017": {
       "key": "operating",
       "label": "在产",
-      "period": "底表核实年份：2026；状态始于2025年",
-      "note": "该记录按全球普查底表列为在产。",
+      "period": "状态始于2025年；普查核实年份2026",
+      "note": "据全球普查底表，状态为在产（始于2025年）。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL017",
       "sources": [
@@ -2220,8 +2220,8 @@
     "GL018": {
       "key": "planned",
       "label": "规划中或可研",
-      "period": "底表核实年份：2025；状态始于2022年",
-      "note": "该记录按全球普查底表列为规划中或可研。",
+      "period": "状态始于2022年；普查核实年份2025",
+      "note": "据全球普查底表，状态为规划中或可研（始于2022年）。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL018",
       "sources": [
@@ -2235,8 +2235,8 @@
     "GL020": {
       "key": "closed",
       "label": "永久关闭",
-      "period": "底表核实年份：1894；状态始于1894年",
-      "note": "该记录按全球普查底表列为永久关闭。停产及变化背景见正文。",
+      "period": "状态始于1894年；普查核实年份1894",
+      "note": "据全球普查底表，状态为永久关闭（始于1894年）；停产及变化背景见正文。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL020",
       "sources": [
@@ -2250,14 +2250,14 @@
     "GL021": {
       "key": "operating",
       "label": "在产",
-      "period": "底表核实年份：2026；状态始于2025年",
-      "note": "该记录按全球普查底表列为在产。",
-      "reviewed_at": "2026-09-18",
+      "period": "2026年",
+      "note": "Vale 2026年4月披露的年度检修计划列出克莱达赫精炼厂检修4周，未见停产安排",
+      "reviewed_at": "2026-09-30",
       "article_id": "GL021",
       "sources": [
         {
-          "title": "全球普查底表 · NI-021 · 总表第22行",
-          "url": "library/global-register.csv"
+          "title": "Vale S.A.：6-K，2026年4月16日（年度检修计划）",
+          "url": "https://www.sec.gov/Archives/edgar/data/917851/000129281426002376/vale20260416_6k.htm"
         }
       ],
       "products": []
@@ -2265,8 +2265,8 @@
     "GL022": {
       "key": "closed",
       "label": "永久关闭",
-      "period": "底表核实年份：2019；状态始于2019年",
-      "note": "该记录按全球普查底表列为永久关闭。停产及变化背景见正文。",
+      "period": "状态始于2019年；普查核实年份2019",
+      "note": "据全球普查底表，状态为永久关闭（始于2019年）；停产及变化背景见正文。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL022",
       "sources": [
@@ -2280,8 +2280,8 @@
     "GL023": {
       "key": "closed",
       "label": "永久关闭",
-      "period": "底表核实年份：1991；状态始于1991年",
-      "note": "该记录按全球普查底表列为永久关闭。停产及变化背景见正文。",
+      "period": "状态始于1991年；普查核实年份1991",
+      "note": "据全球普查底表，状态为永久关闭（始于1991年）；停产及变化背景见正文。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL023",
       "sources": [
@@ -2295,14 +2295,14 @@
     "GL024": {
       "key": "halted",
       "label": "停产(可复产)",
-      "period": "底表核实年份：2026；状态始于2022年",
-      "note": "该记录按全球普查底表列为停产(可复产)。停产及变化背景见正文。",
-      "reviewed_at": "2026-09-18",
+      "period": "2022年10月停产；2026年5月出售",
+      "note": "工厂于2022年10月因电网遭导弹袭击停产。2026年5月，Solway宣布在战略评估后出售该厂，交易细节和买方未披露，也没有说明复产安排",
+      "reviewed_at": "2026-09-30",
       "article_id": "GL024",
       "sources": [
         {
-          "title": "全球普查底表 · NI-024 · 总表第25行",
-          "url": "library/global-register.csv"
+          "title": "Solway：announces sale of its Pobuzhsky Ferronickel Plant，2026年5月21日",
+          "url": "https://solwaygroup.com/2026/05/21/solway-investment-group-announces-sale-of-its-pobuzhsky-ferronickel-plant-following-strategic-review"
         }
       ],
       "products": []
@@ -2310,8 +2310,8 @@
     "GL025": {
       "key": "closed",
       "label": "永久关闭",
-      "period": "底表核实年份：2017；状态始于2017年",
-      "note": "该记录按全球普查底表列为永久关闭。停产及变化背景见正文。",
+      "period": "状态始于2017年；普查核实年份2017",
+      "note": "据全球普查底表，状态为永久关闭（始于2017年）；停产及变化背景见正文。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL025",
       "sources": [
@@ -2325,8 +2325,8 @@
     "GL026": {
       "key": "closed",
       "label": "永久关闭",
-      "period": "底表核实年份：2017；状态始于2017年",
-      "note": "该记录按全球普查底表列为永久关闭。停产及变化背景见正文。",
+      "period": "状态始于2017年；普查核实年份2017",
+      "note": "据全球普查底表，状态为永久关闭（始于2017年）；停产及变化背景见正文。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL026",
       "sources": [
@@ -2340,14 +2340,14 @@
     "GL027": {
       "key": "care",
       "label": "保养维护(C&M)",
-      "period": "底表核实年份：2026；状态始于2012年",
-      "note": "该记录按全球普查底表列为保养维护(C&M)。停产及变化背景见正文。",
-      "reviewed_at": "2026-09-18",
+      "period": "2025年12月",
+      "note": "Mechel在2025年12月表示，正考虑于2026年出售南乌拉尔镍联合企业，没有提到复产",
+      "reviewed_at": "2026-09-30",
       "article_id": "GL027",
       "sources": [
         {
-          "title": "全球普查底表 · NI-027 · 总表第28行",
-          "url": "library/global-register.csv"
+          "title": "1prime.ru：Mechel considers selling assets，2025年12月25日",
+          "url": "https://1prime.ru/20251225/mechel-865920487.html"
         }
       ],
       "products": []
@@ -2355,14 +2355,14 @@
     "GL028": {
       "key": "operating",
       "label": "在产",
-      "period": "底表核实年份：2026；状态始于2026年",
-      "note": "该记录按全球普查底表列为在产。",
-      "reviewed_at": "2026-09-18",
+      "period": "2026年7月",
+      "note": "2026年7月报道称，诺镍把诺里尔斯克铜厂的阳极泥焙砂加工转移到蒙切戈尔斯克，科拉公司这里成为钯精矿的唯一加工点",
+      "reviewed_at": "2026-09-30",
       "article_id": "GL028",
       "sources": [
         {
-          "title": "全球普查底表 · NI-028 · 总表第29行",
-          "url": "library/global-register.csv"
+          "title": "www1.ru：Nornickel concentrates precious metals production in Monchegorsk，2026年7月19日",
+          "url": "https://www1.ru/en/news/2026/07/19/bolse-palladiia-i-platiny-nornikel-sosredotocil-proizvodstvo-dragocennyx-metallov-v-moncegorske.amp.html"
         }
       ],
       "products": []
@@ -2370,8 +2370,8 @@
     "GL029": {
       "key": "demolished",
       "label": "已拆除",
-      "period": "底表核实年份：2019；状态始于2019年",
-      "note": "该记录按全球普查底表列为已拆除。停产及变化背景见正文。",
+      "period": "状态始于2019年；普查核实年份2019",
+      "note": "据全球普查底表，状态为已拆除（始于2019年）；停产及变化背景见正文。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL029",
       "sources": [
@@ -2385,8 +2385,8 @@
     "GL030": {
       "key": "closed",
       "label": "永久关闭",
-      "period": "底表核实年份：2020；状态始于2020年",
-      "note": "该记录按全球普查底表列为永久关闭。停产及变化背景见正文。",
+      "period": "状态始于2020年；普查核实年份2020",
+      "note": "据全球普查底表，状态为永久关闭（始于2020年）；停产及变化背景见正文。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL030",
       "sources": [
@@ -2400,14 +2400,14 @@
     "GL031": {
       "key": "operating",
       "label": "在产",
-      "period": "底表核实年份：2026；状态始于2026年",
-      "note": "该记录按全球普查底表列为在产。",
-      "reviewed_at": "2026-09-18",
+      "period": "2026年1—4月",
+      "note": "诺镍硫项目资料显示，纳杰日达冶金厂2026年初至4月已捕集二氧化硫16万吨",
+      "reviewed_at": "2026-09-30",
       "article_id": "GL031",
       "sources": [
         {
-          "title": "全球普查底表 · NI-031 · 总表第32行",
-          "url": "library/global-register.csv"
+          "title": "Finnhub转载：Nornickel sulphur programme update，2026年4月13日",
+          "url": "https://finnhub.io/api/news?id=b2b41c5631c846f40bf6f9be90af12a7481877265bdf43ca01d717012e88dbb5"
         }
       ],
       "products": []
@@ -2415,8 +2415,8 @@
     "GL032": {
       "key": "halted",
       "label": "停产(可复产)",
-      "period": "底表核实年份：2026；状态始于2018年",
-      "note": "该记录按全球普查底表列为停产(可复产)。",
+      "period": "状态始于2018年；普查核实年份2026",
+      "note": "据全球普查底表，状态为停产(可复产)（始于2018年）。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL032",
       "sources": [
@@ -2449,14 +2449,14 @@
     "GL034": {
       "key": "operating",
       "label": "在产",
-      "period": "底表核实年份：2026；状态始于2026年",
-      "note": "该记录按全球普查底表列为在产。",
-      "reviewed_at": "2026-09-18",
+      "period": "2026年2月",
+      "note": "2026年2月报道称，诺镍计划把铜厂部分产线改产镍锍，以弥补纳杰日达冶金厂熔炉在2027年约270天大修期间的产量缺口",
+      "reviewed_at": "2026-09-30",
       "article_id": "GL034",
       "sources": [
         {
-          "title": "全球普查底表 · NI-034 · 总表第35行",
-          "url": "library/global-register.csv"
+          "title": "Kitco／路透：Nornickel to shift part of nickel output to copper plant during repairs，2026年2月13日",
+          "url": "https://www.kitco.com/news/off-the-wire/2026-02-13/nornickel-shift-part-nickel-output-copper-plant-during-repairs"
         }
       ],
       "products": []
@@ -2464,8 +2464,8 @@
     "GL035": {
       "key": "construction",
       "label": "在建",
-      "period": "底表核实年份：2025；状态始于2025年",
-      "note": "该记录按全球普查底表列为在建。",
+      "period": "状态始于2025年；普查核实年份2025",
+      "note": "据全球普查底表，状态为在建（始于2025年）。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL035",
       "sources": [
@@ -2479,8 +2479,8 @@
     "GL036": {
       "key": "unknown",
       "label": "不详",
-      "period": "底表核实年份：2012；状态始于2012年",
-      "note": "该记录按全球普查底表列为不详。停产及变化背景见正文。",
+      "period": "状态始于2012年；普查核实年份2012",
+      "note": "据全球普查底表，状态为不详（始于2012年）；停产及变化背景见正文。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL036",
       "sources": [
@@ -2494,14 +2494,14 @@
     "GL037": {
       "key": "operating",
       "label": "在产",
-      "period": "底表核实年份：2026；状态始于2024年",
-      "note": "该记录按全球普查底表列为在产。",
-      "reviewed_at": "2026-09-18",
+      "period": "2025财年",
+      "note": "住友金属矿山2026年5月说明会资料显示，新居浜电解镍产量2025财年为6.62万吨（2024财年6.01万吨），2026财年计划6.47万吨",
+      "reviewed_at": "2026-09-30",
       "article_id": "GL037",
       "sources": [
         {
-          "title": "全球普查底表 · NI-037 · 总表第38行",
-          "url": "library/global-register.csv"
+          "title": "住友金属矿山：2026年5月18日说明会资料，第54页",
+          "url": "https://www.smm.co.jp/ir/event/roadshow/pdf/2025/260518_setsumeikai.pdf"
         }
       ],
       "products": []
@@ -2509,8 +2509,8 @@
     "GL038": {
       "key": "closed",
       "label": "永久关闭",
-      "period": "底表核实年份：1979；状态始于1979年",
-      "note": "该记录按全球普查底表列为永久关闭。停产及变化背景见正文。",
+      "period": "状态始于1979年；普查核实年份1979",
+      "note": "据全球普查底表，状态为永久关闭（始于1979年）；停产及变化背景见正文。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL038",
       "sources": [
@@ -2524,8 +2524,8 @@
     "GL039": {
       "key": "operating",
       "label": "在产",
-      "period": "底表核实年份：2025；状态始于2024年",
-      "note": "该记录按全球普查底表列为在产。",
+      "period": "状态始于2024年；普查核实年份2025",
+      "note": "据全球普查底表，状态为在产（始于2024年）。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL039",
       "sources": [
@@ -2539,8 +2539,8 @@
     "GL040": {
       "key": "operating",
       "label": "在产",
-      "period": "底表核实年份：2026；状态始于2023年",
-      "note": "该记录按全球普查底表列为在产。",
+      "period": "状态始于2023年；普查核实年份2026",
+      "note": "据全球普查底表，状态为在产（始于2023年）。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL040",
       "sources": [
@@ -2554,14 +2554,14 @@
     "GL041": {
       "key": "partial",
       "label": "减产或部分停产",
-      "period": "底表核实年份：2026；状态始于2025年",
-      "note": "该记录按全球普查底表列为减产或部分停产。停产及变化背景见正文。",
-      "reviewed_at": "2026-09-18",
+      "period": "2025财年",
+      "note": "太平洋金属2025年11月中期决算称，因实行抑制销量的方针，2025年4—9月镍铁销量同比减少42.4%，产量同期下降",
+      "reviewed_at": "2026-09-30",
       "article_id": "GL041",
       "sources": [
         {
-          "title": "全球普查底表 · NI-041 · 总表第42行",
-          "url": "library/global-register.csv"
+          "title": "太平洋金属：2026年3月期第2季度决算短信，2025年11月11日",
+          "url": "https://www.pacific-metals.co.jp/file/news/20251111030017-1.pdf"
         }
       ],
       "products": []
@@ -2569,8 +2569,8 @@
     "GL042": {
       "key": "unknown",
       "label": "不详",
-      "period": "底表核实年份：1975；状态始于1975年",
-      "note": "该记录按全球普查底表列为不详。",
+      "period": "状态始于1975年；普查核实年份1975",
+      "note": "据全球普查底表，状态为不详（始于1975年）。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL042",
       "sources": [
@@ -2584,14 +2584,14 @@
     "GL043": {
       "key": "operating",
       "label": "在产",
-      "period": "底表核实年份：2026；状态始于2024年",
-      "note": "该记录按全球普查底表列为在产。",
-      "reviewed_at": "2026-09-18",
+      "period": "2026年1—3月",
+      "note": "住友金属矿山2026年1—3月生产镍铁900吨，日向是其唯一的镍铁厂；2026财年镍铁计划产量为4,500吨",
+      "reviewed_at": "2026-09-30",
       "article_id": "GL043",
       "sources": [
         {
-          "title": "全球普查底表 · NI-043 · 总表第44行",
-          "url": "library/global-register.csv"
+          "title": "Mysteel：Sumitomo Metal Mining Q1 2026 nickel production",
+          "url": "https://www.mysteel.net/news/5123456-flash-sumitomo-metal-minings-q1-2026-nickel-production-up-995-year-on-year"
         }
       ],
       "products": []
@@ -2599,8 +2599,8 @@
     "GL044": {
       "key": "operating",
       "label": "在产",
-      "period": "底表核实年份：2019；状态始于2019年",
-      "note": "该记录按全球普查底表列为在产。",
+      "period": "状态始于2019年；普查核实年份2019",
+      "note": "据全球普查底表，状态为在产（始于2019年）。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL044",
       "sources": [
@@ -2614,8 +2614,8 @@
     "GL045": {
       "key": "planned",
       "label": "规划中或可研",
-      "period": "底表核实年份：2026；状态始于2025年",
-      "note": "该记录按全球普查底表列为规划中或可研。",
+      "period": "状态始于2025年；普查核实年份2026",
+      "note": "据全球普查底表，状态为规划中或可研（始于2025年）。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL045",
       "sources": [
@@ -2629,14 +2629,14 @@
     "GL046": {
       "key": "construction",
       "label": "在建",
-      "period": "底表核实年份：2026；状态始于2025年",
-      "note": "该记录按全球普查底表列为在建。",
-      "reviewed_at": "2026-09-18",
+      "period": "2026年5月",
+      "note": "住友金属矿山2026年5月说明会资料称，日向镍锍生产设施按计划推进，目标在2027财年内完工，原料采购谈判也进展顺利",
+      "reviewed_at": "2026-09-30",
       "article_id": "GL046",
       "sources": [
         {
-          "title": "全球普查底表 · NI-046 · 总表第47行",
-          "url": "library/global-register.csv"
+          "title": "住友金属矿山：2026年5月18日说明会资料，第30页",
+          "url": "https://www.smm.co.jp/ir/event/roadshow/pdf/2025/260518_setsumeikai.pdf"
         }
       ],
       "products": []
@@ -2663,8 +2663,8 @@
     "GL048": {
       "key": "closed",
       "label": "永久关闭",
-      "period": "底表核实年份：2023；状态始于2023年",
-      "note": "该记录按全球普查底表列为永久关闭。停产及变化背景见正文。",
+      "period": "状态始于2023年；普查核实年份2023",
+      "note": "据全球普查底表，状态为永久关闭（始于2023年）；停产及变化背景见正文。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL048",
       "sources": [
@@ -2678,8 +2678,8 @@
     "GL049": {
       "key": "operating",
       "label": "在产",
-      "period": "底表核实年份：2026；状态始于2024年",
-      "note": "该记录按全球普查底表列为在产。",
+      "period": "状态始于2024年；普查核实年份2026",
+      "note": "据全球普查底表，状态为在产（始于2024年）。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL049",
       "sources": [
@@ -2693,8 +2693,8 @@
     "GL050": {
       "key": "operating",
       "label": "在产",
-      "period": "底表核实年份：2025；状态始于2025年",
-      "note": "该记录按全球普查底表列为在产。",
+      "period": "状态始于2025年；普查核实年份2025",
+      "note": "据全球普查底表，状态为在产（始于2025年）。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL050",
       "sources": [
@@ -2708,8 +2708,8 @@
     "GL051": {
       "key": "operating",
       "label": "在产",
-      "period": "底表核实年份：2026；状态始于2023年",
-      "note": "该记录按全球普查底表列为在产。",
+      "period": "状态始于2023年；普查核实年份2026",
+      "note": "据全球普查底表，状态为在产（始于2023年）。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL051",
       "sources": [
@@ -2723,8 +2723,8 @@
     "GL052": {
       "key": "operating",
       "label": "在产",
-      "period": "底表核实年份：2023；状态始于2023年",
-      "note": "该记录按全球普查底表列为在产。",
+      "period": "状态始于2023年；普查核实年份2023",
+      "note": "据全球普查底表，状态为在产（始于2023年）。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL052",
       "sources": [
@@ -2738,14 +2738,14 @@
     "GL053": {
       "key": "construction",
       "label": "在建",
-      "period": "底表核实年份：2026；状态始于2026年",
-      "note": "该记录按全球普查底表列为在建。",
-      "reviewed_at": "2026-09-18",
+      "period": "2025年1月",
+      "note": "2025年1月报道称，高丽亚锌的一体化镍精炼厂计划2026年全面运行；目前没有投产记录",
+      "reviewed_at": "2026-09-30",
       "article_id": "GL053",
       "sources": [
         {
-          "title": "全球普查底表 · NI-053 · 总表第54行",
-          "url": "library/global-register.csv"
+          "title": "BusinessKorea：Korea Zinc all-in-one nickel refinery，2025年1月17日",
+          "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=233867"
         }
       ],
       "products": []
@@ -2753,8 +2753,8 @@
     "GL054": {
       "key": "construction",
       "label": "在建",
-      "period": "底表核实年份：2024；状态始于2024年",
-      "note": "该记录按全球普查底表列为在建。",
+      "period": "状态始于2024年；普查核实年份2024",
+      "note": "据全球普查底表，状态为在建（始于2024年）。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL054",
       "sources": [
@@ -2768,8 +2768,8 @@
     "GL055": {
       "key": "operating",
       "label": "在产",
-      "period": "底表核实年份：2024；状态始于2021年",
-      "note": "该记录按全球普查底表列为在产。",
+      "period": "状态始于2021年；普查核实年份2024",
+      "note": "据全球普查底表，状态为在产（始于2021年）。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL055",
       "sources": [
@@ -2783,8 +2783,8 @@
     "GL056": {
       "key": "unknown",
       "label": "不详",
-      "period": "底表核实年份：2021；状态始于2021年",
-      "note": "该记录按全球普查底表列为不详。停产及变化背景见正文。",
+      "period": "状态始于2021年；普查核实年份2021",
+      "note": "据全球普查底表，状态为不详（始于2021年）；停产及变化背景见正文。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL056",
       "sources": [
@@ -2798,8 +2798,8 @@
     "GL057": {
       "key": "operating",
       "label": "在产",
-      "period": "底表核实年份：2026；状态始于2023年",
-      "note": "该记录按全球普查底表列为在产。",
+      "period": "状态始于2023年；普查核实年份2026",
+      "note": "据全球普查底表，状态为在产（始于2023年）。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL057",
       "sources": [
@@ -2813,8 +2813,8 @@
     "GL058": {
       "key": "planned",
       "label": "规划中或可研",
-      "period": "底表核实年份：2022；状态始于2022年",
-      "note": "该记录按全球普查底表列为规划中或可研。",
+      "period": "状态始于2022年；普查核实年份2022",
+      "note": "据全球普查底表，状态为规划中或可研（始于2022年）。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL058",
       "sources": [
@@ -2828,8 +2828,8 @@
     "GL059": {
       "key": "partial",
       "label": "减产或部分停产",
-      "period": "底表核实年份：2024；状态始于2024年",
-      "note": "该记录按全球普查底表列为减产或部分停产。停产及变化背景见正文。",
+      "period": "状态始于2024年；普查核实年份2024",
+      "note": "据全球普查底表，状态为减产或部分停产（始于2024年）；停产及变化背景见正文。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL059",
       "sources": [
@@ -2843,8 +2843,8 @@
     "GL060": {
       "key": "cancelled",
       "label": "项目中止(未建成)",
-      "period": "底表核实年份：2014；状态始于2014年",
-      "note": "该记录按全球普查底表列为项目中止(未建成)。停产及变化背景见正文。",
+      "period": "状态始于2014年；普查核实年份2014",
+      "note": "据全球普查底表，状态为项目中止(未建成)（始于2014年）；停产及变化背景见正文。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL060",
       "sources": [
@@ -2858,8 +2858,8 @@
     "GL061": {
       "key": "closed",
       "label": "永久关闭",
-      "period": "底表核实年份：2012；状态始于2012年",
-      "note": "该记录按全球普查底表列为永久关闭。停产及变化背景见正文。",
+      "period": "状态始于2012年；普查核实年份2012",
+      "note": "据全球普查底表，状态为永久关闭（始于2012年）；停产及变化背景见正文。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL061",
       "sources": [
@@ -2873,8 +2873,8 @@
     "GL064": {
       "key": "planned",
       "label": "规划中或可研",
-      "period": "底表核实年份：2024；状态始于2024年",
-      "note": "该记录按全球普查底表列为规划中或可研。",
+      "period": "状态始于2024年；普查核实年份2024",
+      "note": "据全球普查底表，状态为规划中或可研（始于2024年）。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL064",
       "sources": [
@@ -2888,8 +2888,8 @@
     "GL065": {
       "key": "planned",
       "label": "规划中或可研",
-      "period": "底表核实年份：2024；状态始于2024年",
-      "note": "该记录按全球普查底表列为规划中或可研。",
+      "period": "状态始于2024年；普查核实年份2024",
+      "note": "据全球普查底表，状态为规划中或可研（始于2024年）。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL065",
       "sources": [
@@ -2903,8 +2903,8 @@
     "GL066": {
       "key": "planned",
       "label": "规划中或可研",
-      "period": "底表核实年份：2025；状态始于2025年",
-      "note": "该记录按全球普查底表列为规划中或可研。",
+      "period": "状态始于2025年；普查核实年份2025",
+      "note": "据全球普查底表，状态为规划中或可研（始于2025年）。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL066",
       "sources": [
@@ -2918,8 +2918,8 @@
     "GL067": {
       "key": "unknown",
       "label": "不详",
-      "period": "底表核实年份：2018；状态始于2018年",
-      "note": "该记录按全球普查底表列为不详。",
+      "period": "状态始于2018年；普查核实年份2018",
+      "note": "据全球普查底表，状态为不详（始于2018年）。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL067",
       "sources": [
@@ -2956,8 +2956,8 @@
     "GL069": {
       "key": "planned",
       "label": "规划中或可研",
-      "period": "底表核实年份：2026；状态始于2025年",
-      "note": "该记录按全球普查底表列为规划中或可研。",
+      "period": "状态始于2025年；普查核实年份2026",
+      "note": "据全球普查底表，状态为规划中或可研（始于2025年）。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL069",
       "sources": [
@@ -2971,8 +2971,8 @@
     "GL071": {
       "key": "demolished",
       "label": "已拆除",
-      "period": "底表核实年份：1879；状态始于1879年",
-      "note": "该记录按全球普查底表列为已拆除。停产及变化背景见正文。",
+      "period": "状态始于1879年；普查核实年份1879",
+      "note": "据全球普查底表，状态为已拆除（始于1879年）；停产及变化背景见正文。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL071",
       "sources": [
@@ -2986,8 +2986,8 @@
     "GL072": {
       "key": "demolished",
       "label": "已拆除",
-      "period": "底表核实年份：1891；状态始于1891年",
-      "note": "该记录按全球普查底表列为已拆除。停产及变化背景见正文。",
+      "period": "状态始于1891年；普查核实年份1891",
+      "note": "据全球普查底表，状态为已拆除（始于1891年）；停产及变化背景见正文。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL072",
       "sources": [
@@ -3001,14 +3001,14 @@
     "GL073": {
       "key": "partial",
       "label": "减产或部分停产",
-      "period": "底表核实年份：2026；状态始于2026年",
-      "note": "该记录按全球普查底表列为减产或部分停产。",
-      "reviewed_at": "2026-09-18",
+      "period": "2026年3月",
+      "note": "2026年3月的行业报道称，多尼安博冶炼厂仍以最低技术产能运行",
+      "reviewed_at": "2026-09-30",
       "article_id": "GL073",
       "sources": [
         {
-          "title": "全球普查底表 · NI-073 · 总表第74行",
-          "url": "library/global-register.csv"
+          "title": "Metalnomist：New Caledonia nickel supply gains time，2026年3月",
+          "url": "https://www.metalnomist.com/2026/03/new-caledonia-nickel-supply-gains-time.html"
         }
       ],
       "products": []
@@ -3016,8 +3016,8 @@
     "GL074": {
       "key": "demolished",
       "label": "已拆除",
-      "period": "底表核实年份：1930；状态始于1930年",
-      "note": "该记录按全球普查底表列为已拆除。停产及变化背景见正文。",
+      "period": "状态始于1930年；普查核实年份1930",
+      "note": "据全球普查底表，状态为已拆除（始于1930年）；停产及变化背景见正文。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL074",
       "sources": [
@@ -3031,14 +3031,14 @@
     "GL076": {
       "key": "care",
       "label": "保养维护(C&M)",
-      "period": "底表核实年份：2026；状态始于2024年",
-      "note": "该记录按全球普查底表列为保养维护(C&M)。停产及变化背景见正文。",
-      "reviewed_at": "2026-09-18",
+      "period": "2024年2月起",
+      "note": "2024年2月，股东决定将Koniambo Nickel转入保养维护，此后没有复产记录",
+      "reviewed_at": "2026-09-30",
       "article_id": "GL076",
       "sources": [
         {
-          "title": "全球普查底表 · NI-076 · 总表第77行",
-          "url": "library/global-register.csv"
+          "title": "Glencore：Koniambo Nickel to transition to care and maintenance，2024年2月12日",
+          "url": "https://www.glencore.com/media-and-insights/news/koniambo-nickel-to-transition-to-care-and-maintenance"
         }
       ],
       "products": []
@@ -3046,8 +3046,8 @@
     "GL077": {
       "key": "closed",
       "label": "永久关闭",
-      "period": "底表核实年份：1937；状态始于1937年",
-      "note": "该记录按全球普查底表列为永久关闭。停产及变化背景见正文。",
+      "period": "状态始于1937年；普查核实年份1937",
+      "note": "据全球普查底表，状态为永久关闭（始于1937年）；停产及变化背景见正文。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL077",
       "sources": [
@@ -3091,14 +3091,14 @@
     "GL080": {
       "key": "halted",
       "label": "停产(可复产)",
-      "period": "底表核实年份：2026；状态始于2016年",
-      "note": "该记录按全球普查底表列为停产(可复产)。停产及变化背景见正文。",
-      "reviewed_at": "2026-09-18",
+      "period": "2025年",
+      "note": "2025年报道称，昆士兰州长于8月会见帕默，表示支持重启已关闭约十年的工厂（不含资金援助），帕默方面正在检测尾矿",
+      "reviewed_at": "2026-09-30",
       "article_id": "GL080",
       "sources": [
         {
-          "title": "全球普查底表 · NI-080 · 总表第81行",
-          "url": "library/global-register.csv"
+          "title": "SMM：Yabulu精炼厂重启动态，2025年10月16日",
+          "url": "https://news.smm.cn/live/detail/103572602"
         }
       ],
       "products": []
@@ -3106,8 +3106,8 @@
     "GL085": {
       "key": "planned",
       "label": "规划中或可研",
-      "period": "底表核实年份：2026；状态始于2025年",
-      "note": "该记录按全球普查底表列为规划中或可研。",
+      "period": "状态始于2025年；普查核实年份2026",
+      "note": "据全球普查底表，状态为规划中或可研（始于2025年）。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL085",
       "sources": [
@@ -3136,8 +3136,8 @@
     "GL087": {
       "key": "unknown",
       "label": "不详",
-      "period": "底表核实年份：2023；状态始于2023年",
-      "note": "该记录按全球普查底表列为不详。停产及变化背景见正文。",
+      "period": "状态始于2023年；普查核实年份2023",
+      "note": "据全球普查底表，状态为不详（始于2023年）；停产及变化背景见正文。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL087",
       "sources": [
@@ -3151,8 +3151,8 @@
     "GL088": {
       "key": "cancelled",
       "label": "项目中止(未建成)",
-      "period": "底表核实年份：2024；状态始于2024年",
-      "note": "该记录按全球普查底表列为项目中止(未建成)。停产及变化背景见正文。",
+      "period": "状态始于2024年；普查核实年份2024",
+      "note": "据全球普查底表，状态为项目中止(未建成)（始于2024年）；停产及变化背景见正文。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL088",
       "sources": [
@@ -3166,8 +3166,8 @@
     "GL089": {
       "key": "planned",
       "label": "规划中或可研",
-      "period": "底表核实年份：2026；状态始于2026年",
-      "note": "该记录按全球普查底表列为规划中或可研。",
+      "period": "状态始于2026年；普查核实年份2026",
+      "note": "据全球普查底表，状态为规划中或可研（始于2026年）。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL089",
       "sources": [
@@ -3181,8 +3181,8 @@
     "GL090": {
       "key": "planned",
       "label": "规划中或可研",
-      "period": "底表核实年份：2023；状态始于2023年",
-      "note": "该记录按全球普查底表列为规划中或可研。",
+      "period": "状态始于2023年；普查核实年份2023",
+      "note": "据全球普查底表，状态为规划中或可研（始于2023年）。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL090",
       "sources": [
@@ -3196,8 +3196,8 @@
     "GL091": {
       "key": "planned",
       "label": "规划中或可研",
-      "period": "底表核实年份：2026；状态始于2026年",
-      "note": "该记录按全球普查底表列为规划中或可研。",
+      "period": "状态始于2026年；普查核实年份2026",
+      "note": "据全球普查底表，状态为规划中或可研（始于2026年）。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL091",
       "sources": [
@@ -3211,8 +3211,8 @@
     "GL092": {
       "key": "planned",
       "label": "规划中或可研",
-      "period": "底表核实年份：2026；状态始于2025年",
-      "note": "该记录按全球普查底表列为规划中或可研。",
+      "period": "状态始于2025年；普查核实年份2026",
+      "note": "据全球普查底表，状态为规划中或可研（始于2025年）。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL092",
       "sources": [
@@ -3226,8 +3226,8 @@
     "GL093": {
       "key": "planned",
       "label": "规划中或可研",
-      "period": "底表核实年份：2026；状态始于2024年",
-      "note": "该记录按全球普查底表列为规划中或可研。",
+      "period": "状态始于2024年；普查核实年份2026",
+      "note": "据全球普查底表，状态为规划中或可研（始于2024年）。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL093",
       "sources": [
@@ -3241,8 +3241,8 @@
     "GL094": {
       "key": "demolished",
       "label": "已拆除",
-      "period": "底表核实年份：1902；状态始于1902年",
-      "note": "该记录按全球普查底表列为已拆除。停产及变化背景见正文。",
+      "period": "状态始于1902年；普查核实年份1902",
+      "note": "据全球普查底表，状态为已拆除（始于1902年）；停产及变化背景见正文。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL094",
       "sources": [
@@ -3256,14 +3256,14 @@
     "GL095": {
       "key": "operating",
       "label": "在产",
-      "period": "底表核实年份：2026；状态始于2026年",
-      "note": "该记录按全球普查底表列为在产。",
-      "reviewed_at": "2026-09-18",
+      "period": "2026年",
+      "note": "Vale 2026年检修计划列出萨德伯里冶炼厂检修4周；一季度3号转炉曾有非计划检修，已经解决",
+      "reviewed_at": "2026-09-30",
       "article_id": "GL095",
       "sources": [
         {
-          "title": "全球普查底表 · NI-095 · 总表第96行",
-          "url": "library/global-register.csv"
+          "title": "Vale S.A.：6-K，2026年4月16日（年度检修计划）",
+          "url": "https://www.sec.gov/Archives/edgar/data/917851/000129281426002376/vale20260416_6k.htm"
         }
       ],
       "products": []
@@ -3271,8 +3271,8 @@
     "GL096": {
       "key": "demolished",
       "label": "已拆除",
-      "period": "底表核实年份：1913；状态始于1913年",
-      "note": "该记录按全球普查底表列为已拆除。停产及变化背景见正文。",
+      "period": "状态始于1913年；普查核实年份1913",
+      "note": "据全球普查底表，状态为已拆除（始于1913年）；停产及变化背景见正文。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL096",
       "sources": [
@@ -3286,8 +3286,8 @@
     "GL097": {
       "key": "demolished",
       "label": "已拆除",
-      "period": "底表核实年份：1961；状态始于1961年",
-      "note": "该记录按全球普查底表列为已拆除。停产及变化背景见正文。",
+      "period": "状态始于1961年；普查核实年份1961",
+      "note": "据全球普查底表，状态为已拆除（始于1961年）；停产及变化背景见正文。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL097",
       "sources": [
@@ -3301,8 +3301,8 @@
     "GL098": {
       "key": "demolished",
       "label": "已拆除",
-      "period": "底表核实年份：1976；状态始于1976年",
-      "note": "该记录按全球普查底表列为已拆除。停产及变化背景见正文。",
+      "period": "状态始于1976年；普查核实年份1976",
+      "note": "据全球普查底表，状态为已拆除（始于1976年）；停产及变化背景见正文。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL098",
       "sources": [
@@ -3316,8 +3316,8 @@
     "GL099": {
       "key": "demolished",
       "label": "已拆除",
-      "period": "底表核实年份：1923；状态始于1923年",
-      "note": "该记录按全球普查底表列为已拆除。停产及变化背景见正文。",
+      "period": "状态始于1923年；普查核实年份1923",
+      "note": "据全球普查底表，状态为已拆除（始于1923年）；停产及变化背景见正文。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL099",
       "sources": [
@@ -3331,14 +3331,14 @@
     "GL100": {
       "key": "partial",
       "label": "减产或部分停产",
-      "period": "底表核实年份：2026；状态始于1984年",
-      "note": "该记录按全球普查底表列为减产或部分停产。停产及变化背景见正文。",
-      "reviewed_at": "2026-09-18",
+      "period": "2026年",
+      "note": "Vale 2026年二季度检修表列出科尔本港（镍、钴、铂族金属）检修4周；2026年6月工厂与工会签订为期5年的劳动合同",
+      "reviewed_at": "2026-09-30",
       "article_id": "GL100",
       "sources": [
         {
-          "title": "全球普查底表 · NI-100 · 总表第101行",
-          "url": "library/global-register.csv"
+          "title": "Vale S.A.：6-K，2026年7月21日（二季度生产报告）",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000917851/000129281426003838/vale20260721_6k1.htm"
         }
       ],
       "products": []
@@ -3346,8 +3346,8 @@
     "GL101": {
       "key": "demolished",
       "label": "已拆除",
-      "period": "底表核实年份：1924；状态始于1924年",
-      "note": "该记录按全球普查底表列为已拆除。停产及变化背景见正文。",
+      "period": "状态始于1924年；普查核实年份1924",
+      "note": "据全球普查底表，状态为已拆除（始于1924年）；停产及变化背景见正文。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL101",
       "sources": [
@@ -3361,29 +3361,29 @@
     "GL102": {
       "key": "operating",
       "label": "在产",
-      "period": "底表核实年份：2026；状态始于2026年",
-      "note": "该记录按全球普查底表列为在产。",
-      "reviewed_at": "2026-09-18",
+      "period": "2025年",
+      "note": "嘉能可2025年萨德伯里产量3.98万吨，同比下降7%；6月熔炉故障导致冶炼厂发运减少，四季度回升至1.23万吨（INO口径）",
+      "reviewed_at": "2026-09-30",
       "article_id": "GL102",
       "sources": [
         {
-          "title": "全球普查底表 · NI-102 · 总表第103行",
-          "url": "library/global-register.csv"
+          "title": "SMM：嘉能可2025年镍产量，2026年2月6日",
+          "url": "https://news.smm.cn/live/detail/103760192"
         }
       ],
       "products": []
     },
     "GL103": {
       "key": "halted",
-      "label": "停产(可复产)",
-      "period": "底表核实年份：2026；状态始于2026年",
-      "note": "该记录按全球普查底表列为停产(可复产)。停产及变化背景见正文。",
-      "reviewed_at": "2026-09-18",
+      "label": "停产（2026年6月起，可复产）",
+      "period": "2026年6月22日起",
+      "note": "Sherritt 2026年二季度业绩称，精炼厂在减产运行后，于2026年6月22日混合硫化物库存耗尽时停止金属精炼；停机期间开展维护，化肥和硫酸继续生产。停产原因是古巴Moa的原料供应中断",
+      "reviewed_at": "2026-09-30",
       "article_id": "GL103",
       "sources": [
         {
-          "title": "全球普查底表 · NI-103 · 总表第104行",
-          "url": "library/global-register.csv"
+          "title": "Sherritt：2026年第二季度业绩",
+          "url": "https://sherritt.com/sherritt-reports-second-quarter-2026-results/"
         }
       ],
       "products": []
@@ -3391,8 +3391,8 @@
     "GL104": {
       "key": "closed",
       "label": "永久关闭",
-      "period": "底表核实年份：2018；状态始于2018年",
-      "note": "该记录按全球普查底表列为永久关闭。停产及变化背景见正文。",
+      "period": "状态始于2018年；普查核实年份2018",
+      "note": "据全球普查底表，状态为永久关闭（始于2018年）；停产及变化背景见正文。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL104",
       "sources": [
@@ -3406,8 +3406,8 @@
     "GL105": {
       "key": "closed",
       "label": "永久关闭",
-      "period": "底表核实年份：2018；状态始于2018年",
-      "note": "该记录按全球普查底表列为永久关闭。停产及变化背景见正文。",
+      "period": "状态始于2018年；普查核实年份2018",
+      "note": "据全球普查底表，状态为永久关闭（始于2018年）；停产及变化背景见正文。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL105",
       "sources": [
@@ -3421,14 +3421,14 @@
     "GL106": {
       "key": "operating",
       "label": "在产",
-      "period": "底表核实年份：2026；状态始于2026年",
-      "note": "该记录按全球普查底表列为在产。",
-      "reviewed_at": "2026-09-18",
+      "period": "2026年二季度",
+      "note": "Vale 2026年二季度报告称，铜崖镍精炼厂生产率同比提高8%",
+      "reviewed_at": "2026-09-30",
       "article_id": "GL106",
       "sources": [
         {
-          "title": "全球普查底表 · NI-106 · 总表第107行",
-          "url": "library/global-register.csv"
+          "title": "Vale S.A.：6-K，2026年7月21日（二季度生产报告）",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000917851/000129281426003838/vale20260721_6k1.htm"
         }
       ],
       "products": []
@@ -3436,14 +3436,14 @@
     "GL107": {
       "key": "operating",
       "label": "在产",
-      "period": "底表核实年份：2026；状态始于2026年",
-      "note": "该记录按全球普查底表列为在产。",
-      "reviewed_at": "2026-09-18",
+      "period": "2026年一季度",
+      "note": "Vale 2026年一季度报告显示，长港产量1.05万吨，创单季纪录",
+      "reviewed_at": "2026-09-30",
       "article_id": "GL107",
       "sources": [
         {
-          "title": "全球普查底表 · NI-107 · 总表第108行",
-          "url": "library/global-register.csv"
+          "title": "SMM：淡水河谷2026年一季度镍产量，2026年4月29日",
+          "url": "https://news.smm.cn/live/detail/103881691"
         }
       ],
       "products": []
@@ -3451,8 +3451,8 @@
     "GL108": {
       "key": "cancelled",
       "label": "项目中止(未建成)",
-      "period": "底表核实年份：2003；状态始于2003年",
-      "note": "该记录按全球普查底表列为项目中止(未建成)。停产及变化背景见正文。",
+      "period": "状态始于2003年；普查核实年份2003",
+      "note": "据全球普查底表，状态为项目中止(未建成)（始于2003年）；停产及变化背景见正文。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL108",
       "sources": [
@@ -3466,8 +3466,8 @@
     "GL109": {
       "key": "planned",
       "label": "规划中或可研",
-      "period": "底表核实年份：2026；状态始于2026年",
-      "note": "该记录按全球普查底表列为规划中或可研。",
+      "period": "状态始于2026年；普查核实年份2026",
+      "note": "据全球普查底表，状态为规划中或可研（始于2026年）。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL109",
       "sources": [
@@ -3481,8 +3481,8 @@
     "GL110": {
       "key": "closed",
       "label": "永久关闭",
-      "period": "底表核实年份：1905；状态始于1905年",
-      "note": "该记录按全球普查底表列为永久关闭。停产及变化背景见正文。",
+      "period": "状态始于1905年；普查核实年份1905",
+      "note": "据全球普查底表，状态为永久关闭（始于1905年）；停产及变化背景见正文。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL110",
       "sources": [
@@ -3496,8 +3496,8 @@
     "GL111": {
       "key": "closed",
       "label": "永久关闭",
-      "period": "底表核实年份：1922；状态始于1922年",
-      "note": "该记录按全球普查底表列为永久关闭。停产及变化背景见正文。",
+      "period": "状态始于1922年；普查核实年份1922",
+      "note": "据全球普查底表，状态为永久关闭（始于1922年）；停产及变化背景见正文。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL111",
       "sources": [
@@ -3511,8 +3511,8 @@
     "GL112": {
       "key": "closed",
       "label": "永久关闭",
-      "period": "底表核实年份：1998；状态始于1998年",
-      "note": "该记录按全球普查底表列为永久关闭。停产及变化背景见正文。",
+      "period": "状态始于1998年；普查核实年份1998",
+      "note": "据全球普查底表，状态为永久关闭（始于1998年）；停产及变化背景见正文。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL112",
       "sources": [
@@ -3524,16 +3524,16 @@
       "products": []
     },
     "GL113": {
-      "key": "operating",
-      "label": "在产",
-      "period": "底表核实年份：2026；状态始于2026年",
-      "note": "该记录按全球普查底表列为在产。",
-      "reviewed_at": "2026-09-18",
+      "key": "trial",
+      "label": "中试运行（最大200吨/年）",
+      "period": "2025年12月",
+      "note": "2025年12月报道称，Westwin在劳顿的中试厂（最大约200吨/年）仍在运行，但公司决定暂不在劳顿建设大规模商业化工厂，原因是物流成本",
+      "reviewed_at": "2026-09-30",
       "article_id": "GL113",
       "sources": [
         {
-          "title": "全球普查底表 · NI-113 · 总表第114行",
-          "url": "library/global-register.csv"
+          "title": "KOSU：Westwin Elements will not build a large-scale commercial facility in Lawton for now，2025年12月18日",
+          "url": "https://www.kosu.org/energy-environment/2025-12-18/westwin-elements-will-not-build-a-large-scale-commercial-facility-in-lawton-for-now"
         }
       ],
       "products": []
@@ -3541,8 +3541,8 @@
     "GL114": {
       "key": "planned",
       "label": "规划中或可研",
-      "period": "底表核实年份：2026；状态始于2026年",
-      "note": "该记录按全球普查底表列为规划中或可研。",
+      "period": "状态始于2026年；普查核实年份2026",
+      "note": "据全球普查底表，状态为规划中或可研（始于2026年）。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL114",
       "sources": [
@@ -3556,8 +3556,8 @@
     "GL115": {
       "key": "construction",
       "label": "在建",
-      "period": "底表核实年份：2026；状态始于2026年",
-      "note": "该记录按全球普查底表列为在建。",
+      "period": "状态始于2026年；普查核实年份2026",
+      "note": "据全球普查底表，状态为在建（始于2026年）。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL115",
       "sources": [
@@ -3571,8 +3571,8 @@
     "GL116": {
       "key": "planned",
       "label": "规划中或可研",
-      "period": "底表核实年份：2025；状态始于2025年",
-      "note": "该记录按全球普查底表列为规划中或可研。",
+      "period": "状态始于2025年；普查核实年份2025",
+      "note": "据全球普查底表，状态为规划中或可研（始于2025年）。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL116",
       "sources": [
@@ -3586,8 +3586,8 @@
     "GL117": {
       "key": "planned",
       "label": "规划中或可研",
-      "period": "底表核实年份：2026；状态始于2026年",
-      "note": "该记录按全球普查底表列为规划中或可研。",
+      "period": "状态始于2026年；普查核实年份2026",
+      "note": "据全球普查底表，状态为规划中或可研（始于2026年）。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL117",
       "sources": [
@@ -3601,14 +3601,14 @@
     "GL118": {
       "key": "partial",
       "label": "减产或部分停产",
-      "period": "底表核实年份：2026；状态始于2026年",
-      "note": "该记录按全球普查底表列为减产或部分停产。",
-      "reviewed_at": "2026-09-18",
+      "period": "2026年9月",
+      "note": "2026年9月3日起，Columbus冶金联合体和Nye矿约420名工会员工开始罢工；公开资料没有说明冶炼和精炼作业是否受影响",
+      "reviewed_at": "2026-09-30",
       "article_id": "GL118",
       "sources": [
         {
-          "title": "全球普查底表 · NI-118 · 总表第119行",
-          "url": "library/global-register.csv"
+          "title": "United Steelworkers：strike against Sibanye-Stillwater，2026年9月",
+          "url": "https://usw.org/press-release/usw-announces-unfair-labor-practice-strike-against-sibanye-stillwater/"
         }
       ],
       "products": []
@@ -3616,8 +3616,8 @@
     "GL119": {
       "key": "cancelled",
       "label": "项目中止(未建成)",
-      "period": "底表核实年份：2026；状态始于2026年",
-      "note": "该记录按全球普查底表列为项目中止(未建成)。停产及变化背景见正文。",
+      "period": "状态始于2026年；普查核实年份2026",
+      "note": "据全球普查底表，状态为项目中止(未建成)（始于2026年）；停产及变化背景见正文。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL119",
       "sources": [
@@ -3653,15 +3653,15 @@
     },
     "GL121": {
       "key": "operating",
-      "label": "在产",
-      "period": "底表核实年份：2026；状态始于2026年",
-      "note": "该记录按全球普查底表列为在产。",
-      "reviewed_at": "2026-09-18",
+      "label": "在产（2026年5月复产出口）",
+      "period": "2026年5月",
+      "note": "当地媒体报道，Fenix Metales（原Pronico）的电炉于2026年3月底开始点火，4月运行、5月处理矿石，2026年5月15日首批1,200吨镍铁发往台湾；电力供应约50兆瓦，仍低于满负荷所需",
+      "reviewed_at": "2026-09-30",
       "article_id": "GL121",
       "sources": [
         {
-          "title": "全球普查底表 · NI-121 · 总表第122行",
-          "url": "library/global-register.csv"
+          "title": "Prensa Libre：Fenix Nickel reinicia operaciones en Izabal，2026年",
+          "url": "https://www.prensalibre.com/economia/fenix-nickel-reinicia-operaciones-en-izabal-inversiones-produccion-y-exportaciones-definen-ruta/"
         }
       ],
       "products": []
@@ -3669,8 +3669,8 @@
     "GL122": {
       "key": "closed",
       "label": "永久关闭",
-      "period": "底表核实年份：2012；状态始于2012年",
-      "note": "该记录按全球普查底表列为永久关闭。停产及变化背景见正文。",
+      "period": "状态始于2012年；普查核实年份2012",
+      "note": "据全球普查底表，状态为永久关闭（始于2012年）；停产及变化背景见正文。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL122",
       "sources": [
@@ -3683,15 +3683,15 @@
     },
     "GL123": {
       "key": "halted",
-      "label": "停产(可复产)",
-      "period": "底表核实年份：2026；状态始于2026年",
-      "note": "该记录按全球普查底表列为停产(可复产)。",
-      "reviewed_at": "2026-09-18",
+      "label": "停产（2026年2月起待机）",
+      "period": "2026年2月起",
+      "note": "Sherritt 2026年2月宣布，受燃料短缺影响，莫阿将暂停采矿，处理厂转入待机；其加拿大精炼厂的原料随后于6月耗尽",
+      "reviewed_at": "2026-09-30",
       "article_id": "GL123",
       "sources": [
         {
-          "title": "全球普查底表 · NI-123 · 总表第124行",
-          "url": "library/global-register.csv"
+          "title": "Sherritt：运营情况更新，2026年2月17日",
+          "url": "https://sherritt.com/sherritt-provides-an-update-on-its-operations/"
         }
       ],
       "products": []
@@ -3699,8 +3699,8 @@
     "GL124": {
       "key": "partial",
       "label": "减产或部分停产",
-      "period": "底表核实年份：2026；状态始于2026年",
-      "note": "该记录按全球普查底表列为减产或部分停产。",
+      "period": "状态始于2026年；普查核实年份2026",
+      "note": "据全球普查底表，状态为减产或部分停产（始于2026年）。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL124",
       "sources": [
@@ -3714,8 +3714,8 @@
     "GL125": {
       "key": "cancelled",
       "label": "项目中止(未建成)",
-      "period": "底表核实年份：2005；状态始于2005年",
-      "note": "该记录按全球普查底表列为项目中止(未建成)。停产及变化背景见正文。",
+      "period": "状态始于2005年；普查核实年份2005",
+      "note": "据全球普查底表，状态为项目中止(未建成)（始于2005年）；停产及变化背景见正文。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL125",
       "sources": [
@@ -3729,8 +3729,8 @@
     "GL126": {
       "key": "unknown",
       "label": "不详",
-      "period": "底表核实年份：2005；状态始于2005年",
-      "note": "该记录按全球普查底表列为不详。",
+      "period": "状态始于2005年；普查核实年份2005",
+      "note": "据全球普查底表，状态为不详（始于2005年）。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL126",
       "sources": [
@@ -3744,14 +3744,14 @@
     "GL127": {
       "key": "partial",
       "label": "减产或部分停产",
-      "period": "底表核实年份：2026；状态始于2026年",
-      "note": "该记录按全球普查底表列为减产或部分停产。",
-      "reviewed_at": "2026-09-18",
+      "period": "2026年7月",
+      "note": "2026年7月1日，天然气供应商Canacol削减供气，Cerro Matoso减产25%，并警告产量可能降至约一半",
+      "reviewed_at": "2026-09-30",
       "article_id": "GL127",
       "sources": [
         {
-          "title": "全球普查底表 · NI-127 · 总表第128行",
-          "url": "library/global-register.csv"
+          "title": "Rio Times：Cerro Matoso output cut after Canacol gas curbs，2026年7月",
+          "url": "https://riotimesonline.com/cerro-matoso-output-cut-canacol-gas-2026/"
         }
       ],
       "products": []
@@ -3759,14 +3759,14 @@
     "GL128": {
       "key": "halted",
       "label": "停产(可复产)",
-      "period": "底表核实年份：2026；状态始于2023年",
-      "note": "该记录按全球普查底表列为停产(可复产)。停产及变化背景见正文。",
-      "reviewed_at": "2026-09-18",
+      "period": "2023年11月停产；2026年8月特许权终止",
+      "note": "多米尼加法院2026年8月12日终止Falcondo的特许权，认定其于2023年11月17日停止开采且未按规定报送报告；公司仍处于破产程序中",
+      "reviewed_at": "2026-09-30",
       "article_id": "GL128",
       "sources": [
         {
-          "title": "全球普查底表 · NI-128 · 总表第129行",
-          "url": "library/global-register.csv"
+          "title": "Rio Times：Dominican court ends Falcondo nickel concession，2026年8月",
+          "url": "https://www.riotimesonline.com/dominican-court-ends-falcondo-nickel-concession/"
         }
       ],
       "products": []
@@ -3774,8 +3774,8 @@
     "GL129": {
       "key": "halted",
       "label": "停产(可复产)",
-      "period": "底表核实年份：2026；状态始于2015年",
-      "note": "该记录按全球普查底表列为停产(可复产)。停产及变化背景见正文。",
+      "period": "状态始于2015年；普查核实年份2026",
+      "note": "据全球普查底表，状态为停产(可复产)（始于2015年）；停产及变化背景见正文。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL129",
       "sources": [
@@ -3816,8 +3816,8 @@
     "GL131": {
       "key": "closed",
       "label": "永久关闭",
-      "period": "底表核实年份：2016；状态始于2016年",
-      "note": "该记录按全球普查底表列为永久关闭。停产及变化背景见正文。",
+      "period": "状态始于2016年；普查核实年份2016",
+      "note": "据全球普查底表，状态为永久关闭（始于2016年）；停产及变化背景见正文。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL131",
       "sources": [
@@ -3831,14 +3831,14 @@
     "GL132": {
       "key": "operating",
       "label": "在产",
-      "period": "底表核实年份：2026；状态始于2026年",
-      "note": "该记录按全球普查底表列为在产。",
-      "reviewed_at": "2026-09-18",
+      "period": "2026年一季度",
+      "note": "英美资源2026年一季度报告显示，科德明产镍1,600吨，受检修影响产量偏低",
+      "reviewed_at": "2026-09-30",
       "article_id": "GL132",
       "sources": [
         {
-          "title": "全球普查底表 · NI-132 · 总表第133行",
-          "url": "library/global-register.csv"
+          "title": "Mysteel：Anglo American nickel production Q1 2026",
+          "url": "https://www.mysteel.net/news/5123173-flash-anglo-americans-nickel-production-down-348-year-on-year-in-q1-2026"
         }
       ],
       "products": []
@@ -3846,8 +3846,8 @@
     "GL133": {
       "key": "closed",
       "label": "永久关闭",
-      "period": "底表核实年份：2025；状态始于2013年",
-      "note": "该记录按全球普查底表列为永久关闭。停产及变化背景见正文。",
+      "period": "状态始于2013年；普查核实年份2025",
+      "note": "据全球普查底表，状态为永久关闭（始于2013年）；停产及变化背景见正文。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL133",
       "sources": [
@@ -3861,14 +3861,14 @@
     "GL134": {
       "key": "operating",
       "label": "在产",
-      "period": "底表核实年份：2026；状态始于2026年",
-      "note": "该记录按全球普查底表列为在产。",
-      "reviewed_at": "2026-09-18",
+      "period": "2026年二季度",
+      "note": "英美资源2026年二季度镍产量9,100吨，同比下降4%，原因是巴罗阿尔托和科德明两厂检修（两厂合计）",
+      "reviewed_at": "2026-09-30",
       "article_id": "GL134",
       "sources": [
         {
-          "title": "全球普查底表 · NI-134 · 总表第135行",
-          "url": "library/global-register.csv"
+          "title": "Anglo American：2026年第二季度生产报告",
+          "url": "https://www.angloamerican.com/media/press-releases/2026/23-07-2026"
         }
       ],
       "products": []
@@ -3876,14 +3876,14 @@
     "GL135": {
       "key": "operating",
       "label": "在产",
-      "period": "底表核实年份：2026；状态始于2025年",
-      "note": "该记录按全球普查底表列为在产。",
-      "reviewed_at": "2026-09-18",
+      "period": "2026年一季度",
+      "note": "Vale 2026年一季度报告显示，翁萨普马产量8,900吨，创一季度纪录",
+      "reviewed_at": "2026-09-30",
       "article_id": "GL135",
       "sources": [
         {
-          "title": "全球普查底表 · NI-135 · 总表第136行",
-          "url": "library/global-register.csv"
+          "title": "SMM：淡水河谷2026年一季度镍产量，2026年4月29日",
+          "url": "https://news.smm.cn/live/detail/103881691"
         }
       ],
       "products": []
@@ -3891,29 +3891,29 @@
     "GL136": {
       "key": "care",
       "label": "保养维护(C&M)",
-      "period": "底表核实年份：2026；状态始于2024年",
-      "note": "该记录按全球普查底表列为保养维护(C&M)。停产及变化背景见正文。",
-      "reviewed_at": "2026-09-18",
+      "period": "2025年1月",
+      "note": "2025年1月，Horizonte巴西子公司提出庭外重整计划，目的是让资产维持保养维护状态",
+      "reviewed_at": "2026-09-30",
       "article_id": "GL136",
       "sources": [
         {
-          "title": "全球普查底表 · NI-136 · 总表第137行",
-          "url": "library/global-register.csv"
+          "title": "Mining Technology：Horizonte Araguaia project sale，2025年1月",
+          "url": "https://www.mining-technology.com/news/horizonte-araguaiaproject-sale/"
         }
       ],
       "products": []
     },
     "GL138": {
-      "key": "halted",
-      "label": "停产(可复产)",
-      "period": "底表核实年份：2026；状态始于2016年",
-      "note": "该记录按全球普查底表列为停产(可复产)。停产及变化背景见正文。",
-      "reviewed_at": "2026-09-18",
+      "key": "construction",
+      "label": "重启改造中",
+      "period": "2025年12月起",
+      "note": "Jervois已决定重启圣米格尔保利斯塔精炼厂，官网称改造和重启工程已经开工，预计持续到2026和2027年",
+      "reviewed_at": "2026-09-30",
       "article_id": "GL138",
       "sources": [
         {
-          "title": "全球普查底表 · NI-138 · 总表第139行",
-          "url": "library/global-register.csv"
+          "title": "Jervois：São Miguel Paulista精炼厂",
+          "url": "https://jervoisglobal.com/assets/sao-miguel-paulista-refinery/"
         }
       ],
       "products": []
@@ -3921,8 +3921,8 @@
     "GL139": {
       "key": "cancelled",
       "label": "项目中止(未建成)",
-      "period": "底表核实年份：2024；状态始于2024年",
-      "note": "该记录按全球普查底表列为项目中止(未建成)。",
+      "period": "状态始于2024年；普查核实年份2024",
+      "note": "据全球普查底表，状态为项目中止(未建成)（始于2024年）。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL139",
       "sources": [
@@ -3936,14 +3936,14 @@
     "GL140": {
       "key": "operating",
       "label": "在产",
-      "period": "底表核实年份：2025；状态始于2025年",
-      "note": "该记录按全球普查底表列为在产。",
-      "reviewed_at": "2026-09-18",
+      "period": "2026财年",
+      "note": "Implats 2026财年（至2026年6月）业绩称，贱金属精炼厂磨矿速率创历史最高，第三方进料达22.2万盎司（6E）",
+      "reviewed_at": "2026-09-30",
       "article_id": "GL140",
       "sources": [
         {
-          "title": "全球普查底表 · NI-140 · 总表第141行",
-          "url": "library/global-register.csv"
+          "title": "Implats：2026财年业绩新闻稿，2026年9月3日",
+          "url": "https://www.implats.co.za/pdf/press-releases/2026/news-release-03092026.pdf"
         }
       ],
       "products": []
@@ -3951,14 +3951,14 @@
     "GL141": {
       "key": "care",
       "label": "保养维护(C&M)",
-      "period": "底表核实年份：2026；状态始于2021年",
-      "note": "该记录按全球普查底表列为保养维护(C&M)。停产及变化背景见正文。",
-      "reviewed_at": "2026-09-18",
+      "period": "2026年4—7月",
+      "note": "2026年4月，ARM与Boliden签署有条件的精矿包销协议，重启后的首批产品预计在ARM 2028财年；选矿厂仍在保养维护，重启尚待落实",
+      "reviewed_at": "2026-09-30",
       "article_id": "GL141",
       "sources": [
         {
-          "title": "全球普查底表 · NI-141 · 总表第142行",
-          "url": "library/global-register.csv"
+          "title": "Metalnomist：ARM Nkomati nickel mine restart moves，2026年7月",
+          "url": "https://www.metalnomist.com/2026/07/arm-nkomati-nickel-mine-restart-moves.html"
         }
       ],
       "products": []
@@ -3966,14 +3966,14 @@
     "GL142": {
       "key": "operating",
       "label": "在产",
-      "period": "底表核实年份：2025；状态始于2025年",
-      "note": "该记录按全球普查底表列为在产。",
-      "reviewed_at": "2026-09-18",
+      "period": "2025年7月",
+      "note": "Northam 2025年7月生产更新称，Zondereinde冶炼炉运行符合预期，贱金属脱除厂升级进展顺利",
+      "reviewed_at": "2026-09-30",
       "article_id": "GL142",
       "sources": [
         {
-          "title": "全球普查底表 · NI-142 · 总表第143行",
-          "url": "library/global-register.csv"
+          "title": "Northam：Voluntary production update，2025年7月23日",
+          "url": "https://www.northam.co.za/investors-and-media/announcements/2025/1669-voluntary-production-update-23jul2025"
         }
       ],
       "products": []
@@ -3981,14 +3981,14 @@
     "GL143": {
       "key": "operating",
       "label": "在产",
-      "period": "底表核实年份：2021；状态始于2021年",
-      "note": "该记录按全球普查底表列为在产。",
-      "reviewed_at": "2026-09-18",
+      "period": "2026年9月",
+      "note": "2026年9月报道称，萨卡杜推出一款用于锂电池制造的新硫酸镍产品",
+      "reviewed_at": "2026-09-30",
       "article_id": "GL143",
       "sources": [
         {
-          "title": "全球普查底表 · NI-143 · 总表第144行",
-          "url": "library/global-register.csv"
+          "title": "Mining Weekly：Thakadu launches new nickel sulphate product，2026年9月22日",
+          "url": "https://www.miningweekly.com/article/thakadu-launches-new-nickel-sulphate-product-for-use-in-lithium-ion-battery-manufacturing-2026-09-22"
         }
       ],
       "products": []
@@ -3996,14 +3996,14 @@
     "GL144": {
       "key": "operating",
       "label": "在产",
-      "period": "底表核实年份：2025；状态始于2025年",
-      "note": "该记录按全球普查底表列为在产。",
-      "reviewed_at": "2026-09-18",
+      "period": "2025财年",
+      "note": "Sibanye-Stillwater 2025年度20-F介绍，马里卡纳的精矿经冶炼厂和贱金属精炼厂处理，镍和铜在贱金属精炼厂提取，铂族金属产品再送往布拉克潘的贵金属精炼厂；贱金属精炼厂位于马里卡纳现场",
+      "reviewed_at": "2026-09-30",
       "article_id": "GL144",
       "sources": [
         {
-          "title": "全球普查底表 · NI-144 · 总表第145行",
-          "url": "library/global-register.csv"
+          "title": "Sibanye-Stillwater：2025年度Form 20-F",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001786909/000162828026026991/sbsw-20251231.htm"
         }
       ],
       "products": []
@@ -4011,8 +4011,8 @@
     "GL145": {
       "key": "operating",
       "label": "在产",
-      "period": "底表核实年份：2026；状态始于2025年",
-      "note": "该记录按全球普查底表列为在产。",
+      "period": "状态始于2025年；普查核实年份2026",
+      "note": "据全球普查底表，状态为在产（始于2025年）。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL145",
       "sources": [
@@ -4026,8 +4026,8 @@
     "GL146": {
       "key": "closed",
       "label": "永久关闭",
-      "period": "底表核实年份：2016；状态始于2016年",
-      "note": "该记录按全球普查底表列为永久关闭。停产及变化背景见正文。",
+      "period": "状态始于2016年；普查核实年份2016",
+      "note": "据全球普查底表，状态为永久关闭（始于2016年）；停产及变化背景见正文。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL146",
       "sources": [
@@ -4041,8 +4041,8 @@
     "GL147": {
       "key": "cancelled",
       "label": "项目中止(未建成)",
-      "period": "底表核实年份：2006；状态始于2006年",
-      "note": "该记录按全球普查底表列为项目中止(未建成)。停产及变化背景见正文。",
+      "period": "状态始于2006年；普查核实年份2006",
+      "note": "据全球普查底表，状态为项目中止(未建成)（始于2006年）；停产及变化背景见正文。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL147",
       "sources": [
@@ -4056,8 +4056,8 @@
     "GL148": {
       "key": "planned",
       "label": "规划中或可研",
-      "period": "底表核实年份：2026；状态始于2024年",
-      "note": "该记录按全球普查底表列为规划中或可研。",
+      "period": "状态始于2024年；普查核实年份2026",
+      "note": "据全球普查底表，状态为规划中或可研（始于2024年）。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL148",
       "sources": [
@@ -4071,8 +4071,8 @@
     "GL149": {
       "key": "unknown",
       "label": "不详",
-      "period": "底表核实年份：2026；状态始于2013年",
-      "note": "该记录按全球普查底表列为不详。",
+      "period": "状态始于2013年；普查核实年份2026",
+      "note": "据全球普查底表，状态为不详（始于2013年）。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL149",
       "sources": [
@@ -4105,14 +4105,14 @@
     "GL151": {
       "key": "operating",
       "label": "在产",
-      "period": "底表核实年份：2026；状态始于2025年",
-      "note": "该记录按全球普查底表列为在产。",
-      "reviewed_at": "2026-09-18",
+      "period": "2026年1月",
+      "note": "Managem自2026年1月起把全部钴矿送入硫酸钴产线，钴金属阴极暂停；公开资料没有提到镍产品的变化",
+      "reviewed_at": "2026-09-30",
       "article_id": "GL151",
       "sources": [
         {
-          "title": "全球普查底表 · NI-151 · 总表第152行",
-          "url": "library/global-register.csv"
+          "title": "Fastmarkets：Managem to switch to cobalt sulfate production，2026年1月",
+          "url": "https://www.fastmarkets.com/insights/miner-managem-to-switch-to-cobalt-sulfate-production-instead-of-metal/"
         }
       ],
       "products": []
@@ -4120,8 +4120,8 @@
     "GL152": {
       "key": "halted",
       "label": "停产(可复产)",
-      "period": "底表核实年份：2026；状态始于2008年",
-      "note": "该记录按全球普查底表列为停产(可复产)。停产及变化背景见正文。",
+      "period": "状态始于2008年；普查核实年份2026",
+      "note": "据全球普查底表，状态为停产(可复产)（始于2008年）；停产及变化背景见正文。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL152",
       "sources": [
@@ -4135,8 +4135,8 @@
     "GL153": {
       "key": "care",
       "label": "保养维护(C&M)",
-      "period": "底表核实年份：2026；状态始于2008年",
-      "note": "该记录按全球普查底表列为保养维护(C&M)。停产及变化背景见正文。",
+      "period": "状态始于2008年；普查核实年份2026",
+      "note": "据全球普查底表，状态为保养维护(C&M)（始于2008年）；停产及变化背景见正文。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL153",
       "sources": [
@@ -4150,8 +4150,8 @@
     "GL154": {
       "key": "unknown",
       "label": "不详",
-      "period": "底表核实年份：1997；状态始于1997年",
-      "note": "该记录按全球普查底表列为不详。停产及变化背景见正文。",
+      "period": "状态始于1997年；普查核实年份1997",
+      "note": "据全球普查底表，状态为不详（始于1997年）；停产及变化背景见正文。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL154",
       "sources": [
@@ -4165,14 +4165,14 @@
     "GL155": {
       "key": "operating",
       "label": "在产",
-      "period": "底表核实年份：2026；状态始于2025年",
-      "note": "该记录按全球普查底表列为在产。",
-      "reviewed_at": "2026-09-18",
+      "period": "2026年二季度",
+      "note": "Zimplats截至2026年6月的季报称，塞卢斯冶炼炉在前一季度检修后处理积压物料，本季转炉锍所含6E金属量大增；冶炼炉计划于2026年9—10月大修",
+      "reviewed_at": "2026-09-30",
       "article_id": "GL155",
       "sources": [
         {
-          "title": "全球普查底表 · NI-155 · 总表第156行",
-          "url": "library/global-register.csv"
+          "title": "Zimplats：截至2026年6月30日季度报告",
+          "url": "https://zimplats.com/data/2026/07/QUARTERLY-REPORT-FOR-THE-PERIOD-ENDED-30-JUNE-2026.pdf"
         }
       ],
       "products": []
@@ -4180,8 +4180,8 @@
     "GL156": {
       "key": "unknown",
       "label": "不详",
-      "period": "底表核实年份：2014；状态始于2014年",
-      "note": "该记录按全球普查底表列为不详。",
+      "period": "状态始于2014年；普查核实年份2014",
+      "note": "据全球普查底表，状态为不详（始于2014年）。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL156",
       "sources": [
@@ -4241,8 +4241,8 @@
     "GL160": {
       "key": "demolished",
       "label": "已拆除",
-      "period": "底表核实年份：1897；状态始于1897年",
-      "note": "该记录按全球普查底表列为已拆除。停产及变化背景见正文。",
+      "period": "状态始于1897年；普查核实年份1897",
+      "note": "据全球普查底表，状态为已拆除（始于1897年）；停产及变化背景见正文。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL160",
       "sources": [
@@ -4256,8 +4256,8 @@
     "GL161": {
       "key": "demolished",
       "label": "已拆除",
-      "period": "底表核实年份：1893；状态始于1893年",
-      "note": "该记录按全球普查底表列为已拆除。停产及变化背景见正文。",
+      "period": "状态始于1893年；普查核实年份1893",
+      "note": "据全球普查底表，状态为已拆除（始于1893年）；停产及变化背景见正文。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL161",
       "sources": [
@@ -4271,8 +4271,8 @@
     "GL162": {
       "key": "closed",
       "label": "永久关闭",
-      "period": "底表核实年份：1876；状态始于1876年",
-      "note": "该记录按全球普查底表列为永久关闭。停产及变化背景见正文。",
+      "period": "状态始于1876年；普查核实年份1876",
+      "note": "据全球普查底表，状态为永久关闭（始于1876年）；停产及变化背景见正文。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL162",
       "sources": [
@@ -4286,8 +4286,8 @@
     "GL163": {
       "key": "closed",
       "label": "永久关闭",
-      "period": "底表核实年份：1902；状态始于1902年",
-      "note": "该记录按全球普查底表列为永久关闭。停产及变化背景见正文。",
+      "period": "状态始于1902年；普查核实年份1902",
+      "note": "据全球普查底表，状态为永久关闭（始于1902年）；停产及变化背景见正文。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL163",
       "sources": [
@@ -4301,8 +4301,8 @@
     "GL164": {
       "key": "cancelled",
       "label": "项目中止(未建成)",
-      "period": "底表核实年份：2025；状态始于2025年",
-      "note": "该记录按全球普查底表列为项目中止(未建成)。停产及变化背景见正文。",
+      "period": "状态始于2025年；普查核实年份2025",
+      "note": "据全球普查底表，状态为项目中止(未建成)（始于2025年）；停产及变化背景见正文。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL164",
       "sources": [
@@ -4316,8 +4316,8 @@
     "GL165": {
       "key": "planned",
       "label": "规划中或可研",
-      "period": "底表核实年份：2026；状态始于2024年",
-      "note": "该记录按全球普查底表列为规划中或可研。",
+      "period": "状态始于2024年；普查核实年份2026",
+      "note": "据全球普查底表，状态为规划中或可研（始于2024年）。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL165",
       "sources": [
@@ -4331,8 +4331,8 @@
     "GL166": {
       "key": "planned",
       "label": "规划中或可研",
-      "period": "底表核实年份：2026；状态始于2026年",
-      "note": "该记录按全球普查底表列为规划中或可研。",
+      "period": "状态始于2026年；普查核实年份2026",
+      "note": "据全球普查底表，状态为规划中或可研（始于2026年）。",
       "reviewed_at": "2026-09-18",
       "article_id": "GL166",
       "sources": [
