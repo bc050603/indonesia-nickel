@@ -2932,15 +2932,23 @@
     },
     "GL068": {
       "key": "care",
-      "label": "保养维护(C&M)",
-      "period": "底表核实年份：2025；状态始于2016年",
-      "note": "该记录按全球普查底表列为保养维护(C&M)。停产及变化背景见正文。",
-      "reviewed_at": "2026-09-18",
+      "label": "保养维护（2021年底起有限恢复采矿试验）",
+      "period": "2016年9月停产；2021年12月有限恢复",
+      "note": "2016年停产；2021年底恢复有限采矿并翻新选矿厂用于试验，未见商业化复产。",
+      "reviewed_at": "2026-09-30",
       "article_id": "GL068",
       "sources": [
         {
-          "title": "全球普查底表 · NI-068 · 总表第69行",
+          "title": "全球普查底表",
           "url": "library/global-register.csv"
+        },
+        {
+          "title": "Business News：Blackstone restarts Ban Phuc nickel mine and concentrator，2021年",
+          "url": "https://www.businessnews.com.au/article/Blackstone-restarts-Ban-Phuc-nickel-mine-and-concentrator"
+        },
+        {
+          "title": "Smallcaps：Blackstone Minerals partners Vietnamese conglomerate，2025年8月",
+          "url": "https://smallcaps.com.au/article/blackstone-minerals-partners-vietnamese-conglomerate-develop-ta-khoa-mine-refinery"
         }
       ],
       "products": []

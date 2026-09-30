@@ -4538,7 +4538,7 @@
           "source_title": "全球普查底表 · NI-005 · 总表第6行"
         }
       ],
-      "coverage_note": ""
+      "coverage_note": "各车间设备规格与镍化学品产能。"
     },
     "GL006": {
       "project_id": "GL006",
@@ -4718,7 +4718,7 @@
           "source_title": "全球普查底表 · NI-011 · 总表第12行"
         }
       ],
-      "coverage_note": ""
+      "coverage_note": "硫酸镍车间的具体工艺设备与实际产量。"
     },
     "GL012": {
       "project_id": "GL012",
@@ -5018,7 +5018,7 @@
           "source_title": "全球普查底表 · NI-023 · 总表第24行"
         }
       ],
-      "coverage_note": ""
+      "coverage_note": "投产与关闭的准确年份（各来源分别为1980年代、1990年、约1994年、1997年）；年产量口径。"
     },
     "GL024": {
       "project_id": "GL024",
@@ -5279,7 +5279,7 @@
           "source_title": "全球普查底表 · NI-035 · 总表第36行"
         }
       ],
-      "coverage_note": ""
+      "coverage_note": "商业化产品形态、一期实际建设进度。"
     },
     "GL036": {
       "project_id": "GL036",
@@ -5303,7 +5303,7 @@
           "source_title": "全球普查底表 · NI-036 · 总表第37行"
         }
       ],
-      "coverage_note": ""
+      "coverage_note": "2012年后的运行状态与产品形态。"
     },
     "GL037": {
       "project_id": "GL037",
@@ -5477,7 +5477,7 @@
           "source_title": "全球普查底表 · NI-044 · 总表第45行"
         }
       ],
-      "coverage_note": ""
+      "coverage_note": "粗硫酸镍的年度实际产量。"
     },
     "GL045": {
       "project_id": "GL045",
@@ -5720,7 +5720,7 @@
           "source_title": "全球普查底表 · NI-056 · 总表第57行"
         }
       ],
-      "coverage_note": ""
+      "coverage_note": "EMEW装置的投产年份、实际产量与当前运行状态。"
     },
     "GL057": {
       "project_id": "GL057",
@@ -5897,7 +5897,7 @@
           "source_title": "全球普查底表 · NI-068 · 总表第69行"
         }
       ],
-      "coverage_note": ""
+      "coverage_note": "2022年后选矿厂试验生产的规模与商业化复产时间。"
     },
     "GL069": {
       "project_id": "GL069",
@@ -5912,7 +5912,7 @@
           "source_title": "全球普查底表 · NI-069 · 总表第70行"
         }
       ],
-      "coverage_note": ""
+      "coverage_note": "2022年预可研之后的最新方案与投资决定。"
     },
     "GL071": {
       "project_id": "GL071",
@@ -6143,7 +6143,7 @@
           "source_title": "全球普查底表 · NI-085 · 总表第86行"
         }
       ],
-      "coverage_note": ""
+      "coverage_note": "融资、承购转换与最终投资决定；镍产品数量。"
     },
     "GL086": {
       "project_id": "GL086",
@@ -6368,7 +6368,7 @@
           "source_title": "全球普查底表 · NI-097 · 总表第98行"
         }
       ],
-      "coverage_note": ""
+      "coverage_note": "镍氧化物的历年产量。"
     },
     "GL098": {
       "project_id": "GL098",
@@ -6638,7 +6638,7 @@
           "source_title": "全球普查底表 · NI-109 · 总表第110行"
         }
       ],
-      "coverage_note": ""
+      "coverage_note": "NetZero Metals镍加工厂的工艺、产品与产能。"
     },
     "GL110": {
       "project_id": "GL110",
@@ -6686,7 +6686,7 @@
           "source_title": "全球普查底表 · NI-111 · 总表第112行"
         }
       ],
-      "coverage_note": ""
+      "coverage_note": "Bayonne时期镍产品形态与产量。"
     },
     "GL112": {
       "project_id": "GL112",
@@ -6710,7 +6710,7 @@
           "source_title": "全球普查底表 · NI-112 · 总表第113行"
         }
       ],
-      "coverage_note": ""
+      "coverage_note": "Glenbrook时期的原料构成与产量。"
     },
     "GL113": {
       "project_id": "GL113",
@@ -6779,7 +6779,7 @@
           "source_title": "全球普查底表 · NI-116 · 总表第117行"
         }
       ],
-      "coverage_note": ""
+      "coverage_note": "州自然资源部对2026年变更的审查结论；精矿去向。"
     },
     "GL117": {
       "project_id": "GL117",

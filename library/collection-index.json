@@ -24811,6 +24811,10 @@
         {
           "type": "customer",
           "id": "RC064"
+        },
+        {
+          "type": "project",
+          "id": "GL011"
         }
       ],
       "id": "UC0531"
@@ -55642,6 +55646,326 @@
         {
           "type": "project",
           "id": "MHP028"
+        }
+      ]
+    },
+    {
+      "id": "UC1978",
+      "url": "https://nickelhuette-aue.de/de/news/von-cobaltblau-zu-cobaltsulfatrot",
+      "title": "Nickelhütte Aue：Von Cobaltblau zu Cobaltsulfatrot",
+      "titles": [
+        "Nickelhütte Aue：Von Cobaltblau zu Cobaltsulfatrot"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "GL005"
+        }
+      ]
+    },
+    {
+      "id": "UC1979",
+      "url": "https://nha-aue.de/de/produkte/chemikalien",
+      "title": "Nickelhütte Aue：化学品产品页",
+      "titles": [
+        "Nickelhütte Aue：化学品产品页"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "GL005"
+        }
+      ]
+    },
+    {
+      "id": "UC1980",
+      "url": "https://www.lds.sachsen.de/bekanntmachung/?ID=10250&art_param=664",
+      "title": "萨克森州州政府管理局（LDS）：Nickelhütte Aue许可公告",
+      "titles": [
+        "萨克森州州政府管理局（LDS）：Nickelhütte Aue许可公告"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "GL005"
+        }
+      ]
+    },
+    {
+      "id": "UC1981",
+      "url": "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/1995/9401095.pdf",
+      "title": "USGS：The Mineral Industry of Albania 1995，第2页",
+      "titles": [
+        "USGS：The Mineral Industry of Albania 1995，第2页"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "GL023"
+        }
+      ]
+    },
+    {
+      "id": "UC1982",
+      "url": "https://monitor.al/nikeli-nevojat-per-perpunimin-ne-shqiperi-2/",
+      "title": "Monitor.al：Nikeli, nevojat për përpunimin në Shqipëri",
+      "titles": [
+        "Monitor.al：Nikeli, nevojat për përpunimin në Shqipëri"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "GL023"
+        }
+      ]
+    },
+    {
+      "id": "UC1983",
+      "url": "https://www.mtc.com.kz/",
+      "title": "Mining Technologies Company：Gornostay ISL项目介绍",
+      "titles": [
+        "Mining Technologies Company：Gornostay ISL项目介绍"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "GL035"
+        }
+      ]
+    },
+    {
+      "id": "UC1984",
+      "url": "https://dprom.kz/novosti/kaznekel-nachnyot-dobichu-na-gornostayevskom/",
+      "title": "Dprom.kz：Kaznickel将于2027年开始开采Gornostayevskoye，2025年",
+      "titles": [
+        "Dprom.kz：Kaznickel将于2027年开始开采Gornostayevskoye，2025年"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "GL035"
+        }
+      ]
+    },
+    {
+      "id": "UC1985",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000049996/000090956705000568/t15872e10vk.htm",
+      "title": "Inco Limited：2004年度Form 10-K",
+      "titles": [
+        "Inco Limited：2004年度Form 10-K"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "GL036"
+        }
+      ]
+    },
+    {
+      "id": "UC1986",
+      "url": "https://www.mmc.co.jp/naoshima/process/electrolysis_plant.html",
+      "title": "三菱综合材料直岛制炼所：电解工厂",
+      "titles": [
+        "三菱综合材料直岛制炼所：电解工厂"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "GL044"
+        }
+      ]
+    },
+    {
+      "id": "UC1987",
+      "url": "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/country/2014/myb3-2014-bm.pdf",
+      "title": "USGS：The Mineral Industry of Burma 2014，第3页",
+      "titles": [
+        "USGS：The Mineral Industry of Burma 2014，第3页"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "GL060"
+        }
+      ]
+    },
+    {
+      "id": "UC1988",
+      "url": "https://www.businessnews.com.au/article/Blackstone-restarts-Ban-Phuc-nickel-mine-and-concentrator",
+      "title": "Business News：Blackstone restarts Ban Phuc nickel mine and concentrator，2021年",
+      "titles": [
+        "Business News：Blackstone restarts Ban Phuc nickel mine and concentrator，2021年"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "GL068"
+        }
+      ]
+    },
+    {
+      "id": "UC1989",
+      "url": "https://minedocs.com/26/Ta_Khoa-PFS-02022022.pdf",
+      "title": "Blackstone Minerals：Ta Khoa Refinery预可行性研究，2022年2月，第2、9、26、30页",
+      "titles": [
+        "Blackstone Minerals：Ta Khoa Refinery预可行性研究，2022年2月，第2、9、26、30页"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "GL069"
+        }
+      ]
+    },
+    {
+      "id": "UC1990",
+      "url": "https://static1.squarespace.com/static/696844026b79355318b759e2/t/69a963ff8f38774a29b83dc5/1772708863587/2026-03-04_Refinery-advancing-toward-FID.pdf",
+      "title": "Cobalt Blue：Refinery advancing toward FID，2026年3月4日，第3—6页",
+      "titles": [
+        "Cobalt Blue：Refinery advancing toward FID，2026年3月4日，第3—6页"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "GL085"
+        }
+      ]
+    },
+    {
+      "id": "UC1991",
+      "url": "https://www.marmorahistory.ca/deloro-goes-global",
+      "title": "Marmora Historical：Deloro Goes Global",
+      "titles": [
+        "Marmora Historical：Deloro Goes Global"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "GL097"
+        }
+      ]
+    },
+    {
+      "id": "UC1992",
+      "url": "https://www66.statcan.gc.ca/eng/1927-28/192704200378_p.%20378.pdf",
+      "title": "Canada Year Book 1927–28，第378页",
+      "titles": [
+        "Canada Year Book 1927–28，第378页"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "GL097"
+        }
+      ]
+    },
+    {
+      "id": "UC1993",
+      "url": "https://www.prnewswire.com/news-releases/canada-nickel-companys-netzero-metals-intends-to-develop-downstream-nickel--stainless-steel-processing-facilities-in-timmins-region-302056998.html",
+      "title": "Canada Nickel：NetZero Metals拟在蒂明斯地区建设镍与不锈钢加工设施，2024年2月8日",
+      "titles": [
+        "Canada Nickel：NetZero Metals拟在蒂明斯地区建设镍与不锈钢加工设施，2024年2月8日"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "GL109"
+        }
+      ]
+    },
+    {
+      "id": "UC1994",
+      "url": "https://uwaterloo.ca/wat-on-earth/news/discovery-orford-process-nickel-extraction",
+      "title": "University of Waterloo：The discovery of the Orford process for nickel extraction",
+      "titles": [
+        "University of Waterloo：The discovery of the Orford process for nickel extraction"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "GL111"
+        }
+      ]
+    },
+    {
+      "id": "UC1995",
+      "url": "https://pubs.oregon.gov/dogami/og/OBv20n01.pdf",
+      "title": "Oregon DOGAMI：The Ore Bin 20(1)，1958年，第3页",
+      "titles": [
+        "Oregon DOGAMI：The Ore Bin 20(1)，1958年，第3页"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "GL112"
+        }
+      ]
+    },
+    {
+      "id": "UC1996",
+      "url": "https://www.sec.gov/Archives/edgar/data/866028/000106299304001169/exhibit6.htm",
+      "title": "PolyMet：NorthMet项目技术报告（SEC附件），2004年",
+      "titles": [
+        "PolyMet：NorthMet项目技术报告（SEC附件），2004年"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "GL116"
+        }
+      ]
+    },
+    {
+      "id": "UC1997",
+      "url": "https://www.dnr.state.mn.us/news/2026/07/29/minnesota-dnr-receives-notice-proposed-changes-northmet-project",
+      "title": "明尼苏达州自然资源部：NorthMet项目变更通知，2026年7月29日",
+      "titles": [
+        "明尼苏达州自然资源部：NorthMet项目变更通知，2026年7月29日"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "GL116"
         }
       ]
     }

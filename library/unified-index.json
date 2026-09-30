@@ -5279,14 +5279,16 @@
         "奥厄镍冶炼厂(Nickelhütte Aue)",
         "Nickelhütte Aue GmbH"
       ],
-      "search_text": "GL005 Nickelhütte Aue GmbH 奥厄镍冶炼厂(Nickelhütte Aue) Nickelhütte Aue GmbH NI-005 私营有限公司Nickelhütte Aue GmbH（董事总经理Volker Carluss，自2008年8月） 德国 Germany 萨克森州(Sachsen) Erzgebirgskreis县 Aue市 其它(说明:火法+湿法联合处理含镍/钴/钒二次原料如废催化剂、残渣、粉尘、污泥、蚀刻液、废电池及无PCB变压器，非原生矿石/精矿冶炼；按本普查收录规则应归类为'再生/二次') 镍/铜/钴/钒/钼化学品；有色金属精矿；黄铜/青铜合金 混合 ",
+      "search_text": "GL005 Nickelhütte Aue GmbH 奥厄镍冶炼厂(Nickelhütte Aue) Nickelhütte Aue GmbH NI-005 私营有限公司Nickelhütte Aue GmbH（董事总经理Volker Carluss，自2008年8月） 德国 Germany 萨克森州(Sachsen) Erzgebirgskreis县 Aue市 其它(说明:火法+湿法联合处理含镍/钴/钒二次原料如废催化剂、残渣、粉尘、污泥、蚀刻液、废电池及无PCB变压器，非原生矿石/精矿冶炼；按本普查收录规则应归类为'再生/二次') 镍/铜/钴/钒/钼化学品；有色金属精矿；黄铜/青铜合金 混合  工厂先在火焰炉、回转炉等火法设备中处理二次原料，把镍、钴、铜富集为硫化物类精矿，再经浸出、过滤、精炼和萃取，产出六水硫酸镍、六水氯化镍、硝酸镍溶液和硫酸钴等化学品。萨克森州许可公告列出熔炼车间（火焰炉）、焚烧装置（回转炉）和变压器拆解等设施。原料全部为二次物料，不处理原生矿石；各设备规格和产能没有公开。",
       "country_codes": [
         "DE"
       ],
       "global_id": "NI-005",
       "global_scopes": [
         "other"
-      ]
+      ],
+      "research_summary": "奥厄镍冶炼厂（Nickelhütte Aue）位于德国萨克森州奥厄，起源于1635年的蓝色颜料厂，20世纪初转为镍冶炼。今天它以废催化剂、电镀和金属工业污泥、残渣、粉尘、废电池等二次原料为原料，经火法富集和湿法精炼生产硫酸镍、氯化镍、硝酸镍等镍钴化学品，以及有色金属精矿和合金。",
+      "research_updated_at": "2026-09-30"
     },
     {
       "id": "GL006",
@@ -5454,14 +5456,16 @@
         "优美科(Umicore)奥伦(Olen)基地（钴与特种材料，含镍盐产线）",
         "Umicore Olen Site (Cobalt & Specialty Materials, incl. nickel sulphate line)"
       ],
-      "search_text": "GL011 Umicore Olen Site (Cobalt & Specialty Materials, incl. nickel sulphate line) 优美科(Umicore)奥伦(Olen)基地（钴与特种材料，含镍盐产线） Umicore Olen Site (Cobalt & Specialty Materials, incl. nickel sulphate line) NI-011 Umicore NV/SA 100% 比利时 Belgium 佛兰德大区(Vlaanderen) 安特卫普省 Olen镇 硫酸镍精炼(中间品/高冰镍)+其它(说明:同址还有钴/锗/贵金属精炼产线，镍并非该基地主打产品) 钴化学品为主；据第三方(Wood Mackenzie)将其列为'镍硫酸盐精炼厂'，另有锗、贵金属等特种材料产品 不详 ",
+      "search_text": "GL011 Umicore Olen Site (Cobalt & Specialty Materials, incl. nickel sulphate line) 优美科(Umicore)奥伦(Olen)基地（钴与特种材料，含镍盐产线） Umicore Olen Site (Cobalt & Specialty Materials, incl. nickel sulphate line) NI-011 Umicore NV/SA 100% 比利时 Belgium 佛兰德大区(Vlaanderen) 安特卫普省 Olen镇 硫酸镍精炼(中间品/高冰镍)+其它(说明:同址还有钴/锗/贵金属精炼产线，镍并非该基地主打产品) 钴化学品为主；据第三方(Wood Mackenzie)将其列为'镍硫酸盐精炼厂'，另有锗、贵金属等特种材料产品 不详  Umicore介绍，贵金属精炼业务产生的镍副产品被送往奥伦的专门镍加工车间，进一步精炼为硫酸镍等镍产品，供电池和汽车用途。Wood Mackenzie的报告摘要把奥伦列为硫酸镍精炼厂，估计2021年硫酸镍产能约2.7万吨（含镍约6,000吨），原料包括镍黄渣（speiss）以及工业和电池废料。原料并非高冰镍；具体浸出和结晶设备没有公开。 Umicore没有公开奥伦镍车间的产能和产量。Wood Mackenzie估计2021年硫酸镍产能约2.7万吨，折合镍约6,000吨；这是第三方估算。",
       "country_codes": [
         "BE"
       ],
       "global_id": "NI-011",
       "global_scopes": [
         "other"
-      ]
+      ],
+      "research_summary": "优美科奥伦（Olen）基地位于比利时安特卫普省，是Umicore历史悠久的有色金属精炼中心。Umicore称这里是集团最大的镍精炼厂，以贵金属精炼产生的含镍副产品及工业、电池废料为原料，精炼为硫酸镍等镍产品；基地同时生产钴和特种材料。",
+      "research_updated_at": "2026-09-30"
     },
     {
       "id": "GL012",
@@ -5775,14 +5779,16 @@
         "埃尔巴桑冶金联合企业镍钴厂(\"党的钢铁\"联合企业)",
         "Elbasan Metallurgical Combine – Nickel-Cobalt Plant (\"Steel of the Party\" / Kombinati Metalurgjik \"Çeliku i Partisë\")"
       ],
-      "search_text": "GL023 Elbasan Metallurgical Combine – Nickel-Cobalt Plant (\"Steel of the Party\" / Kombinati Metalurgjik \"Çeliku i Partisë\") 埃尔巴桑冶金联合企业镍钴厂(\"党的钢铁\"联合企业) Elbasan Metallurgical Combine – Nickel-Cobalt Plant (\"Steel of the Party\" / Kombinati Metalurgjik \"Çeliku i Partisë\") NI-023 镍钴产线已永久关闭;联合企业其余钢铁/铬铁资产现属Kurum International(土耳其)旗下(存疑,具体镍钴产线资产处置情况未独立核实) 阿尔巴尼亚 Albania 埃尔巴桑州(Elbasan)埃尔巴桑市 其它(说明:中国援建冶炼工艺路线细节未独立核实,推测为红土镍矿还原熔炼产出粗镍/镍铁及钴副产品) 镍金属(粗镍/精炼镍),钴副产品(具体形态未查实) 红土矿(腐殖土,阿尔巴尼亚本土红土镍矿) ",
+      "search_text": "GL023 Elbasan Metallurgical Combine – Nickel-Cobalt Plant (\"Steel of the Party\" / Kombinati Metalurgjik \"Çeliku i Partisë\") 埃尔巴桑冶金联合企业镍钴厂(\"党的钢铁\"联合企业) Elbasan Metallurgical Combine – Nickel-Cobalt Plant (\"Steel of the Party\" / Kombinati Metalurgjik \"Çeliku i Partisë\") NI-023 镍钴产线已永久关闭;联合企业其余钢铁/铬铁资产现属Kurum International(土耳其)旗下(存疑,具体镍钴产线资产处置情况未独立核实) 阿尔巴尼亚 Albania 埃尔巴桑州(Elbasan)埃尔巴桑市 其它(说明:中国援建冶炼工艺路线细节未独立核实,推测为红土镍矿还原熔炼产出粗镍/镍铁及钴副产品) 镍金属(粗镍/精炼镍),钴副产品(具体形态未查实) 红土矿(腐殖土,阿尔巴尼亚本土红土镍矿)  USGS《阿尔巴尼亚矿业》1995年版记载，埃尔巴桑镍钴厂以本国红土型含镍铁矿为原料，多年来生产可出口的商品级碳酸镍，推测同时生产钴盐。阿尔巴尼亚媒体将其工艺描述为按Caron流程运行的湿法冶炼，投产后效果不佳。碳酸镍是中间产品，并非粗镍或镍铁；具体焙烧、浸出设备的规格没有找到原始资料。 埃尔巴桑冶金联合企业自1960年代起在中国援助下建设，是阿尔巴尼亚重工业化的标志项目，镍钴厂是联合企业中较晚建成的部分。USGS记载镍钴厂约在1985年前后建成的消息见诸报道，完工因技术困难推迟多年。1990年代初计划经济解体后，矿石生产停止，镍钴厂随之关闭。联合企业其余钢铁资产后来私有化。 全球普查底表列年产镍约2,500吨，这一数字来自早期国别统计，口径尚未与工厂逐一对应。USGS记载1980年代阿尔巴尼亚每年开采红土型含镍铁矿约100万至120万吨。 USGS 1995年版称镍钴厂“现已关闭”，并记载矿石生产停止后，埃尔巴桑镍钴精炼厂相应关闭。各资料对停产年份说法不一，本条写作1990年代初。",
       "country_codes": [
         "AL"
       ],
       "global_id": "NI-023",
       "global_scopes": [
         "refined"
-      ]
+      ],
+      "research_summary": "埃尔巴桑冶金联合企业镍钴厂位于阿尔巴尼亚埃尔巴桑，属于中国援建的“党的钢铁”联合企业，是其中较晚建成的车间。工厂以本国红土型含镍铁矿为原料，用湿法流程生产可出口的碳酸镍，据USGS推测还产出钴盐；工厂1980年代投产，1990年代初关闭。",
+      "research_updated_at": "2026-09-30"
     },
     {
       "id": "GL024",
@@ -6128,7 +6134,7 @@
         "哈萨克镍业（戈尔诺斯塔耶夫斯科耶镍钴原位溶浸项目）",
         "Kaznickel (Gornostayevskoye Ni-Co ISL Project)"
       ],
-      "search_text": "GL035 Kaznickel (Gornostayevskoye Ni-Co ISL Project) 哈萨克镍业（戈尔诺斯塔耶夫斯科耶镍钴原位溶浸项目） Kaznickel (Gornostayevskoye Ni-Co ISL Project) NI-035 Kaznickel LLP，为Fincraft Resources JSC（哈萨克斯坦金融/矿业集团）旗下镍钴板块公司 哈萨克斯坦 Kazakhstan 东哈萨克斯坦州，别斯卡拉盖区(Beskaragay District) 其它(说明:钻孔原位溶浸ISL/In-Situ Leaching，不经采矿直接从地下矿体溶浸提取镍钴，属尚未在镍行业规模化应用的创新工艺) 规划：镍（浸出液/中间品，具体最终产品形态如MHP/硫酸镍等未公开）+钴产品 红土矿(镍钴氧化矿，地下矿体原位浸出，不提升至地表) ",
+      "search_text": "GL035 Kaznickel (Gornostayevskoye Ni-Co ISL Project) 哈萨克镍业（戈尔诺斯塔耶夫斯科耶镍钴原位溶浸项目） Kaznickel (Gornostayevskoye Ni-Co ISL Project) NI-035 Kaznickel LLP，为Fincraft Resources JSC（哈萨克斯坦金融/矿业集团）旗下镍钴板块公司 哈萨克斯坦 Kazakhstan 东哈萨克斯坦州，别斯卡拉盖区(Beskaragay District) 其它(说明:钻孔原位溶浸ISL/In-Situ Leaching，不经采矿直接从地下矿体溶浸提取镍钴，属尚未在镍行业规模化应用的创新工艺) 规划：镍（浸出液/中间品，具体最终产品形态如MHP/硫酸镍等未公开）+钴产品 红土矿(镍钴氧化矿，地下矿体原位浸出，不提升至地表)  Fincraft介绍，项目以钻孔原位溶浸开采镍钴，这一方法此前未在镍行业规模化应用。浸出液在地面经吸附和解吸处理；项目相关技术方公开材料称产出氢氧化镍，一期规划5,000吨镍/年并配套硫酸厂，后续逐步扩大。中试期间曾有“品位48.5%镍精矿”的报道，属中试产物说法。最终商品形态是否为MHP或硫酸镍，没有公开。 2025年报道称，Kaznickel计划2027年开始开采，最大设计能力为每年2万吨镍。USGS 2022年版记载的规划为每年处理160万吨矿石、产镍13,500吨，并计划2024年初开工、2026年达产，此后进度已顺延。项目相关技术方称一期规划5,000吨镍/年。三组数字对应不同阶段和时点。",
       "country_codes": [
         "KZ"
       ],
@@ -6136,7 +6142,9 @@
       "global_scopes": [
         "mhp",
         "sulfate"
-      ]
+      ],
+      "research_summary": "Kaznickel戈尔诺斯塔伊镍钴项目位于哈萨克斯坦东哈萨克斯坦州，由Fincraft Resources旗下Kaznickel开发。项目采用钻孔原位溶浸（ISL），不经常规采矿，从地下红土型矿体直接浸出镍钴，再在地面以吸附、解吸等工序回收；公开材料称主要产品为氢氧化镍。中试自2018年开展，商业开采计划2027年开始。",
+      "research_updated_at": "2026-09-30"
     },
     {
       "id": "GL036",
@@ -6158,14 +6166,16 @@
         "台湾镍业精炼股份有限公司",
         "Taiwan Nickel Refining Corporation"
       ],
-      "search_text": "GL036 Taiwan Nickel Refining Corporation 台湾镍业精炼股份有限公司 Taiwan Nickel Refining Corporation NI-036 不详(1982年设立时代表人J. M. Shih；现状及最新股权未确认) 中国台湾 Taiwan 高雄市大发工业区 (Ta-Fa Industrial District, Kaohsiung) 其它(说明：进口氧化镍烧结块及粗镍进行再加工/精炼，具体冶金工艺路线未确认，可能为熔炼还原或电解精炼) 镍(精炼镍，具体产品形态未确认) 不详 ",
+      "search_text": "GL036 Taiwan Nickel Refining Corporation 台湾镍业精炼股份有限公司 Taiwan Nickel Refining Corporation NI-036 不详(1982年设立时代表人J. M. Shih；现状及最新股权未确认) 中国台湾 Taiwan 高雄市大发工业区 (Ta-Fa Industrial District, Kaohsiung) 其它(说明：进口氧化镍烧结块及粗镍进行再加工/精炼，具体冶金工艺路线未确认，可能为熔炼还原或电解精炼) 镍(精炼镍，具体产品形态未确认) 不详  Inco 2004年度10-K记载，公司通过持股49.9%的台湾镍业在台湾开展业务，并安排向台湾镍业供应Inco生产的中间产品，用于其精炼作业。贸易记录显示进口品种包括氧化镍烧结块、未锻轧镍丸和镍片，供应方为Vale Canada。台湾镍业如何加工这些原料、产出何种形态的镍，公开资料没有说明。 台湾镍业1982年设立于高雄大发工业区。Inco持股49.9%，其余股份由台湾投资人持有；Inco被Vale收购后，相关权益随之转移。USGS《台湾矿业》2020—21年版仍列该厂精炼镍能力约1.8万吨，但注明资料不足以可靠估计产量。 贸易记录中的最后一批进口在2012年，此后未见进口或生产记录，也没有停产公告。现有资料不足以判断工厂仍在生产还是已经停产。",
       "country_codes": [
         "TW"
       ],
       "global_id": "NI-036",
       "global_scopes": [
         "refined"
-      ]
+      ],
+      "research_summary": "台湾镍业精炼股份有限公司位于高雄大发工业区，1982年设立。Inco（后为Vale）持股49.9%，并向其供应镍中间品用于精炼；进口品种包括氧化镍烧结块、镍丸和镍片。具体精炼工艺与产品形态没有公开，2012年以后的运行情况无法核实。",
+      "research_updated_at": "2026-09-30"
     },
     {
       "id": "GL037",
@@ -6391,14 +6401,16 @@
         "三菱综合材料 直岛制炼所(镍副产)",
         "Mitsubishi Materials Naoshima Smelter (nickel byproduct)"
       ],
-      "search_text": "GL044 Mitsubishi Materials Naoshima Smelter (nickel byproduct) 三菱综合材料 直岛制炼所(镍副产) Mitsubishi Materials Naoshima Smelter (nickel byproduct) NI-044 三菱综合材料株式会社(Mitsubishi Materials Corporation) 日本 Japan 香川県香川郡直島町 (Kagawa Prefecture, Naoshima) PGM副产贱金属精炼 镍(铜冶炼副产品，具体形态未确认，推测为粗镍或化合物) 混合 ",
+      "search_text": "GL044 Mitsubishi Materials Naoshima Smelter (nickel byproduct) 三菱综合材料 直岛制炼所(镍副产) Mitsubishi Materials Naoshima Smelter (nickel byproduct) NI-044 三菱综合材料株式会社(Mitsubishi Materials Corporation) 日本 Japan 香川県香川郡直島町 (Kagawa Prefecture, Naoshima) PGM副产贱金属精炼 镍(铜冶炼副产品，具体形态未确认，推测为粗镍或化合物) 混合  直岛制炼所由熔炼、电解、硫酸、贵金属、有价金属回收和熔融飞灰处理等工序组成。三菱综合材料介绍，铜阳极中所含的镍在电解工序中回收为粗硫酸镍出售；产品为含镍20%以上的粉末，用于镀镍和镍化合物原料。USGS把这2,400吨/年列为日本精炼镍能力，但实际产品是镍化合物。",
       "country_codes": [
         "JP"
       ],
       "global_id": "NI-044",
       "global_scopes": [
         "other"
-      ]
+      ],
+      "research_summary": "三菱综合材料直岛制炼所位于日本香川县直岛，1917年起为三菱的铜冶炼基地。镍是铜电解精炼的副产品：铜阳极中所含的镍被回收为粗硫酸镍粉末出售，年产能2,400吨。",
+      "research_updated_at": "2026-09-30"
     },
     {
       "id": "GL045",
@@ -6744,14 +6756,16 @@
         "印度斯坦铜业公司—印度铜业联合体镍-铜-酸回收装置",
         "Hindustan Copper Ltd — Indian Copper Complex Nickel-Copper-Acid Recovery Plant"
       ],
-      "search_text": "GL056 Hindustan Copper Ltd — Indian Copper Complex Nickel-Copper-Acid Recovery Plant 印度斯坦铜业公司—印度铜业联合体镍-铜-酸回收装置 Hindustan Copper Ltd — Indian Copper Complex Nickel-Copper-Acid Recovery Plant NI-056 印度斯坦铜业有限公司(Hindustan Copper Limited, HCL，印度中央政府国有企业) 印度 India 贾坎德邦 (Jharkhand) Ghatsila镇，印度铜业联合体(Indian Copper Complex, ICC)内 其它(说明：铜电解精炼工艺副产电解液中回收硫酸镍，EMEW电积技术，非独立处理镍矿) 硫酸镍（副产），号称印度第一座生产LME级镍金属的设施 不详（铜精炼工艺副产电解液，非直接处理镍矿） ",
+      "search_text": "GL056 Hindustan Copper Ltd — Indian Copper Complex Nickel-Copper-Acid Recovery Plant 印度斯坦铜业公司—印度铜业联合体镍-铜-酸回收装置 Hindustan Copper Ltd — Indian Copper Complex Nickel-Copper-Acid Recovery Plant NI-056 印度斯坦铜业有限公司(Hindustan Copper Limited, HCL，印度中央政府国有企业) 印度 India 贾坎德邦 (Jharkhand) Ghatsila镇，印度铜业联合体(Indian Copper Complex, ICC)内 其它(说明：铜电解精炼工艺副产电解液中回收硫酸镍，EMEW电积技术，非独立处理镍矿) 硫酸镍（副产），号称印度第一座生产LME级镍金属的设施 不详（铜精炼工艺副产电解液，非直接处理镍矿）  《印度矿产年鉴2021》记载，HCL从ICC精炼厂的废电解液中回收镍、铜和硫酸。原有硫酸镍回收装置设计能力390吨，自2004—05年度起未再报告硫酸镍产量。公司另建有采用加拿大EMEW电积技术和酸净化装置的镍、铜、酸回收装置，年鉴称其为印度首个从原生资源生产LME级镍金属的设施。两套装置建成时间不同，不能合并理解。 原硫酸镍回收装置自2004—05年度起没有产量报告。EMEW镍铜酸回收装置的实际产量和当前运行情况没有找到公开记录。",
       "country_codes": [
         "IN"
       ],
       "global_id": "NI-056",
       "global_scopes": [
         "sulfate"
-      ]
+      ],
+      "research_summary": "印度斯坦铜业公司的印度铜业联合体（ICC）位于贾坎德邦Ghatsila。公司从铜电解精炼的废电解液中回收镍、铜和硫酸：较早的硫酸镍回收装置设计能力390吨/年，但2004—05年度后不再报告产量；后来又引进加拿大EMEW电积技术和酸净化装置，建成镍、铜、酸回收装置。",
+      "research_updated_at": "2026-09-30"
     },
     {
       "id": "GL057",
@@ -6860,14 +6874,16 @@
         "牟埃冬（古鲁穆阿）镍铁项目",
         "Mwetaung (Gullu Mual) Nickel-Ferronickel Project"
       ],
-      "search_text": "GL060 Mwetaung (Gullu Mual) Nickel-Ferronickel Project 牟埃冬（古鲁穆阿）镍铁项目 Mwetaung (Gullu Mual) Nickel-Ferronickel Project NI-060 北方矿业投资有限公司(North Mining Investment Company Ltd., NMIC，中资企业)；此前2005年锦宝(Kingbao/Jinbao)矿业公司曾持有勘探权，已到期未续 缅甸 Myanmar 钦邦(Chin State)与实皆省交界Tiddim镇附近，Natmyaung保留林内，靠近Kalay镇 其它(说明：规划露天开采并就地熔炼镍铁，配套两座15兆瓦燃煤电站，项目从未建成) 规划：镍铁精矿/镍铁（项目从未建成，无实际产品） 红土矿(不详具体类型) ",
+      "search_text": "GL060 Mwetaung (Gullu Mual) Nickel-Ferronickel Project 牟埃冬（古鲁穆阿）镍铁项目 Mwetaung (Gullu Mual) Nickel-Ferronickel Project NI-060 北方矿业投资有限公司(North Mining Investment Company Ltd., NMIC，中资企业)；此前2005年锦宝(Kingbao/Jinbao)矿业公司曾持有勘探权，已到期未续 缅甸 Myanmar 钦邦(Chin State)与实皆省交界Tiddim镇附近，Natmyaung保留林内，靠近Kalay镇 其它(说明：规划露天开采并就地熔炼镍铁，配套两座15兆瓦燃煤电站，项目从未建成) 规划：镍铁精矿/镍铁（项目从未建成，无实际产品） 红土矿(不详具体类型)  可行性研究阶段的方案是露天开采红土型低品位镍矿，在矿区建冶炼厂生产镍铁（原文称“ferronickel concentrates”），配套两座15兆瓦燃煤电站，产品经公路运至钦敦江码头外运。USGS记载项目截至2014年仍处可研阶段。冶炼炉型和设计产能没有公开资料。",
       "country_codes": [
         "MM"
       ],
       "global_id": "NI-060",
       "global_scopes": [
         "npi"
-      ]
+      ],
+      "research_summary": "牟埃冬（古鲁穆阿）镍铁项目位于缅甸钦邦Tiddim镇附近，由中资北方矿业投资公司推进。规划在当地露天开采低品位红土镍矿，就地建冶炼厂生产镍铁，配两座15兆瓦燃煤电站；2013年提交可行性研究后因社区反对等原因搁置，从未建成。",
+      "research_updated_at": "2026-09-30"
     },
     {
       "id": "GL061",
@@ -7035,14 +7051,16 @@
         "版福镍矿及选矿厂",
         "Ban Phuc Nickel Mine & Concentrator"
       ],
-      "search_text": "GL068 Ban Phuc Nickel Mine & Concentrator 版福镍矿及选矿厂 Ban Phuc Nickel Mine & Concentrator NI-068 Ban Phuc Nickel Mines LLC — Blackstone Minerals Ltd.（澳大利亚，持股90%）+ Son La Mechanical Engineering J.S.C.（越南本地企业，持股10%），自2019年5月起；2025年8月起越南Xuan Loc Tho集团通过战略合作协议取得控股权（初始55%，可能进一步增至65%或80%） 越南 Vietnam 山萝省 (Son La Province)，越南西北部 其它(说明：仅浮选选矿，未进行火法或湿法冶炼，属本次普查收录范围的边界案例) 镍硫化矿精矿(未冶炼) 硫化矿精矿 ",
+      "search_text": "GL068 Ban Phuc Nickel Mine & Concentrator 版福镍矿及选矿厂 Ban Phuc Nickel Mine & Concentrator NI-068 Ban Phuc Nickel Mines LLC — Blackstone Minerals Ltd.（澳大利亚，持股90%）+ Son La Mechanical Engineering J.S.C.（越南本地企业，持股10%），自2019年5月起；2025年8月起越南Xuan Loc Tho集团通过战略合作协议取得控股权（初始55%，可能进一步增至65%或80%） 越南 Vietnam 山萝省 (Son La Province)，越南西北部 其它(说明：仅浮选选矿，未进行火法或湿法冶炼，属本次普查收录范围的边界案例) 镍硫化矿精矿(未冶炼) 硫化矿精矿  选矿厂采用磨矿和硫化物浮选，产出含镍、铜、钴的硫化镍精矿，不进行火法或湿法冶炼。2021年底，Blackstone获准恢复采矿并翻新选矿厂，首批约10吨含镍8%的精矿送往珀斯实验室，用于下游精炼试验。 2016年9月镍价下跌后停产并转入保养维护。2021年12月起，Blackstone在获批后恢复有限采矿并翻新选矿厂，产出试验用精矿。2025年8月，越南Xuan Loc Tho集团与Blackstone达成合作，初始持有Ban Phuc Nickel Mines 55%，可增至65%。目前没有商业化复产的报道。",
       "country_codes": [
         "VN"
       ],
       "global_id": "NI-068",
       "global_scopes": [
         "other"
-      ]
+      ],
+      "research_summary": "版福镍矿及选矿厂位于越南山萝省，是越南唯一形成生产的镍矿。它只有浮选选矿，没有冶炼：矿石经磨矿、硫化物浮选产出含铜、钴的硫化镍精矿，曾出口中国。选矿厂2013年投产，2016年9月因镍价停产；2021年底Blackstone有限恢复采矿并翻新选矿厂，用于试验性生产。",
+      "research_updated_at": "2026-09-30"
     },
     {
       "id": "GL069",
@@ -7064,14 +7082,16 @@
         "达卡精炼厂（塔科亚精炼厂）",
         "Ta Khoa Refinery (TKR)"
       ],
-      "search_text": "GL069 Ta Khoa Refinery (TKR) 达卡精炼厂（塔科亚精炼厂） Ta Khoa Refinery (TKR) NI-069 Blackstone Minerals Ltd.（通过Ban Phuc Nickel Mines子公司）；2025年8月起越南Xuan Loc Tho集团成为控股合作方（初始55%股权，可能增至65-80%） 越南 Vietnam 山萝省 (Son La Province)，毗邻Ban Phuc矿区 其它(说明：规划生产锂电池用镍钴锰前驱体/NCM precursor，具体是否属传统MHP/MSP工艺或独立硫酸盐前驱体产线未在公开资料中明确界定) 规划：镍钴锰电池正极前驱体材料(NCM precursor / pCAM) 硫化矿精矿 ",
+      "search_text": "GL069 Ta Khoa Refinery (TKR) 达卡精炼厂（塔科亚精炼厂） Ta Khoa Refinery (TKR) NI-069 Blackstone Minerals Ltd.（通过Ban Phuc Nickel Mines子公司）；2025年8月起越南Xuan Loc Tho集团成为控股合作方（初始55%股权，可能增至65-80%） 越南 Vietnam 山萝省 (Son La Province)，毗邻Ban Phuc矿区 其它(说明：规划生产锂电池用镍钴锰前驱体/NCM precursor，具体是否属传统MHP/MSP工艺或独立硫酸盐前驱体产线未在公开资料中明确界定) 规划：镍钴锰电池正极前驱体材料(NCM precursor / pCAM) 硫化矿精矿  2022年2月预可研列出的流程包括：镍精矿加压氧化浸出（POX）、铜溶剂萃取产铜阴极、中和沉淀MHP、除镁结晶、镍钴多段溶剂萃取精炼，最后制成NCM811三元前驱体。设计稳态处理量为每年40万吨镍精矿，镍进入前驱体的回收率96.8%。更早的2020年概念研究也以MHP为中间产品。 2022年预可研设计精炼厂每年处理40万吨镍精矿，原计划2025年初产出首批NCM811前驱体，这一时间表没有实现。2025年8月引入Xuan Loc Tho集团后，项目拟落在Bac Yen工业园，尚无建成报道。",
       "country_codes": [
         "VN"
       ],
       "global_id": "NI-069",
       "global_scopes": [
         "other"
-      ]
+      ],
+      "research_summary": "达卡（Ta Khoa）精炼厂是Blackstone Minerals在越南山萝省规划的下游精炼项目，拟把Ta Khoa矿区的镍精矿加工为NCM811前驱体。2022年预可研确定的流程为加压氧化浸出、铜萃取、MHP沉淀、再溶解后多段溶剂萃取精炼，最后沉淀前驱体；项目尚未建设。",
+      "research_updated_at": "2026-09-30"
     },
     {
       "id": "GL071",
@@ -7363,14 +7383,16 @@
         "Cobalt Blue Kwinana钴镍精炼厂",
         "Cobalt Blue Kwinana Cobalt-Nickel Refinery"
       ],
-      "search_text": "GL085 Cobalt Blue Kwinana Cobalt-Nickel Refinery Cobalt Blue Kwinana钴镍精炼厂 Cobalt Blue Kwinana Cobalt-Nickel Refinery NI-085 Cobalt Blue Holdings + Iwatani Australia(合作伙伴，具体股比未披露) 澳大利亚 Australia 西澳大利亚州 Kwinana / East Rockingham 其它(说明: 硫酸钴/钴镍金属精炼，工艺路线未详) 电池级硫酸钴、钴金属(国防/高性能合金用)、镍金属 不详 ",
+      "search_text": "GL085 Cobalt Blue Kwinana Cobalt-Nickel Refinery Cobalt Blue Kwinana钴镍精炼厂 Cobalt Blue Kwinana Cobalt-Nickel Refinery NI-085 Cobalt Blue Holdings + Iwatani Australia(合作伙伴，具体股比未披露) 澳大利亚 Australia 西澳大利亚州 Kwinana / East Rockingham 其它(说明: 硫酸钴/钴镍金属精炼，工艺路线未详) 电池级硫酸钴、钴金属(国防/高性能合金用)、镍金属 不详  公司2026年3月的材料显示，首批原料为嘉能可根据2025年5月签订的约束性合同供应的氢氧化钴，另评估电池黑粉等原料；精炼流程生产高纯硫酸钴和钴金属，黑粉中含镍5%—15%，计划以氢氧化镍出售。行业报道把精炼流程概括为离子交换、溶剂萃取和结晶，具体设备没有公开。 项目位于Iwatani Australia在East Rockingham的现有工厂内。2025年5月取得嘉能可原料合同，2025年9月获得西澳工程许可（Works Approval）；截至2026年3月，承购协议转换、融资、外资审查和开发许可申请仍在进行。 一期规划每年约3,000吨钴。媒体曾报道一期年产约500吨镍，这一数字只见于单一二手来源，公司材料没有列出镍产量。",
       "country_codes": [
         "AU"
       ],
       "global_id": "NI-085",
       "global_scopes": [
         "other"
-      ]
+      ],
+      "research_summary": "Cobalt Blue Kwinana精炼厂位于西澳大利亚East Rockingham，是Cobalt Blue与Iwatani Australia推进的以钴为主的湿法精炼项目，拟处理嘉能可供应的刚果（金）氢氧化钴等原料，生产电池级硫酸钴和钴金属；电池黑粉原料中的镍拟以氢氧化镍形式出售。2025年9月获工程许可，尚未做出最终投资决定。",
+      "research_updated_at": "2026-09-30"
     },
     {
       "id": "GL086",
@@ -7713,14 +7735,16 @@
         "德洛罗冶炼精炼公司（钴/银/砷为主，镍为伴生，存疑收录）",
         "Deloro Smelting and Refining Company"
       ],
-      "search_text": "GL097 Deloro Smelting and Refining Company 德洛罗冶炼精炼公司（钴/银/砷为主，镍为伴生，存疑收录） Deloro Smelting and Refining Company NI-097 已永久关闭；末代业主Deloro Smelting and Refining Company Limited；场址现由安大略省环境部管理(污染场地) 加拿大 Canada 安大略省 Deloro 其它(说明：主要处理钴-银-砷(镍)砷化物矿石，产品以司太立特合金、砷、银、钴为主，镍仅为矿石中伴生元素，是否构成独立'镍冶炼'环节存疑) 司太立特合金(Stellite)、砷、银、钴；镍仅作为副产/伴生元素混于废渣中(未见镍金属或镍化合物作为正式商业产品的确凿记录) 不详 ",
+      "search_text": "GL097 Deloro Smelting and Refining Company 德洛罗冶炼精炼公司（钴/银/砷为主，镍为伴生，存疑收录） Deloro Smelting and Refining Company NI-097 已永久关闭；末代业主Deloro Smelting and Refining Company Limited；场址现由安大略省环境部管理(污染场地) 加拿大 Canada 安大略省 Deloro 其它(说明：主要处理钴-银-砷(镍)砷化物矿石，产品以司太立特合金、砷、银、钴为主，镍仅为矿石中伴生元素，是否构成独立'镍冶炼'环节存疑) 司太立特合金(Stellite)、砷、银、钴；镍仅作为副产/伴生元素混于废渣中(未见镍金属或镍化合物作为正式商业产品的确凿记录) 不详  矿石先破碎焙烧，再与硫酸混合煅烧成可溶盐，溶于水后分步沉淀，回收氧化钴、银和砷。1927年加拿大官方年鉴记载，德洛罗冶炼厂处理矿石和残渣，产出氧化钴、金属钴以及未分离的镍钴氧化物，并单列氧化镍。镍因此以氧化物形态作为次要产品外销，不只是留在废渣中；产量没有找到。 没有找到镍氧化物或镍钴混合氧化物的产量数字。场址遗留物中检出钴、铜、镍等金属。",
       "country_codes": [
         "CA"
       ],
       "global_id": "NI-097",
       "global_scopes": [
         "other"
-      ]
+      ],
+      "research_summary": "德洛罗冶炼精炼公司位于加拿大安大略省Deloro，1906年起处理安大略Cobalt—Gowganda地区的银钴镍砷化物矿，采用焙烧、硫酸盐化、浸出和沉淀流程，产出氧化钴、金属钴、银、砷以及未分离的镍钴氧化物；这里也是司太立特合金的发源地。工厂1961年关闭。",
+      "research_updated_at": "2026-09-30"
     },
     {
       "id": "GL098",
@@ -8063,7 +8087,7 @@
         "克劳福德镍钴项目及NetZero Metals下游加工厂（规划中）",
         "Crawford Nickel-Cobalt Project & NetZero Metals Downstream Processing (planned)"
       ],
-      "search_text": "GL109 Crawford Nickel-Cobalt Project & NetZero Metals Downstream Processing (planned) 克劳福德镍钴项目及NetZero Metals下游加工厂（规划中） Crawford Nickel-Cobalt Project & NetZero Metals Downstream Processing (planned) NI-109 Canada Nickel Company Inc. (100%，NetZero Metals Inc.为其子公司负责下游深加工) 加拿大 Canada 安大略省 蒂明斯地区 (Timmins, Ontario) — Crawford项目 其它(说明：矿石为超基性岩中天然镍铁合金(awaruite)，拟采用磁选+浮选生产精矿；下游NetZero Metals计划在蒂明斯地区建设硫酸镍/不锈钢原料深加工设施，具体化学冶炼工艺细节及是否属于本清单严格定义的'冶炼/精炼'环节尚待可行性研究文件进一步确认) 规划：镍铁合金精矿(可直接供不锈钢原料)、硫酸镍(NetZero Metals下游规划)、钴副产品 混合 ",
+      "search_text": "GL109 Crawford Nickel-Cobalt Project & NetZero Metals Downstream Processing (planned) 克劳福德镍钴项目及NetZero Metals下游加工厂（规划中） Crawford Nickel-Cobalt Project & NetZero Metals Downstream Processing (planned) NI-109 Canada Nickel Company Inc. (100%，NetZero Metals Inc.为其子公司负责下游深加工) 加拿大 Canada 安大略省 蒂明斯地区 (Timmins, Ontario) — Crawford项目 其它(说明：矿石为超基性岩中天然镍铁合金(awaruite)，拟采用磁选+浮选生产精矿；下游NetZero Metals计划在蒂明斯地区建设硫酸镍/不锈钢原料深加工设施，具体化学冶炼工艺细节及是否属于本清单严格定义的'冶炼/精炼'环节尚待可行性研究文件进一步确认) 规划：镍铁合金精矿(可直接供不锈钢原料)、硫酸镍(NetZero Metals下游规划)、钴副产品 混合  2023年10月可研的流程为破碎、半自磨和球磨、脱泥、镍浮选，再对浮选尾矿进行磁选，并利用尾矿矿物固碳。产品为镍精矿（含镍34%、钴0.7%及铂钯）和铁精矿（含铁55%、镍0.3%、铬2.6%）。NetZero Metals称下游将采用成熟技术生产镍产品，并建设处理铁铬镍精矿的不锈钢厂，但没有公开冶炼工艺或是否生产硫酸镍。",
       "country_codes": [
         "CA"
       ],
@@ -8071,7 +8095,9 @@
       "global_scopes": [
         "npi",
         "sulfate"
-      ]
+      ],
+      "research_summary": "Crawford镍硫化物项目位于加拿大安大略省蒂明斯以北，由Canada Nickel开发。矿化为蛇纹岩化超基性岩中的镍矿物；2023年可研的选矿流程为破碎、磨矿、脱泥、镍浮选，再对浮选尾矿磁选，产出镍精矿和铁铬镍精矿。子公司NetZero Metals计划在蒂明斯地区另建镍产品加工厂和不锈钢厂，具体工艺未公开。",
+      "research_updated_at": "2026-09-30"
     },
     {
       "id": "GL110",
@@ -8122,14 +8148,16 @@
         "奥福德铜业公司炼厂（新泽西州贝永市）",
         "Orford Copper Company Refinery (Constable Hook, Bayonne, NJ)"
       ],
-      "search_text": "GL111 Orford Copper Company Refinery (Constable Hook, Bayonne, NJ) 奥福德铜业公司炼厂（新泽西州贝永市） Orford Copper Company Refinery (Constable Hook, Bayonne, NJ) NI-111 已永久关闭；末代业主International Nickel Company 美国 United States 新泽西州 Bayonne (Constable Hook) 硫化矿熔炼-反射炉/鼓风炉(历史)+其它(说明：Orford'Tops and Bottoms'镍铜分离工艺，1893年确立为首个具商业可行性的镍铜分离法) 电解镍、精炼铜(历史) 硫化矿精矿 ",
+      "search_text": "GL111 Orford Copper Company Refinery (Constable Hook, Bayonne, NJ) 奥福德铜业公司炼厂（新泽西州贝永市） Orford Copper Company Refinery (Constable Hook, Bayonne, NJ) NI-111 已永久关闭；末代业主International Nickel Company 美国 United States 新泽西州 Bayonne (Constable Hook) 硫化矿熔炼-反射炉/鼓风炉(历史)+其它(说明：Orford'Tops and Bottoms'镍铜分离工艺，1893年确立为首个具商业可行性的镍铜分离法) 电解镍、精炼铜(历史) 硫化矿精矿  工厂的原料是外来的镍铜锍，而不是精矿。Orford法把锍与钠盐和焦炭一起熔融，炉内生成的硫化钠使熔体分层：冷却后上层（tops）主要是铜硫化物，下层（bottoms）主要是镍硫化物，两层敲开后分别焙烧、还原成镍和铜产品。电解镍生产是1918年Port Colborne电解厂建成以后的事，Bayonne时期的具体镍产品形态没有找到原始记录。",
       "country_codes": [
         "US"
       ],
       "global_id": "NI-111",
       "global_scopes": [
         "refined"
-      ]
+      ],
+      "research_summary": "Orford铜业公司精炼厂位于美国新泽西州Bayonne的Constable Hook，接收加拿大萨德伯里运来的镍铜锍进行精炼。1893年确立的Orford“顶底”法把锍与硫化钠一同熔融，冷却后分为富铜的上层和富镍的下层，从而分离镍铜。1902年并入International Nickel，1922年关闭。",
+      "research_updated_at": "2026-09-30"
     },
     {
       "id": "GL112",
@@ -8151,14 +8179,16 @@
         "汉纳镍冶炼公司/格伦布鲁克镍业公司里德尔冶炼厂（俄勒冈州镍山）",
         "Hanna Nickel Smelting Co. / Glenbrook Nickel Co. Smelter (Riddle, Oregon / Nickel Mountain)"
       ],
-      "search_text": "GL112 Hanna Nickel Smelting Co. / Glenbrook Nickel Co. Smelter (Riddle, Oregon / Nickel Mountain) 汉纳镍冶炼公司/格伦布鲁克镍业公司里德尔冶炼厂（俄勒冈州镍山） Hanna Nickel Smelting Co. / Glenbrook Nickel Co. Smelter (Riddle, Oregon / Nickel Mountain) NI-112 已关闭；末代运营方Glenbrook Nickel Company(股东含Cominco Ltd.等，具体2026年产权归属本研究未核实) 美国 United States 俄勒冈州 Riddle (Douglas County) 电炉镍铁(非RKEF)+其它(说明：早期采用法国Ugine冶炼工艺试验，先在法国中试后于Riddle建设首套生产装置) 镍铁(含镍约50%的Ferronickel，铸成约28磅/块的'猪铁'，4000磅/托盘打包) 红土矿(褐铁矿) ",
+      "search_text": "GL112 Hanna Nickel Smelting Co. / Glenbrook Nickel Co. Smelter (Riddle, Oregon / Nickel Mountain) 汉纳镍冶炼公司/格伦布鲁克镍业公司里德尔冶炼厂（俄勒冈州镍山） Hanna Nickel Smelting Co. / Glenbrook Nickel Co. Smelter (Riddle, Oregon / Nickel Mountain) NI-112 已关闭；末代运营方Glenbrook Nickel Company(股东含Cominco Ltd.等，具体2026年产权归属本研究未核实) 美国 United States 俄勒冈州 Riddle (Douglas County) 电炉镍铁(非RKEF)+其它(说明：早期采用法国Ugine冶炼工艺试验，先在法国中试后于Riddle建设首套生产装置) 镍铁(含镍约50%的Ferronickel，铸成约28磅/块的'猪铁'，4000磅/托盘打包) 红土矿(褐铁矿)  1970年的工厂介绍记载：矿石经三台回转干燥机干燥，粗料进回转煅烧炉、细料进多膛焙烧炉，并加锯末预还原；热料送入四台电炉熔化，随后按Ugine法在钢包中加入含金属硅的还原剂剧烈搅拌，镍和铁被还原沉到底部，炉渣水淬；镍铁再在小电炉中用精炼渣除杂，铸成约28磅的块，含镍约50%。这与RKEF在电炉内还原不同，属于熔融矿石的硅热还原。 1954年投产，四台镍铁电炉连续运行。1987年1月Hanna因矿石枯竭和经济性关闭工厂。Glenbrook Nickel在1989—90年接手并重启，后期使用进口新喀里多尼亚矿石；据USGS记载，工厂因镍价低迷于1998年4月关闭。",
       "country_codes": [
         "US"
       ],
       "global_id": "NI-112",
       "global_scopes": [
         "npi"
-      ]
+      ],
+      "research_summary": "Hanna镍冶炼厂位于美国俄勒冈州Riddle，是美国唯一实现工业化生产的红土镍矿冶炼厂。1954年投产，以本地红土矿为原料，经干燥、焙烧后在电炉中熔化，再用法国Ugine法在钢包中以硅铁还原，产出含镍约50%的镍铁；1987年关闭，Glenbrook Nickel接手后于1998年4月最终停产。",
+      "research_updated_at": "2026-09-30"
     },
     {
       "id": "GL113",
@@ -8268,14 +8298,16 @@
         "北金属(NorthMet)项目湿法冶炼厂（PolyMet/新域铜镍，规划中）",
         "NorthMet Project Hydrometallurgical Plant (PolyMet / NewRange Copper Nickel)"
       ],
-      "search_text": "GL116 NorthMet Project Hydrometallurgical Plant (PolyMet / NewRange Copper Nickel) 北金属(NorthMet)项目湿法冶炼厂（PolyMet/新域铜镍，规划中） NorthMet Project Hydrometallurgical Plant (PolyMet / NewRange Copper Nickel) NI-116 NewRange Copper Nickel LLC (Glencore旗下PolyMet Mining Corp.与Teck Resources各50%合资，2023年成立) 美国 United States 明尼苏达州 Hoyt Lakes / Babbitt 附近 (NorthMet项目) 精矿加压浸出+其它(说明：采用浮选+加压浸出湿法工艺，以铜回收为主，镍、铂族金属为副产) 规划：电解铜(主产品)、镍(副产)、铂族金属及少量金银 硫化矿精矿 ",
+      "search_text": "GL116 NorthMet Project Hydrometallurgical Plant (PolyMet / NewRange Copper Nickel) 北金属(NorthMet)项目湿法冶炼厂（PolyMet/新域铜镍，规划中） NorthMet Project Hydrometallurgical Plant (PolyMet / NewRange Copper Nickel) NI-116 NewRange Copper Nickel LLC (Glencore旗下PolyMet Mining Corp.与Teck Resources各50%合资，2023年成立) 美国 United States 明尼苏达州 Hoyt Lakes / Babbitt 附近 (NorthMet项目) 精矿加压浸出+其它(说明：采用浮选+加压浸出湿法工艺，以铜回收为主，镍、铂族金属为副产) 规划：电解铜(主产品)、镍(副产)、铂族金属及少量金银 硫化矿精矿  2004年技术报告中的方案是：浮选产出铜镍铂族混合精矿，经PLATSOL加压氧化浸出（约225°C、氧超压100 psi），铜经萃取电积产出电解铜（每年3.3万吨），镍钴以氢氧化物中间品形式过滤干燥后外运冶炼，铂族金属另行沉淀回收。原设计的镍产品是镍钴氢氧化物，不是电解镍。2026年7月，NewRange向州自然资源部提出变更，取消湿法厂，改为只建选矿厂；取消湿法后精矿如何销售或冶炼没有公开。 2026年7月29日，明尼苏达州自然资源部公布收到NewRange的变更通知：取消原设计中的湿法厂等工序。项目仍处审批阶段，未开工建设。",
       "country_codes": [
         "US"
       ],
       "global_id": "NI-116",
       "global_scopes": [
         "other"
-      ]
+      ],
+      "research_summary": "NorthMet项目位于美国明尼苏达州Hoyt Lakes附近，由PolyMet与Teck的合资企业NewRange推进。原设计把浮选所得铜镍铂族混合精矿送入加压氧化浸出湿法厂，产出电解铜、镍钴氢氧化物和铂族金属沉淀物；2026年7月NewRange提出取消湿法厂，只保留选矿。项目尚未建设。",
+      "research_updated_at": "2026-09-30"
     },
     {
       "id": "GL117",
