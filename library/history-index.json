@@ -8108,9 +8108,18 @@
           "source_url": "https://www.htfc.com/wz_upload/png_upload/20181203/1543791036551733e7e.pdf",
           "source_title": "华泰期货镍不锈钢年报",
           "project_id": "CN023"
+        },
+        {
+          "date": "2025-04-07",
+          "label": "媒体报道每日新增镍渣",
+          "detail": "报道称鑫海科技每日新增近3万吨镍渣运入堆场。",
+          "kind": "运行变化",
+          "project_id": "CN023",
+          "source_url": "https://cj.sina.com.cn/articles/view/1060093724/3f2fbf1c00101elh2",
+          "source_title": "新浪财经：山东鑫海科技千万吨固废跨省转移顽疾缘何难除，2025年4月7日"
         }
       ],
-      "coverage_note": ""
+      "coverage_note": "最新股权及控股股东；2020年后实际产能和开工率；具体客户、矿源和海外资产；正文保留了来源边界或身份核验说明，需结合原始环评、工商或法院文件进一步核对。；2025—2026年镍铁产量、矿热炉运行台数的直接披露。"
     },
     "CN024": {
       "project_id": "CN024",
@@ -8850,9 +8859,27 @@
           "source_url": "https://gqjs.com.cn/newscenter.php?id=1943",
           "source_title": "广青高品质不锈钢提质增效环评公示",
           "project_id": "CN065"
+        },
+        {
+          "date": "2025-09-17",
+          "label": "连铸机项目环评公示",
+          "detail": "拟增设4套70吨合金熔化炉熔化镍铁、铬铁等原料。",
+          "kind": "审批",
+          "project_id": "CN065",
+          "source_url": "http://www.yangjiang.gov.cn/yjsthjj/gkmlpt/content/0/885/mpost_885533.html",
+          "source_title": "阳江市生态环境局：广青高品质不锈钢提质增效及连铸机项目环评拟审批公示，2025年9月17日"
+        },
+        {
+          "date": "2025-10-09",
+          "label": "首登中国制造业企业500强",
+          "detail": "阳江日报报道广青2024年营收增长并完成40万吨不锈钢带项目。",
+          "kind": "经营",
+          "project_id": "CN065",
+          "source_url": "http://www.yjgx.gov.cn/zzzq/gxyw/content/post_889896.html",
+          "source_title": "阳江高新区：广青科技首登2025中国制造业企业500强，2025年10月9日"
         }
       ],
-      "coverage_note": ""
+      "coverage_note": "核对广青镍合金炉型与广青不锈钢厂的最新实际产能、矿源采购结构和客户；索引中的BF/RKEF并非同一工序，应以最新环评拆分。；公开资料未列广青逐家外售客户及合同。；公开资料未列广青逐家外部客户合同，园区内其他公司的客户名单不并入广青。"
     },
     "CN066": {
       "project_id": "CN066",
@@ -9074,9 +9101,18 @@
           "source_url": "https://gxt.fujian.gov.cn/zwgk/jsxm/xmhz/202309/t20230920_6261617.htm",
           "source_title": "福建省工信厅：青拓镍业超低排放改造节能审查",
           "project_id": "CN074"
+        },
+        {
+          "date": "2025-01",
+          "label": "3#高炉月产创纪录",
+          "detail": "3#高炉当月产量54,332.64吨，日均1,752.6吨。",
+          "kind": "运行变化",
+          "project_id": "CN074",
+          "source_url": "https://finance.sina.cn/2025-02-09/detail-ineivawu6063426.d.html",
+          "source_title": "新浪财经：福建青拓镍业镍铁部3#高炉平均日产1752.6吨，2025年2月9日"
         }
       ],
-      "coverage_note": ""
+      "coverage_note": "核对青拓镍业与鼎信镍业的厂区边界、最新产能和当前海外矿源；不要把青拓集团其他镍铁厂的产能合并。；公开资料未列青拓镍业逐家外部客户。"
     },
     "CN075": {
       "project_id": "CN075",
@@ -9236,9 +9272,27 @@
           "source_url": "https://www.cngrgf.com.cn/tzgg/155.html",
           "source_title": "中伟：湖南基地技改扩建环评公示，2021年6月20日",
           "project_id": "CN080"
+        },
+        {
+          "date": "2024-10-12",
+          "label": "硫酸盐溶液扩产技改公示",
+          "detail": "对现有硫酸镍、硫酸钴、氯化钴溶液扩大产能。",
+          "kind": "审批",
+          "project_id": "CN080",
+          "source_url": "http://www.nxcity.gov.cn/zw229/fdzdgknr/msxx/hjbh1/jsxmhjyxpjsp/202410/t20241021_11626757.html",
+          "source_title": "宁乡市人民政府：中伟新能源（中国）总部产业基地四、五期二次技改工程环评审批公示，2024年10月"
+        },
+        {
+          "date": "2025-12-03",
+          "label": "前驱体与四氧化三钴技改公示",
+          "detail": "现有前驱体67,000吨/年，技改后39,500吨/年。",
+          "kind": "审批",
+          "project_id": "CN080",
+          "source_url": "http://www.nxcity.gov.cn/zw229/fdzdgknr/msxx/hjbh1/jsxmhjyxpjsp/202512/t20251203_12091049.html",
+          "source_title": "宁乡市人民政府：中伟新能源（中国）总部产业基地技改项目环评拟审批公示，2025年12月3日"
         }
       ],
-      "coverage_note": ""
+      "coverage_note": "原目录“湖南中伟新材料有限公司”与公开建设单位“湖南中伟新能源科技有限公司”的名称沿革仍需核对；暂保留原ID和别名。；具体硫酸镍外售客户、跨基地逐笔调拨及长期供货协议尚待补充。"
     },
     "CN081": {
       "project_id": "CN081",
@@ -10130,8 +10184,27 @@
     },
     "CN141": {
       "project_id": "CN141",
-      "events": [],
-      "coverage_note": ""
+      "events": [
+        {
+          "date": "2022",
+          "label": "小曹娥前驱体年产22,000吨",
+          "detail": "余姚市政府报道2022年产量和产值。",
+          "kind": "经营",
+          "project_id": "CN141",
+          "source_url": "https://www.yy.gov.cn/art/2023/1/29/art_1229137410_59057625.html",
+          "source_title": "余姚市人民政府：七成员工留岗过年 容百科技小曹娥分公司新年生产气象足，2023年1月29日"
+        },
+        {
+          "date": "2025-04-13",
+          "label": "6万吨前驱体项目调减结项",
+          "detail": "1-1期3万吨建成，1-2期3万吨未开工并调减。",
+          "kind": "投资调整",
+          "project_id": "CN141",
+          "source_url": "https://finance.sina.cn/2025-04-13/detail-ineszezv0412344.d.html",
+          "source_title": "新浪财经：容百科技调减6万吨三元前驱体项目并结项，2025年4月13日"
+        }
+      ],
+      "coverage_note": "补充最新环评验收、排污许可、股权沿革和单厂客户证据；不把集团计划或同名主体资料并入。"
     },
     "CN142": {
       "project_id": "CN142",
@@ -14675,6 +14748,15 @@
     },
     {
       "date": "2022",
+      "label": "小曹娥前驱体年产22,000吨",
+      "detail": "余姚市政府报道2022年产量和产值。",
+      "kind": "经营",
+      "project_id": "CN141",
+      "source_url": "https://www.yy.gov.cn/art/2023/1/29/art_1229137410_59057625.html",
+      "source_title": "余姚市人民政府：七成员工留岗过年 容百科技小曹娥分公司新年生产气象足，2023年1月29日"
+    },
+    {
+      "date": "2022",
       "label": "永久关闭",
       "detail": "长期亏损与债务危机（截至停产时总债务约4.7亿欧元，其中3.512亿欧元欠国家电力公司PPC）；多轮私有化/资产处置招标失败（2021年6轮非约束性投标未能达成交易；2024年8月GEK Terna/AD Holdings财团以'全球能源和镍产品市场不利变化'及法律纠纷为由退出）；2020年2月起进入特别管理程序，2022年7月25日工厂正式全面停产，1,061名员工遭解雇（约400人短期续聘、约100人退休），希腊国家为此支付遣散费约2,237.7万欧元",
       "kind": "运营变化",
@@ -16510,6 +16592,15 @@
       "project_id": "NPI059"
     },
     {
+      "date": "2024-10-12",
+      "label": "硫酸盐溶液扩产技改公示",
+      "detail": "对现有硫酸镍、硫酸钴、氯化钴溶液扩大产能。",
+      "kind": "审批",
+      "project_id": "CN080",
+      "source_url": "http://www.nxcity.gov.cn/zw229/fdzdgknr/msxx/hjbh1/jsxmhjyxpjsp/202410/t20241021_11626757.html",
+      "source_title": "宁乡市人民政府：中伟新能源（中国）总部产业基地四、五期二次技改工程环评审批公示，2024年10月"
+    },
+    {
       "date": "2024-10-15",
       "label": "已出现阴极镍生产批次",
       "detail": "LME申请材料的产品标签显示2024年10月15日已有PTENICO全板阴极镍批次；这证明产品出现，但准确首批合格品日期仍需企业公告。",
@@ -17141,6 +17232,15 @@
     },
     {
       "date": "2025-01",
+      "label": "3#高炉月产创纪录",
+      "detail": "3#高炉当月产量54,332.64吨，日均1,752.6吨。",
+      "kind": "运行变化",
+      "project_id": "CN074",
+      "source_url": "https://finance.sina.cn/2025-02-09/detail-ineivawu6063426.d.html",
+      "source_title": "新浪财经：福建青拓镍业镍铁部3#高炉平均日产1752.6吨，2025年2月9日"
+    },
+    {
+      "date": "2025-01",
       "label": "SLNC项目开工",
       "detail": "MBMA披露SLNC于2025年1月开工，按四个阶段建设、每阶段2.25万镍吨，并以SCM褐铁矿为原料。分期规划不能提前计作现有产能。",
       "kind": "建设",
@@ -17282,6 +17382,24 @@
       "source_url": "https://epaper.stcn.com/pic/202604/08/fd0a1e8f24c3a8b5a64aaac5c41f25d8.pdf",
       "source_title": "华友钴业2025年度募集资金使用报告",
       "project_id": "RF003"
+    },
+    {
+      "date": "2025-04-07",
+      "label": "媒体报道每日新增镍渣",
+      "detail": "报道称鑫海科技每日新增近3万吨镍渣运入堆场。",
+      "kind": "运行变化",
+      "project_id": "CN023",
+      "source_url": "https://cj.sina.com.cn/articles/view/1060093724/3f2fbf1c00101elh2",
+      "source_title": "新浪财经：山东鑫海科技千万吨固废跨省转移顽疾缘何难除，2025年4月7日"
+    },
+    {
+      "date": "2025-04-13",
+      "label": "6万吨前驱体项目调减结项",
+      "detail": "1-1期3万吨建成，1-2期3万吨未开工并调减。",
+      "kind": "投资调整",
+      "project_id": "CN141",
+      "source_url": "https://finance.sina.cn/2025-04-13/detail-ineszezv0412344.d.html",
+      "source_title": "新浪财经：容百科技调减6万吨三元前驱体项目并结项，2025年4月13日"
     },
     {
       "date": "2025-04-13",
@@ -17491,6 +17609,15 @@
       "project_id": "CN075"
     },
     {
+      "date": "2025-09-17",
+      "label": "连铸机项目环评公示",
+      "detail": "拟增设4套70吨合金熔化炉熔化镍铁、铬铁等原料。",
+      "kind": "审批",
+      "project_id": "CN065",
+      "source_url": "http://www.yangjiang.gov.cn/yjsthjj/gkmlpt/content/0/885/mpost_885533.html",
+      "source_title": "阳江市生态环境局：广青高品质不锈钢提质增效及连铸机项目环评拟审批公示，2025年9月17日"
+    },
+    {
       "date": "2025-09-20",
       "label": "三万吨电积镍产线开通",
       "detail": "青美邦举行每年3万吨电积镍产线开通仪式，公司称安装至调试约五个月，产品为纯度超过99.97%的镍板。",
@@ -17543,6 +17670,15 @@
       "source_url": "https://assets.merdekabattery.com/dist/documents/FY2025%20Financial%20Results%20Presentation%20-%201%20April%202026.pdf",
       "source_title": "MBMA 2025财年业绩演示",
       "project_id": "P01"
+    },
+    {
+      "date": "2025-10-09",
+      "label": "首登中国制造业企业500强",
+      "detail": "阳江日报报道广青2024年营收增长并完成40万吨不锈钢带项目。",
+      "kind": "经营",
+      "project_id": "CN065",
+      "source_url": "http://www.yjgx.gov.cn/zzzq/gxyw/content/post_889896.html",
+      "source_title": "阳江高新区：广青科技首登2025中国制造业企业500强，2025年10月9日"
     },
     {
       "date": "2025-10-13",
@@ -17615,6 +17751,15 @@
       "source_url": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12004812&stockid=600711",
       "source_title": "Chengtun audit report",
       "project_id": "P38"
+    },
+    {
+      "date": "2025-12-03",
+      "label": "前驱体与四氧化三钴技改公示",
+      "detail": "现有前驱体67,000吨/年，技改后39,500吨/年。",
+      "kind": "审批",
+      "project_id": "CN080",
+      "source_url": "http://www.nxcity.gov.cn/zw229/fdzdgknr/msxx/hjbh1/jsxmhjyxpjsp/202512/t20251203_12091049.html",
+      "source_title": "宁乡市人民政府：中伟新能源（中国）总部产业基地技改项目环评拟审批公示，2025年12月3日"
     },
     {
       "date": "2025-12-08",
