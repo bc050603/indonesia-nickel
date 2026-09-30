@@ -5570,22 +5570,35 @@
     },
     "CN072": {
       "key": "unknown",
-      "label": "运行状态待核",
-      "period": "2023",
-      "note": "债券报告称两条RKEF已建成，但未披露运行或产销量，不能据“建成”判定在产。",
-      "reviewed_at": "2026-09-21",
+      "label": "状态待核（2024年起以不锈钢轧制为主）",
+      "period": "2024—2026",
+      "note": "2024年起以不锈钢棒线材、无缝管为主业；镍铁线近期运行未见直接记录。",
+      "reviewed_at": "2026-09-30",
       "article_id": "CN072",
       "sources": [
         {
-          "title": "临沂城市发展集团2023年债券中期报告",
+          "title": "盛阳集团：山东临港有色金属年产70万吨高端不锈钢棒线材项目点火，2024年8月12日",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA3OTE5NDYwOA==&mid=2649934453&idx=4&sn=e09f18decf83356003b0b1ade686a887"
+        },
+        {
+          "title": "临沂临港报道：以山东临港有色金属有限公司为运营主体的不锈钢棒线材与无缝钢管产业，2026年3月",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjgwNA==&mid=2656823002&idx=2&sn=3d946848b88ba0027cc0e08b54547386"
+        },
+        {
+          "title": "临沂城市发展集团2023年公司债券中期报告，第12—13页，2023年8月31日",
           "url": "https://static.sse.com.cn/disclosure/bond/announcement/corporate/c/new/2023-08-31/139306_20230831_X1VX.pdf"
         }
       ],
       "products": [
         {
-          "product": "镍铁（RKEF）",
-          "status": "unknown",
-          "period": "2023"
+          "product": "不锈钢棒线材",
+          "status": "在建/运行报道",
+          "period": "2024—2026"
+        },
+        {
+          "product": "NPI／镍铁",
+          "status": "待核",
+          "period": "—"
         }
       ]
     },
@@ -6470,24 +6483,18 @@
     },
     "CN107": {
       "key": "unknown",
-      "label": "运行状态待核",
-      "period": "2021",
-      "note": "2021年报仅为历史线索，未找到近期运行披露。",
-      "reviewed_at": "2026-09-21",
+      "label": "状态待核（硫酸钴在产；硫酸镍为拟副产）",
+      "period": "2025年3月",
+      "note": "现有3,000吨硫酸钴项目已验收；硫酸镍为改扩建拟副产，未见投产。",
+      "reviewed_at": "2026-09-30",
       "article_id": "CN107",
       "sources": [
         {
-          "title": "三晟2021年报",
-          "url": "https://static.cninfo.com.cn/finalpage/2022-03-30/1212731035.PDF"
+          "title": "江山市人民政府：浙江三晟化工有限公司改扩建项目环评公示，2025年3月18日",
+          "url": "https://www.jiangshan.gov.cn/art/2025/3/18/art_1229857236_30871.html"
         }
       ],
-      "products": [
-        {
-          "product": "镍钴化学品",
-          "status": "unknown",
-          "period": "2021"
-        }
-      ]
+      "products": []
     },
     "CN108": {
       "key": "unknown",
@@ -7034,27 +7041,33 @@
       ]
     },
     "CN129": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "2023",
-      "note": "安全评价和环保资料显示项目方向为镍钴锰锂回收，但未找到验收后连续生产证据。",
-      "reviewed_at": "2026-09-21",
+      "key": "operating",
+      "label": "已投产（硫酸钴与电池回收，2023年记录）",
+      "period": "2023年5月",
+      "note": "安全现状评价称已投产；镍产品为副产氢氧化镍838吨/年，硫酸镍生产未证实。",
+      "reviewed_at": "2026-09-30",
       "article_id": "CN129",
       "sources": [
         {
-          "title": "鼎鑫安全评价",
+          "title": "中国检验认证集团：上饶市鼎鑫金属化工有限公司安全现状评价报告公示，2023年8月28日",
           "url": "https://fjkt.ccic.com/xxgk/xmgs/aqpjxmgs/art/2023/art_ktjc05b3f76546cfb870668d89df02931.html"
-        },
-        {
-          "title": "鼎鑫清洁生产",
-          "url": "https://www.jxhbjl.com/nd.jsp?_ngc=-1&fromColId=-1&groupId=7&id=253"
         }
       ],
       "products": [
         {
-          "product": "镍钴锰锂回收产品",
-          "status": "未知",
+          "product": "硫酸钴",
+          "status": "在产",
           "period": "2023"
+        },
+        {
+          "product": "氢氧化镍（副产）",
+          "status": "在产",
+          "period": "2023"
+        },
+        {
+          "product": "硫酸镍",
+          "status": "未证实",
+          "period": "—"
         }
       ]
     },
@@ -7113,31 +7126,28 @@
       ]
     },
     "CN132": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "2023",
-      "note": "公开资料列三元前驱体、正极材料和回收业务，未找到镍盐车间近期状态。",
-      "reviewed_at": "2026-09-21",
+      "key": "trader",
+      "label": "镍盐下游用户（正极材料生产）",
+      "period": "2023年竣工；2025年2月验收",
+      "note": "主要生产镍钴锰酸锂正极材料；未见硫酸镍生产线。",
+      "reviewed_at": "2026-09-30",
       "article_id": "CN132",
       "sources": [
         {
-          "title": "瑞源环评验收",
+          "title": "搜狐转载：大连瑞源动力锂离子电池正极高镍三元生产技改项目竣工环保验收监测报告表，2026年5月",
           "url": "https://www.sohu.com/a/1026243746_121779604"
-        },
-        {
-          "title": "瑞源官网",
-          "url": "https://en.dlrydl.com/"
-        },
-        {
-          "title": "项目介绍",
-          "url": "https://pitchhub.36kr.com/project/2073368240685319"
         }
       ],
       "products": [
         {
-          "product": "三元前驱体、镍钴锰盐",
-          "status": "未知",
-          "period": "2023"
+          "product": "三元正极材料",
+          "status": "在产",
+          "period": "2025"
+        },
+        {
+          "product": "硫酸镍",
+          "status": "未见生产线",
+          "period": "—"
         }
       ]
     },
