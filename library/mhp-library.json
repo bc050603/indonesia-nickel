@@ -2192,7 +2192,7 @@
       "name": "Meta Gördes",
       "legal": "Meta Nikel Kobalt Madencilik Sanayi ve Ticaret A.Ş.",
       "group": "Zorlu Holding／Vestel体系",
-      "status": "原表称2025停产及2026Q1拟复产；本轮取得现有设施原件但未取得复产确认。不能把官网常设介绍当作当月在产。",
+      "status": "暂停生产（2025年2月起）；工会与地方媒体报道公司2025年2月决定暂时停产并大规模裁员；2026年有扩建环评，未见复产确认。",
       "capacity": "官网既有10000镍吨/年；二期20000镍吨是扩建目标。原表1万口径支持，不能把一期二期相加为3万。",
       "ownership": "2016曾成为Zorlu100%子公司，2018 Vestel购入50%；集团归属Zorlu不等于其一直直接持有100%。最新登记比例及2026交易仍待文件。",
       "process": "HPAL将红土矿镍钴浸出，净化后沉淀MHP。官网给255°C、46bar钛合金釜，不是低冰镍硫化流程。",
@@ -2200,7 +2200,7 @@
       "history": "2007纳入Zorlu合作体系\n\n2014试产；2015首次出口\n\n2018 Vestel取得50%历史权益",
       "customers": "原表华友、金川及韩国客户线索未取得逐客户合同。MHP可送下游精炼为硫酸镍或金属，但不指定具名终端。",
       "rationale": "Zorlu为土耳其多业务工业集团，Vestel拥有电子及电器产业；布局镍钴意在提高矿产附加值和进入电池原料。已建MHP与拟建硫酸盐/金属精炼、制酸应分层。",
-      "uncertainties": "最新停复产与亏损原因的官方确认\n\n2026股权变化\n\n客户、承购期限与产品比例",
+      "uncertainties": "公司或上市公司对停产、复产的正式披露；2026年二期扩建与废渣回收项目进展；客户与承购安排。",
       "sources": [
         {
           "title": "Meta企业沿革及HPAL技术",
@@ -2219,6 +2219,42 @@
           "url": "https://zorlu.com.tr/media/1olilxxi/zor_frae_2024.pdf",
           "date": "2025",
           "evidence": "印刷132起矿业部分：Vestel50%、现有生产和尾矿扩建、拟制酸和精炼项目。"
+        },
+        {
+          "title": "全球普查底表 · NI-002 · 总表第3行",
+          "url": "library/global-register.csv"
+        },
+        {
+          "title": "www.metanikel.com.tr · 梅塔镍钴(Meta Nikel Kobalt)格尔德斯(Gördes)HPAL厂参考资料",
+          "url": "https://www.metanikel.com.tr/en/our-facilities/gordes-facility"
+        },
+        {
+          "title": "www.mogas.com · 梅塔镍钴(Meta Nikel Kobalt)格尔德斯(Gördes)HPAL厂参考资料",
+          "url": "https://www.mogas.com/CMSPages/GetFile.aspx?guid=0619792b-1515-4ead-820b-c5a046ba4b15"
+        },
+        {
+          "title": "d3e2i5nuh73s15.cloudfront.net · 梅塔镍钴(Meta Nikel Kobalt)格尔德斯(Gördes)HPAL厂参考资料",
+          "url": "https://d3e2i5nuh73s15.cloudfront.net/wp-content/uploads/2023/05/ALTA-2023-NCC-3-Paper-Meta-Nikel.pdf"
+        },
+        {
+          "title": "www.ecfmuhendislik.com.tr · 梅塔镍钴(Meta Nikel Kobalt)格尔德斯(Gördes)HPAL厂参考资料",
+          "url": "https://www.ecfmuhendislik.com.tr/en/projects/meta-nikel-kobalt-madencilik-11000-ton"
+        },
+        {
+          "title": "metanikel.com.tr · 梅塔镍钴(Meta Nikel Kobalt)格尔德斯(Gördes)HPAL厂参考资料",
+          "url": "https://metanikel.com.tr/public/index.php/uretiyoruz/tesisimiz"
+        },
+        {
+          "title": "Bağımsız Maden İş：Meta Nikel işçi kıyımına dair açıklama，2025年2月5日",
+          "url": "https://bagimsizmaden.org/2025/02/05/meta-nikel-madencilikte-yapilan-isci-kiyimina-dair-aciklamamizdir/"
+        },
+        {
+          "title": "Manisa Haberleri：Çok sayıda işçi işten çıkarıldı，2025年2月23日",
+          "url": "https://www.manisahaberleri.com/cok-sayida-isci-isten-cikarildi"
+        },
+        {
+          "title": "Tek Referans：Zorlu’dan Gördes nikel kobalt tesisinde kapasite artışı，2026年2月3日",
+          "url": "https://tekreferans.com/zorlu-dan-gordes-havzasindaki-nikel-kobalt-tesisinde-kapasite-artisi"
         }
       ],
       "classification": "MHP生产厂；运行状态待核",

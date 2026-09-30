@@ -4605,7 +4605,7 @@
       "mhp_ids": [
         "MHP034"
       ],
-      "search_text": "MHP034 Meta Nikel Kobalt Madencilik Sanayi ve Ticaret A.Ş. 梅塔格尔德斯镍钴项目 Meta Nikel Kobalt Madencilik Sanayi ve Ticaret A.Ş. NI-002 META Nikel Kobalt Madencilik Sanayi ve Ticaret A.Ş.（土耳其Zorlu Holding旗下） 土耳其 Turkey 马尼萨省(Manisa) Gördes县 HPAL MHP(混合氢氧化镍钴中间品) 红土矿(褐铁矿) ",
+      "search_text": "MHP034 Meta Nikel Kobalt Madencilik Sanayi ve Ticaret A.Ş. 梅塔格尔德斯镍钴项目 Meta Nikel Kobalt Madencilik Sanayi ve Ticaret A.Ş. NI-002 META Nikel Kobalt Madencilik Sanayi ve Ticaret A.Ş.（土耳其Zorlu Holding旗下） 土耳其 Turkey 马尼萨省(Manisa) Gördes县 HPAL MHP(混合氢氧化镍钴中间品) 红土矿(褐铁矿)  2025年2月初，土耳其矿工工会发表声明称，Meta Nikel已决定暂时停止生产，约700名员工须在2月10日前选择六个月无薪休假或解除合同，公司给出的理由是亏损、成本上升和产品市场价值下降。马尼萨地方媒体2月下旬报道，公司已裁减大部分员工，采矿活动放缓。上述信息来自工会与地方媒体，尚未见公司或上市公司披露的原件。 2026年2月的行业报道称，Gördes已建成每年1万吨镍金属能力，二期完成后将达到2万吨，并已为约每小时120吨的废渣回收设施申请环评。这些是产能与投资信息，没有说明工厂已经复产。",
       "display_name": "Meta Nikel Kobalt Madencilik Sanayi ve Ticaret A.Ş. 梅塔格尔德斯镍钴项目",
       "aliases": [
         "Meta Gördes",
@@ -4617,7 +4617,9 @@
       "global_id": "NI-002",
       "global_scopes": [
         "mhp"
-      ]
+      ],
+      "research_summary": "Meta Gördes是土耳其马尼萨省的红土镍湿法项目，与Zorlu和Vestel体系相关。工厂以高压酸浸提取镍钴，生产含镍钴中间品，曾于2014年试产、2015年首次出口。",
+      "research_updated_at": "2026-09-30"
     },
     {
       "id": "MHP035",
@@ -6463,14 +6465,16 @@
         "东京镍业公司(后更名Vale Japan)松阪制炼所",
         "Tokyo Nickel Co., Ltd. / Vale Japan Ltd."
       ],
-      "search_text": "GL047 Tokyo Nickel Co., Ltd. / Vale Japan Ltd. 东京镍业公司(后更名Vale Japan)松阪制炼所 Tokyo Nickel Co., Ltd. / Vale Japan Ltd. NI-047 Vale Japan Ltd.（Vale Canada 87.2%、住友金属矿山(SMM) 12.8%，据USGS 2019年数据；2020年代最新股权未确认） 日本 Japan 三重県松阪市 (Mie Prefecture, Matsusaka/Matsuzaka) 氧化镍焙烧/烧结 氧化镍烧结块、颗粒、砖块(nickel oxide sinter/granules/briquettes) 高冰镍 ",
+      "search_text": "GL047 Tokyo Nickel Co., Ltd. / Vale Japan Ltd. 东京镍业公司(后更名Vale Japan)松阪制炼所 Tokyo Nickel Co., Ltd. / Vale Japan Ltd. NI-047 Vale Japan Ltd.（Vale Canada 87.2%、住友金属矿山(SMM) 12.8%，据USGS 2019年数据；2020年代最新股权未确认） 日本 Japan 三重県松阪市 (Mie Prefecture, Matsusaka/Matsuzaka) 氧化镍焙烧/烧结 氧化镍烧结块、颗粒、砖块(nickel oxide sinter/granules/briquettes) 高冰镍  Vale 2024年度20-F年报在资产列表中列出日本松阪精炼厂，由Vale Japan Limited运营，名义能力为每年6万吨中间镍产品；Vale Base Metals持股87.18%，住友金属矿山持有其余股份。Vale Base Metals官网介绍，松阪每年加工约6万吨氧化镍烧结块和Tonimet®压块。官方资料没有单列松阪的年度产量。",
       "country_codes": [
         "JP"
       ],
       "global_id": "NI-047",
       "global_scopes": [
         "other"
-      ]
+      ],
+      "research_summary": "东京镍业公司(后更名Vale Japan)松阪制炼所位于日本的三重県松阪市 (Mie Prefecture, Matsusaka/Matsuzaka)。该项目采用氧化镍焙烧/烧结路线，产品资料涉及氧化镍烧结块、颗粒、砖块(nickel oxide sinter/granules/briquettes)。",
+      "research_updated_at": "2026-09-30"
     },
     {
       "id": "GL048",
@@ -9214,14 +9218,16 @@
         "穆松加蒂镍红土矿项目(规划中，从未建成)",
         "Musongati Nickel Laterite Project (planned, never built)"
       ],
-      "search_text": "GL150 Musongati Nickel Laterite Project (planned, never built) 穆松加蒂镍红土矿项目(规划中，从未建成) Musongati Nickel Laterite Project (planned, never built) NI-150 Burundi Musongati Mining (BMM)——Kermas Corporation持股85%，布隆迪政府持股15% 布隆迪 Burundi 鲁塔纳省(Rutana)，穆松加蒂(Musongati) 其它(工艺路线未公开，项目未建成) 计划中(未投产)：拟产出镍生铁或镍锍/镍中间品，具体工艺路线本次调研未能核实 红土矿(混合) ",
+      "search_text": "GL150 Musongati Nickel Laterite Project (planned, never built) 穆松加蒂镍红土矿项目(规划中，从未建成) Musongati Nickel Laterite Project (planned, never built) NI-150 Burundi Musongati Mining (BMM)——Kermas Corporation持股85%，布隆迪政府持股15% 布隆迪 Burundi 鲁塔纳省(Rutana)，穆松加蒂(Musongati) 其它(工艺路线未公开，项目未建成) 计划中(未投产)：拟产出镍生铁或镍锍/镍中间品，具体工艺路线本次调研未能核实 红土矿(混合)  项目从未建成，冶炼或湿法工艺路线没有确定。矿床为红土镍矿，伴生钴、铜和铂族金属等资源。 2026年3月10日，Lifezone Metals与布隆迪政府在华盛顿签署穆松加蒂镍项目为期14个月的独家协议。协议先安排30天的范围界定阶段，可延长以覆盖勘探和经济可行性研究；签约时有美国国务院官员和KoBold Metals代表在场。协议属于评估安排，不代表已决定开发或开工；它与此前Burundi Musongati Mining（Kermas持股85%）安排之间的关系，新闻稿没有说明。",
       "country_codes": [
         "BI"
       ],
       "global_id": "NI-150",
       "global_scopes": [
         "matte"
-      ]
+      ],
+      "research_summary": "穆松加蒂是布隆迪鲁塔纳省的大型红土镍矿，数十年来多次勘探和研究，但从未建成矿山或冶炼厂。2026年3月，Lifezone Metals与布隆迪政府签署为期14个月的独家协议，项目重新进入评估阶段。",
+      "research_updated_at": "2026-09-30"
     },
     {
       "id": "GL151",
@@ -9707,7 +9713,7 @@
       "aliases": [
         "宿迁翔翔实业有限公司"
       ],
-      "search_text": "宿迁翔翔实业有限公司 宿迁翔翔实业有限公司 江苏 股权沿革见项目正文及资料 宿迁翔翔实业有限公司是江苏宿迁登记的民营镍铁相关企业。公开招股书将其列为红土镍矿、镍合金产业链中的交易对手，并记载注册地址为宿迁经济开发区深圳路69号。 宿迁翔翔实业有限公司",
+      "search_text": "宿迁翔翔实业有限公司 宿迁翔翔实业有限公司 江苏 股权沿革见项目正文及资料 宿迁翔翔实业有限公司是江苏宿迁登记的民营镍铁相关企业。公开招股书将其列为红土镍矿、镍合金产业链中的交易对手，并记载注册地址为宿迁经济开发区深圳路69号。 宿迁翔翔实业有限公司 宿迁经济技术开发区2025年9月公布的事故情况记载，2025年8月8日，一家再生资源公司在宿迁翔翔金属有限公司厂区进行矿热炉拆除作业时发生高处坠落事故，项目名称为“宿迁翔翔金属有限公司废钢处置”。这说明厂区原有矿热炉，并已在2025年进入拆除处置。 工商变更记录显示，公司于2024年10月由宿迁翔翔实业有限公司更名为宿迁翔翔金属有限公司，注册资本由1.2亿元减至100万元；2024年6月有申请破产清算的立案记录；2026年9月8日准予简易注销，登记理由为“未开业、无债权债务”。",
       "country_codes": [
         "CN"
       ],
@@ -9715,7 +9721,9 @@
         "npi"
       ],
       "china_id": "CN002",
-      "record_type": "source-scope"
+      "record_type": "source-scope",
+      "research_summary": "宿迁翔翔实业有限公司是江苏宿迁登记的民营镍铁相关企业。公开招股书将其列为红土镍矿、镍合金产业链中的交易对手，并记载注册地址为宿迁经济开发区深圳路69号。",
+      "research_updated_at": "2026-09-30"
     },
     {
       "id": "CN003",
@@ -9791,7 +9799,7 @@
       "aliases": [
         "江苏德龙镍业有限公司"
       ],
-      "search_text": "江苏德龙镍业有限公司 江苏德龙镍业有限公司 江苏 公开工商资料称自然人投资或控股；业务与德龙钢铁集团关联，具体股权穿透需以最新登记为准 江苏德龙镍业有限公司是德龙钢铁产业集团在江苏响水沿海经济开发区布局的镍铁和不锈钢一体化主体。公司2010年成立，公开官网称以菲律宾、印度尼西亚红土镍矿为原料，采用RKEF生产液态镍铁，再热装进入VOD、LF炼钢并轧制不锈钢；项目环评和政府产能置换文件还披露后续镍铁及不锈钢项目。不同年份和法人层级的统计口径应分开理解。 江苏德龙镍业有限公司",
+      "search_text": "江苏德龙镍业有限公司 江苏德龙镍业有限公司 江苏 公开工商资料称自然人投资或控股；业务与德龙钢铁集团关联，具体股权穿透需以最新登记为准 江苏德龙镍业有限公司是德龙钢铁产业集团在江苏响水沿海经济开发区布局的镍铁和不锈钢一体化主体。公司2010年成立，公开官网称以菲律宾、印度尼西亚红土镍矿为原料，采用RKEF生产液态镍铁，再热装进入VOD、LF炼钢并轧制不锈钢；项目环评和政府产能置换文件还披露后续镍铁及不锈钢项目。不同年份和法人层级的统计口径应分开理解。 江苏德龙镍业有限公司 2024年7月，债权人厦门象屿在公告中转述控股股东了解到的情况，称江苏德龙、德丰金属、巨合金属、恒生不锈钢四家公司在政府监管下仍正常生产运营，具备滚动交货能力。这是债权人的转述，没有给出响水镍铁厂的产量。 此后德龙系企业进入破产重整。浙商中拓2026年3月公告，公司已于1月14日与江苏德龙等30家公司及其管理人签署重整投资协议，作为部分资产的重整投资人；响水法院于2026年3月24日裁定批准重整计划并终止重整程序。公告没有涉及生产或停产情况。",
       "country_codes": [
         "CN"
       ],
@@ -9799,7 +9807,9 @@
         "npi"
       ],
       "china_id": "CN005",
-      "record_type": "source-scope"
+      "record_type": "source-scope",
+      "research_summary": "江苏德龙镍业有限公司是德龙钢铁产业集团在江苏响水沿海经济开发区布局的镍铁和不锈钢一体化主体。公司2010年成立，公开官网称以菲律宾、印度尼西亚红土镍矿为原料，采用RKEF生产液态镍铁，再热装进入VOD、LF炼钢并轧制不锈钢；项目环评和政府产能置换文件还披露后续镍铁及不锈钢项目。不同年份和法人层级的统计口径应分开理解。",
+      "research_updated_at": "2026-09-30"
     },
     {
       "id": "CN006",
@@ -10026,7 +10036,9 @@
         "npi"
       ],
       "china_id": "CN013",
-      "record_type": "source-scope"
+      "record_type": "source-scope",
+      "research_summary": "光大冶金发展（大连）有限公司于2011年在大连金州新区大李家街道启动镍铁联产不锈钢型材项目。公开报道记载项目总投资32.5亿元，规划年产精镍铁12万吨和不锈钢型材27万吨，由宁波慈溪光辉金属材料有限公司与宁波更大集团投资建设，分三期建设。项目报道披露了规划投资和产能。",
+      "research_updated_at": "2026-09-30"
     },
     {
       "id": "CN014",
@@ -12223,7 +12235,7 @@
       "aliases": [
         "广西智亮新材料股份有限公司"
       ],
-      "search_text": "广西智亮新材料股份有限公司 广西智亮新材料股份有限公司 广西 股权沿革见项目正文及资料 广西智亮新材料股份有限公司位于广西，其公开项目资料涉及新能源电池材料与含金属资源加工。 广西智亮新材料股份有限公司",
+      "search_text": "广西智亮新材料股份有限公司 广西智亮新材料股份有限公司 广西 股权沿革见项目正文及资料 广西智亮新材料股份有限公司位于广西，其公开项目资料涉及新能源电池材料与含金属资源加工。 广西智亮新材料股份有限公司 人民网2023年9月报道，广西智亮新材料项目经过11个多月建设，一期已全部建成，并于当年7月开始试产，当时有160余名员工在生产线上工作。此后是否转入稳定商业生产、二期是否建设，没有找到政府或企业的正式披露。",
       "country_codes": [
         "CN"
       ],
@@ -12231,7 +12243,9 @@
         "sulfate"
       ],
       "china_id": "CN090",
-      "record_type": "source-scope"
+      "record_type": "source-scope",
+      "research_summary": "广西智亮新材料股份有限公司位于广西，其公开项目资料涉及新能源电池材料与含金属资源加工。",
+      "research_updated_at": "2026-09-30"
     },
     {
       "id": "CN091",
@@ -13521,7 +13535,7 @@
       "aliases": [
         "贵州鹏程新材料有限公司"
       ],
-      "search_text": "贵州鹏程新材料有限公司 贵州鹏程新材料有限公司 贵州 2018年成立；2021年并购进入长虹格润体系 贵州鹏程新材料有限公司位于铜仁大龙，2018年进入废旧锂电池资源化领域，后与长虹格润的回收业务整合。其加工产品包括镍钴锰盐和碳酸锂。 贵州鹏程新材料有限公司",
+      "search_text": "贵州鹏程新材料有限公司 贵州鹏程新材料有限公司 贵州 2018年成立；2021年并购进入长虹格润体系 贵州鹏程新材料有限公司位于铜仁大龙，2018年进入废旧锂电池资源化领域，后与长虹格润的回收业务整合。其加工产品包括镍钴锰盐和碳酸锂。 贵州鹏程新材料有限公司 大龙经济开发区2026年4月报道，贵州铜仁化能新材料有限公司于2025年10月与贵州长虹鹏程新材料签订为期三年的资产租赁协议，整体承接厂房、设备及公辅设施；同年12月投料生产，2026年1月实现全面达产。厂区因此由承租方化能新材料运营，鹏程作为资产出租方，不再是生产运营主体。",
       "country_codes": [
         "CN"
       ],
@@ -13529,7 +13543,9 @@
         "sulfate"
       ],
       "china_id": "CN135",
-      "record_type": "source-scope"
+      "record_type": "source-scope",
+      "research_summary": "贵州鹏程新材料有限公司位于铜仁大龙，2018年进入废旧锂电池资源化领域，后与长虹格润的回收业务整合。其加工产品包括镍钴锰盐和碳酸锂。",
+      "research_updated_at": "2026-09-30"
     },
     {
       "id": "CN136",
@@ -13833,7 +13849,7 @@
       "aliases": [
         "华泽钴镍材料股份有限公司"
       ],
-      "search_text": "华泽钴镍材料股份有限公司 华泽钴镍材料股份有限公司 四川 股权沿革见项目正文及资料 华泽历史主营包括电解镍及硫酸镍生产、冶炼加工；公开公告披露陕西华泽新材料项目2015年获环评批复，含新能源电池材料子项目。 华泽钴镍材料股份有限公司",
+      "search_text": "华泽钴镍材料股份有限公司 华泽钴镍材料股份有限公司 四川 股权沿革见项目正文及资料 华泽历史主营包括电解镍及硫酸镍生产、冶炼加工；公开公告披露陕西华泽新材料项目2015年获环评批复，含新能源电池材料子项目。 华泽钴镍材料股份有限公司 华泽钴镍股票于2019年5月进入退市整理期，7月8日为最后交易日，7月9日在深圳证券交易所摘牌。退市发生在陕西华泽停产拆迁和平安鑫海硫酸镍线停产之后；此后未见复产或资产处置记录。",
       "country_codes": [
         "CN"
       ],
@@ -13841,7 +13857,9 @@
         "sulfate"
       ],
       "china_id": "CN146",
-      "record_type": "source-scope"
+      "record_type": "source-scope",
+      "research_summary": "华泽历史主营包括电解镍及硫酸镍生产、冶炼加工；公开公告披露陕西华泽新材料项目2015年获环评批复，含新能源电池材料子项目。",
+      "research_updated_at": "2026-09-30"
     },
     {
       "id": "CN147",

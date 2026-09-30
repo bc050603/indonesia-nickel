@@ -1615,16 +1615,24 @@
       "products": []
     },
     "MHP034": {
-      "key": "operating",
-      "label": "在产",
-      "period": "底表核实年份：2026；状态始于2025年",
-      "note": "该记录按全球普查底表列为在产。",
-      "reviewed_at": "2026-09-18",
+      "key": "halted",
+      "label": "暂停生产（2025年2月起）",
+      "period": "2025年2月",
+      "note": "工会与地方媒体报道公司2025年2月决定暂时停产并大规模裁员；2026年有扩建环评，未见复产确认。",
+      "reviewed_at": "2026-09-30",
       "article_id": "MHP034",
       "sources": [
         {
-          "title": "全球普查底表 · NI-002 · 总表第3行",
-          "url": "library/global-register.csv"
+          "title": "Bağımsız Maden İş：Meta Nikel işçi kıyımına dair açıklama，2025年2月5日",
+          "url": "https://bagimsizmaden.org/2025/02/05/meta-nikel-madencilikte-yapilan-isci-kiyimina-dair-aciklamamizdir/"
+        },
+        {
+          "title": "Manisa Haberleri：Çok sayıda işçi işten çıkarıldı，2025年2月23日",
+          "url": "https://www.manisahaberleri.com/cok-sayida-isci-isten-cikarildi"
+        },
+        {
+          "title": "Tek Referans：Zorlu’dan Gördes nikel kobalt tesisinde kapasite artışı，2026年2月3日",
+          "url": "https://tekreferans.com/zorlu-dan-gordes-havzasindaki-nikel-kobalt-tesisinde-kapasite-artisi"
         }
       ],
       "products": []
@@ -2605,15 +2613,19 @@
     },
     "GL047": {
       "key": "operating",
-      "label": "在产",
-      "period": "底表核实年份：2026；状态始于2023年",
-      "note": "该记录按全球普查底表列为在产。",
-      "reviewed_at": "2026-09-18",
+      "label": "在产（官方资料列示）",
+      "period": "Vale 2024年20-F；官网现行介绍",
+      "note": "Vale年报和官网仍将松阪列为运营资产，名义能力6万吨/年；年度产量未单列。",
+      "reviewed_at": "2026-09-30",
       "article_id": "GL047",
       "sources": [
         {
-          "title": "全球普查底表 · NI-047 · 总表第48行",
-          "url": "library/global-register.csv"
+          "title": "Vale S.A.：2024年度Form 20-F（资产列表：Matsusaka, Japan）",
+          "url": "https://www.sec.gov/Archives/edgar/data/917851/000129281425001137/valeform20f_2024.htm"
+        },
+        {
+          "title": "Vale Base Metals：Matsusaka运营介绍",
+          "url": "https://valebasemetals.com/our-operations/matsusaka/"
         }
       ],
       "products": []
@@ -4034,16 +4046,20 @@
       "products": []
     },
     "GL150": {
-      "key": "cancelled",
-      "label": "项目中止(未建成)",
-      "period": "底表核实年份：2011；状态始于2011年",
-      "note": "该记录按全球普查底表列为项目中止(未建成)。停产及变化背景见正文。",
-      "reviewed_at": "2026-09-18",
+      "key": "planned",
+      "label": "重新评估中（未建成）",
+      "period": "2026年3月独家协议",
+      "note": "2026年3月Lifezone与布隆迪政府签署14个月独家评估协议；项目从未建成。",
+      "reviewed_at": "2026-09-30",
       "article_id": "GL150",
       "sources": [
         {
-          "title": "全球普查底表 · NI-150 · 总表第151行",
+          "title": "全球普查底表",
           "url": "library/global-register.csv"
+        },
+        {
+          "title": "Lifezone Metals：Exclusivity Agreement over the Musongati Nickel Project in Burundi，2026年3月10日",
+          "url": "https://ir.lifezonemetals.com/news/press-releases/news-details/2026/Lifezone-Announces-Exclusivity-Agreement-over-the-Musongati-Nickel-Project-in-Burundi/default.aspx"
         }
       ],
       "products": []
@@ -4311,19 +4327,29 @@
       ]
     },
     "CN002": {
-      "key": "unknown",
-      "label": "状态待核（交易对手记录）",
-      "period": "2015资料",
-      "note": "招股书只证明其曾参与产业链交易，不能推定其仅为贸易主体，也不能确认有冶炼装置。",
-      "reviewed_at": "2026-09-21",
+      "key": "closed",
+      "label": "已关闭（2025年拆除矿热炉，2026年注销）",
+      "period": "2025年8月拆除；2026年9月注销",
+      "note": "厂区矿热炉2025年8月进行拆除作业，公司2026年9月简易注销。",
+      "reviewed_at": "2026-09-30",
       "article_id": "CN002",
       "sources": [
         {
-          "title": "永兴特钢招股书",
-          "url": "https://pdf.dfcfw.com/pdf/H2_AN201503110008730325_1.pdf"
+          "title": "宿迁经济技术开发区：宿迁翔翔金属有限公司废钢处置项目“8·8”高处坠落事故情况，2025年9月30日",
+          "url": "http://kfq.suqian.gov.cn/sjjkfq/yjgl/202509/b6cd618ba3e446e48e70b597b9476bfe.shtml"
+        },
+        {
+          "title": "企查查：宿迁翔翔金属有限公司工商变更记录（2026年9月快照）",
+          "url": "https://www.qcc.com/firm/6092adc614073c8940f235b92dbe5aad.html"
         }
       ],
-      "products": []
+      "products": [
+        {
+          "product": "NPI／镍铁",
+          "status": "设备拆除",
+          "period": "2025"
+        }
+      ]
     },
     "CN003": {
       "key": "unknown",
@@ -4357,15 +4383,19 @@
     },
     "CN005": {
       "key": "unknown",
-      "label": "重整中，状态待核",
-      "period": "2024-2026",
-      "note": "法院重整及招募投资人只能证明程序仍在进行，不能推定停产；亦未找到可直接证明恢复生产的材料。",
-      "reviewed_at": "2026-09-21",
+      "label": "状态待核（重整计划2026年3月获批）",
+      "period": "2024年7月经营转述；2026年3月重整计划获批",
+      "note": "2024年7月债权人转述仍正常生产；2026年3月法院批准重整计划，重整后镍铁生产情况未见披露。",
+      "reviewed_at": "2026-09-30",
       "article_id": "CN005",
       "sources": [
         {
-          "title": "江苏德龙等30家公司重整招募",
-          "url": "https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=D61E105E21C817100D9854219CAA082F"
+          "title": "中证网：厦门象屿关于江苏德龙等四家公司债权情况的公告报道，2024年7月28日",
+          "url": "https://www.cs.com.cn/ssgs/gsxw/202407/t20240728_6427570.html"
+        },
+        {
+          "title": "上海证券报：浙商中拓参与江苏德龙等公司重整投资进展公告，2026年3月26日",
+          "url": "https://paper.cnstock.com/html/2026/03/26/content_2192093.htm"
         }
       ],
       "products": []
@@ -5932,25 +5962,19 @@
       ]
     },
     "CN090": {
-      "key": "unknown",
-      "label": "运行状态待核",
-      "period": "2022",
-      "note": "仅见项目环评，未找到验收、产销或持续运行披露。",
-      "reviewed_at": "2026-09-21",
+      "key": "trial",
+      "label": "试生产（2023年记录）",
+      "period": "2023年7月试产",
+      "note": "一期2023年7月开始试产；此后稳定生产情况未见正式披露。",
+      "reviewed_at": "2026-09-30",
       "article_id": "CN090",
       "sources": [
         {
-          "title": "广西智亮环评公示",
-          "url": "https://epaper.gxrb.com.cn/gxrb2/page/1/2022-09-08/013/64901662592961662.pdf"
+          "title": "人民网广西频道：广西智亮新材料项目一期试产报道，2023年9月13日",
+          "url": "http://gx.people.com.cn/n2/2023/0913/c179464-40569375.html"
         }
       ],
-      "products": [
-        {
-          "product": "新能源材料（项目）",
-          "status": "unknown",
-          "period": "2022"
-        }
-      ]
+      "products": []
     },
     "CN091": {
       "key": "operating",
@@ -7108,29 +7132,19 @@
       ]
     },
     "CN135": {
-      "key": "historical",
-      "label": "历史已投产",
-      "period": "2023",
-      "note": "铜仁政府报道确认鹏程与长虹格润回收业务整合，产品含镍钴锰盐。",
-      "reviewed_at": "2026-09-21",
+      "key": "operating",
+      "label": "厂区在产（2025年10月起出租给化能新材料）",
+      "period": "2025年12月投料；2026年1月达产",
+      "note": "鹏程（现名贵州长虹鹏程新材料）厂房设备整体出租给化能新材料，承租方2026年1月全面达产。",
+      "reviewed_at": "2026-09-30",
       "article_id": "CN135",
       "sources": [
         {
-          "title": "铜仁政府企业报道",
-          "url": "https://www.tongren.gov.cn/2022/0214/263095.shtml"
-        },
-        {
-          "title": "并购报道",
-          "url": "https://www.tongren.gov.cn/2023/0320/296498.shtml"
+          "title": "贵州大龙经济开发区：化能新材料承接长虹鹏程厂区并全面达产，2026年4月",
+          "url": "https://www.dalong.gov.cn/xwzx/yqyw/202604/t20260420_90021776.html"
         }
       ],
-      "products": [
-        {
-          "product": "镍钴锰盐、碳酸锂",
-          "status": "历史生产记录",
-          "period": "2023"
-        }
-      ]
+      "products": []
     },
     "CN136": {
       "key": "unknown",

@@ -1214,15 +1214,6 @@
           "project_id": "MHP034"
         },
         {
-          "date": "2018",
-          "label": "Vestel取得50%历史权益",
-          "detail": "Meta公司沿革记载Vestel于2018年取得50%权益，形成新的股权结构；该权益变化不等于新增产能或扩建完成。",
-          "kind": "股权",
-          "source_url": "https://www.metanikel.com.tr/en/us/our-story",
-          "source_title": "Meta企业沿革及HPAL技术",
-          "project_id": "MHP034"
-        },
-        {
           "date": "2015",
           "label": "开始生产（底表投产年）",
           "detail": "梅塔镍钴(Meta Nikel Kobalt)格尔德斯(Gördes)HPAL厂的底表投产年份；试产、商业投产及前身设施的区分见历史正文。",
@@ -1232,6 +1223,15 @@
           "source_title": "全球普查底表 · NI-002 · 总表第3行"
         },
         {
+          "date": "2018",
+          "label": "Vestel取得50%历史权益",
+          "detail": "Meta公司沿革记载Vestel于2018年取得50%权益，形成新的股权结构；该权益变化不等于新增产能或扩建完成。",
+          "kind": "股权",
+          "source_url": "https://www.metanikel.com.tr/en/us/our-story",
+          "source_title": "Meta企业沿革及HPAL技术",
+          "project_id": "MHP034"
+        },
+        {
           "date": "2025",
           "label": "在产",
           "detail": "底表所列状态起始年；最近核实年份与事件发生年份分别记录。",
@@ -1239,9 +1239,18 @@
           "project_id": "MHP034",
           "source_url": "library/global-register.csv",
           "source_title": "全球普查底表 · NI-002 · 总表第3行"
+        },
+        {
+          "date": "2025-02-05",
+          "label": "公司决定暂时停产",
+          "detail": "工会声明称公司决定暂停生产，约700名员工须选择无薪休假或解约。",
+          "kind": "停产",
+          "project_id": "MHP034",
+          "source_url": "https://bagimsizmaden.org/2025/02/05/meta-nikel-madencilikte-yapilan-isci-kiyimina-dair-aciklamamizdir/",
+          "source_title": "Bağımsız Maden İş：Meta Nikel işçi kıyımına dair açıklama，2025年2月5日"
         }
       ],
-      "coverage_note": "仍缺：最新停复产与亏损原因的官方确认 2026股权变化 客户、承购期限与产品比例"
+      "coverage_note": "公司或上市公司对停产、复产的正式披露；2026年二期扩建与废渣回收项目进展；客户与承购安排。"
     },
     "MHP037": {
       "project_id": "MHP037",
@@ -5468,7 +5477,7 @@
           "source_title": "全球普查底表 · NI-047 · 总表第48行"
         }
       ],
-      "coverage_note": ""
+      "coverage_note": "松阪年度产量；高冰镍原料来源。"
     },
     "GL048": {
       "project_id": "GL048",
@@ -7425,9 +7434,18 @@
           "project_id": "GL150",
           "source_url": "library/global-register.csv",
           "source_title": "全球普查底表 · NI-150 · 总表第151行"
+        },
+        {
+          "date": "2026-03-10",
+          "label": "签署14个月独家评估协议",
+          "detail": "Lifezone与布隆迪政府签署穆松加蒂独家协议。",
+          "kind": "评估",
+          "project_id": "GL150",
+          "source_url": "https://ir.lifezonemetals.com/news/press-releases/news-details/2026/Lifezone-Announces-Exclusivity-Agreement-over-the-Musongati-Nickel-Project-in-Burundi/default.aspx",
+          "source_title": "Lifezone Metals：Exclusivity Agreement over the Musongati Nickel Project in Burundi，2026年3月10日"
         }
       ],
-      "coverage_note": ""
+      "coverage_note": "独家期内的范围界定与可研结果；与Burundi Musongati Mining既有权益的关系。"
     },
     "GL151": {
       "project_id": "GL151",
@@ -7869,8 +7887,27 @@
     },
     "CN002": {
       "project_id": "CN002",
-      "events": [],
-      "coverage_note": ""
+      "events": [
+        {
+          "date": "2025-08-08",
+          "label": "厂区矿热炉拆除作业",
+          "detail": "宿迁经开区通报在翔翔金属厂区拆除矿热炉时发生事故。",
+          "kind": "关闭",
+          "project_id": "CN002",
+          "source_url": "http://kfq.suqian.gov.cn/sjjkfq/yjgl/202509/b6cd618ba3e446e48e70b597b9476bfe.shtml",
+          "source_title": "宿迁经济技术开发区：宿迁翔翔金属有限公司废钢处置项目“8·8”高处坠落事故情况，2025年9月30日"
+        },
+        {
+          "date": "2026-09-08",
+          "label": "准予简易注销",
+          "detail": "工商记录显示宿迁翔翔金属有限公司简易注销。",
+          "kind": "注销",
+          "project_id": "CN002",
+          "source_url": "https://www.qcc.com/firm/6092adc614073c8940f235b92dbe5aad.html",
+          "source_title": "企查查：宿迁翔翔金属有限公司工商变更记录（2026年9月快照）"
+        }
+      ],
+      "coverage_note": "简易注销理由“未开业、无债权债务”与2024年破产清算立案、2025年厂区拆炉记录不一致，需以国家企业信用信息公示系统原件核对；矿热炉台数、投产年份与历史产量。"
     },
     "CN003": {
       "project_id": "CN003",
@@ -7930,9 +7967,18 @@
           "source_url": "https://gxt.jiangsu.gov.cn/art/2017/6/2/art_6300_3030962.html",
           "source_title": "江苏工信厅产能置换公告",
           "project_id": "CN005"
+        },
+        {
+          "date": "2026-03-24",
+          "label": "法院批准重整计划",
+          "detail": "响水法院裁定批准江苏德龙等公司重整计划并终止重整程序。",
+          "kind": "重整",
+          "project_id": "CN005",
+          "source_url": "https://paper.cnstock.com/html/2026/03/26/content_2192093.htm",
+          "source_title": "上海证券报：浙商中拓参与江苏德龙等公司重整投资进展公告，2026年3月26日"
         }
       ],
-      "coverage_note": ""
+      "coverage_note": "江苏德龙最新股东穿透及各法人之间的控制关系；单厂现行产能和各期项目是否全部达产；具体外部客户、长期包销和海外矿权；重整计划执行后响水镍铁线的实际运行和新控股方。"
     },
     "CN006": {
       "project_id": "CN006",
@@ -8067,7 +8113,7 @@
           "project_id": "CN013"
         }
       ],
-      "coverage_note": ""
+      "coverage_note": "最终法人股东与母公司；设备工艺和实际投产；原料、客户、海外关联；正文保留了来源边界或身份核验说明，需结合原始环评、工商或法院文件进一步核对。；报道未给出成立后的最终股权比例，最终法人股东仍需核实。；奠基报道披露的是规划指标；未找到验收、排污许可或生产证明。 现有资料只描述当年的规划或建设，尚不能确定之后是否建成、取消或转作其他用途。；工商快照显示本公司2012年6月成立、2017年5月后更名为中储能材料（大连）有限公司，需以工商原件核对，并确认与2011年奠基项目的对应关系。"
     },
     "CN014": {
       "project_id": "CN014",
@@ -9547,8 +9593,18 @@
     },
     "CN090": {
       "project_id": "CN090",
-      "events": [],
-      "coverage_note": ""
+      "events": [
+        {
+          "date": "2023-07",
+          "label": "一期开始试产",
+          "detail": "人民网报道一期全部建成并于7月试产。",
+          "kind": "试产",
+          "project_id": "CN090",
+          "source_url": "http://gx.people.com.cn/n2/2023/0913/c179464-40569375.html",
+          "source_title": "人民网广西频道：广西智亮新材料项目一期试产报道，2023年9月13日"
+        }
+      ],
+      "coverage_note": "试产后的商业运行、产量及二期建设情况；企业自述“在政府帮扶下逐步恢复生产”所对应的停复产时间。"
     },
     "CN091": {
       "project_id": "CN091",
@@ -10152,8 +10208,27 @@
     },
     "CN135": {
       "project_id": "CN135",
-      "events": [],
-      "coverage_note": ""
+      "events": [
+        {
+          "date": "2025-10",
+          "label": "厂区整体出租给化能新材料",
+          "detail": "三年租赁，承接厂房、设备及公辅设施。",
+          "kind": "资产租赁",
+          "project_id": "CN135",
+          "source_url": "https://www.dalong.gov.cn/xwzx/yqyw/202604/t20260420_90021776.html",
+          "source_title": "贵州大龙经济开发区：化能新材料承接长虹鹏程厂区并全面达产，2026年4月"
+        },
+        {
+          "date": "2026-01",
+          "label": "承租方全面达产",
+          "detail": "化能新材料2025年12月投料，2026年1月全面达产。",
+          "kind": "投产",
+          "project_id": "CN135",
+          "source_url": "https://www.dalong.gov.cn/xwzx/yqyw/202604/t20260420_90021776.html",
+          "source_title": "贵州大龙经济开发区：化能新材料承接长虹鹏程厂区并全面达产，2026年4月"
+        }
+      ],
+      "coverage_note": "化能新材料运营后的产品结构与硫酸镍产量；租赁期满后的安排。"
     },
     "CN136": {
       "project_id": "CN136",
@@ -10321,9 +10396,18 @@
           "source_url": "https://static.cninfo.com.cn/finalpage/2017-05-13/1203514783.PDF",
           "project_id": "CN146",
           "source_title": "国信证券：华泽钴镍2016年度持续督导工作报告"
+        },
+        {
+          "date": "2019-07-09",
+          "label": "深交所摘牌",
+          "detail": "华泽钴镍股票终止上市并摘牌。",
+          "kind": "退市",
+          "project_id": "CN146",
+          "source_url": "http://finance.sina.com.cn/stock/s/2020-01-07/doc-iihnzahk2622050.shtml",
+          "source_title": "新浪财经：华泽钴镍2019年7月9日在深交所摘牌，2020年1月7日"
         }
       ],
-      "coverage_note": ""
+      "coverage_note": "补充最新环评验收、排污许可、股权沿革和单厂客户证据；不把集团计划或同名主体资料并入。"
     },
     "CN147": {
       "project_id": "CN147",
@@ -14082,6 +14166,15 @@
       "project_id": "CN131"
     },
     {
+      "date": "2019-07-09",
+      "label": "深交所摘牌",
+      "detail": "华泽钴镍股票终止上市并摘牌。",
+      "kind": "退市",
+      "project_id": "CN146",
+      "source_url": "http://finance.sina.com.cn/stock/s/2020-01-07/doc-iihnzahk2622050.shtml",
+      "source_title": "新浪财经：华泽钴镍2019年7月9日在深交所摘牌，2020年1月7日"
+    },
+    {
       "date": "2019-09-09",
       "label": "动力电池回收项目批复",
       "detail": "公开披露记录中弘取得废旧动力锂电池综合回收项目环境批复，产品方向包括镍钴锰硫酸盐和碳酸锂。",
@@ -15691,6 +15784,15 @@
       "source_url": "https://www.huayou.com/about/culture/cultural-activity/343.html",
       "source_title": "华友：2023年度项目建设回顾",
       "project_id": "MHP008"
+    },
+    {
+      "date": "2023-07",
+      "label": "一期开始试产",
+      "detail": "人民网报道一期全部建成并于7月试产。",
+      "kind": "试产",
+      "project_id": "CN090",
+      "source_url": "http://gx.people.com.cn/n2/2023/0913/c179464-40569375.html",
+      "source_title": "人民网广西频道：广西智亮新材料项目一期试产报道，2023年9月13日"
     },
     {
       "date": "2023-07",
@@ -17376,6 +17478,15 @@
       "project_id": "MHP013"
     },
     {
+      "date": "2025-02-05",
+      "label": "公司决定暂时停产",
+      "detail": "工会声明称公司决定暂停生产，约700名员工须选择无薪休假或解约。",
+      "kind": "停产",
+      "project_id": "MHP034",
+      "source_url": "https://bagimsizmaden.org/2025/02/05/meta-nikel-madencilikte-yapilan-isci-kiyimina-dair-aciklamamizdir/",
+      "source_title": "Bağımsız Maden İş：Meta Nikel işçi kıyımına dair açıklama，2025年2月5日"
+    },
+    {
       "date": "2025-03",
       "label": "实现首次销售",
       "detail": "ESG完成首批产品销售，项目正式进入商业经营；2025全年完成25,994镍吨是实际产量表现，不应回填为设计能力。",
@@ -17673,6 +17784,15 @@
       "source_title": "亚洲金属网：“吉恩”牌电解镍获LME注册，2025年8月1日"
     },
     {
+      "date": "2025-08-08",
+      "label": "厂区矿热炉拆除作业",
+      "detail": "宿迁经开区通报在翔翔金属厂区拆除矿热炉时发生事故。",
+      "kind": "关闭",
+      "project_id": "CN002",
+      "source_url": "http://kfq.suqian.gov.cn/sjjkfq/yjgl/202509/b6cd618ba3e446e48e70b597b9476bfe.shtml",
+      "source_title": "宿迁经济技术开发区：宿迁翔翔金属有限公司废钢处置项目“8·8”高处坠落事故情况，2025年9月30日"
+    },
+    {
       "date": "2025-09-10",
       "label": "短流程项目环评获批报道",
       "detail": "行业报道介绍许昌市生态环境局批准鑫金汇不锈钢短流程再生不锈钢工艺优化项目。",
@@ -17734,6 +17854,15 @@
       "source_url": "https://www.indonesiaminer.com/news/detail/mitra-murni-perkasa-smelter-in-balikpapan-targeted-for-full-production-by-2026",
       "source_title": "管理层采访",
       "project_id": "NPI069"
+    },
+    {
+      "date": "2025-10",
+      "label": "厂区整体出租给化能新材料",
+      "detail": "三年租赁，承接厂房、设备及公辅设施。",
+      "kind": "资产租赁",
+      "project_id": "CN135",
+      "source_url": "https://www.dalong.gov.cn/xwzx/yqyw/202604/t20260420_90021776.html",
+      "source_title": "贵州大龙经济开发区：化能新材料承接长虹鹏程厂区并全面达产，2026年4月"
     },
     {
       "date": "2025-10",
@@ -18268,6 +18397,15 @@
     },
     {
       "date": "2026-01",
+      "label": "承租方全面达产",
+      "detail": "化能新材料2025年12月投料，2026年1月全面达产。",
+      "kind": "投产",
+      "project_id": "CN135",
+      "source_url": "https://www.dalong.gov.cn/xwzx/yqyw/202604/t20260420_90021776.html",
+      "source_title": "贵州大龙经济开发区：化能新材料承接长虹鹏程厂区并全面达产，2026年4月"
+    },
+    {
+      "date": "2026-01",
       "label": "EcoPro Materials取得控制并并表",
       "detail": "韩国交易所文件说明EcoPro Materials因董事会任命权变化取得GEN控制并自2026年1月合并报表；持股仍为EcoPro体系合计38%。",
       "kind": "股权",
@@ -18319,6 +18457,24 @@
       "source_url": "https://finance.sina.com.cn/wm/2026-03-27/doc-inhskwec8461233.shtml",
       "source_title": "华星中钢洛耐具名稿",
       "project_id": "P26"
+    },
+    {
+      "date": "2026-03-10",
+      "label": "签署14个月独家评估协议",
+      "detail": "Lifezone与布隆迪政府签署穆松加蒂独家协议。",
+      "kind": "评估",
+      "project_id": "GL150",
+      "source_url": "https://ir.lifezonemetals.com/news/press-releases/news-details/2026/Lifezone-Announces-Exclusivity-Agreement-over-the-Musongati-Nickel-Project-in-Burundi/default.aspx",
+      "source_title": "Lifezone Metals：Exclusivity Agreement over the Musongati Nickel Project in Burundi，2026年3月10日"
+    },
+    {
+      "date": "2026-03-24",
+      "label": "法院批准重整计划",
+      "detail": "响水法院裁定批准江苏德龙等公司重整计划并终止重整程序。",
+      "kind": "重整",
+      "project_id": "CN005",
+      "source_url": "https://paper.cnstock.com/html/2026/03/26/content_2192093.htm",
+      "source_title": "上海证券报：浙商中拓参与江苏德龙等公司重整投资进展公告，2026年3月26日"
     },
     {
       "date": "2026-03-29",
@@ -18661,6 +18817,15 @@
       "project_id": "CN015",
       "source_url": "https://www.bidizhaobiao.com/company_400672590241509376.html",
       "source_title": "比地招标网：朝阳拍卖行受朝阳昊天管理人委托的破产资产拍卖公告，2026年8月22日"
+    },
+    {
+      "date": "2026-09-08",
+      "label": "准予简易注销",
+      "detail": "工商记录显示宿迁翔翔金属有限公司简易注销。",
+      "kind": "注销",
+      "project_id": "CN002",
+      "source_url": "https://www.qcc.com/firm/6092adc614073c8940f235b92dbe5aad.html",
+      "source_title": "企查查：宿迁翔翔金属有限公司工商变更记录（2026年9月快照）"
     },
     {
       "date": "2026-09-10",
