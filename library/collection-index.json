@@ -6921,6 +6921,15 @@
       "project_id": "CN137"
     },
     {
+      "date": "2025-05-22",
+      "label": "首笔银团贷款提款",
+      "detail": "广青镍钴项目完成首笔1.4亿元银团贷款提款。",
+      "kind": "融资",
+      "project_id": "MHP020",
+      "source_url": "https://www.gdghg.com/xwzx/gxyw/content/post_95637.html",
+      "source_title": "广新控股集团：印尼广青镍钴湿法项目首笔银团贷款提款，2025年5月26日"
+    },
+    {
       "date": "2025-05-30",
       "label": "整改公示记载停产",
       "detail": "许昌市公示企业已缴纳罚款，目前处于停产状态。",
@@ -7099,6 +7108,15 @@
       "project_id": "CN038",
       "source_url": "https://gxj.wulanchabu.gov.cn/tzgg/1883029.html",
       "source_title": "乌兰察布市工业和信息化局：上泰镍铁矿热炉转产高碳铬铁项目产能置换方案公告，2025年9月25日"
+    },
+    {
+      "date": "2025-09-26",
+      "label": "高压反应釜就位",
+      "detail": "约1,100吨高压釜就位，项目进入核心设备安装阶段。",
+      "kind": "建设",
+      "project_id": "MHP020",
+      "source_url": "https://www.gdghg.com/xwzx/gxyw/content/post_100485.html",
+      "source_title": "广新控股集团：印尼广青镍钴湿法项目核心设备高压反应釜就位，2025年9月28日"
     },
     {
       "date": "2025-09-28",
@@ -7659,6 +7677,15 @@
       "project_id": "MHP048"
     },
     {
+      "date": "2026-02-10",
+      "label": "发展管理局终止谈判",
+      "detail": "布莱恩县发展管理局终止与Westwin谈判并撤回激励意向函。",
+      "kind": "审批",
+      "project_id": "GL120",
+      "source_url": "https://thecurrentga.org/2026/02/10/bryan-county-development-authority-ends-negotiations-with-westwin/",
+      "source_title": "The Current GA：Bryan County development authority ends negotiations with Westwin，2026年2月10日"
+    },
+    {
       "date": "2026-02-11",
       "label": "终止增资扩股",
       "detail": "格林美决定终止IQEM增资扩股和股权重组事项。",
@@ -7848,6 +7875,15 @@
       "source_title": "Ardea：Goongarrie Hub可行性研究更新，第1—2页，2026年6月3日"
     },
     {
+      "date": "2026-06-03",
+      "label": "分区确认禁止镍精炼",
+      "detail": "Richmond Hill市议会确认规划开发区内不允许镍钴精炼。",
+      "kind": "审批",
+      "project_id": "GL120",
+      "source_url": "https://thecurrentga.org/2026/06/03/richmond-hill-rejects-nickel-refining-in-zoning-appeal/",
+      "source_title": "The Current GA：Richmond Hill rejects nickel refining in zoning appeal，2026年6月3日"
+    },
+    {
       "date": "2026-06-04",
       "label": "董事会审议镍业务扩建",
       "detail": "电积镍、硫酸镍投资方案的审议节点。",
@@ -7902,6 +7938,15 @@
       "project_id": "MHP028"
     },
     {
+      "date": "2026-06-30",
+      "label": "矿山建设进度达50%",
+      "detail": "IGP Sorlim矿山建设进度50%，HPAL冶炼厂2025年进度17%。",
+      "kind": "建设",
+      "project_id": "MHP022",
+      "source_url": "https://teraskabar.id/konstruksi-tambang-igp-sorlim-capai-50-di-kuartal-ii-2026",
+      "source_title": "Teras Kabar：Konstruksi Tambang IGP Sorlim Capai 50% di Kuartal II 2026，2026年9月9日"
+    },
+    {
       "date": "2026-07",
       "label": "BNDES批准1亿雷亚尔设备融资",
       "detail": "BNDES批准约1亿雷亚尔设备融资，支持Piauí商业项目推进；单项设备融资获批不代表全部建设资金落实或已经开工。",
@@ -7918,6 +7963,15 @@
       "source_url": "https://www.linkedin.com/pulse/from-recovery-renewal-ambatovy-vdeoe",
       "source_title": "Ambatovy恢复生产文章",
       "project_id": "MHP048"
+    },
+    {
+      "date": "2026-07-12",
+      "label": "一期计划2026年秋投产",
+      "detail": "俄罗斯副总理表示一期2026年秋启动，产出镍、铜、钯和铂。",
+      "kind": "建设",
+      "project_id": "GL033",
+      "source_url": "https://www1.ru/en/news/2026/07/12/dlia-stroitelstva-sudov-i-samoletov-pervuiu-ocered-cernogorskogo-gok-po-proizvodstvu-palladiia-i-platiny-zapustiat-oseniu-2026-goda.html",
+      "source_title": "www1.ru · 切尔诺戈尔斯克矿冶联合体（金加什镍铜铂族金属一体化项目）参考资料"
     },
     {
       "date": "2026-07-21",
@@ -7999,6 +8053,15 @@
       "source_url": "https://www.eramet.com/fr/news/pt-weda-bay-nickel-redemarre-ses-operations-minieres/",
       "source_title": "Eramet：WBN矿山恢复运营",
       "project_id": "NPI009"
+    },
+    {
+      "date": "2026-09-14",
+      "label": "披露竣工与投产目标",
+      "detail": "格林美称目标2026年底竣工、2027年上半年投产。",
+      "kind": "建设",
+      "project_id": "NPI053",
+      "source_url": "https://stock.10jqka.com.cn/20260914/c679884611.shtml",
+      "source_title": "同花顺：格林美回复投资者IGIP镍项目进展，2026年9月14日"
     },
     {
       "date": "2026-09-15",
@@ -54867,6 +54930,118 @@
         {
           "type": "project",
           "id": "CN141"
+        }
+      ]
+    },
+    {
+      "id": "UC1947",
+      "url": "https://thecurrentga.org/2026/02/10/bryan-county-development-authority-ends-negotiations-with-westwin/",
+      "title": "The Current GA：Bryan County development authority ends negotiations with Westwin，2026年2月10日",
+      "titles": [
+        "The Current GA：Bryan County development authority ends negotiations with Westwin，2026年2月10日"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "GL120"
+        }
+      ]
+    },
+    {
+      "id": "UC1948",
+      "url": "https://thecurrentga.org/2026/06/03/richmond-hill-rejects-nickel-refining-in-zoning-appeal/",
+      "title": "The Current GA：Richmond Hill rejects nickel refining in zoning appeal，2026年6月3日",
+      "titles": [
+        "The Current GA：Richmond Hill rejects nickel refining in zoning appeal，2026年6月3日"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "GL120"
+        }
+      ]
+    },
+    {
+      "id": "UC1949",
+      "url": "https://thecurrentga.org/2026/08/12/review-finds-no-contamination-at-bryan-countys-caesarstone-site/",
+      "title": "The Current GA：Review finds no contamination at Bryan County’s Caesarstone site，2026年8月12日",
+      "titles": [
+        "The Current GA：Review finds no contamination at Bryan County’s Caesarstone site，2026年8月12日"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "GL120"
+        }
+      ]
+    },
+    {
+      "id": "UC1950",
+      "url": "https://www.gdghg.com/xwzx/gxyw/content/post_95637.html",
+      "title": "广新控股集团：印尼广青镍钴湿法项目首笔银团贷款提款，2025年5月26日",
+      "titles": [
+        "广新控股集团：印尼广青镍钴湿法项目首笔银团贷款提款，2025年5月26日"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "MHP020"
+        }
+      ]
+    },
+    {
+      "id": "UC1951",
+      "url": "https://www.gdghg.com/xwzx/gxyw/content/post_100485.html",
+      "title": "广新控股集团：印尼广青镍钴湿法项目核心设备高压反应釜就位，2025年9月28日",
+      "titles": [
+        "广新控股集团：印尼广青镍钴湿法项目核心设备高压反应釜就位，2025年9月28日"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "MHP020"
+        }
+      ]
+    },
+    {
+      "id": "UC1952",
+      "url": "https://teraskabar.id/konstruksi-tambang-igp-sorlim-capai-50-di-kuartal-ii-2026",
+      "title": "Teras Kabar：Konstruksi Tambang IGP Sorlim Capai 50% di Kuartal II 2026，2026年9月9日",
+      "titles": [
+        "Teras Kabar：Konstruksi Tambang IGP Sorlim Capai 50% di Kuartal II 2026，2026年9月9日"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "MHP022"
+        }
+      ]
+    },
+    {
+      "id": "UC1953",
+      "url": "https://stock.10jqka.com.cn/20260914/c679884611.shtml",
+      "title": "同花顺：格林美回复投资者IGIP镍项目进展，2026年9月14日",
+      "titles": [
+        "同花顺：格林美回复投资者IGIP镍项目进展，2026年9月14日"
+      ],
+      "dates": [],
+      "notes": [],
+      "links": [
+        {
+          "type": "project",
+          "id": "NPI053"
         }
       ]
     }

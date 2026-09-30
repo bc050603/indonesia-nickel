@@ -8506,6 +8506,10 @@
       {
         "title": "Sorowako HPAL正式协议",
         "url": "https://vale.com/documents/d/guest/2023-8-25-press-release-signing-definitive-agreement-sorowako-hpal_english"
+      },
+      {
+        "title": "Teras Kabar：Konstruksi Tambang IGP Sorlim Capai 50% di Kuartal II 2026，2026年9月9日",
+        "url": "https://teraskabar.id/konstruksi-tambang-igp-sorlim-capai-50-di-kuartal-ii-2026"
       }
     ],
     "sections": [
@@ -8546,14 +8550,25 @@
           0,
           1
         ]
+      },
+      {
+        "title": "2026年建设进度",
+        "paragraphs": [
+          "印尼当地媒体2026年9月报道，IGP Sorlim矿山建设进度截至2026年第二季度末为50%；由PT Huali Nickel Indonesia建设的HPAL冶炼厂进度为17%，这一数字对应2025年；报道称项目目标2027年开始生产。该目标年份与本条此前据Vale项目页记录的2028年底完工目标不一致，需以Vale后续季报核对。"
+        ],
+        "refs": [
+          2
+        ]
       }
     ],
     "pending": [
       "最终运营法人和直接股权",
       "2028年完工后的调试及商业化日期",
-      "MHP承购方与销售分配"
+      "MHP承购方与销售分配",
+      "2027年投产与2028年底完工两种目标年份的核对。"
     ],
-    "updated": "2026-09-18"
+    "updated": "2026-09-18",
+    "updated_at": "2026-09-30"
   },
   "MHP025": {
     "title": "PT EVerde Global Mineral 伊沃德湿法项目",
@@ -11175,6 +11190,10 @@
       {
         "title": "Sambalagi HPAL autoclave arrival",
         "url": "https://vale.com/in/w/sambalagi-hpal-project-reaches-major-milestone-with-autoclave-arrival-strengthening-the-future-of-sustainable-downstreaming/-/categories"
+      },
+      {
+        "title": "同花顺：格林美回复投资者IGIP镍项目进展，2026年9月14日",
+        "url": "https://stock.10jqka.com.cn/20260914/c679884611.shtml"
       }
     ],
     "sections": [
@@ -11208,6 +11227,15 @@
           3,
           4
         ]
+      },
+      {
+        "title": "2026年建设节点",
+        "paragraphs": [
+          "格林美2026年9月答复投资者时说明，IGIP镍项目的核心HPAL高压反应器已于2026年7月就位，项目按计划推进，目标2026年底竣工、2027年上半年投产；项目由EcoPro主导投资，格林美承担EPC建设。IGIP即Vale所称的Bahodopi（Sambalagi）HPAL项目。"
+        ],
+        "refs": [
+          5
+        ]
       }
     ],
     "pending": [
@@ -11216,7 +11244,8 @@
       "具名供料与承购安排",
       "2026股权最终交割结构。 最终设计6万或6.6万镍吨，以及一期/全期区别。 MHP承购合同和首产时间。"
     ],
-    "updated": "2026-09-18"
+    "updated": "2026-09-18",
+    "updated_at": "2026-09-30"
   },
   "NPI056": {
     "title": "PT COR Industri Indonesia (CORII) 印尼COR冶炼",
@@ -12890,6 +12919,14 @@
       {
         "title": "广东广新控股集团：今日广新",
         "url": "https://www.gdghg.com/zjgx/jrgx"
+      },
+      {
+        "title": "广新控股集团：印尼广青镍钴湿法项目首笔银团贷款提款，2025年5月26日",
+        "url": "https://www.gdghg.com/xwzx/gxyw/content/post_95637.html"
+      },
+      {
+        "title": "广新控股集团：印尼广青镍钴湿法项目核心设备高压反应釜就位，2025年9月28日",
+        "url": "https://www.gdghg.com/xwzx/gxyw/content/post_100485.html"
       }
     ],
     "sections": [
@@ -12919,12 +12956,23 @@
         "refs": [
           0
         ]
+      },
+      {
+        "title": "融资与核心设备安装",
+        "paragraphs": [
+          "广新集团2025年5月报道，印尼广青镍钴项目于5月22日完成首笔1.4亿元银团贷款提款，建设正在提速。2025年9月26日，项目在纬达贝工业园区举行高压反应釜就位仪式；这台重约1,100吨的高压釜是湿法冶炼的核心设备，其就位标志项目进入核心设备安装阶段。截至目前没有首批MHP产出的披露。"
+        ],
+        "refs": [
+          1,
+          2
+        ]
       }
     ],
     "pending": [
-      "英文法人、直接股东、融资关闭、施工里程碑、承购方、2027具体投产日期均未获可靠证实。"
+      "英文法人与直接股东；承购方；调试和首产日期。"
     ],
-    "updated": "2026-09-18"
+    "updated": "2026-09-18",
+    "updated_at": "2026-09-30"
   },
   "MHP023": {
     "title": "PT Teluk Metal Industry (TMI) 海湾金属TMI湿法项目",
@@ -18124,7 +18172,7 @@
   },
   "GL033": {
     "title": "Chernogorsky GOK (Kingash Ni-Cu-PGE integrated project) 切尔诺戈尔斯克矿冶联合体（金加什镍铜铂族金属一体化项目）",
-    "intro": "切尔诺戈尔斯克矿冶联合体（金加什镍铜铂族金属一体化项目）位于俄罗斯的克拉斯诺亚尔斯克边疆区，金加什(Kingash)/切尔诺戈尔斯克。该项目采用其它(说明:规划中拟建硫化矿熔炼，炉型未公开)+转炉吹炼（据Wood Mackenzie，项目设计为'从采矿到冶炼精炼一体化'的完整设施，但镍铜冶炼环节具体工艺及时间表未公开）路线，产品资料涉及规划：铂/钯（一期，2026年）+镍精矿/镍锍（远期，具体产品形态未公开）。",
+    "intro": "切尔诺戈尔斯克矿冶联合体是俄罗斯克拉斯诺亚尔斯克边疆区金加什镍铜铂族金属矿床的一体化开发项目，由Russian Platinum推进，采矿及勘探许可证由Intergeo MMC持有。俄罗斯副总理2026年7月表示，一期将于2026年秋季投产，产品包括镍、铜、钯和铂；项目设计涵盖采矿、选矿和后续冶炼精炼，镍铜冶炼环节的工艺与时间表尚未公开。",
     "summary": "底表记录的运行状态为“规划中或可研”，状态资料核实年份为2026。",
     "facts": [
       [
@@ -18184,27 +18232,27 @@
       {
         "title": "工艺、设备与原料",
         "paragraphs": [
-          "其它(说明:规划中拟建硫化矿熔炼，炉型未公开)+转炉吹炼（据Wood Mackenzie，项目设计为'从采矿到冶炼精炼一体化'的完整设施，但镍铜冶炼环节具体工艺及时间表未公开）。原料：硫化矿精矿（自有金加什矿床，含镍、铜、铂族金属）",
-          "金加什(Kingash)镍-铜-铂族金属矿床，克拉斯诺亚尔斯克边疆区"
+          "项目以自有金加什硫化矿为原料，矿石含镍、铜和铂族金属。Wood Mackenzie把它描述为从采矿到冶炼精炼的一体化设施；镍铜冶炼的炉型、工艺和设备配置尚未公开。"
         ],
         "refs": [
-          0
+          1
         ]
       },
       {
         "title": "产能与扩建",
         "paragraphs": [
-          "未公开镍产品产能数字。Wood Mackenzie估计因项目为全流程一体化（采矿-选矿-熔炼-精炼），实际资本开支将'远超'2011年概念研究的27亿美元估算，并假设镍铜冶炼精炼部分要到2032年才可能投产；而俄语本地新闻(2026年)称一期工程（以铂钯精矿/金属生产为主）将于2026年秋季投产，两类信息在时间表和产品范围上存在差异，需后续核实。"
+          "公开资料没有给出镍产品产能。2026年7月的报道转述俄罗斯副总理表态，一期将于2026年秋季启动，产出镍、铜、钯和铂，但没有区分精矿和金属形态。Wood Mackenzie此前估计全流程投资将远超2011年概念研究的27亿美元，并假设镍铜冶炼精炼部分最早2032年投产。两类资料的时间表和产品范围需以后续投产披露核对。"
         ],
         "refs": [
-          0
+          4,
+          1
         ]
       }
     ],
     "pending": [
-      "No 2024-2026 progress update (permitting, construction start, financing) found this round despite search attempts; status retained as planning/feasibility stage per index. 本轮检索确认已知信息未变：切尔诺戈尔斯克矿冶联合体一期工程(铂钯生产)计划于2026年秋季投产的地方政府表态(2026年7月Interfax、www1.ru等已收录)仍是最新公开信息，未查到更新的开工/投产确认或推迟消息。镍铜熔炼精炼环节的具体时间表(Wood Mackenzie估计最早2032年)未见更新。 本轮受检索预算限制未对该记录展开新一轮专项检索(Wood Mackenzie报告为付费墙，且R3已确认2026年7月的最新公开信息)。capacity与status_unverified两项缺口维持不变，建议后续如有额外检索配额时优先跟进2026年秋季一期(铂钯)投产是否如期实现，以及镍铜熔炼环节是否有新的时间表。"
+      "一期是否如期于2026年秋投产及产品形态；镍铜冶炼精炼环节的工艺、产能和时间表。"
     ],
-    "updated_at": "2026-09-18"
+    "updated_at": "2026-09-30"
   },
   "GL034": {
     "title": "Copper Plant (Norilsk) 诺里尔斯克铜厂",
@@ -27241,6 +27289,18 @@
       {
         "title": "news.smm.cn · 西温元素公司佐治亚州布莱恩县镍精炼厂（拟议中）参考资料",
         "url": "https://news.smm.cn/live/detail/103732371"
+      },
+      {
+        "title": "The Current GA：Bryan County development authority ends negotiations with Westwin，2026年2月10日",
+        "url": "https://thecurrentga.org/2026/02/10/bryan-county-development-authority-ends-negotiations-with-westwin/"
+      },
+      {
+        "title": "The Current GA：Richmond Hill rejects nickel refining in zoning appeal，2026年6月3日",
+        "url": "https://thecurrentga.org/2026/06/03/richmond-hill-rejects-nickel-refining-in-zoning-appeal/"
+      },
+      {
+        "title": "The Current GA：Review finds no contamination at Bryan County’s Caesarstone site，2026年8月12日",
+        "url": "https://thecurrentga.org/2026/08/12/review-finds-no-contamination-at-bryan-countys-caesarstone-site/"
       }
     ],
     "sections": [
@@ -27272,12 +27332,23 @@
         "refs": [
           0
         ]
+      },
+      {
+        "title": "佐治亚选址受阻",
+        "paragraphs": [
+          "2026年2月，布莱恩县发展管理局投票终止与Westwin的谈判并撤回激励意向函；Westwin当时表示仍专注在Richmond Hill推进项目。同年6月，Richmond Hill市议会确认，该二级规划开发区内不允许以羰基法或其他工艺精炼镍、钴等重金属。8月的县方说明称，Westwin已停止与地块所有者的收购谈判。至此，布莱恩县选址方案已难以推进，但Westwin没有公开宣布放弃商业化精炼厂计划或公布新厂址。"
+        ],
+        "refs": [
+          3,
+          4,
+          5
+        ]
       }
     ],
     "pending": [
-      "未能找到直接证实或证伪协调员所述“商业化工厂计划于2025年12月被放弃”这一具体说法的报道。2026年1月的BRN-Westwin承购协议（见Lawton记录）显示Westwin仍在积极锁定原料供应以支持其精炼产能扩张，但该协议未点名Bryan County选址，无法确认该特定选址计划是否仍然有效。 补充确认(thecurrentga.org，2026-01-30更新)：项目仍处于规划阶段但遭遇重大阻力——布莱恩县发展管理局(DABC)原定就2.3亿美元债券发行进行表决，在公众强烈反对后，DABC主席明确表态'不在2月议程上'且当前不适合就该激励措施进行表决；县级专员已与项目保持距离并公开表达环境风险担忧；Westwin对县专员会主席Carter Infinger发出法律威胁(县法律顾问以言论自由权反驳)；另有多起涉及Westwin的俄克拉荷马州联邦法院诉讼未决；环保团体对选址临近水道及使用剧毒羰基镍工艺表示担忧。结论：项目'搁置待社区与政府进一步审查'，既未正式取消也未获批准推进，未能证实协调员所称'2025年12月被放弃'的具体说法(本轮未查到该说法的原始出处，也未查到2026年中至9月的更新)。 公司及媒体报道(thecurrentga.org)仅称拟建产能'显著大于俄克拉荷马州劳顿中试厂(200吨/年)'，未披露具体设计产能吨位数字；公司官网新闻页面(westwinelements.com/press-releases、/news)均返回404，无法直接核实最新进展。截至本轮研究，该项目仍处于债券审批受阻的早期争议阶段，未获得新的产能披露。"
+      "Westwin是否另选商业化精炼厂址及设计产能；已签原料承购协议对应的精炼地点。"
     ],
-    "updated_at": "2026-09-18"
+    "updated_at": "2026-09-30"
   },
   "GL121": {
     "title": "Fenix Nickel Project (Pronico ferronickel plant / CGN mine, formerly Exmibal/Inco) 菲尼克斯镍项目（普罗尼科镍铁厂，原EXMIBAL/Inco矿）",

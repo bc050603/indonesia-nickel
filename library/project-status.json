@@ -572,23 +572,17 @@
     "NPI053": {
       "key": "unbuilt",
       "label": "未投产 · 建设中",
-      "period": "2026年7月设备到场",
-      "note": "历史RKEF方案未确认首产；后续转入HPAL建设。",
-      "reviewed_at": "2026-09-18",
+      "period": "2026年7月高压反应器就位；9月披露目标",
+      "note": "高压反应器2026年7月就位，目标2026年底竣工、2027年上半年投产；尚无首产。历史RKEF方案未投产。",
+      "reviewed_at": "2026-09-30",
       "article_id": "NPI053",
-      "sources": [],
-      "products": [
+      "sources": [
         {
-          "product": "原RKEF镍铁方案",
-          "status": "未确认投产",
-          "period": "历史方案"
-        },
-        {
-          "product": "后续HPAL项目",
-          "status": "未投产／建设中",
-          "period": "2026年设备交付"
+          "title": "同花顺：格林美回复投资者IGIP镍项目进展，2026年9月14日",
+          "url": "https://stock.10jqka.com.cn/20260914/c679884611.shtml"
         }
-      ]
+      ],
+      "products": []
     },
     "NPI054": {
       "key": "halted",
@@ -1429,12 +1423,21 @@
     },
     "MHP020": {
       "key": "unbuilt",
-      "label": "未投产 · 建设中",
-      "period": "已获批及全面开建披露（状态日期未注明）",
-      "note": "尚未披露首次MHP产出。",
-      "reviewed_at": "2026-09-18",
+      "label": "未投产 · 核心设备安装",
+      "period": "2025年9月",
+      "note": "高压反应釜2025年9月就位，进入核心设备安装阶段；尚未披露首批MHP。",
+      "reviewed_at": "2026-09-30",
       "article_id": "MHP020",
-      "sources": [],
+      "sources": [
+        {
+          "title": "广新控股集团：印尼广青镍钴湿法项目首笔银团贷款提款，2025年5月26日",
+          "url": "https://www.gdghg.com/xwzx/gxyw/content/post_95637.html"
+        },
+        {
+          "title": "广新控股集团：印尼广青镍钴湿法项目核心设备高压反应釜就位，2025年9月28日",
+          "url": "https://www.gdghg.com/xwzx/gxyw/content/post_100485.html"
+        }
+      ],
       "products": []
     },
     "MHP021": {
@@ -1449,12 +1452,17 @@
     },
     "MHP022": {
       "key": "unbuilt",
-      "label": "未投产 · 开发中",
-      "period": "2026年项目更新",
-      "note": "目标完工时间更新至2028年底，仍属计划。",
-      "reviewed_at": "2026-09-18",
+      "label": "未投产 · 建设中",
+      "period": "2026年第二季度进度",
+      "note": "矿山建设进度50%（2026年6月底），HPAL冶炼厂17%（2025年数据）；目标年份有2027年投产与2028年底完工两种说法。",
+      "reviewed_at": "2026-09-30",
       "article_id": "MHP022",
-      "sources": [],
+      "sources": [
+        {
+          "title": "Teras Kabar：Konstruksi Tambang IGP Sorlim Capai 50% di Kuartal II 2026，2026年9月9日",
+          "url": "https://teraskabar.id/konstruksi-tambang-igp-sorlim-capai-50-di-kuartal-ii-2026"
+        }
+      ],
       "products": []
     },
     "MHP023": {
@@ -2382,16 +2390,20 @@
       "products": []
     },
     "GL033": {
-      "key": "planned",
-      "label": "规划中或可研",
-      "period": "底表核实年份：2026；状态始于2026年",
-      "note": "该记录按全球普查底表列为规划中或可研。",
-      "reviewed_at": "2026-09-18",
+      "key": "construction",
+      "label": "在建（一期计划2026年秋投产）",
+      "period": "2026年7月表态",
+      "note": "俄罗斯副总理称一期2026年秋投产，产品包括镍、铜、钯和铂；镍铜冶炼时间表未公开。",
+      "reviewed_at": "2026-09-30",
       "article_id": "GL033",
       "sources": [
         {
-          "title": "全球普查底表 · NI-033 · 总表第34行",
-          "url": "library/global-register.csv"
+          "title": "www.woodmac.com · 切尔诺戈尔斯克矿冶联合体（金加什镍铜铂族金属一体化项目）参考资料",
+          "url": "https://www.woodmac.com/reports/metals-kingashsky-nickel-project-15933000/"
+        },
+        {
+          "title": "www1.ru · 切尔诺戈尔斯克矿冶联合体（金加什镍铜铂族金属一体化项目）参考资料",
+          "url": "https://www1.ru/en/news/2026/07/12/dlia-stroitelstva-sudov-i-samoletov-pervuiu-ocered-cernogorskogo-gok-po-proizvodstvu-palladiia-i-platiny-zapustiat-oseniu-2026-goda.html"
         }
       ],
       "products": []
@@ -3568,15 +3580,23 @@
     },
     "GL120": {
       "key": "planned",
-      "label": "规划中或可研",
-      "period": "底表核实年份：2026；状态始于2026年",
-      "note": "该记录按全球普查底表列为规划中或可研。",
-      "reviewed_at": "2026-09-18",
+      "label": "规划中（布莱恩县选址受阻）",
+      "period": "2026年2—8月",
+      "note": "发展管理局终止谈判、市议会确认分区禁止镍精炼、公司停止购地谈判；Westwin未公开放弃商业化精炼计划。",
+      "reviewed_at": "2026-09-30",
       "article_id": "GL120",
       "sources": [
         {
-          "title": "全球普查底表 · NI-120 · 总表第121行",
-          "url": "library/global-register.csv"
+          "title": "The Current GA：Bryan County development authority ends negotiations with Westwin，2026年2月10日",
+          "url": "https://thecurrentga.org/2026/02/10/bryan-county-development-authority-ends-negotiations-with-westwin/"
+        },
+        {
+          "title": "The Current GA：Richmond Hill rejects nickel refining in zoning appeal，2026年6月3日",
+          "url": "https://thecurrentga.org/2026/06/03/richmond-hill-rejects-nickel-refining-in-zoning-appeal/"
+        },
+        {
+          "title": "The Current GA：Review finds no contamination at Bryan County’s Caesarstone site，2026年8月12日",
+          "url": "https://thecurrentga.org/2026/08/12/review-finds-no-contamination-at-bryan-countys-caesarstone-site/"
         }
       ],
       "products": []

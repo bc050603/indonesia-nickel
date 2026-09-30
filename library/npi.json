@@ -5514,8 +5514,8 @@
       "capacity_verified": null,
       "capacity_basis": "用户原表镍吨/年，独立核验待完成",
       "capacity_note": "73000含镍吨/年有旧方案依据，但不是已建/现役NPI能力，故当前verified留空。",
-      "status": "历史RKEF方案未确认投产；同法人2025转入HPAL合资合作框架",
-      "status_date": "2025-03-26",
+      "status": "历史RKEF方案未投产；同法人HPAL（IGIP）建设中，高压反应器2026年7月就位，目标2026年底竣工、2027年上半年投产",
+      "status_date": "2026-09-14",
       "products": [
         "历史计划FeNi",
         "当前合作HPAL中间品（不属于NPI）"
@@ -5563,6 +5563,10 @@
           "locator": "第8页",
           "claim": "旧方案8条RKEF、73千镍吨，属预测而非投产",
           "id": "NS078"
+        },
+        {
+          "title": "同花顺：格林美回复投资者IGIP镍项目进展，2026年9月14日",
+          "url": "https://stock.10jqka.com.cn/20260914/c679884611.shtml"
         }
       ],
       "id": "NPI053",

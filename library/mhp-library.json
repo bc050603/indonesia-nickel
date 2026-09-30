@@ -1422,7 +1422,7 @@
       "name": "广青湿法项目",
       "legal": "印尼广青镍钴有限公司（英文注册名本轮未确认）",
       "group": "广东广新集团相关；青山合资线索待完整股权原件",
-      "status": "已获批并全面开建；没有首次MHP依据。",
+      "status": "未投产 · 核心设备安装；2025年9月。高压反应釜2025年9月就位，进入核心设备安装阶段；尚未披露首批MHP。",
       "capacity": "80000镍金属当量吨/年镍钴中间品，官方集团介绍确认；不等同于8万吨MHP实物。",
       "ownership": "广新官方确认项目，但50:50及出资具体子公司未由本轮原件闭合，保留原表为线索。",
       "process": "红土镍矿湿法镍钴中间品路线；原表HPAL可信线索，压力釜台数、容积和供应商未核。",
@@ -1430,13 +1430,21 @@
       "history": "广新现时介绍列入获批全面开建项目；2027是原表计划，尚非官方投产保证。",
       "customers": "无已确认销售或公开包销；不从广新/青山不锈钢业务直接推定该MHP自用。",
       "rationale": "把镍资源布局从火法不锈钢原料延伸到镍钴电池中间品。广新的工业投资能力与当地园区项目合作是合理商业解释，但需与已公开合同事实分开。",
-      "uncertainties": "英文法人、直接股东、融资关闭、施工里程碑、承购方、2027具体投产日期均未闭合。",
+      "uncertainties": "英文法人与直接股东；承购方；调试和首产日期。",
       "sources": [
         {
           "title": "广东广新控股集团：今日广新",
           "url": "https://www.gdghg.com/zjgx/jrgx",
           "date": "页面无明确日期，2026-09-17检索",
           "evidence": "明确印尼广青镍钴有限公司年产8万吨镍金属当量镍钴中间品湿法项目获批并全面开建；未提供英文法人、50:50股权或2027开车保证。"
+        },
+        {
+          "title": "广新控股集团：印尼广青镍钴湿法项目首笔银团贷款提款，2025年5月26日",
+          "url": "https://www.gdghg.com/xwzx/gxyw/content/post_95637.html"
+        },
+        {
+          "title": "广新控股集团：印尼广青镍钴湿法项目核心设备高压反应釜就位，2025年9月28日",
+          "url": "https://www.gdghg.com/xwzx/gxyw/content/post_100485.html"
         }
       ],
       "id": "MHP020",
@@ -1533,7 +1541,7 @@
       "name": "Sorowako Limonite HPAL",
       "legal": "项目层面已核；2023协议参与实体PT Huali Nickel Indonesia，不能未经登记把其等同最终工厂运营法人",
       "group": "Huayou—PT Vale Indonesia",
-      "status": "开发建设阶段；Vale最新Q2 2026项目页目标2028年底完成，更新原表2027年中。",
+      "status": "未投产 · 建设中；2026年第二季度进度。矿山建设进度50%（2026年6月底），HPAL冶炼厂17%（2025年数据）；目标年份有2027年投产与2028年底完工两种说法。",
       "capacity": "每年6万镍金属吨包含于MHP，不是6万吨MHP实物。项目矿端规划每年处理1150万湿吨褐铁矿，矿与产品单位不得混用。",
       "ownership": "2023年8月25日正式协议列PT Vale、Huayou及PT Huali Nickel Indonesia。原表华友60%、Vale40%尚需当前实体股东表证实；不能凭合作集团名字自动赋比例。",
       "process": "HPAL；矿区内原料准备厂与East Luwu/Malili工业区湿法设施联动。与Vale Sorowako既有火法高冰镍工厂不同，是新的褐铁矿利用路线。",
@@ -1541,7 +1549,7 @@
       "history": "2022年9月合作起步，2023年8月正式协议；早期2027目标与最新2028年底目标存在更新，应按披露日期保留历史。",
       "customers": "华友参与意味着潜在镍钴盐及电池材料链联系，但本轮没有公开完整包销合同。不得沿用Vale现有高冰镍向日本的承购协议作为本HPAL的MHP客户。",
       "rationale": "利用原矿区褐铁矿而无需把既有高冰镍线转换为HPAL，扩展资源利用与电池材料供应；矿山层面的共址不意味着产品、客户和产能可以合并。",
-      "uncertainties": "最终运营法人及股东穿透。\n\n2028完工后调试/商业化日期。\n\nMHP具体买方、转化工厂和销售分配。",
+      "uncertainties": "最终运营法人和直接股权；2028年完工后的调试及商业化日期；MHP承购方与销售分配；2027年投产与2028年底完工两种目标年份的核对。",
       "sources": [
         {
           "title": "Vale IGP Sorowako Limonite项目页",
@@ -1554,6 +1562,10 @@
           "url": "https://vale.com/documents/d/guest/2023-8-25-press-release-signing-definitive-agreement-sorowako-hpal_english",
           "date": "2023-08-25",
           "evidence": "合作方Huayou、Vale及PT Huali Nickel Indonesia；矿源Sorowako、设施Malili。"
+        },
+        {
+          "title": "Teras Kabar：Konstruksi Tambang IGP Sorlim Capai 50% di Kuartal II 2026，2026年9月9日",
+          "url": "https://teraskabar.id/konstruksi-tambang-igp-sorlim-capai-50-di-kuartal-ii-2026"
         }
       ],
       "id": "MHP022",
